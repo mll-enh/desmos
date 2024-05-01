@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "default",
+			"text": "What's up, little man?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "default",
+			"text": "Did the smoke  catch your attention?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bee bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "default",
+			"text": "Yeah, it's pretty cool. You should try it out."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "defaultalt",
+			"text": "Are ya sure? Come on..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "defaultalt",
+			"text": "Hm/..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "default",
+			"text": "Tell you what."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "default",
+			"text": "If you beat me in a friendly little rap battle, I'll get off your case."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "defaultalt",
+			"text": "Sound cool, little man?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep bo bop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "default",
+			"text": "Heh, that got you hyped up. It's settled then."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "default",
+			"text": "As long as you don't mind me smoking a bit."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "default",
+			"text": "Helps calm the nerves, y'know?"
+		}
+	]
+}

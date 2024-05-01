@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-120,
+				-210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "garcellotired Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-120,
+				-210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "garcellotired idle dance"
+		},
+		{
+			"offsets": [
+				-120,
+				-210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "garcellotired Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-120,
+				-210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "garcellotired Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				-120,
+				-210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "garcellotired Sing Note UP"
+		},
+		{
+			"offsets": [
+				-120,
+				-210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "garcellotired cough"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/garcellotired_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gartired",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		225,
+		162
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

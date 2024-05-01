@@ -1,0 +1,89 @@
+{
+	"dialogue": 
+	[
+		{
+			"expression": "talk",
+			"text": "Beep bop!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "nervous",
+			"text": "Hhh...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gardialogue"
+		},
+		{
+			"expression": "nervous",
+			"text": "Hey.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gardialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "ski boop?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "nervous",
+			"text": "That was fun, but... my chest is starting to feel funny.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gardialogue"
+		},
+		{
+			"expression": "shocked",
+			"text": "beep...?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "nervous",
+			"text": "I-I'm not giving up just yet though. You've got some tight bars, little man.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gardialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "bee bo ski bop!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "nervous",
+			"text": "Oh? You want me to keep going?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gardialogue"
+		},
+		{
+			"expression": "nervous",
+			"text": "F-Fine by me. I'm enjoying this actually.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gardialogue"
+		},
+		{
+			"expression": "nervous",
+			"text": "One more couldn't hurt...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gardialogue"
+		},
+		{
+			"expression": "nervous",
+			"text": "...Right?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gardialogue"
+		}
+	]
+}
