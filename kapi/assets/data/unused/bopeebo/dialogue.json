@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "kapi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yo! Long time no see!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wap",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Taking your new girl on a date?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bftalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yea, what about it?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wap",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "She's way out of your league bro..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "She'd be perfect for someone like me!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gfwave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Show me what you've got then!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfwhat",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bruh"
+		}
+	]
+}
