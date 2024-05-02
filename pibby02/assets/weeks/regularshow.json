@@ -1,0 +1,30 @@
+{
+	"storyName": "going back to work",
+	"hideFreeplay": false,
+	"weekBackground": "black",
+	"weekBefore": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"overworked",
+			"mordecai",
+			[
+				0,
+				100,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week2"
+}

@@ -1,0 +1,48 @@
+{
+	"storyName": "FUNKY CORRUPTION",
+	"hideFreeplay": false,
+	"weekBackground": "black",
+	"weekBefore": "week2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Last Spooktober",
+			"spooky",
+			[
+				240,
+				180,
+				95
+			]
+		],
+		[
+			"Gunshot",
+			"picoc",
+			[
+				120,
+				193,
+				93
+			]
+		],
+		[
+			"blue balled",
+			"bfc",
+			[
+				126,
+				153,
+				213
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week3"
+}

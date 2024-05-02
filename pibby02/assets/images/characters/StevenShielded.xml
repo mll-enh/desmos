@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="StevenShielded.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="steven down shield0000" x="0" y="0" width="539" height="504" frameX="-45" frameY="-3" frameWidth="595" frameHeight="507"/>
+	<SubTexture name="steven down shield0001" x="539" y="0" width="558" height="503" frameX="-28" frameY="-4" frameWidth="595" frameHeight="507"/>
+	<SubTexture name="steven down shield0002" x="1097" y="0" width="595" height="502" frameX="0" frameY="-5" frameWidth="595" frameHeight="507"/>
+	<SubTexture name="steven down shield0003" x="1692" y="0" width="579" height="505" frameX="-16" frameY="-2" frameWidth="595" frameHeight="507"/>
+	<SubTexture name="steven down shield0004" x="2271" y="0" width="577" height="507" frameX="-18" frameY="0" frameWidth="595" frameHeight="507"/>
+	<SubTexture name="steven idle shield0000" x="2848" y="0" width="602" height="513" frameX="-2" frameY="-15" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven idle shield0001" x="2848" y="0" width="602" height="513" frameX="-2" frameY="-15" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven idle shield0002" x="3450" y="0" width="600" height="516" frameX="0" frameY="-12" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven idle shield0003" x="3450" y="0" width="600" height="516" frameX="0" frameY="-12" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven idle shield0004" x="0" y="516" width="599" height="525" frameX="-8" frameY="-2" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven idle shield0005" x="0" y="516" width="599" height="525" frameX="-8" frameY="-2" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven idle shield0006" x="599" y="516" width="603" height="527" frameX="-5" frameY="0" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven idle shield0007" x="599" y="516" width="603" height="527" frameX="-5" frameY="0" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven idle shield0008" x="1202" y="516" width="604" height="526" frameX="-5" frameY="-1" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven idle shield0009" x="1202" y="516" width="604" height="526" frameX="-5" frameY="-1" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven idle shield0010" x="1202" y="516" width="604" height="526" frameX="-5" frameY="-1" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven idle shield0011" x="1202" y="516" width="604" height="526" frameX="-5" frameY="-1" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven idle shield0012" x="1202" y="516" width="604" height="526" frameX="-5" frameY="-1" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven idle shield0013" x="1202" y="516" width="604" height="526" frameX="-5" frameY="-1" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven left shield0000" x="1806" y="516" width="542" height="579" frameX="0" frameY="-6" frameWidth="543" frameHeight="585"/>
+	<SubTexture name="steven left shield0001" x="2348" y="516" width="541" height="585" frameX="-2" frameY="0" frameWidth="543" frameHeight="585"/>
+	<SubTexture name="steven left shield0002" x="2889" y="516" width="527" height="576" frameX="-7" frameY="-9" frameWidth="543" frameHeight="585"/>
+	<SubTexture name="steven left shield0003" x="3416" y="516" width="524" height="577" frameX="-8" frameY="-8" frameWidth="543" frameHeight="585"/>
+	<SubTexture name="steven left shield0004" x="0" y="1101" width="522" height="579" frameX="-9" frameY="-6" frameWidth="543" frameHeight="585"/>
+	<SubTexture name="steven ready shield0000" x="522" y="1101" width="602" height="513" frameX="-2" frameY="-15" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven ready shield0001" x="1124" y="1101" width="546" height="513" frameX="-2" frameY="-15" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven ready shield0002" x="1670" y="1101" width="600" height="516" frameX="0" frameY="-12" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven ready shield0003" x="2270" y="1101" width="545" height="516" frameX="0" frameY="-12" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven ready shield0004" x="2815" y="1101" width="599" height="525" frameX="-8" frameY="-2" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven ready shield0005" x="3414" y="1101" width="532" height="525" frameX="-8" frameY="-2" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven ready shield0006" x="0" y="1680" width="603" height="527" frameX="-5" frameY="0" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven ready shield0007" x="603" y="1680" width="535" height="527" frameX="-5" frameY="0" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven ready shield0008" x="1138" y="1680" width="604" height="526" frameX="-5" frameY="-1" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven ready shield0009" x="1742" y="1680" width="535" height="526" frameX="-5" frameY="-1" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven ready shield0010" x="2277" y="1680" width="604" height="526" frameX="-5" frameY="-1" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven ready shield0011" x="1742" y="1680" width="535" height="526" frameX="-5" frameY="-1" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven ready shield0012" x="2881" y="1680" width="604" height="526" frameX="-5" frameY="-1" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven ready shield0013" x="3485" y="1680" width="604" height="526" frameX="-5" frameY="-1" frameWidth="609" frameHeight="528"/>
+	<SubTexture name="steven right shield0000" x="0" y="2207" width="601" height="521" frameX="-1" frameY="-3" frameWidth="638" frameHeight="524"/>
+	<SubTexture name="steven right shield0001" x="601" y="2207" width="619" height="520" frameX="0" frameY="-4" frameWidth="638" frameHeight="524"/>
+	<SubTexture name="steven right shield0002" x="1220" y="2207" width="625" height="521" frameX="-2" frameY="-3" frameWidth="638" frameHeight="524"/>
+	<SubTexture name="steven right shield0003" x="1845" y="2207" width="634" height="522" frameX="-3" frameY="-2" frameWidth="638" frameHeight="524"/>
+	<SubTexture name="steven right shield0004" x="2479" y="2207" width="635" height="524" frameX="-3" frameY="0" frameWidth="638" frameHeight="524"/>
+	<SubTexture name="steven up shield0000" x="3114" y="2207" width="546" height="659" frameX="-6" frameY="-11" frameWidth="553" frameHeight="670"/>
+	<SubTexture name="steven up shield0001" x="0" y="2866" width="547" height="665" frameX="-5" frameY="-3" frameWidth="553" frameHeight="670"/>
+	<SubTexture name="steven up shield0002" x="547" y="2866" width="549" height="668" frameX="-3" frameY="0" frameWidth="553" frameHeight="670"/>
+	<SubTexture name="steven up shield0003" x="1096" y="2866" width="552" height="668" frameX="-1" frameY="-1" frameWidth="553" frameHeight="670"/>
+	<SubTexture name="steven up shield0004" x="1648" y="2866" width="553" height="669" frameX="0" frameY="0" frameWidth="553" frameHeight="670"/>
+</TextureAtlas>

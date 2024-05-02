@@ -1,0 +1,57 @@
+{
+	"storyName": "Your New Week",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week4",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"NO HERO Remastered",
+			"finn",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Lost Legend",
+			"finn",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Elastic destruction",
+			"jake",
+			[
+				195,
+				153,
+				0
+			]
+		],
+		[
+			"Glitched Duo",
+			"jake",
+			[
+				195,
+				155,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "week5"
+}

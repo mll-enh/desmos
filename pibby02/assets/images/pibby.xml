@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="Pibby.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="pibby0000" x="0" y="0" width="306" height="339" frameX="0" frameY="-18" frameWidth="306" frameHeight="357"/>
+	<SubTexture name="pibby0001" x="0" y="0" width="306" height="339" frameX="0" frameY="-18" frameWidth="306" frameHeight="357"/>
+	<SubTexture name="pibby0002" x="306" y="0" width="301" height="347" frameX="0" frameY="-10" frameWidth="306" frameHeight="357"/>
+	<SubTexture name="pibby0003" x="306" y="0" width="301" height="347" frameX="0" frameY="-10" frameWidth="306" frameHeight="357"/>
+	<SubTexture name="pibby0004" x="607" y="0" width="296" height="353" frameX="0" frameY="-4" frameWidth="306" frameHeight="357"/>
+	<SubTexture name="pibby0005" x="607" y="0" width="296" height="353" frameX="0" frameY="-4" frameWidth="306" frameHeight="357"/>
+	<SubTexture name="pibby0006" x="0" y="353" width="296" height="356" frameX="0" frameY="-1" frameWidth="306" frameHeight="357"/>
+	<SubTexture name="pibby0007" x="0" y="353" width="296" height="356" frameX="0" frameY="-1" frameWidth="306" frameHeight="357"/>
+	<SubTexture name="pibby0008" x="296" y="353" width="295" height="357" frameX="0" frameY="0" frameWidth="306" frameHeight="357"/>
+	<SubTexture name="pibby0009" x="296" y="353" width="295" height="357" frameX="0" frameY="0" frameWidth="306" frameHeight="357"/>
+	<SubTexture name="pibby0010" x="296" y="353" width="295" height="357" frameX="0" frameY="0" frameWidth="306" frameHeight="357"/>
+	<SubTexture name="pibby0011" x="296" y="353" width="295" height="357" frameX="0" frameY="0" frameWidth="306" frameHeight="357"/>
+	<SubTexture name="pibby0012" x="296" y="353" width="295" height="357" frameX="0" frameY="0" frameWidth="306" frameHeight="357"/>
+	<SubTexture name="pibby0013" x="296" y="353" width="295" height="357" frameX="0" frameY="0" frameWidth="306" frameHeight="357"/>
+</TextureAtlas>

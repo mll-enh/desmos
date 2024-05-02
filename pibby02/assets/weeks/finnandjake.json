@@ -1,0 +1,57 @@
+{
+	"storyName": "its adventure time",
+	"hideFreeplay": false,
+	"weekBackground": "black",
+	"weekBefore": "week3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"corrupted hero",
+			"finn",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"brotherly bond",
+			"jake",
+			[
+				195,
+				155,
+				0
+			]
+		],
+		[
+			"gummy substance",
+			"bubble",
+			[
+				246,
+				113,
+				253
+			]
+		],
+		[
+			"together forever",
+			"jake",
+			[
+				195,
+				155,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekName": "week4"
+}

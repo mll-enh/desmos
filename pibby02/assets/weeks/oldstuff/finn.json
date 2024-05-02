@@ -1,0 +1,30 @@
+{
+	"storyName": "corrupted",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"NO-HERO",
+			"finn",
+			[
+				20,
+				20,
+				20
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}

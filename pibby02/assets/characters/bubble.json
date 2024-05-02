@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				216,
+				117
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				218,
+				95
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				288,
+				226
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				339,
+				149
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				36
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/princess",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bubble",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		0,
+		60
+	],
+	"camera_position": [
+		-480,
+		-190
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
