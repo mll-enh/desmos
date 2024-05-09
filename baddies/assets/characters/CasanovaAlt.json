@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				35,
+				140
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				84,
+				121
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				110,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-7,
+				169
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				128,
+				82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				73,
+				105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "miss left"
+		},
+		{
+			"offsets": [
+				111,
+				72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "miss right"
+		},
+		{
+			"offsets": [
+				109,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "miss down"
+		},
+		{
+			"offsets": [
+				-5,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "miss up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				155
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "damn",
+			"indices": []
+		},
+		{
+			"offsets": [
+				60,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "alt left"
+		},
+		{
+			"offsets": [
+				43,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "alt right"
+		},
+		{
+			"offsets": [
+				43,
+				107
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss-alt",
+			"indices": [],
+			"name": "missRightAlt"
+		},
+		{
+			"offsets": [
+				68,
+				89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss-alt",
+			"indices": [],
+			"name": "missLeftAlt"
+		},
+		{
+			"offsets": [
+				156,
+				141
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "stab",
+			"loop": false,
+			"name": "stab"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CasanovaAlt",
+	"position": [
+		0,
+		330
+	],
+	"healthicon": "casanovaalt",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		176,
+		255
+	],
+	"camera_position": [
+		160,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

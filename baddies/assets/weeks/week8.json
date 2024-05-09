@@ -1,0 +1,49 @@
+{
+	"storyName": "Radio shack",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "cassette",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week7",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Kagayaku-Kassetto",
+			"cg",
+			[
+				106,
+				113,
+				253
+			]
+		],
+		[
+			"Donnie-Soft",
+			"cg",
+			[
+				106,
+				113,
+				253
+			]
+		],
+		[
+			"Malfunction",
+			"goon",
+			[
+				126,
+				255,
+				153
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Getting High Ping"
+}

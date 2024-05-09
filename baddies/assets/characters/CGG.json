@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-47,
+				189
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-52,
+				207
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Gup"
+		},
+		{
+			"offsets": [
+				89,
+				202
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Gleft"
+		},
+		{
+			"offsets": [
+				-29,
+				147
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Gdown"
+		},
+		{
+			"offsets": [
+				-52,
+				201
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Gright"
+		},
+		{
+			"offsets": [
+				37,
+				188
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "uhoh",
+			"loop": false,
+			"name": "twitch"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CGG_Assets",
+	"position": [
+		40,
+		380
+	],
+	"healthicon": "cg",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		95,
+		215
+	],
+	"camera_position": [
+		110,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				15,
+				151
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-158,
+				94
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-15,
+				177
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-110,
+				43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				89,
+				134
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-14,
+				175
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "what",
+			"indices": [],
+			"name": "ahh"
+		},
+		{
+			"offsets": [
+				16,
+				149
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "bro",
+			"indices": [],
+			"name": "noway"
+		},
+		{
+			"offsets": [
+				16,
+				152
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "uhh",
+			"loop": false,
+			"name": "uhh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/oh_no_her_starbucks",
+	"position": [
+		460,
+		-520
+	],
+	"healthicon": "starbucks",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		0,
+		51
+	],
+	"camera_position": [
+		-110,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

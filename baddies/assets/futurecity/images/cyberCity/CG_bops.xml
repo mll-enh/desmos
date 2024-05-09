@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CG_bops.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bops0000" x="10" y="10" width="2004" height="635" frameX="0" frameY="-27" frameWidth="2004" frameHeight="671"/>
+	<SubTexture name="bops0001" x="10" y="10" width="2004" height="635" frameX="0" frameY="-27" frameWidth="2004" frameHeight="671"/>
+	<SubTexture name="bops0002" x="2024" y="10" width="1999" height="645" frameX="-3" frameY="-19" frameWidth="2004" frameHeight="671"/>
+	<SubTexture name="bops0003" x="2024" y="10" width="1999" height="645" frameX="-3" frameY="-19" frameWidth="2004" frameHeight="671"/>
+	<SubTexture name="bops0004" x="10" y="665" width="1992" height="663" frameX="-8" frameY="-6" frameWidth="2004" frameHeight="671"/>
+	<SubTexture name="bops0005" x="10" y="665" width="1992" height="663" frameX="-8" frameY="-6" frameWidth="2004" frameHeight="671"/>
+	<SubTexture name="bops0006" x="2012" y="665" width="1986" height="671" frameX="-11" frameY="0" frameWidth="2004" frameHeight="671"/>
+	<SubTexture name="bops0007" x="2012" y="665" width="1986" height="671" frameX="-11" frameY="0" frameWidth="2004" frameHeight="671"/>
+	<SubTexture name="bops0008" x="2012" y="665" width="1986" height="671" frameX="-11" frameY="0" frameWidth="2004" frameHeight="671"/>
+	<SubTexture name="bops0009" x="2012" y="665" width="1986" height="671" frameX="-11" frameY="0" frameWidth="2004" frameHeight="671"/>
+	<SubTexture name="bops0010" x="2012" y="665" width="1986" height="671" frameX="-11" frameY="0" frameWidth="2004" frameHeight="671"/>
+	<SubTexture name="bops0011" x="2012" y="665" width="1986" height="671" frameX="-11" frameY="0" frameWidth="2004" frameHeight="671"/>
+	<SubTexture name="bops0012" x="2012" y="665" width="1986" height="671" frameX="-11" frameY="0" frameWidth="2004" frameHeight="671"/>
+	<SubTexture name="bops0013" x="2012" y="665" width="1986" height="671" frameX="-11" frameY="0" frameWidth="2004" frameHeight="671"/>
+</TextureAtlas>

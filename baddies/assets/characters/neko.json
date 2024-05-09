@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				237
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				97
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				134
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				15,
+				151
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				216
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "boring",
+			"loop": false,
+			"name": "boringAss"
+		},
+		{
+			"offsets": [
+				-131,
+				156
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "stab",
+			"loop": false,
+			"name": "stab"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NekoFreak",
+	"position": [
+		-120,
+		390
+	],
+	"healthicon": "lia",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		204,
+		153
+	],
+	"camera_position": [
+		80,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

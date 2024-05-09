@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NYCSCREENBOPS.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nycScreenBops0000" x="10" y="10" width="2415" height="826"/>
+	<SubTexture name="nycScreenBops0001" x="10" y="10" width="2415" height="826"/>
+	<SubTexture name="nycScreenBops0002" x="10" y="10" width="2415" height="826"/>
+	<SubTexture name="nycScreenBops0003" x="10" y="846" width="2415" height="826"/>
+	<SubTexture name="nycScreenBops0004" x="10" y="1682" width="2415" height="826"/>
+	<SubTexture name="nycScreenBops0005" x="10" y="1682" width="2415" height="826"/>
+	<SubTexture name="nycScreenBops0006" x="10" y="2518" width="2415" height="826"/>
+	<SubTexture name="nycScreenBops0007" x="10" y="2518" width="2415" height="826"/>
+	<SubTexture name="nycScreenBops0008" x="10" y="2518" width="2415" height="826"/>
+	<SubTexture name="nycScreenBops0009" x="10" y="2518" width="2415" height="826"/>
+	<SubTexture name="nycScreenBops0010" x="10" y="2518" width="2415" height="826"/>
+	<SubTexture name="nycScreenBops0011" x="10" y="2518" width="2415" height="826"/>
+	<SubTexture name="nycScreenBops0012" x="10" y="2518" width="2415" height="826"/>
+	<SubTexture name="nycScreenBops0013" x="10" y="2518" width="2415" height="826"/>
+</TextureAtlas>

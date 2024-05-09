@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				25,
+				227
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				40,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-9,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				49,
+				149
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				15,
+				151
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "istalquer"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stalkerBad",
+	"position": [
+		120,
+		390
+	],
+	"healthicon": "bad",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		1,
+		255
+	],
+	"camera_position": [
+		-20,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

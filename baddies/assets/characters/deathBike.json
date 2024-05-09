@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				330,
+				-379
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "firstDeath",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				42,
+				-394
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "deadLoop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				-347
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "deadConfirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/deathBike",
+	"position": [
+		60,
+		410
+	],
+	"healthicon": "novabike",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		176,
+		255
+	],
+	"camera_position": [
+		290,
+		-428
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

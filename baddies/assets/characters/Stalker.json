@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				167
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				106
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				91
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				144
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				15,
+				151
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				60,
+				163
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ugh",
+			"indices": [],
+			"name": "UGH"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stalker_ass_sets",
+	"position": [
+		120,
+		400
+	],
+	"healthicon": "stalker",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		155,
+		255
+	],
+	"camera_position": [
+		-250,
+		-170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

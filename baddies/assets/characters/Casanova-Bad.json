@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"offsets": [
+				81,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				10,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				52,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				20,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				86,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "missLeft"
+		},
+		{
+			"offsets": [
+				18,
+				-231
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "missDown"
+		},
+		{
+			"offsets": [
+				50,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "missUp"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "missRight"
+		},
+		{
+			"offsets": [
+				82,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "uhh",
+			"indices": [],
+			"name": "uhh"
+		},
+		{
+			"offsets": [
+				380,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "firstDeath"
+		},
+		{
+			"offsets": [
+				353,
+				-51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "deadConfirm"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				353,
+				-249
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "deadLoop",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Casanova_Hurt",
+	"position": [
+		-260,
+		290
+	],
+	"healthicon": "cassuhoh",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		204,
+		255
+	],
+	"camera_position": [
+		-10,
+		-130
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

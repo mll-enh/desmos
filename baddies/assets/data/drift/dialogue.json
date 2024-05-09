@@ -1,0 +1,48 @@
+{
+	"dialogue": [
+		{
+			"expression": "awshit",
+			"text": "Okay, it was cute at first but you think YOU'RE SUCH HOT STUFF DON'T YOU?",
+			"boxState": "normal",
+
+			"speed": 0.05,
+			"portrait": "crazySteph"
+		},
+		{
+			"expression": "sus",
+			"text": "......",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "novaTalkbad"
+		},
+		{
+			"expression": "shecry",
+			"text": "WHY DO YOU HAVE TO BE SO DUMB AND HOT! UGH, WE COULD'VE JUST WENT HOME TOGETHER.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "crazySteph"
+		},
+		{
+			"expression": "awshit",
+			"text": "BUT NO! NOW YOU'RE GOING TO DIE! YOU KNOW THAT? DIE!",
+			"boxState": "angry",
+			"speed": 0.07,
+			"portrait": "crazySteph"
+		},
+		{
+			"expression": "bike",
+			"text": "......",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "novaTalkbad"
+		},
+		{
+			"expression": "awshit",
+			"text": "YOU SURE TALK BIG FOR SOMEONE WITH SUCH SOFT, KISSABLE LIPS! GET BACK HERE!!",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "crazySteph"
+		}
+	]
+}

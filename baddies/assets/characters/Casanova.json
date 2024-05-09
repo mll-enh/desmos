@@ -1,0 +1,199 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				35,
+				140
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				128,
+				143
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				110,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				3,
+				187
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				95,
+				91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				139,
+				142
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "miss left"
+		},
+		{
+			"offsets": [
+				102,
+				132
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "miss right"
+		},
+		{
+			"offsets": [
+				110,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "miss down"
+		},
+		{
+			"offsets": [
+				20,
+				184
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "miss up"
+		},
+		{
+			"offsets": [
+				46,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "firstDeath"
+		},
+		{
+			"offsets": [
+				32,
+				-6
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "deadLoop"
+		},
+		{
+			"offsets": [
+				57,
+				68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "deadConfirm"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				140
+			],
+			"anim": "nuts",
+			"fps": 24,
+			"name": "grab",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				315,
+				868
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "ouu lala",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				95,
+				159
+			],
+			"anim": "aye",
+			"fps": 24,
+			"name": "hey",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "dodge"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Casanova_Assets",
+	"position": [
+		0,
+		370
+	],
+	"healthicon": "casanova",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		176,
+		255
+	],
+	"camera_position": [
+		160,
+		-140
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="daLights.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lightsMove0000" x="10" y="10" width="2633" height="886"/>
+	<SubTexture name="lightsMove0001" x="2653" y="10" width="2633" height="886"/>
+	<SubTexture name="lightsMove0002" x="5296" y="10" width="2633" height="886"/>
+	<SubTexture name="lightsMove0003" x="10" y="906" width="2633" height="886"/>
+	<SubTexture name="lightsMove0004" x="2653" y="906" width="2633" height="886"/>
+	<SubTexture name="lightsMove0005" x="5296" y="906" width="2633" height="886"/>
+	<SubTexture name="lightsMove0006" x="10" y="1802" width="2633" height="886"/>
+	<SubTexture name="lightsMove0007" x="2653" y="1802" width="2633" height="886"/>
+	<SubTexture name="lightsMove0008" x="5296" y="1802" width="2633" height="886"/>
+	<SubTexture name="lightsMove0009" x="10" y="2698" width="2633" height="886"/>
+	<SubTexture name="lightsMove0010" x="2653" y="2698" width="2633" height="886"/>
+	<SubTexture name="lightsMove0011" x="5296" y="2698" width="2633" height="886"/>
+	<SubTexture name="lightsMove0012" x="10" y="3594" width="2633" height="886"/>
+	<SubTexture name="lightsMove0013" x="2653" y="2698" width="2633" height="886"/>
+	<SubTexture name="lightsMove0014" x="5296" y="2698" width="2633" height="886"/>
+	<SubTexture name="lightsMove0015" x="10" y="3594" width="2633" height="886"/>
+	<SubTexture name="lightsMove0016" x="2653" y="2698" width="2633" height="886"/>
+	<SubTexture name="lightsMove0017" x="2653" y="3594" width="2633" height="886"/>
+	<SubTexture name="lightsMove0018" x="5296" y="3594" width="2633" height="886"/>
+	<SubTexture name="lightsMove0019" x="10" y="4490" width="2633" height="886"/>
+	<SubTexture name="lightsMove0020" x="5296" y="2698" width="2633" height="886"/>
+	<SubTexture name="lightsMove0021" x="10" y="3594" width="2633" height="886"/>
+	<SubTexture name="lightsMove0022" x="2653" y="2698" width="2633" height="886"/>
+	<SubTexture name="lightsMove0023" x="5296" y="2698" width="2633" height="886"/>
+	<SubTexture name="lightsMove0024" x="10" y="3594" width="2633" height="886"/>
+	<SubTexture name="lightsMove0025" x="2653" y="2698" width="2633" height="886"/>
+	<SubTexture name="lightsMove0026" x="5296" y="2698" width="2633" height="886"/>
+	<SubTexture name="lightsMove0027" x="10" y="3594" width="2633" height="886"/>
+	<SubTexture name="lightsMove0028" x="2653" y="2698" width="2633" height="886"/>
+</TextureAtlas>

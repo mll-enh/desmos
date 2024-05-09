@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FG_bops.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FG BOPS0000" x="10" y="10" width="1606" height="603" frameX="0" frameY="-29" frameWidth="1606" frameHeight="632"/>
+	<SubTexture name="FG BOPS0001" x="10" y="10" width="1606" height="603" frameX="0" frameY="-29" frameWidth="1606" frameHeight="632"/>
+	<SubTexture name="FG BOPS0002" x="1626" y="10" width="1598" height="611" frameX="-7" frameY="-21" frameWidth="1606" frameHeight="632"/>
+	<SubTexture name="FG BOPS0003" x="10" y="631" width="1583" height="627" frameX="-11" frameY="-5" frameWidth="1606" frameHeight="632"/>
+	<SubTexture name="FG BOPS0004" x="10" y="631" width="1583" height="627" frameX="-11" frameY="-5" frameWidth="1606" frameHeight="632"/>
+	<SubTexture name="FG BOPS0005" x="1603" y="631" width="1575" height="632" frameX="-17" frameY="0" frameWidth="1606" frameHeight="632"/>
+	<SubTexture name="FG BOPS0006" x="1603" y="631" width="1575" height="632" frameX="-17" frameY="0" frameWidth="1606" frameHeight="632"/>
+	<SubTexture name="FG BOPS0007" x="1603" y="631" width="1575" height="632" frameX="-17" frameY="0" frameWidth="1606" frameHeight="632"/>
+	<SubTexture name="FG BOPS0008" x="1603" y="631" width="1575" height="632" frameX="-17" frameY="0" frameWidth="1606" frameHeight="632"/>
+	<SubTexture name="FG BOPS0009" x="1603" y="631" width="1575" height="632" frameX="-17" frameY="0" frameWidth="1606" frameHeight="632"/>
+	<SubTexture name="FG BOPS0010" x="1603" y="631" width="1575" height="632" frameX="-17" frameY="0" frameWidth="1606" frameHeight="632"/>
+	<SubTexture name="FG BOPS0011" x="1603" y="631" width="1575" height="632" frameX="-17" frameY="0" frameWidth="1606" frameHeight="632"/>
+	<SubTexture name="FG BOPS0012" x="1603" y="631" width="1575" height="632" frameX="-17" frameY="0" frameWidth="1606" frameHeight="632"/>
+	<SubTexture name="FG BOPS0013" x="1603" y="631" width="1575" height="632" frameX="-17" frameY="0" frameWidth="1606" frameHeight="632"/>
+</TextureAtlas>

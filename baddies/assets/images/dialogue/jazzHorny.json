@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-120,
+		-220
+	],
+	"scale": 0.649999999999999,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				0
+			],
+			"loop_name": "HORNY",
+			"idle_name": "HORNY0005"
+		},
+		{
+			"loop_offsets": [
+				5,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				4,
+				2
+			],
+			"loop_name": "MOUTH ACTION",
+			"idle_name": "MOUTH ACTION0005"
+		}
+	],
+	"image": "jazzHorny"
+}

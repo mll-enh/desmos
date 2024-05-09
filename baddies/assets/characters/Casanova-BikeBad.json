@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				41,
+				184
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				150
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				82,
+				138
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				176
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				25,
+				215
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				47,
+				159
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "missLEFT"
+		},
+		{
+			"offsets": [
+				102,
+				147
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "missDOWN"
+		},
+		{
+			"offsets": [
+				16,
+				177
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "missRIGHT"
+		},
+		{
+			"offsets": [
+				30,
+				185
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "missUP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				216,
+				562
+			],
+			"anim": "jump",
+			"fps": 24,
+			"name": "newJump",
+			"indices": []
+		},
+		{
+			"offsets": [
+				227,
+				232
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "LEFTshoot",
+			"loop": false,
+			"name": "leftSHOOT"
+		},
+		{
+			"offsets": [
+				141,
+				211
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "UPshoot",
+			"loop": false,
+			"name": "shootUP"
+		},
+		{
+			"offsets": [
+				229,
+				232
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "DOWNshoot",
+			"loop": false,
+			"name": "downSHOOT"
+		},
+		{
+			"offsets": [
+				137,
+				212
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "RIGHTshoot",
+			"loop": false,
+			"name": "shootRIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cassy_Bike",
+	"position": [
+		60,
+		410
+	],
+	"healthicon": "novabike",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		176,
+		255
+	],
+	"camera_position": [
+		290,
+		-428
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

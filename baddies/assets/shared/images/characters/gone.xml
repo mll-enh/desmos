@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gone.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gone0000" x="10" y="10" width="614" height="974" frameX="-28" frameY="0" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0001" x="10" y="10" width="614" height="974" frameX="-28" frameY="0" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0002" x="10" y="10" width="614" height="974" frameX="-37" frameY="-13" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0003" x="10" y="10" width="614" height="974" frameX="-37" frameY="-13" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0004" x="10" y="10" width="614" height="974" frameX="-37" frameY="-13" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0005" x="10" y="10" width="614" height="974" frameX="-28" frameY="-19" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0006" x="10" y="10" width="614" height="974" frameX="-31" frameY="-18" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0007" x="10" y="10" width="614" height="974" frameX="-40" frameY="-8" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0008" x="10" y="10" width="614" height="974" frameX="-40" frameY="-8" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0009" x="10" y="10" width="614" height="974" frameX="-26" frameY="-1" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0010" x="10" y="10" width="614" height="974" frameX="-10" frameY="-7" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0011" x="10" y="10" width="614" height="974" frameX="0" frameY="-8" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0012" x="10" y="10" width="614" height="974" frameX="-18" frameY="-11" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0013" x="10" y="10" width="614" height="974" frameX="-18" frameY="-11" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0014" x="10" y="10" width="614" height="974" frameX="-18" frameY="-11" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0015" x="10" y="10" width="614" height="974" frameX="-28" frameY="0" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0016" x="10" y="10" width="614" height="974" frameX="-28" frameY="0" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0017" x="10" y="10" width="614" height="974" frameX="-37" frameY="-13" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0018" x="10" y="10" width="614" height="974" frameX="-37" frameY="-13" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0019" x="10" y="10" width="614" height="974" frameX="-37" frameY="-13" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0020" x="10" y="10" width="614" height="974" frameX="-28" frameY="-19" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0021" x="10" y="10" width="614" height="974" frameX="-31" frameY="-18" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0022" x="10" y="10" width="614" height="974" frameX="-40" frameY="-8" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0023" x="10" y="10" width="614" height="974" frameX="-40" frameY="-8" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0024" x="10" y="10" width="614" height="974" frameX="-26" frameY="-1" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0025" x="10" y="10" width="614" height="974" frameX="-10" frameY="-7" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0026" x="10" y="10" width="614" height="974" frameX="0" frameY="-8" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0027" x="10" y="10" width="614" height="974" frameX="-18" frameY="-11" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0028" x="10" y="10" width="614" height="974" frameX="-18" frameY="-11" frameWidth="642" frameHeight="975"/>
+	<SubTexture name="gone0029" x="10" y="10" width="614" height="974" frameX="-18" frameY="-11" frameWidth="642" frameHeight="975"/>
+</TextureAtlas>

@@ -1,0 +1,57 @@
+{
+	"storyName": "starbucks chick",
+	"hideFreeplay": false,
+	"weekBackground": "stalker",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week9",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"encounter",
+			"stalker",
+			[
+				146,
+				153,
+				253
+			]
+		],
+		[
+			"insane",
+			"stalker",
+			[
+				146,
+				153,
+				253
+			]
+		],
+		[
+			"uhoh",
+			"starbucks",
+			[
+				255,
+				40,
+				53
+			]
+		],
+		[
+			"drift",
+			"stephbike",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Getting Stalked"
+}

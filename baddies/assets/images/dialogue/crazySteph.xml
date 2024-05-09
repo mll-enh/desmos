@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crazySteph.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crazyAnnoyed0000" x="10" y="10" width="567" height="928" frameX="0" frameY="0" frameWidth="571" frameHeight="928"/>
+	<SubTexture name="crazyAnnoyed0001" x="587" y="10" width="567" height="928" frameX="0" frameY="0" frameWidth="571" frameHeight="928"/>
+	<SubTexture name="crazyAnnoyed0002" x="1164" y="10" width="568" height="921" frameX="0" frameY="-7" frameWidth="571" frameHeight="928"/>
+	<SubTexture name="crazyAnnoyed0003" x="1164" y="10" width="568" height="921" frameX="0" frameY="-7" frameWidth="571" frameHeight="928"/>
+	<SubTexture name="crazyAnnoyed0004" x="1742" y="10" width="571" height="915" frameX="0" frameY="-13" frameWidth="571" frameHeight="928"/>
+	<SubTexture name="crazyAnnoyed0005" x="1742" y="10" width="571" height="915" frameX="0" frameY="-13" frameWidth="571" frameHeight="928"/>
+	<SubTexture name="crazyAss0000" x="2323" y="10" width="914" height="839" frameX="0" frameY="0" frameWidth="916" frameHeight="839"/>
+	<SubTexture name="crazyAss0001" x="2323" y="10" width="914" height="839" frameX="0" frameY="0" frameWidth="916" frameHeight="839"/>
+	<SubTexture name="crazyAss0002" x="3247" y="10" width="912" height="822" frameX="-3" frameY="-17" frameWidth="916" frameHeight="839"/>
+	<SubTexture name="crazyAss0003" x="4169" y="10" width="912" height="822" frameX="-3" frameY="-17" frameWidth="916" frameHeight="839"/>
+	<SubTexture name="crazyAss0004" x="5091" y="10" width="910" height="819" frameX="-6" frameY="-20" frameWidth="916" frameHeight="839"/>
+	<SubTexture name="crazyAss0005" x="5091" y="10" width="910" height="819" frameX="-6" frameY="-20" frameWidth="916" frameHeight="839"/>
+	<SubTexture name="crazyCry0000" x="6011" y="10" width="881" height="838" frameX="-1" frameY="0" frameWidth="882" frameHeight="838"/>
+	<SubTexture name="crazyCry0001" x="6011" y="10" width="881" height="838" frameX="-1" frameY="0" frameWidth="882" frameHeight="838"/>
+	<SubTexture name="crazyCry0002" x="6902" y="10" width="881" height="829" frameX="-1" frameY="-9" frameWidth="882" frameHeight="838"/>
+	<SubTexture name="crazyCry0003" x="10" y="948" width="881" height="829" frameX="-1" frameY="-9" frameWidth="882" frameHeight="838"/>
+	<SubTexture name="crazyCry0004" x="901" y="948" width="881" height="815" frameX="0" frameY="-23" frameWidth="882" frameHeight="838"/>
+	<SubTexture name="crazyCry0005" x="901" y="948" width="881" height="815" frameX="0" frameY="-23" frameWidth="882" frameHeight="838"/>
+	<SubTexture name="crazyGuh0000" x="1792" y="948" width="789" height="911" frameX="0" frameY="0" frameWidth="799" frameHeight="911"/>
+	<SubTexture name="crazyGuh0001" x="2591" y="948" width="788" height="911" frameX="-1" frameY="0" frameWidth="799" frameHeight="911"/>
+	<SubTexture name="crazyGuh0002" x="3389" y="948" width="756" height="901" frameX="-38" frameY="-10" frameWidth="799" frameHeight="911"/>
+	<SubTexture name="crazyGuh0003" x="3389" y="948" width="756" height="901" frameX="-38" frameY="-10" frameWidth="799" frameHeight="911"/>
+	<SubTexture name="crazyGuh0004" x="4155" y="948" width="753" height="898" frameX="-46" frameY="-13" frameWidth="799" frameHeight="911"/>
+	<SubTexture name="crazyGuh0005" x="4155" y="948" width="753" height="898" frameX="-46" frameY="-13" frameWidth="799" frameHeight="911"/>
+	<SubTexture name="crazyNormal0000" x="4918" y="948" width="567" height="928" frameX="-1" frameY="0" frameWidth="571" frameHeight="928"/>
+	<SubTexture name="crazyNormal0001" x="5495" y="948" width="567" height="928" frameX="-1" frameY="0" frameWidth="571" frameHeight="928"/>
+	<SubTexture name="crazyNormal0002" x="6072" y="948" width="568" height="920" frameX="-1" frameY="-8" frameWidth="571" frameHeight="928"/>
+	<SubTexture name="crazyNormal0003" x="6650" y="948" width="568" height="920" frameX="-1" frameY="-8" frameWidth="571" frameHeight="928"/>
+	<SubTexture name="crazyNormal0004" x="7228" y="948" width="571" height="911" frameX="0" frameY="-17" frameWidth="571" frameHeight="928"/>
+	<SubTexture name="crazyNormal0005" x="7228" y="948" width="571" height="911" frameX="0" frameY="-17" frameWidth="571" frameHeight="928"/>
+</TextureAtlas>

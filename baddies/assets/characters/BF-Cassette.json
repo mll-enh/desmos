@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-42
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				34
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-11
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "missDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				48
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "missUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				24
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "missRIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "missLEFT"
+		},
+		{
+			"offsets": [
+				-5,
+				-6
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				42
+			],
+			"anim": "shocked",
+			"fps": 24,
+			"name": "shock",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-6
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "deadConfirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"offsets": [
+				79,
+				-37
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "deadLoop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF_Cassette",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		110,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

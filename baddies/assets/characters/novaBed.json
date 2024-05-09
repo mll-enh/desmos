@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				40,
+				164
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				40,
+				150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				40,
+				174
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				39,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				43,
+				161
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				164
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "missLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				144
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "missDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				159
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "missRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				181
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "missUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				310,
+				-118
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "deadLoop"
+		},
+		{
+			"offsets": [
+				310,
+				-111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "deadConfirm"
+		},
+		{
+			"offsets": [
+				310,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "firstDeath"
+		},
+		{
+			"offsets": [
+				39,
+				171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "hurt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/novaBed",
+	"position": [
+		10,
+		220
+	],
+	"healthicon": "novaBed",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		176,
+		255
+	],
+	"camera_position": [
+		160,
+		-140
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
