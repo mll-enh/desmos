@@ -2,208 +2,186 @@
 	"animations": [
 		{
 			"offsets": [
-				-5,
+				0,
 				0
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "BF idle dance"
+			"name": "bf idle"
 		},
 		{
 			"offsets": [
-				5,
-				-6
+				-8,
+				21
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "BF NOTE LEFT0"
+			"name": "bf left"
 		},
 		{
 			"offsets": [
-				-20,
-				-51
+				-2,
+				-14
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "BF NOTE DOWN0"
+			"name": "bf down"
 		},
 		{
 			"offsets": [
-				-46,
-				27
+				-7,
+				37
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "BF NOTE UP0"
+			"name": "bf up"
 		},
 		{
 			"offsets": [
-				-48,
-				-7
+				-8,
+				-2
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "BF NOTE RIGHT0"
+			"name": "bf right"
 		},
 		{
 			"offsets": [
-				7,
-				19
+				-8,
+				21
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singLEFTmiss",
+			"anim": "singLEFT-alt",
 			"indices": [],
-			"name": "BF NOTE LEFT MISS"
+			"name": "bf alt left"
 		},
 		{
 			"offsets": [
-				-15,
-				-19
+				-7,
+				37
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singDOWNmiss",
+			"anim": "singUP-alt",
 			"indices": [],
-			"name": "BF NOTE DOWN MISS"
+			"name": "bf alt up"
 		},
 		{
 			"offsets": [
-				-46,
-				27
+				-8,
+				-2
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singUPmiss",
+			"anim": "singRIGHT-alt",
 			"indices": [],
-			"name": "BF NOTE UP MISS"
+			"name": "bf alt right"
 		},
 		{
 			"offsets": [
-				-44,
-				22
+				-8,
+				21
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singRIGHTmiss",
+			"anim": "singLEFT-miss",
 			"indices": [],
-			"name": "BF NOTE RIGHT MISS"
+			"name": "bf miss left"
 		},
 		{
 			"offsets": [
-				-3,
-				5
+				-2,
+				-14
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "hey",
+			"anim": "singDOWN-miss",
 			"indices": [],
-			"name": "BF HEY"
+			"name": "bf miss down"
 		},
 		{
 			"offsets": [
-				14,
-				18
+				-7,
+				37
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "hurt",
+			"anim": "singUP-miss",
 			"indices": [],
-			"name": "BF hit"
+			"name": "bf miss up"
 		},
 		{
 			"offsets": [
-				-4,
+				-8,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-miss",
+			"indices": [],
+			"name": "bf miss right"
+		},
+		{
+			"offsets": [
+				-6,
 				0
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "scared",
-			"indices": [],
-			"name": "BF idle shaking"
-		},
-		{
-			"offsets": [
-				37,
-				11
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "firstDeath",
 			"indices": [],
-			"name": "BF dies"
+			"name": "bf deathStart"
 		},
 		{
 			"offsets": [
-				37,
-				5
+				-6,
+				0
 			],
-			"loop": true,
+			"loop": false,
 			"fps": 24,
 			"anim": "deathLoop",
 			"indices": [],
-			"name": "BF Dead Loop"
+			"name": "bf deathLoop"
 		},
 		{
 			"offsets": [
-				37,
-				69
+				-6,
+				0
 			],
-			"loop": false,
+			"loop": true,
 			"fps": 24,
 			"anim": "deathConfirm",
 			"indices": [],
-			"name": "BF Dead confirm"
+			"name": "bf deathEnd"
 		},
 		{
-			"offsets": [
-				-10,
-				-16
-			],
 			"loop": false,
-			"fps": 24,
-			"anim": "dodge",
-			"indices": [],
-			"name": "boyfriend dodge"
-		},
-		{
 			"offsets": [
-				294,
-				267
+				-2,
+				-14
 			],
-			"loop": false,
+			"anim": "singDOWN-alt",
 			"fps": 24,
-			"anim": "attack",
-			"indices": [],
-			"name": "boyfriend attack"
-		},
-		{
-			"offsets": [
-				-40,
-				-40
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "pre-attack",
-			"indices": [],
-			"name": "bf pre attack"
+			"name": "bf down",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/bf",
 	"position": [
 		0,
-		350
+		0
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -216,6 +194,6 @@
 		0,
 		0
 	],
-	"sing_duration": 4,
+	"sing_duration": 6.1,
 	"scale": 1
 }
