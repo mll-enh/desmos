@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="family.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Normal0000" x="100" y="100" width="4149" height="1628"/>
+	<SubTexture name="Normal0001" x="100" y="100" width="4149" height="1628"/>
+	<SubTexture name="Normal0002" x="100" y="1828" width="4149" height="1628"/>
+	<SubTexture name="Normal0003" x="100" y="1828" width="4149" height="1628"/>
+	<SubTexture name="Normal0004" x="100" y="3556" width="4149" height="1628"/>
+	<SubTexture name="Normal0005" x="100" y="3556" width="4149" height="1628"/>
+	<SubTexture name="Normal0006" x="100" y="5284" width="4149" height="1628"/>
+	<SubTexture name="Normal0007" x="100" y="5284" width="4149" height="1628"/>
+</TextureAtlas>

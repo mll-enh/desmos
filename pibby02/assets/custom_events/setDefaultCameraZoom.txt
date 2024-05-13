@@ -1,0 +1,3 @@
+cam zoom
+
+value 1:zoom

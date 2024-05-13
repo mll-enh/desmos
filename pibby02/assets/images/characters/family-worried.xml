@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="family-worried.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Worried0000" x="100" y="100" width="4090" height="1628"/>
+	<SubTexture name="Worried0001" x="100" y="100" width="4090" height="1628"/>
+	<SubTexture name="Worried0002" x="100" y="1828" width="4090" height="1628"/>
+	<SubTexture name="Worried0003" x="100" y="1828" width="4090" height="1628"/>
+	<SubTexture name="Worried0004" x="100" y="3556" width="4090" height="1628"/>
+	<SubTexture name="Worried0005" x="100" y="3556" width="4090" height="1628"/>
+	<SubTexture name="Worried0006" x="100" y="1828" width="4090" height="1628"/>
+	<SubTexture name="Worried0007" x="100" y="1828" width="4090" height="1628"/>
+	<SubTexture name="Worried0008" x="100" y="3556" width="4090" height="1628"/>
+	<SubTexture name="Worried0009" x="100" y="3556" width="4090" height="1628"/>
+	<SubTexture name="Worried0010" x="100" y="1828" width="4090" height="1628"/>
+	<SubTexture name="Worried0011" x="100" y="1828" width="4090" height="1628"/>
+	<SubTexture name="Worried0012" x="100" y="3556" width="4090" height="1628"/>
+	<SubTexture name="Worried0013" x="100" y="5284" width="4090" height="1628"/>
+	<SubTexture name="Worried0023" x="100" y="1828" width="4090" height="1628"/>
+	<SubTexture name="Worried0024" x="100" y="3556" width="4090" height="1628"/>
+	<SubTexture name="Worried0025" x="100" y="3556" width="4090" height="1628"/>
+	<SubTexture name="Worried0026" x="100" y="1828" width="4090" height="1628"/>
+	<SubTexture name="Worried0027" x="100" y="1828" width="4090" height="1628"/>
+	<SubTexture name="Worried0028" x="100" y="5284" width="4090" height="1628"/>
+	<SubTexture name="Worried0029" x="100" y="5284" width="4090" height="1628"/>
+</TextureAtlas>

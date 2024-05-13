@@ -1,0 +1,7 @@
+Rebounced - OG:SizzlingCorp Remake:BlueColorsin
+This does a bounce tween loop like in kaboom
+------------------------------------------------------
+Value:1 | (1 = On, 0 = Off)
+Value:2 | (Angle, Intensity, Bounce Y)
+------------------------------------------------------
+Value:2-Example | (1, 3, 12)

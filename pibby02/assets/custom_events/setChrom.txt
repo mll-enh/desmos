@@ -1,0 +1,4 @@
+basically camera bop but uhh its chromatic abberration instead boping camera
+
+value 1 = amount of chromatic
+value 2 = freq of beat 

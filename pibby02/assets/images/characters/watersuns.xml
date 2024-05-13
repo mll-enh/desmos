@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="watersuns.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="4603" height="1767" frameX="-24" frameY="-47" frameWidth="4627" frameHeight="1821"/>
+	<SubTexture name="idle0001" x="0" y="0" width="4603" height="1767" frameX="-24" frameY="-47" frameWidth="4627" frameHeight="1821"/>
+	<SubTexture name="idle0002" x="0" y="1767" width="4603" height="1790" frameX="0" frameY="-31" frameWidth="4627" frameHeight="1821"/>
+	<SubTexture name="idle0003" x="0" y="1767" width="4603" height="1790" frameX="0" frameY="-31" frameWidth="4627" frameHeight="1821"/>
+	<SubTexture name="idle0004" x="0" y="3557" width="4550" height="1779" frameX="-35" frameY="-19" frameWidth="4627" frameHeight="1821"/>
+	<SubTexture name="idle0005" x="0" y="3557" width="4550" height="1779" frameX="-35" frameY="-19" frameWidth="4627" frameHeight="1821"/>
+	<SubTexture name="idle0006" x="0" y="5336" width="4519" height="1780" frameX="-51" frameY="-6" frameWidth="4627" frameHeight="1821"/>
+	<SubTexture name="idle0007" x="0" y="5336" width="4519" height="1780" frameX="-51" frameY="-6" frameWidth="4627" frameHeight="1821"/>
+</TextureAtlas>
