@@ -1,7 +1,7 @@
 {
 	"song": {
 		"speed": 2.4,
-		"stage": "krustykrab",
+		"stage": "deathmatchStage",
 		"player1": "pico-1",
 		"player2": "dad-1",
 		"player3": null,
