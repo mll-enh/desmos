@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="kitchen.png"><SubTexture name="kitchen idle0000" x="0" y="0" width="2134" height="1379" frameX="0" frameY="0" frameWidth="2134" frameHeight="1379" />
+<SubTexture name="kitchen idle0001" x="2134" y="0" width="2134" height="1379" frameX="0" frameY="0" frameWidth="2134" frameHeight="1379" />
+<SubTexture name="kitchen idle0002" x="0" y="1379" width="2134" height="1379" frameX="0" frameY="0" frameWidth="2134" frameHeight="1379" />
+<SubTexture name="kitchen idle0003" x="2134" y="1379" width="2134" height="1379" frameX="0" frameY="0" frameWidth="2134" frameHeight="1379" />
+</TextureAtlas>
