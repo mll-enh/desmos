@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="darwi_phase1.png">
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nogf.png">
 	<!-- Created with Adobe Animate version 22.0.5.191 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="Down0000" x="0" y="0" width="611" height="724" frameX="-5" frameY="-12" frameWidth="616" frameHeight="736"/>
