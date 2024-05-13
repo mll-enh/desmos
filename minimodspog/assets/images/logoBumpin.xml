@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spongelogo.png"><SubTexture name="spongelogo idle0000" x="0" y="0" width="809" height="496" frameX="-25" frameY="-17" frameWidth="850" frameHeight="530" />
+<SubTexture name="spongelogo idle0001" x="0" y="0" width="809" height="496" frameX="-25" frameY="-17" frameWidth="850" frameHeight="530" />
+<SubTexture name="spongelogo idle0002" x="0" y="986" width="811" height="486" frameX="-16" frameY="-24" frameWidth="850" frameHeight="530" />
+<SubTexture name="spongelogo idle0003" x="0" y="496" width="810" height="490" frameX="-19" frameY="-21" frameWidth="850" frameHeight="530" />
+<SubTexture name="spongelogo idle0004" x="809" y="0" width="811" height="492" frameX="-20" frameY="-20" frameWidth="850" frameHeight="530" />
+<SubTexture name="spongelogo idle0005" x="809" y="0" width="811" height="492" frameX="-20" frameY="-20" frameWidth="850" frameHeight="530" />
+<SubTexture name="spongelogo idle0006" x="809" y="0" width="811" height="492" frameX="-20" frameY="-20" frameWidth="850" frameHeight="530" />
+<SubTexture name="spongelogo idle0007" x="809" y="0" width="811" height="492" frameX="-20" frameY="-20" frameWidth="850" frameHeight="530" />
+</TextureAtlas>

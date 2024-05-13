@@ -1,0 +1,73 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				19,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "soiledit retry"
+		},
+		{
+			"offsets": [
+				19,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "soiledit firstdeath"
+		},
+		{
+			"offsets": [
+				19,
+				0
+			],
+			"indices": [
+				11,
+				111,
+				11,
+				11,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"fps": 12,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "soiledit deathloop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/soiledit",
+	"position": [
+		-252,
+		80
+	],
+	"healthicon": "spongebob",
+	"flip_x": true,
+	"healthbar_colors": [
+		253,
+		253,
+		79
+	],
+	"camera_position": [
+		-150,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
