@@ -12,3 +12,17 @@ pico-boss
 spinel
 spooky
 steven
+angry_family
+angy_darwi
+bf_fillet
+darwi_remastered
+darwi-phase1
+darwi-phase2
+darwi-phase3
+darwi
+darwiold
+family_happy
+family-worried
+family
+familyold
+fatherless
