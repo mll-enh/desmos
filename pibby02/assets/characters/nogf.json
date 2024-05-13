@@ -68,12 +68,12 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/darwi_phase2",
+	"image": "characters/nogf",
 	"position": [
 		-110,
 		90
 	],
-	"healthicon": "darwin",
+	"healthicon": "spooky",
 	"flip_x": false,
 	"healthbar_colors": [
 		243,
