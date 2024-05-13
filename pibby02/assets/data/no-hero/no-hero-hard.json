@@ -1,7 +1,7 @@
 {
 	"song": {
 		"player1": "bf",
-		"player2": "darwi-phase1",
+		"player2": "nogf",
 		"events": [
 			[
 				0,
@@ -1324,7 +1324,7 @@
 					[
 						"Change Character",
 						"opponent",
-						"darwi-phase2"
+						"nogf"
 					]
 				]
 			],
@@ -2019,7 +2019,7 @@
 					[
 						"Change Character",
 						"opponent",
-						"darwi-phase3"
+						"nogf"
 					],
 					[
 						"Flash Camera",
@@ -3464,7 +3464,7 @@
 					[
 						"Change Character",
 						"opponent",
-						"darwiold"
+						"nogf"
 					],
 					[
 						"Change Character",
@@ -4134,7 +4134,7 @@
 					[
 						"Change Character",
 						"opponent",
-						"darwi-phase3"
+						"nogf"
 					]
 				]
 			],
