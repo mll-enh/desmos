@@ -1,68 +1,79 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-140,
 				-130
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Idle"
-		},
-		{
-			"offsets": [
-				-81,
-				-133
-			],
-			"loop": false,
 			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "Left"
+			"name": "idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				-179,
+				-100,
 				-128
 			],
-			"loop": false,
+			"anim": "singLEFT",
 			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-163,
+				-130
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Right"
+			"fps": 24,
+			"name": "right",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-146,
-				-108
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-138,
+				-114
+			],
 			"anim": "singUP",
-			"indices": [],
-			"name": "Up"
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-126,
+				-177
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
 		},
 		{
 			"offsets": [
-				-150,
-				-158
+				-128,
+				-107
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
 			"indices": [],
-			"name": "Down"
+			"fps": 24,
+			"anim": "hit",
+			"loop": false,
+			"name": "hit"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/nogf",
+	"image": "characters/darwi_phase2",
 	"position": [
-		-150,
+		-110,
 		90
 	],
-	"healthicon": "spooky",
+	"healthicon": "darwin",
 	"flip_x": false,
 	"healthbar_colors": [
 		243,
@@ -70,8 +81,8 @@
 		34
 	],
 	"camera_position": [
-		360,
-		370
+		330,
+		340
 	],
 	"sing_duration": 6.1,
 	"scale": 0.4
