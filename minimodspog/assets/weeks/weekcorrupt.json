@@ -1,7 +1,7 @@
 {
 	"storyName": "Your New Week",
 	"difficulties": "hard",
-	"hideFreeplay": true,
+	"hideFreeplay": false,
 	"weekBackground": "stage",
 	"weekBefore": "tutorial",
 	"freeplayColor": [
