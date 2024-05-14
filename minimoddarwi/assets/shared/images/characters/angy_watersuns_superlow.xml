@@ -1,0 +1,11 @@
+<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="angy_watersuns.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="1135.25" height="584.5" frameX="0" frameY="-17.5" frameWidth="1135.25" frameHeight="602.25"/>
+	<SubTexture name="idle0001" x="0" y="0" width="1135.25" height="584.5" frameX="0" frameY="-17.5" frameWidth="1135.25" frameHeight="602.25"/>
+	<SubTexture name="idle0002" x="0" y="584.5" width="1122.25" height="592.5" frameX="-5.25" frameY="-9.75" frameWidth="1135.25" frameHeight="602.25"/>
+	<SubTexture name="idle0003" x="0" y="584.5" width="1122.25" height="592.5" frameX="-5.25" frameY="-9.75" frameWidth="1135.25" frameHeight="602.25"/>
+	<SubTexture name="idle0004" x="0" y="1177" width="1114.75" height="597.5" frameX="-8.25" frameY="-4.75" frameWidth="1135.25" frameHeight="602.25"/>
+	<SubTexture name="idle0005" x="0" y="1177" width="1114.75" height="597.5" frameX="-8.25" frameY="-4.75" frameWidth="1135.25" frameHeight="602.25"/>
+</TextureAtlas>

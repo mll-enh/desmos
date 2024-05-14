@@ -1,0 +1,43 @@
+<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF0000" x="1" y="1" width="73.25" height="103.5" pivotX="-17.6" pivotY="75.8875"/>
+	<SubTexture name="GF CONFUSED0000" x="75.25" y="1" width="73.25" height="103.5" pivotX="-17.6" pivotY="75.8875"/>
+	<SubTexture name="GF CONFUSED LOOP0000" x="149.5" y="1" width="73.25" height="106" pivotX="-16.6375" pivotY="77.8625" frameX="-0.75" frameY="0" frameWidth="74.75" frameHeight="106"/>
+	<SubTexture name="GF CONFUSED LOOP0001" x="149.5" y="1" width="73.25" height="106" frameX="-0.75" frameY="0" frameWidth="74.75" frameHeight="106"/>
+	<SubTexture name="GF CONFUSED LOOP0002" x="223.75" y="1" width="73" height="104.75" frameX="0" frameY="-0.75" frameWidth="74.75" frameHeight="106"/>
+	<SubTexture name="GF CONFUSED LOOP0003" x="223.75" y="1" width="73" height="104.75" frameX="0" frameY="-0.75" frameWidth="74.75" frameHeight="106"/>
+	<SubTexture name="GF CONFUSED LOOP0004" x="297.75" y="1" width="73.25" height="103.5" frameX="-1" frameY="-2" frameWidth="74.75" frameHeight="106"/>
+	<SubTexture name="GF CONFUSED LOOP0005" x="372" y="1" width="73.75" height="103.25" frameX="-1" frameY="-2.25" frameWidth="74.75" frameHeight="106"/>
+	<SubTexture name="GF DEMON0000" x="446.75" y="1" width="73.25" height="103.5" pivotX="-17.6" pivotY="75.8875"/>
+	<SubTexture name="GF DEMON0001" x="446.75" y="1" width="73.25" height="103.5"/>
+	<SubTexture name="GF DEMON0002" x="521" y="1" width="73.25" height="103.5"/>
+	<SubTexture name="GF DEMON0003" x="521" y="1" width="73.25" height="103.5"/>
+	<SubTexture name="GF DEMON LOOP0000" x="595.25" y="1" width="73.25" height="106" pivotX="-16.6375" pivotY="77.8625" frameX="-0.75" frameY="0" frameWidth="74.75" frameHeight="106"/>
+	<SubTexture name="GF DEMON LOOP0001" x="595.25" y="1" width="73.25" height="106" frameX="-0.75" frameY="0" frameWidth="74.75" frameHeight="106"/>
+	<SubTexture name="GF DEMON LOOP0002" x="669.5" y="1" width="73" height="104.75" frameX="0" frameY="-0.75" frameWidth="74.75" frameHeight="106"/>
+	<SubTexture name="GF DEMON LOOP0003" x="669.5" y="1" width="73" height="104.75" frameX="0" frameY="-0.75" frameWidth="74.75" frameHeight="106"/>
+	<SubTexture name="GF DEMON LOOP0004" x="743.5" y="1" width="73.25" height="103.5" frameX="-1" frameY="-2" frameWidth="74.75" frameHeight="106"/>
+	<SubTexture name="GF DEMON LOOP0005" x="817.75" y="1" width="73.75" height="103.25" frameX="-1" frameY="-2.25" frameWidth="74.75" frameHeight="106"/>
+	<SubTexture name="GF EXCITED0000" x="892.5" y="1" width="73" height="105.5" pivotX="-18.175" pivotY="78.4"/>
+	<SubTexture name="GF EXCITED LOOP0000" x="1" y="108" width="70.75" height="111.5" pivotX="-16.6875" pivotY="82.575" frameX="-2.25" frameY="0" frameWidth="75.5" frameHeight="111.5"/>
+	<SubTexture name="GF EXCITED LOOP0001" x="1" y="108" width="70.75" height="111.5" frameX="-2.25" frameY="0" frameWidth="75.5" frameHeight="111.5"/>
+	<SubTexture name="GF EXCITED LOOP0002" x="72.75" y="108" width="72.25" height="108" frameX="0" frameY="-2.25" frameWidth="75.5" frameHeight="111.5"/>
+	<SubTexture name="GF EXCITED LOOP0003" x="72.75" y="108" width="72.25" height="108" frameX="0" frameY="-2.25" frameWidth="75.5" frameHeight="111.5"/>
+	<SubTexture name="GF EXCITED LOOP0004" x="146" y="108" width="73" height="105.75" frameX="-1.75" frameY="-4" frameWidth="75.5" frameHeight="111.5"/>
+	<SubTexture name="GF EXCITED LOOP0005" x="220" y="108" width="73.5" height="105.5" frameX="-2" frameY="-4.25" frameWidth="75.5" frameHeight="111.5"/>
+	<SubTexture name="GF LOOP0000" x="294.5" y="108" width="73.25" height="106" pivotX="-16.6375" pivotY="77.8625" frameX="-0.75" frameY="0" frameWidth="74.75" frameHeight="106"/>
+	<SubTexture name="GF LOOP0001" x="294.5" y="108" width="73.25" height="106" frameX="-0.75" frameY="0" frameWidth="74.75" frameHeight="106"/>
+	<SubTexture name="GF LOOP0002" x="368.75" y="108" width="73" height="104.75" frameX="0" frameY="-0.75" frameWidth="74.75" frameHeight="106"/>
+	<SubTexture name="GF LOOP0003" x="368.75" y="108" width="73" height="104.75" frameX="0" frameY="-0.75" frameWidth="74.75" frameHeight="106"/>
+	<SubTexture name="GF LOOP0004" x="442.75" y="108" width="73.25" height="103.5" frameX="-1" frameY="-2" frameWidth="74.75" frameHeight="106"/>
+	<SubTexture name="GF LOOP0005" x="517" y="108" width="73.75" height="103.25" frameX="-1" frameY="-2.25" frameWidth="74.75" frameHeight="106"/>
+	<SubTexture name="GF SHOCK0000" x="591.75" y="108" width="96.25" height="98" pivotX="4.8125" pivotY="75.075"/>
+	<SubTexture name="GF SHOCK LOOP0000" x="689" y="108" width="96.5" height="103" pivotX="4.8125" pivotY="78.6875" frameX="0" frameY="0" frameWidth="97.5" frameHeight="103"/>
+	<SubTexture name="GF SHOCK LOOP0001" x="689" y="108" width="96.5" height="103" frameX="0" frameY="0" frameWidth="97.5" frameHeight="103"/>
+	<SubTexture name="GF SHOCK LOOP0002" x="786.5" y="108" width="95.75" height="99" frameX="-0.5" frameY="-2.75" frameWidth="97.5" frameHeight="103"/>
+	<SubTexture name="GF SHOCK LOOP0003" x="786.5" y="108" width="95.75" height="99" frameX="-0.5" frameY="-2.75" frameWidth="97.5" frameHeight="103"/>
+	<SubTexture name="GF SHOCK LOOP0004" x="883.25" y="108" width="96.5" height="98" frameX="0" frameY="-3.5" frameWidth="97.5" frameHeight="103"/>
+	<SubTexture name="GF SHOCK LOOP0005" x="1" y="220.5" width="97.5" height="97.75" frameX="0" frameY="-3.75" frameWidth="97.5" frameHeight="103"/>
+</TextureAtlas>
