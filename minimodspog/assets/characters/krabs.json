@@ -1,0 +1,149 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle-alt",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				0,
+				1,
+				2
+			],
+			"name": "krabs idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "krabs left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "krabs down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "krabs up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "krabs right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				39,
+				-43
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "krabs outro",
+			"indices": [
+				22,
+				23
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				-43
+			],
+			"anim": "line-close",
+			"fps": 12,
+			"name": "krabs outro",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				15
+			],
+			"anim": "open",
+			"fps": 12,
+			"name": "krabs open",
+			"indices": []
+		},
+		{
+			"offsets": [
+				18,
+				4
+			],
+			"indices": [
+				0,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"fps": 12,
+			"anim": "line-yell",
+			"loop": false,
+			"name": "krabs yell"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/krabs",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "krabs",
+	"flip_x": false,
+	"healthbar_colors": [
+		246,
+		46,
+		46
+	],
+	"camera_position": [
+		220,
+		-160
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

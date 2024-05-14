@@ -1,0 +1,139 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "squidward idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "squidward left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "squidward down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "squidward up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "squidward right"
+		},
+		{
+			"offsets": [
+				6,
+				-25
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "speak",
+			"indices": [],
+			"name": "squidward bother"
+		},
+		{
+			"offsets": [
+				61,
+				-12
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "leftlook",
+			"indices": [],
+			"name": "squidward lookleft"
+		},
+		{
+			"offsets": [
+				61,
+				-12
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "rightlook",
+			"indices": [],
+			"name": "squidward lookright"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				-12
+			],
+			"anim": "idle-left",
+			"fps": 12,
+			"name": "squidward lookleft",
+			"indices": [
+				6,
+				6
+			]
+		},
+		{
+			"offsets": [
+				61,
+				-12
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle-right",
+			"name": "squidward lookright",
+			"indices": [
+				6,
+				6
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/squidward",
+	"position": [
+		370,
+		-70
+	],
+	"healthicon": "squidward",
+	"flip_x": false,
+	"healthbar_colors": [
+		196,
+		230,
+		197
+	],
+	"camera_position": [
+		0,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

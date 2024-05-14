@@ -1,0 +1,299 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "krustykrab",
+		"player1": "spongebob",
+		"player2": "squidward",
+		"player3": null,
+		"events": [
+			[
+				8312.5,
+				[
+					[
+						"Play Animation",
+						"speak",
+						"dad"
+					]
+				]
+			],
+			[
+				17000,
+				[
+					[
+						"Play Animation",
+						"ready",
+						"bf"
+					]
+				]
+			],
+			[
+				86587.3015873016,
+				[
+					[
+						"Play Animation",
+						"open",
+						"gf"
+					],
+					[
+						"Screen Shake",
+						"0.1,0.01",
+						"0.1,0.01"
+					],
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-left"
+					],
+					[
+						"Play Animation",
+						"turn",
+						"bf"
+					],
+					[
+						"Alt Idle Animation",
+						"bf",
+						"-alt"
+					],
+					[
+						"Play Animation",
+						"leftlook",
+						"dad"
+					],
+					[
+						"Oh Yeah mr Krabs",
+						"",
+						""
+					]
+				]
+			],
+			[
+				86755.8409131443,
+				[
+					[
+						"Alt Idle Animation",
+						"gf",
+						"-alt"
+					]
+				]
+			],
+			[
+				88272.6948457286,
+				[
+					[
+						"Play Animation",
+						"line-yell",
+						"gf"
+					]
+				]
+			],
+			[
+				96141.0736579276,
+				[
+					[
+						"Play Animation",
+						"rightlook",
+						"dad"
+					],
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-right"
+					]
+				]
+			],
+			[
+				102998.21651507,
+				[
+					[
+						"Play Animation",
+						"leftlook",
+						"dad"
+					],
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-left"
+					]
+				]
+			],
+			[
+				104712.502229356,
+				[
+					[
+						"Play Animation",
+						"rightlook",
+						"dad"
+					],
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-right"
+					]
+				]
+			],
+			[
+				106426.787943642,
+				[
+					[
+						"Play Animation",
+						"leftlook",
+						"dad"
+					],
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-left"
+					]
+				]
+			],
+			[
+				108141.073657928,
+				[
+					[
+						"Play Animation",
+						"rightlook",
+						"dad"
+					],
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-right"
+					]
+				]
+			],
+			[
+				113283.930800785,
+				[
+					[
+						"Play Animation",
+						"leftlook",
+						"dad"
+					],
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-left"
+					]
+				]
+			],
+			[
+				115641.073657928,
+				[
+					[
+						"Play Animation",
+						"line-close",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"shock",
+						"bf"
+					]
+				]
+			],
+			[
+				115748.21651507,
+				[
+					[
+						"Alt Idle Animation",
+						"gf",
+						""
+					]
+				]
+			],
+			[
+				116712.502229356,
+				[
+					[
+						"Oh Yeah mr Krabs",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116712.502229356,
+				[
+					[
+						"Alt Idle Animation",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				118426.787943642,
+				[
+					[
+						"Play Animation",
+						"rightlook",
+						"dad"
+					],
+					[
+						"Alt Idle Animation",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				139717.832719761,
+				[
+					[
+						"Play Animation",
+						"linelaygh",
+						"bf"
+					]
+				]
+			],
+			[
+				140092.832719761,
+				[
+					[
+						"Play Animation",
+						"linelaygh",
+						"bf"
+					]
+				]
+			],
+			[
+				140342.832719761,
+				[
+					[
+						"Play Animation",
+						"linelaygh",
+						"bf"
+					]
+				]
+			],
+			[
+				140592.832719761,
+				[
+					[
+						"Play Animation",
+						"linelaygh",
+						"bf"
+					]
+				]
+			],
+			[
+				140967.832719761,
+				[
+					[
+						"Play Animation",
+						"linelaygh",
+						"bf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "krabs",
+		"bpm": 120,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"song": "Krusty-Karoling"
+	}
+}
