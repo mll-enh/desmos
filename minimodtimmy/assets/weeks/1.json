@@ -1,0 +1,33 @@
+{
+	"storyName": "Sharv's Collection",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"power-hour",
+			"timmy",
+			[
+				255,
+				133,
+				235
+			]
+		
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "sharv",
+	"hiddenUntilUnlocked": false
+}

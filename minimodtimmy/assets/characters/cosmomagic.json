@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				487,
+				500
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "magic",
+			"loop": false,
+			"name": "magic"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/magic",
+	"position": [
+		-260,
+		30
+	],
+	"healthicon": "wanda-cosmo",
+	"flip_x": false,
+	"healthbar_colors": [
+		112,
+		0,
+		155
+	],
+	"camera_position": [
+		140,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

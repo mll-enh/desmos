@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="the cool star thing.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="stars0000" x="0" y="0" width="555" height="317"/>
+	<SubTexture name="stars0001" x="0" y="0" width="555" height="317"/>
+	<SubTexture name="stars0002" x="565" y="0" width="555" height="317"/>
+	<SubTexture name="stars0003" x="565" y="0" width="555" height="317"/>
+	<SubTexture name="stars0004" x="1130" y="0" width="555" height="317"/>
+	<SubTexture name="stars0005" x="1130" y="0" width="555" height="317"/>
+	<SubTexture name="stars0006" x="0" y="327" width="555" height="317"/>
+	<SubTexture name="stars0007" x="0" y="327" width="555" height="317"/>
+	<SubTexture name="stars0008" x="565" y="327" width="555" height="317"/>
+	<SubTexture name="stars0009" x="565" y="327" width="555" height="317"/>
+	<SubTexture name="stars0010" x="1130" y="327" width="555" height="317"/>
+	<SubTexture name="stars0011" x="1130" y="327" width="555" height="317"/>
+	<SubTexture name="stars0012" x="0" y="654" width="555" height="317"/>
+	<SubTexture name="stars0013" x="0" y="654" width="555" height="317"/>
+	<SubTexture name="stars0014" x="0" y="654" width="555" height="317"/>
+	<SubTexture name="stars0015" x="0" y="0" width="555" height="317"/>
+	<SubTexture name="stars0016" x="0" y="0" width="555" height="317"/>
+	<SubTexture name="stars0017" x="565" y="0" width="555" height="317"/>
+	<SubTexture name="stars0018" x="565" y="0" width="555" height="317"/>
+	<SubTexture name="stars0019" x="1130" y="0" width="555" height="317"/>
+	<SubTexture name="stars0020" x="1130" y="0" width="555" height="317"/>
+	<SubTexture name="stars0021" x="0" y="327" width="555" height="317"/>
+	<SubTexture name="stars0022" x="0" y="327" width="555" height="317"/>
+	<SubTexture name="stars0023" x="565" y="327" width="555" height="317"/>
+	<SubTexture name="stars0024" x="565" y="327" width="555" height="317"/>
+	<SubTexture name="stars0025" x="1130" y="327" width="555" height="317"/>
+	<SubTexture name="stars0026" x="1130" y="327" width="555" height="317"/>
+	<SubTexture name="stars0027" x="0" y="654" width="555" height="317"/>
+	<SubTexture name="stars0028" x="0" y="654" width="555" height="317"/>
+	<SubTexture name="stars0029" x="0" y="654" width="555" height="317"/>
+</TextureAtlas>

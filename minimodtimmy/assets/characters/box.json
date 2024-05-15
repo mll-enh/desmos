@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "boxy boo box idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "boxy",
+			"fps": 24,
+			"name": "boxy boo box open",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/boxy_boo",
+	"position": [
+		-830,
+		-640
+	],
+	"healthicon": "boo",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		15,
+		60
+	],
+	"camera_position": [
+		200,
+		490
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="magic.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="10" y="10" width="752" height="526"/>
+	<SubTexture name="idle0001" x="762" y="10" width="752" height="526"/>
+	<SubTexture name="idle0002" x="1514" y="10" width="752" height="526"/>
+	<SubTexture name="idle0003" x="2266" y="10" width="752" height="526"/>
+	<SubTexture name="idle0004" x="3018" y="10" width="752" height="526"/>
+	<SubTexture name="idle0005" x="3770" y="10" width="752" height="526"/>
+	<SubTexture name="idle0006" x="4522" y="10" width="752" height="526"/>
+	<SubTexture name="idle0007" x="5274" y="10" width="752" height="526"/>
+	<SubTexture name="idle0008" x="6026" y="10" width="752" height="526"/>
+	<SubTexture name="idle0009" x="6778" y="10" width="752" height="526"/>
+	<SubTexture name="idle0010" x="10" y="536" width="752" height="526"/>
+	<SubTexture name="idle0011" x="762" y="536" width="752" height="526"/>
+	<SubTexture name="idle0012" x="1514" y="536" width="752" height="526"/>
+	<SubTexture name="idle0013" x="2266" y="536" width="752" height="526"/>
+	<SubTexture name="magic0000" x="3018" y="536" width="752" height="542" frameX="-488" frameY="-497" frameWidth="1576" frameHeight="1039"/>
+	<SubTexture name="magic0001" x="3770" y="536" width="752" height="542" frameX="-488" frameY="-497" frameWidth="1576" frameHeight="1039"/>
+	<SubTexture name="magic0002" x="4522" y="536" width="752" height="542" frameX="-488" frameY="-497" frameWidth="1576" frameHeight="1039"/>
+	<SubTexture name="magic0003" x="5274" y="536" width="752" height="542" frameX="-488" frameY="-497" frameWidth="1576" frameHeight="1039"/>
+	<SubTexture name="magic0004" x="6026" y="536" width="752" height="542" frameX="-488" frameY="-497" frameWidth="1576" frameHeight="1039"/>
+	<SubTexture name="magic0005" x="6778" y="536" width="752" height="542" frameX="-488" frameY="-497" frameWidth="1576" frameHeight="1039"/>
+	<SubTexture name="magic0006" x="10" y="1078" width="752" height="542" frameX="-488" frameY="-497" frameWidth="1576" frameHeight="1039"/>
+	<SubTexture name="magic0007" x="762" y="1078" width="947" height="817" frameX="-293" frameY="-222" frameWidth="1576" frameHeight="1039"/>
+	<SubTexture name="magic0008" x="1709" y="1078" width="947" height="817" frameX="-293" frameY="-222" frameWidth="1576" frameHeight="1039"/>
+	<SubTexture name="magic0009" x="2656" y="1078" width="752" height="905" frameX="-488" frameY="-134" frameWidth="1576" frameHeight="1039"/>
+	<SubTexture name="magic0010" x="3408" y="1078" width="752" height="905" frameX="-488" frameY="-134" frameWidth="1576" frameHeight="1039"/>
+	<SubTexture name="magic0011" x="4160" y="1078" width="752" height="905" frameX="-488" frameY="-134" frameWidth="1576" frameHeight="1039"/>
+	<SubTexture name="magic0012" x="4912" y="1078" width="752" height="904" frameX="-488" frameY="-135" frameWidth="1576" frameHeight="1039"/>
+	<SubTexture name="magic0013" x="5664" y="1078" width="752" height="904" frameX="-488" frameY="-135" frameWidth="1576" frameHeight="1039"/>
+	<SubTexture name="magic0014" x="6416" y="1078" width="752" height="904" frameX="-488" frameY="-135" frameWidth="1576" frameHeight="1039"/>
+	<SubTexture name="magic0015" x="7168" y="1078" width="752" height="904" frameX="-488" frameY="-135" frameWidth="1576" frameHeight="1039"/>
+	<SubTexture name="magic0016" x="10" y="1983" width="752" height="904" frameX="-488" frameY="-135" frameWidth="1576" frameHeight="1039"/>
+	<SubTexture name="magic0017" x="762" y="1983" width="1576" height="1039"/>
+	<SubTexture name="magic0018" x="2338" y="1983" width="1576" height="1039"/>
+	<SubTexture name="magic0019" x="3914" y="1983" width="1576" height="1039"/>
+	<SubTexture name="magic0020" x="5490" y="1983" width="1576" height="1039"/>
+	<SubTexture name="magic0021" x="10" y="3022" width="1576" height="1039"/>
+	<SubTexture name="magic0022" x="1586" y="3022" width="1576" height="1039"/>
+	<SubTexture name="magic0023" x="3162" y="3022" width="1576" height="1039"/>
+	<SubTexture name="magic0024" x="4738" y="3022" width="1576" height="1039"/>
+	<SubTexture name="magic0025" x="6314" y="3022" width="1576" height="1039"/>
+	<SubTexture name="magic0026" x="10" y="4061" width="1576" height="1039"/>
+	<SubTexture name="magic0027" x="1586" y="4061" width="1576" height="1039"/>
+	<SubTexture name="magic0028" x="3162" y="4061" width="1576" height="1039"/>
+	<SubTexture name="magic0029" x="4738" y="4061" width="1576" height="1039"/>
+	<SubTexture name="magic0030" x="6314" y="4061" width="1576" height="1039"/>
+	<SubTexture name="magic0031" x="10" y="5100" width="1576" height="1039"/>
+	<SubTexture name="magic0032" x="1586" y="5100" width="1576" height="1039"/>
+	<SubTexture name="magic0033" x="3162" y="5100" width="1576" height="1039"/>
+	<SubTexture name="magic0034" x="4738" y="5100" width="1576" height="1039"/>
+	<SubTexture name="magic0035" x="6314" y="5100" width="1576" height="1039"/>
+	<SubTexture name="magic0036" x="10" y="6139" width="1576" height="1039"/>
+</TextureAtlas>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bedside table.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bedside table0000" x="0" y="0" width="721" height="937"/>
+	<SubTexture name="bedside table0001" x="0" y="0" width="721" height="937"/>
+	<SubTexture name="bedside table0002" x="0" y="0" width="721" height="937"/>
+	<SubTexture name="bedside table0003" x="0" y="0" width="721" height="937"/>
+	<SubTexture name="bedside table0004" x="0" y="0" width="721" height="937"/>
+	<SubTexture name="bedside table0005" x="0" y="0" width="721" height="937"/>
+	<SubTexture name="bedside table0006" x="0" y="0" width="721" height="937"/>
+	<SubTexture name="bedside table0007" x="0" y="0" width="721" height="937"/>
+	<SubTexture name="bedside table0008" x="0" y="0" width="721" height="937"/>
+	<SubTexture name="bedside table0009" x="0" y="0" width="721" height="937"/>
+	<SubTexture name="bedside table0010" x="731" y="0" width="721" height="937"/>
+	<SubTexture name="bedside table0011" x="731" y="0" width="721" height="937"/>
+	<SubTexture name="bedside table0012" x="731" y="0" width="721" height="937"/>
+	<SubTexture name="bedside table0013" x="731" y="0" width="721" height="937"/>
+	<SubTexture name="bedside table0014" x="731" y="0" width="721" height="937"/>
+	<SubTexture name="bedside table0015" x="731" y="0" width="721" height="937"/>
+	<SubTexture name="bedside table0016" x="731" y="0" width="721" height="937"/>
+	<SubTexture name="bedside table0017" x="731" y="0" width="721" height="937"/>
+	<SubTexture name="bedside table0018" x="731" y="0" width="721" height="937"/>
+	<SubTexture name="bedside table0019" x="731" y="0" width="721" height="937"/>
+</TextureAtlas>

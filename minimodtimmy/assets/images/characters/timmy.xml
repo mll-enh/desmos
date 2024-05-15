@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="timmy.png">
+<SubTexture name="timmy idle0000" x="411" y="975" width="412" height="453" frameX="-104" frameY="-66" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy idle0001" x="411" y="975" width="412" height="453" frameX="-104" frameY="-66" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy idle0002" x="414" y="1429" width="414" height="436" frameX="-102" frameY="-83" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy idle0003" x="414" y="1429" width="414" height="436" frameX="-102" frameY="-83" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy idle0004" x="828" y="1429" width="415" height="435" frameX="-101" frameY="-84" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy idle0005" x="828" y="1429" width="415" height="435" frameX="-101" frameY="-84" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy idle0006" x="0" y="1429" width="414" height="440" frameX="-102" frameY="-79" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy idle0007" x="0" y="1429" width="414" height="440" frameX="-102" frameY="-79" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy idle0008" x="1712" y="0" width="411" height="448" frameX="-105" frameY="-71" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy idle0009" x="1712" y="0" width="411" height="448" frameX="-105" frameY="-71" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy idle0010" x="0" y="975" width="411" height="454" frameX="-105" frameY="-65" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy idle0011" x="0" y="975" width="411" height="454" frameX="-105" frameY="-65" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy left0000" x="494" y="513" width="513" height="461" frameX="-3" frameY="-58" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy left0001" x="494" y="513" width="513" height="461" frameX="-3" frameY="-58" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy left0002" x="1214" y="0" width="498" height="461" frameX="-18" frameY="-58" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy left0003" x="1214" y="0" width="498" height="461" frameX="-18" frameY="-58" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy left0004" x="0" y="513" width="494" height="462" frameX="-22" frameY="-57" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy left0005" x="0" y="513" width="494" height="462" frameX="-22" frameY="-57" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy right0000" x="1214" y="461" width="461" height="455" frameX="-209" frameY="-68" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy right0001" x="1214" y="461" width="461" height="455" frameX="-209" frameY="-68" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy right0002" x="823" y="975" width="439" height="453" frameX="-209" frameY="-70" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy right0003" x="823" y="975" width="439" height="453" frameX="-209" frameY="-70" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy right0004" x="1262" y="975" width="433" height="451" frameX="-209" frameY="-72" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy right0005" x="1262" y="975" width="433" height="451" frameX="-209" frameY="-72" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy up0000" x="0" y="0" width="404" height="513" frameX="-112" frameY="-6" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy up0001" x="0" y="0" width="404" height="513" frameX="-112" frameY="-6" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy up0002" x="404" y="0" width="405" height="499" frameX="-111" frameY="-20" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy up0003" x="404" y="0" width="405" height="499" frameX="-111" frameY="-20" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy up0004" x="809" y="0" width="405" height="495" frameX="-111" frameY="-24" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy up0005" x="809" y="0" width="405" height="495" frameX="-111" frameY="-24" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy down0000" x="1243" y="1429" width="427" height="412" frameX="-123" frameY="-107" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy down0001" x="1243" y="1429" width="427" height="412" frameX="-123" frameY="-107" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy down0002" x="1712" y="878" width="409" height="426" frameX="-123" frameY="-93" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy down0003" x="1712" y="878" width="409" height="426" frameX="-123" frameY="-93" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy down0004" x="1712" y="448" width="409" height="430" frameX="-124" frameY="-89" frameWidth="670" frameHeight="521" />
+<SubTexture name="timmy down0005" x="1712" y="448" width="409" height="430" frameX="-124" frameY="-89" frameWidth="670" frameHeight="521" />
+</TextureAtlas>

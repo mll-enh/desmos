@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="poof.png">
+<SubTexture name="poof poof0000" x="0" y="3125" width="1025" height="593" frameX="-214" frameY="-438" frameWidth="1470" frameHeight="1278" />
+<SubTexture name="poof poof0001" x="0" y="3125" width="1025" height="593" frameX="-214" frameY="-438" frameWidth="1470" frameHeight="1278" />
+<SubTexture name="poof poof0002" x="1459" y="0" width="1449" height="1139" frameX="-3" frameY="-22" frameWidth="1470" frameHeight="1278" />
+<SubTexture name="poof poof0003" x="1459" y="0" width="1449" height="1139" frameX="-3" frameY="-22" frameWidth="1470" frameHeight="1278" />
+<SubTexture name="poof poof0004" x="0" y="0" width="1459" height="1229" frameX="-6" frameY="-16" frameWidth="1470" frameHeight="1278" />
+<SubTexture name="poof poof0005" x="0" y="0" width="1459" height="1229" frameX="-6" frameY="-16" frameWidth="1470" frameHeight="1278" />
+<SubTexture name="poof poof0006" x="0" y="1229" width="1450" height="1126" frameX="-10" frameY="-146" frameWidth="1470" frameHeight="1278" />
+<SubTexture name="poof poof0007" x="0" y="1229" width="1450" height="1126" frameX="-10" frameY="-146" frameWidth="1470" frameHeight="1278" />
+<SubTexture name="poof poof0008" x="0" y="2355" width="1380" height="770" frameX="-39" frameY="-341" frameWidth="1470" frameHeight="1278" />
+<SubTexture name="poof poof0009" x="0" y="2355" width="1380" height="770" frameX="-39" frameY="-341" frameWidth="1470" frameHeight="1278" />
+<SubTexture name="poof poof0010" x="1450" y="1229" width="1354" height="813" frameX="-50" frameY="-328" frameWidth="1470" frameHeight="1278" />
+<SubTexture name="poof poof0011" x="1450" y="1229" width="1354" height="813" frameX="-50" frameY="-328" frameWidth="1470" frameHeight="1278" />
+<SubTexture name="poof poof0012" x="2908" y="783" width="1353" height="754" frameX="-52" frameY="-349" frameWidth="1470" frameHeight="1278" />
+<SubTexture name="poof poof0013" x="2908" y="783" width="1353" height="754" frameX="-52" frameY="-349" frameWidth="1470" frameHeight="1278" />
+<SubTexture name="poof poof0014" x="2908" y="0" width="1364" height="783" frameX="-46" frameY="-343" frameWidth="1470" frameHeight="1278" />
+<SubTexture name="poof poof0015" x="2908" y="0" width="1364" height="783" frameX="-46" frameY="-343" frameWidth="1470" frameHeight="1278" />
+<SubTexture name="poof poof0016" x="2908" y="1537" width="1353" height="754" frameX="-52" frameY="-349" frameWidth="1470" frameHeight="1278" />
+<SubTexture name="poof poof0017" x="2908" y="1537" width="1353" height="754" frameX="-52" frameY="-349" frameWidth="1470" frameHeight="1278" />
+<SubTexture name="poof poof0018" x="1380" y="2355" width="1294" height="743" frameX="-81" frameY="-363" frameWidth="1470" frameHeight="1278" />
+<SubTexture name="poof poof0019" x="1380" y="2355" width="1294" height="743" frameX="-81" frameY="-363" frameWidth="1470" frameHeight="1278" />
+<SubTexture name="poof poof0020" x="2674" y="2355" width="1090" height="617" frameX="-182" frameY="-424" frameWidth="1470" frameHeight="1278" />
+<SubTexture name="poof poof0021" x="2674" y="2355" width="1090" height="617" frameX="-182" frameY="-424" frameWidth="1470" frameHeight="1278" />
+<SubTexture name="poof poof0022" x="1025" y="3125" width="651" height="364" frameX="-403" frameY="-544" frameWidth="1470" frameHeight="1278" />
+<SubTexture name="poof poof0023" x="1025" y="3125" width="651" height="364" frameX="-403" frameY="-544" frameWidth="1470" frameHeight="1278" />
+</TextureAtlas>
