@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pico.png">
+<SubTexture name="pico clap0000" x="0" y="3012" width="1684" height="1150" frameX="-1146" frameY="-1247" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico clap0001" x="0" y="3012" width="1684" height="1150" frameX="-1146" frameY="-1247" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico clap0002" x="3461" y="0" width="1642" height="1167" frameX="-1168" frameY="-1230" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico clap0003" x="3461" y="0" width="1642" height="1167" frameX="-1168" frameY="-1230" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico clap0004" x="1211" y="1506" width="1606" height="1182" frameX="-1191" frameY="-1215" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico clap0005" x="1211" y="1506" width="1606" height="1182" frameX="-1191" frameY="-1215" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico clap0006" x="0" y="0" width="1117" height="1506" frameX="-1445" frameY="-891" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico clap0007" x="0" y="0" width="1117" height="1506" frameX="-1445" frameY="-891" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico clap0008" x="1117" y="0" width="1147" height="1506" frameX="-1431" frameY="-891" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico clap0009" x="1117" y="0" width="1147" height="1506" frameX="-1431" frameY="-891" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico clap0010" x="2264" y="0" width="1197" height="1506" frameX="-1404" frameY="-891" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico clap0011" x="0" y="1506" width="1211" height="1506" frameX="-1397" frameY="-891" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico clap0012" x="0" y="1506" width="1211" height="1506" frameX="-1397" frameY="-891" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico clap0013" x="1684" y="3012" width="1684" height="1150" frameX="-1146" frameY="-1247" frameWidth="4096" frameHeight="2397" />
+</TextureAtlas>

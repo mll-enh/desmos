@@ -1,0 +1,32 @@
+{
+	"storyName": "Bf said",
+	"difficulties": "fool",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		95,
+		0,
+		175
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Konton-Boogie",
+			"bf",
+			[
+				95,
+				0,
+				175
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "123"
+}

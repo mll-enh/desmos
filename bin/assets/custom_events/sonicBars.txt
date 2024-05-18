@@ -1,0 +1,4 @@
+Classic s-bars
+
+Value 1: Top bar color
+Value 2: Bottom bar color

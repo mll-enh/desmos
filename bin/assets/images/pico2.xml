@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pico2.png">
+<SubTexture name="pico2 clap0000" x="0" y="0" width="1152" height="1685" frameX="-6" frameY="-169" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico2 clap0001" x="1152" y="0" width="1151" height="1685" frameX="-7" frameY="-169" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico2 clap0002" x="1152" y="0" width="1151" height="1685" frameX="-7" frameY="-169" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico2 clap0003" x="2303" y="0" width="1169" height="1643" frameX="-5" frameY="-193" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico2 clap0004" x="2303" y="0" width="1169" height="1643" frameX="-5" frameY="-193" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico2 clap0005" x="0" y="1685" width="1183" height="1606" frameX="-6" frameY="-215" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico2 clap0006" x="0" y="1685" width="1183" height="1606" frameX="-6" frameY="-215" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico2 clap0007" x="1508" y="3291" width="1507" height="1117" frameX="-7" frameY="-466" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico2 clap0008" x="1508" y="3291" width="1507" height="1117" frameX="-7" frameY="-466" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico2 clap0009" x="0" y="3291" width="1508" height="1146" frameX="-6" frameY="-450" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico2 clap0010" x="0" y="3291" width="1508" height="1146" frameX="-6" frameY="-450" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico2 clap0011" x="3472" y="1212" width="1507" height="1198" frameX="-7" frameY="-427" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico2 clap0012" x="1183" y="1685" width="1508" height="1212" frameX="-6" frameY="-420" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico2 clap0013" x="3472" y="0" width="1507" height="1212" frameX="-7" frameY="-420" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico2 clap0014" x="0" y="0" width="1152" height="1685" frameX="-6" frameY="-169" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pico2 clap0015" x="0" y="0" width="1152" height="1685" frameX="-6" frameY="-169" frameWidth="4096" frameHeight="2397" />
+</TextureAtlas>

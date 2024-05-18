@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cat.png">
+<SubTexture name="cat dad0000" x="0" y="0" width="688" height="1024" frameX="-1347" frameY="-811" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat dad0001" x="0" y="0" width="688" height="1024" frameX="-1347" frameY="-811" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat dad0002" x="1376" y="0" width="688" height="967" frameX="-1347" frameY="-868" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat dad0003" x="1376" y="0" width="688" height="967" frameX="-1347" frameY="-868" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat dad0004" x="688" y="1024" width="688" height="932" frameX="-1347" frameY="-903" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat dad0005" x="688" y="1024" width="688" height="932" frameX="-1347" frameY="-903" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat dad0006" x="688" y="1024" width="688" height="932" frameX="-1347" frameY="-903" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat dad0007" x="2064" y="0" width="774" height="864" frameX="-1316" frameY="-656" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat dad0008" x="2064" y="0" width="774" height="864" frameX="-1316" frameY="-656" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat dad0009" x="2064" y="0" width="774" height="864" frameX="-1316" frameY="-656" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat dad0010" x="2064" y="0" width="774" height="864" frameX="-1316" frameY="-696" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat dad0011" x="2064" y="0" width="774" height="864" frameX="-1316" frameY="-696" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat dad0012" x="2064" y="0" width="774" height="864" frameX="-1316" frameY="-736" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat dad0013" x="2064" y="0" width="774" height="864" frameX="-1316" frameY="-736" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat dad0014" x="2064" y="0" width="774" height="864" frameX="-1316" frameY="-776" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat dad0015" x="2064" y="0" width="774" height="864" frameX="-1316" frameY="-776" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat mom0000" x="688" y="0" width="688" height="1024" frameX="-2061" frameY="-811" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat mom0001" x="688" y="0" width="688" height="1024" frameX="-2061" frameY="-811" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat mom0002" x="0" y="1024" width="688" height="967" frameX="-2061" frameY="-868" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat mom0003" x="0" y="1024" width="688" height="967" frameX="-2061" frameY="-868" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat mom0004" x="1376" y="1024" width="688" height="932" frameX="-2061" frameY="-903" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat mom0005" x="1376" y="1024" width="688" height="932" frameX="-2061" frameY="-903" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat mom0006" x="1376" y="1024" width="688" height="932" frameX="-2061" frameY="-903" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat mom0007" x="2064" y="864" width="774" height="864" frameX="-2006" frameY="-656" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat mom0008" x="2064" y="864" width="774" height="864" frameX="-2006" frameY="-656" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat mom0009" x="2064" y="864" width="774" height="864" frameX="-2006" frameY="-656" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat mom0010" x="2064" y="864" width="774" height="864" frameX="-2006" frameY="-696" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat mom0011" x="2064" y="864" width="774" height="864" frameX="-2006" frameY="-696" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat mom0012" x="2064" y="864" width="774" height="864" frameX="-2006" frameY="-736" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat mom0013" x="2064" y="864" width="774" height="864" frameX="-2006" frameY="-736" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat mom0014" x="2064" y="864" width="774" height="864" frameX="-2006" frameY="-776" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="cat mom0015" x="2064" y="864" width="774" height="864" frameX="-2006" frameY="-776" frameWidth="4096" frameHeight="2397" />
+</TextureAtlas>

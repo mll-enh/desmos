@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bone.png">
+<SubTexture name="bone spooky0000" x="0" y="0" width="1329" height="1630" frameX="-722" frameY="-414" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="bone spooky0001" x="0" y="0" width="1329" height="1630" frameX="-722" frameY="-414" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="bone spooky0002" x="2658" y="0" width="1081" height="1424" frameX="-805" frameY="-602" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="bone spooky0003" x="2658" y="0" width="1081" height="1424" frameX="-805" frameY="-602" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="bone spooky0004" x="1329" y="0" width="1329" height="1630" frameX="-510" frameY="-414" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="bone spooky0005" x="1329" y="0" width="1329" height="1630" frameX="-510" frameY="-414" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="bone spooky0006" x="2658" y="0" width="1081" height="1424" frameX="-805" frameY="-602" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="bone spooky0007" x="2658" y="0" width="1081" height="1424" frameX="-805" frameY="-602" frameWidth="4096" frameHeight="2397" />
+</TextureAtlas>

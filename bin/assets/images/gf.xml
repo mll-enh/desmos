@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gf.png">
+<SubTexture name="gf yeah0000" x="1876" y="0" width="1876" height="1597" frameX="-867" frameY="-800" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="gf yeah0001" x="0" y="0" width="1876" height="1632" frameX="-881" frameY="-765" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="gf yeah0002" x="1876" y="0" width="1876" height="1597" frameX="-867" frameY="-800" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="gf yeah0003" x="1723" y="1632" width="1876" height="1544" frameX="-865" frameY="-853" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="gf yeah0004" x="0" y="3187" width="1876" height="1457" frameX="-856" frameY="-940" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="gf yeah0005" x="0" y="4644" width="1416" height="1303" frameX="-1" frameY="-1094" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="gf yeah0006" x="5628" y="0" width="1403" height="1383" frameX="-5" frameY="-1014" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="gf yeah0007" x="3752" y="3187" width="1406" height="1432" frameX="0" frameY="-965" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="gf yeah0008" x="3752" y="1544" width="1400" height="1467" frameX="0" frameY="-930" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="gf yeah0009" x="3752" y="3187" width="1406" height="1432" frameX="0" frameY="-965" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="gf yeah0010" x="5628" y="0" width="1403" height="1383" frameX="-5" frameY="-1014" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="gf yeah0011" x="0" y="4644" width="1416" height="1303" frameX="-1" frameY="-1094" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="gf yeah0012" x="0" y="1632" width="1723" height="1555" frameX="-656" frameY="-842" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="gf yeah0013" x="1876" y="3187" width="1876" height="1457" frameX="-856" frameY="-940" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="gf yeah0014" x="3752" y="0" width="1876" height="1544" frameX="-865" frameY="-853" frameWidth="4096" frameHeight="2397" />
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pumpkin.png">
+<SubTexture name="pumpkin spooky0000" x="0" y="1482" width="1809" height="1475" frameX="-1740" frameY="-550" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pumpkin spooky0001" x="0" y="1482" width="1809" height="1475" frameX="-1740" frameY="-550" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pumpkin spooky0002" x="1787" y="0" width="1349" height="1478" frameX="-2155" frameY="-550" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pumpkin spooky0003" x="1787" y="0" width="1349" height="1478" frameX="-2155" frameY="-550" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pumpkin spooky0004" x="0" y="0" width="1787" height="1482" frameX="-2061" frameY="-534" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pumpkin spooky0005" x="0" y="0" width="1787" height="1482" frameX="-2061" frameY="-534" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pumpkin spooky0006" x="1787" y="0" width="1349" height="1478" frameX="-2155" frameY="-550" frameWidth="4096" frameHeight="2397" />
+<SubTexture name="pumpkin spooky0007" x="1787" y="0" width="1349" height="1478" frameX="-2155" frameY="-550" frameWidth="4096" frameHeight="2397" />
+</TextureAtlas>
