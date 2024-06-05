@@ -1,0 +1,4 @@
+stage
+alley1
+alleydead
+alleyfading

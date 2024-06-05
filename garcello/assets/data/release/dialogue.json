@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "ghost",
+			"text": "Oh."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "ghost",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "ghost",
+			"text": "Would ya look at that."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "ghost",
+			"text": "I guess i overdid it, huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "ghost",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "ghost",
+			"text": "It's alright."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "ghost",
+			"text": "I'd rather it be me than you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "ghost",
+			"text": "That hurt like hell, but it's probably better than what your girl's father was gonna do to me."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "ghost",
+			"text": "I can't stay for too long, but..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "ghost",
+			"text": "Even if our time was short..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gardialogue",
+			"boxState": "normal",
+			"expression": "ghost",
+			"text": "Let's end things off with a bang, little man."
+		}
+	]
+}

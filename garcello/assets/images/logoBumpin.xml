@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="logoBumpin.png"><SubTexture name="logo bumpin0000" x="0" y="418" width="646" height="398" frameX="-168" frameY="-115" frameWidth="939" frameHeight="703" />
+<SubTexture name="logo bumpin0001" x="0" y="0" width="678" height="418" frameX="-152" frameY="-105" frameWidth="939" frameHeight="703" />
+<SubTexture name="logo bumpin0002" x="678" y="0" width="652" height="402" frameX="-165" frameY="-113" frameWidth="939" frameHeight="703" />
+<SubTexture name="logo bumpin0003" x="643" y="816" width="640" height="394" frameX="-171" frameY="-117" frameWidth="939" frameHeight="703" />
+<SubTexture name="logo bumpin0004" x="1330" y="0" width="638" height="393" frameX="-172" frameY="-117" frameWidth="939" frameHeight="703" />
+<SubTexture name="logo bumpin0005" x="0" y="816" width="643" height="396" frameX="-169" frameY="-116" frameWidth="939" frameHeight="703" />
+<SubTexture name="logo bumpin0006" x="646" y="418" width="645" height="398" frameX="-168" frameY="-115" frameWidth="939" frameHeight="703" />
+<SubTexture name="logo bumpin0007" x="0" y="418" width="646" height="398" frameX="-168" frameY="-115" frameWidth="939" frameHeight="703" />
+<SubTexture name="logo bumpin0008" x="0" y="418" width="646" height="398" frameX="-168" frameY="-115" frameWidth="939" frameHeight="703" />
+<SubTexture name="logo bumpin0009" x="0" y="418" width="646" height="398" frameX="-168" frameY="-115" frameWidth="939" frameHeight="703" />
+<SubTexture name="logo bumpin0010" x="0" y="418" width="646" height="398" frameX="-168" frameY="-115" frameWidth="939" frameHeight="703" />
+<SubTexture name="logo bumpin0011" x="0" y="418" width="646" height="398" frameX="-168" frameY="-115" frameWidth="939" frameHeight="703" />
+<SubTexture name="logo bumpin0012" x="0" y="418" width="646" height="398" frameX="-168" frameY="-115" frameWidth="939" frameHeight="703" />
+<SubTexture name="logo bumpin0013" x="0" y="418" width="646" height="398" frameX="-168" frameY="-115" frameWidth="939" frameHeight="703" />
+</TextureAtlas>
