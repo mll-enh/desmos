@@ -1,4 +1,0 @@
-value1 list
-bf
-dad
-off

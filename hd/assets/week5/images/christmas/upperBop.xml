@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="upperBop.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Upper Crowd Bob instance 10000" x="10" y="10" width="2703" height="467" frameX="0" frameY="-22" frameWidth="2703" frameHeight="494"/>
+	<SubTexture name="Upper Crowd Bob instance 10001" x="10" y="10" width="2703" height="467" frameX="0" frameY="-22" frameWidth="2703" frameHeight="494"/>
+	<SubTexture name="Upper Crowd Bob instance 10002" x="10" y="487" width="2691" height="476" frameX="-6" frameY="-14" frameWidth="2703" frameHeight="494"/>
+	<SubTexture name="Upper Crowd Bob instance 10003" x="10" y="487" width="2691" height="476" frameX="-6" frameY="-14" frameWidth="2703" frameHeight="494"/>
+	<SubTexture name="Upper Crowd Bob instance 10004" x="10" y="973" width="2689" height="489" frameX="-7" frameY="-4" frameWidth="2703" frameHeight="494"/>
+	<SubTexture name="Upper Crowd Bob instance 10005" x="10" y="973" width="2689" height="489" frameX="-7" frameY="-4" frameWidth="2703" frameHeight="494"/>
+	<SubTexture name="Upper Crowd Bob instance 10006" x="10" y="1472" width="2684" height="494" frameX="-9" frameY="0" frameWidth="2703" frameHeight="494"/>
+	<SubTexture name="Upper Crowd Bob instance 10007" x="10" y="1472" width="2684" height="494" frameX="-9" frameY="0" frameWidth="2703" frameHeight="494"/>
+	<SubTexture name="Upper Crowd Bob instance 10008" x="10" y="1472" width="2684" height="494" frameX="-9" frameY="0" frameWidth="2703" frameHeight="494"/>
+	<SubTexture name="Upper Crowd Bob instance 10009" x="10" y="1472" width="2684" height="494" frameX="-9" frameY="0" frameWidth="2703" frameHeight="494"/>
+	<SubTexture name="Upper Crowd Bob instance 10010" x="10" y="1472" width="2684" height="494" frameX="-9" frameY="0" frameWidth="2703" frameHeight="494"/>
+	<SubTexture name="Upper Crowd Bob instance 10011" x="10" y="1472" width="2684" height="494" frameX="-9" frameY="0" frameWidth="2703" frameHeight="494"/>
+	<SubTexture name="Upper Crowd Bob instance 10012" x="10" y="1472" width="2684" height="494" frameX="-9" frameY="0" frameWidth="2703" frameHeight="494"/>
+</TextureAtlas>
