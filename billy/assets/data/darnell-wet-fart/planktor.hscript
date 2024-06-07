@@ -1,0 +1,29 @@
+function onCreatePost(){
+    PlayState.instance.camHUD.alpha = 0; 
+    PlayState.instance.gf.visible = false;
+
+    remove(game.gfGroup);
+    game.stage.insert(1,game.gfGroup); //fuck this
+}
+
+//plankton appearing randomly in spongebob's eye, gotta make sure theres an anim for him entering/leaving
+var idk:Bool = false;
+function onSectionHit(){
+    if (FlxG.random.bool(12)) {
+        if (!idk) {
+            PlayState.instance.gf.visible = true;
+            PlayState.instance.gf.playAnim("appear", true);
+            PlayState.instance.gf.specialAnim = true;
+        }
+        else {
+            PlayState.instance.gf.playAnim("disappear", true);
+            PlayState.instance.gf.specialAnim = true;
+            new FlxTimer().start(0.9, function(tmr:FlxTimer)
+            {
+                PlayState.instance.gf.visible = false;
+            });
+        }
+
+        idk = !idk;
+    }
+}

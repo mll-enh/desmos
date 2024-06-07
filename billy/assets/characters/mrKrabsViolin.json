@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				5,
+				40
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Violinidle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				34,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ViolinDown"
+		},
+		{
+			"offsets": [
+				19,
+				51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ViolinUp"
+		},
+		{
+			"offsets": [
+				33,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ViolinLeft"
+		},
+		{
+			"offsets": [
+				23,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ViolinRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/KrabsViolin",
+	"position": [
+		30,
+		250
+	],
+	"healthicon": "starvedK",
+	"flip_x": true,
+	"healthbar_colors": [
+		222,
+		52,
+		57
+	],
+	"camera_position": [
+		0,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

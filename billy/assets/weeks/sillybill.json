@@ -1,0 +1,26 @@
+{
+	"storyName": "yea",
+	"hideFreeplay": false,
+	"weekBackground": "yea",
+	"difficulties": "Normal",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"silly-billy",
+			"bf",
+			[
+				49,
+				176,
+				209
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "yea"
+}

@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ddidle"
+		},
+		{
+			"offsets": [
+				4,
+				17
+			],
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ddleft"
+		},
+		{
+			"offsets": [
+				1,
+				39
+			],
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dddown"
+		},
+		{
+			"offsets": [
+				-34,
+				244
+			],
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ddup"
+		},
+		{
+			"offsets": [
+				15,
+				160
+			],
+			"cameraOffset": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ddright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ddoom",
+	"position": [
+		-1400,
+		150
+	],
+	"healthicon": "tvdd",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		6,
+		6
+	],
+	"camera_position": [
+		-110,
+		-220
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

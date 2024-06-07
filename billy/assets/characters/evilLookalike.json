@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"offsets": [
+				111,
+				30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ElLeftBIG",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"offsets": [
+				166,
+				275
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ElUpBIG",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				30,
+				0
+			],
+			"offsets": [
+				-10,
+				27
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ElRightBIG",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ElIdleBIG",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-60,
+				-480
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "ElIdleSMALL"
+		},
+		{
+			"offsets": [
+				-2,
+				-457
+			],
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "ElLeftSMALL"
+		},
+		{
+			"offsets": [
+				-50,
+				-526
+			],
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "ElDownSMALL"
+		},
+		{
+			"offsets": [
+				-80,
+				-429
+			],
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "ElUpSMALL"
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				30,
+				0
+			],
+			"offsets": [
+				-66,
+				-476
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "ElRightSMALL",
+			"indices": []
+		},
+		{
+			"offsets": [
+				20,
+				-129
+			],
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "ElDownBIG"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lookalike_Assets",
+	"position": [
+		70,
+		-180
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

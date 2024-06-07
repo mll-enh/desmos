@@ -1,0 +1,53 @@
+{
+	"storyName": "yea",
+	"hideFreeplay": false,
+	"weekBackground": "yea",
+	"difficulties": "Normal",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Trichael",
+			"lord",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Joyous",
+			"lord",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Fakebaby",
+			"tvdd",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Darnell Wet Fart",
+			"starved",
+			[
+				49,
+				176,
+				209
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "yea"
+}

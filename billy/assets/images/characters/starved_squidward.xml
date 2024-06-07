@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="starved_squidward.png" width="3914" height="4083">
+	<SubTexture name="SS down instance 10000" x="3182" y="3577" width="540" height="258" rotated="true" frameX="-5" frameY="-100" frameWidth="263" frameHeight="641"/>
+	<SubTexture name="SS down instance 10001" x="3182" y="3577" width="540" height="258" rotated="true" frameX="-5" frameY="-100" frameWidth="263" frameHeight="641"/>
+	<SubTexture name="SS down instance 10002" x="2934" y="3410" width="245" height="566" frameX="-14" frameY="-74" frameWidth="263" frameHeight="641"/>
+	<SubTexture name="SS down instance 10003" x="2934" y="3410" width="245" height="566" frameX="-14" frameY="-74" frameWidth="263" frameHeight="641"/>
+	<SubTexture name="SS down instance 10004" x="3182" y="3330" width="559" height="244" rotated="true" frameX="-11" frameY="-81" frameWidth="263" frameHeight="641"/>
+	<SubTexture name="SS down instance 10005" x="3182" y="3330" width="559" height="244" rotated="true" frameX="-11" frameY="-81" frameWidth="263" frameHeight="641"/>
+	<SubTexture name="SS down instance 10006" x="3217" y="3081" width="564" height="246" rotated="true" frameX="-4" frameY="-76" frameWidth="263" frameHeight="641"/>
+	<SubTexture name="SS down instance 10007" x="3217" y="3081" width="564" height="246" rotated="true" frameX="-4" frameY="-76" frameWidth="263" frameHeight="641"/>
+	<SubTexture name="SS down instance 10008" x="653" y="3690" width="568" height="245" rotated="true" frameX="-2" frameY="-72" frameWidth="263" frameHeight="641"/>
+	<SubTexture name="SS down instance 10009" x="653" y="3690" width="568" height="245" rotated="true" frameX="-2" frameY="-72" frameWidth="263" frameHeight="641"/>
+	<SubTexture name="SS down instance 10010" x="1521" y="3493" width="243" height="572" frameX="-0" frameY="-68" frameWidth="263" frameHeight="641"/>
+	<SubTexture name="SS down instance 10011" x="1521" y="3493" width="243" height="572" frameX="-0" frameY="-68" frameWidth="263" frameHeight="641"/>
+	<SubTexture name="SS down instance 10012" x="2561" y="3165" width="576" height="242" rotated="true" frameX="-2" frameY="-64" frameWidth="263" frameHeight="641"/>
+	<SubTexture name="SS down instance 10013" x="1280" y="3493" width="238" height="589" frameX="-9" frameY="-51" frameWidth="263" frameHeight="641"/>
+	<SubTexture name="SS down instance 10014" x="653" y="3479" width="624" height="208" rotated="true" frameX="-11" frameY="-14" frameWidth="263" frameHeight="641"/>
+	<SubTexture name="SS down instance 10015" x="3242" y="1979" width="638" height="206" rotated="true" frameX="-13" frameY="-0" frameWidth="263" frameHeight="641"/>
+	<SubTexture name="SS get clarinet instance 10000" x="2588" y="2146" width="638" height="205" rotated="true" frameX="-78" frameY="-17" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10001" x="2588" y="2146" width="638" height="205" rotated="true" frameX="-78" frameY="-17" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10002" x="1938" y="2349" width="638" height="203" rotated="true" frameX="-80" frameY="-17" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10003" x="1938" y="2349" width="638" height="203" rotated="true" frameX="-80" frameY="-17" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10004" x="3220" y="2397" width="636" height="207" rotated="true" frameX="-76" frameY="-19" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10005" x="3220" y="2397" width="636" height="207" rotated="true" frameX="-76" frameY="-19" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10006" x="1284" y="2892" width="637" height="201" rotated="true" frameX="-82" frameY="-18" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10007" x="1284" y="2892" width="637" height="201" rotated="true" frameX="-82" frameY="-18" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10008" x="2579" y="2563" width="636" height="207" rotated="true" frameX="-80" frameY="-19" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10009" x="2579" y="2563" width="636" height="207" rotated="true" frameX="-80" frameY="-19" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10010" x="2579" y="2563" width="636" height="207" rotated="true" frameX="-80" frameY="-19" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10011" x="2579" y="2563" width="636" height="207" rotated="true" frameX="-80" frameY="-19" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10012" x="2579" y="2563" width="636" height="207" rotated="true" frameX="-80" frameY="-19" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10013" x="2579" y="2563" width="636" height="207" rotated="true" frameX="-80" frameY="-19" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10014" x="2579" y="2563" width="636" height="207" rotated="true" frameX="-80" frameY="-19" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10015" x="2579" y="2563" width="636" height="207" rotated="true" frameX="-80" frameY="-19" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10016" x="2579" y="2563" width="636" height="207" rotated="true" frameX="-80" frameY="-19" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10017" x="1920" y="3429" width="210" height="633" frameX="-79" frameY="-22" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10018" x="1920" y="3429" width="210" height="633" frameX="-79" frameY="-22" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10019" x="1299" y="2001" width="642" height="199" rotated="true" frameX="-84" frameY="-13" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10020" x="1299" y="2001" width="642" height="199" rotated="true" frameX="-84" frameY="-13" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10021" x="2180" y="702" width="655" height="200" rotated="true" frameX="-80" frameY="-0" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10022" x="2180" y="702" width="655" height="200" rotated="true" frameX="-80" frameY="-0" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10023" x="1" y="1937" width="646" height="207" rotated="true" frameX="-76" frameY="-9" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10024" x="1" y="1937" width="646" height="207" rotated="true" frameX="-76" frameY="-9" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10025" x="2036" y="1518" width="649" height="205" rotated="true" frameX="-78" frameY="-6" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10026" x="2036" y="1518" width="649" height="205" rotated="true" frameX="-78" frameY="-6" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10027" x="2036" y="1518" width="649" height="205" rotated="true" frameX="-78" frameY="-6" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10028" x="2036" y="1518" width="649" height="205" rotated="true" frameX="-78" frameY="-6" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10029" x="2036" y="1518" width="649" height="205" rotated="true" frameX="-78" frameY="-6" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10030" x="656" y="1530" width="648" height="206" rotated="true" frameX="-77" frameY="-7" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10031" x="1383" y="1502" width="650" height="283" rotated="true" frameX="-0" frameY="-6" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10032" x="3710" y="665" width="203" height="654" frameX="-80" frameY="-1" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10033" x="3710" y="665" width="203" height="654" frameX="-80" frameY="-1" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10034" x="1" y="1651" width="648" height="283" rotated="true" frameX="-0" frameY="-8" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10035" x="1" y="1651" width="648" height="283" rotated="true" frameX="-0" frameY="-8" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10036" x="2036" y="1726" width="649" height="205" rotated="true" frameX="-78" frameY="-6" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10037" x="2036" y="1726" width="649" height="205" rotated="true" frameX="-78" frameY="-6" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10038" x="2036" y="1726" width="649" height="205" rotated="true" frameX="-78" frameY="-6" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10039" x="1400" y="1296" width="653" height="203" rotated="true" frameX="-80" frameY="-2" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10040" x="1400" y="1296" width="653" height="203" rotated="true" frameX="-80" frameY="-2" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10041" x="1302" y="1788" width="646" height="210" rotated="true" frameX="-73" frameY="-9" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10042" x="1302" y="1788" width="646" height="210" rotated="true" frameX="-73" frameY="-9" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10043" x="652" y="1739" width="647" height="198" rotated="true" frameX="-82" frameY="-8" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10044" x="652" y="1739" width="647" height="198" rotated="true" frameX="-82" frameY="-8" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10045" x="643" y="3039" width="637" height="210" rotated="true" frameX="-77" frameY="-18" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10046" x="643" y="3039" width="637" height="210" rotated="true" frameX="-77" frameY="-18" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10047" x="1" y="2349" width="641" height="203" rotated="true" frameX="-80" frameY="-14" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10048" x="1" y="2349" width="641" height="203" rotated="true" frameX="-80" frameY="-14" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10049" x="1" y="2349" width="641" height="203" rotated="true" frameX="-80" frameY="-14" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10050" x="1" y="2349" width="641" height="203" rotated="true" frameX="-80" frameY="-14" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10051" x="1" y="2349" width="641" height="203" rotated="true" frameX="-80" frameY="-14" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10052" x="1" y="2349" width="641" height="203" rotated="true" frameX="-80" frameY="-14" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS get clarinet instance 10053" x="1" y="2349" width="641" height="203" rotated="true" frameX="-80" frameY="-14" frameWidth="405" frameHeight="656"/>
+	<SubTexture name="SS idle clarinet instance 10000" x="2598" y="1937" width="641" height="206" rotated="true" frameX="-0" frameY="-1" frameWidth="206" frameHeight="642"/>
+	<SubTexture name="SS idle clarinet instance 10001" x="2598" y="1937" width="641" height="206" rotated="true" frameX="-0" frameY="-1" frameWidth="206" frameHeight="642"/>
+	<SubTexture name="SS idle clarinet instance 10002" x="2598" y="1937" width="641" height="206" rotated="true" frameX="-0" frameY="-1" frameWidth="206" frameHeight="642"/>
+	<SubTexture name="SS idle clarinet instance 10003" x="649" y="2148" width="642" height="206" rotated="true" frameX="-0" frameY="-0" frameWidth="206" frameHeight="642"/>
+	<SubTexture name="SS idle clarinet instance 10004" x="649" y="2148" width="642" height="206" rotated="true" frameX="-0" frameY="-0" frameWidth="206" frameHeight="642"/>
+	<SubTexture name="SS idle clarinet instance 10005" x="649" y="2148" width="642" height="206" rotated="true" frameX="-0" frameY="-0" frameWidth="206" frameHeight="642"/>
+	<SubTexture name="SS idle clarinet instance 10006" x="1944" y="2140" width="641" height="206" rotated="true" frameX="-0" frameY="-1" frameWidth="206" frameHeight="642"/>
+	<SubTexture name="SS idle clarinet instance 10007" x="1944" y="2140" width="641" height="206" rotated="true" frameX="-0" frameY="-1" frameWidth="206" frameHeight="642"/>
+	<SubTexture name="SS idle clarinet instance 10008" x="1944" y="2140" width="641" height="206" rotated="true" frameX="-0" frameY="-1" frameWidth="206" frameHeight="642"/>
+	<SubTexture name="SS idle clarinet instance 10009" x="2598" y="1937" width="641" height="206" rotated="true" frameX="-0" frameY="-1" frameWidth="206" frameHeight="642"/>
+	<SubTexture name="SS idle clarinet instance 10010" x="2598" y="1937" width="641" height="206" rotated="true" frameX="-0" frameY="-1" frameWidth="206" frameHeight="642"/>
+	<SubTexture name="SS idle clarinet instance 10011" x="2598" y="1937" width="641" height="206" rotated="true" frameX="-0" frameY="-1" frameWidth="206" frameHeight="642"/>
+	<SubTexture name="SS idle clarinet instance 10012" x="649" y="2148" width="642" height="206" rotated="true" frameX="-0" frameY="-0" frameWidth="206" frameHeight="642"/>
+	<SubTexture name="SS idle clarinet instance 10013" x="649" y="2148" width="642" height="206" rotated="true" frameX="-0" frameY="-0" frameWidth="206" frameHeight="642"/>
+	<SubTexture name="SS idle clarinet instance 10014" x="649" y="2148" width="642" height="206" rotated="true" frameX="-0" frameY="-0" frameWidth="206" frameHeight="642"/>
+	<SubTexture name="SS idle instance 10000" x="3229" y="2188" width="638" height="206" rotated="true" frameX="-78" frameY="-0" frameWidth="406" frameHeight="639"/>
+	<SubTexture name="SS idle instance 10001" x="3229" y="2188" width="638" height="206" rotated="true" frameX="-78" frameY="-0" frameWidth="406" frameHeight="639"/>
+	<SubTexture name="SS idle instance 10002" x="3229" y="2188" width="638" height="206" rotated="true" frameX="-78" frameY="-0" frameWidth="406" frameHeight="639"/>
+	<SubTexture name="SS idle instance 10003" x="1" y="3229" width="637" height="206" rotated="true" frameX="-78" frameY="-1" frameWidth="406" frameHeight="639"/>
+	<SubTexture name="SS idle instance 10004" x="1" y="3229" width="637" height="206" rotated="true" frameX="-78" frameY="-1" frameWidth="406" frameHeight="639"/>
+	<SubTexture name="SS idle instance 10005" x="1" y="3229" width="637" height="206" rotated="true" frameX="-78" frameY="-1" frameWidth="406" frameHeight="639"/>
+	<SubTexture name="SS idle instance 10006" x="1" y="3438" width="206" height="637" frameX="-78" frameY="-1" frameWidth="406" frameHeight="639"/>
+	<SubTexture name="SS idle instance 10007" x="1" y="3438" width="206" height="637" frameX="-78" frameY="-1" frameWidth="406" frameHeight="639"/>
+	<SubTexture name="SS idle instance 10008" x="1" y="3438" width="206" height="637" frameX="-78" frameY="-1" frameWidth="406" frameHeight="639"/>
+	<SubTexture name="SS idle instance 10009" x="3229" y="2188" width="638" height="206" rotated="true" frameX="-78" frameY="-0" frameWidth="406" frameHeight="639"/>
+	<SubTexture name="SS idle instance 10010" x="3229" y="2188" width="638" height="206" rotated="true" frameX="-78" frameY="-0" frameWidth="406" frameHeight="639"/>
+	<SubTexture name="SS idle instance 10011" x="3229" y="2188" width="638" height="206" rotated="true" frameX="-78" frameY="-0" frameWidth="406" frameHeight="639"/>
+	<SubTexture name="SS idle instance 10012" x="1" y="3229" width="637" height="206" rotated="true" frameX="-78" frameY="-1" frameWidth="406" frameHeight="639"/>
+	<SubTexture name="SS idle instance 10013" x="1" y="3229" width="637" height="206" rotated="true" frameX="-78" frameY="-1" frameWidth="406" frameHeight="639"/>
+	<SubTexture name="SS idle instance 10014" x="1" y="3229" width="637" height="206" rotated="true" frameX="-78" frameY="-1" frameWidth="406" frameHeight="639"/>
+	<SubTexture name="SS left instance 10000" x="2965" y="1" width="664" height="506" rotated="true" frameX="-52" frameY="-158" frameWidth="698" frameHeight="951"/>
+	<SubTexture name="SS left instance 10001" x="2965" y="1" width="664" height="506" rotated="true" frameX="-52" frameY="-158" frameWidth="698" frameHeight="951"/>
+	<SubTexture name="SS left instance 10002" x="3218" y="2607" width="636" height="471" rotated="true" frameX="-90" frameY="-186" frameWidth="698" frameHeight="951"/>
+	<SubTexture name="SS left instance 10003" x="3218" y="2607" width="636" height="471" rotated="true" frameX="-90" frameY="-186" frameWidth="698" frameHeight="951"/>
+	<SubTexture name="SS left instance 10004" x="1924" y="2945" width="634" height="481" rotated="true" frameX="-79" frameY="-188" frameWidth="698" frameHeight="951"/>
+	<SubTexture name="SS left instance 10005" x="1924" y="2945" width="634" height="481" rotated="true" frameX="-79" frameY="-188" frameWidth="698" frameHeight="951"/>
+	<SubTexture name="SS left instance 10006" x="1294" y="2203" width="641" height="477" rotated="true" frameX="-83" frameY="-181" frameWidth="698" frameHeight="951"/>
+	<SubTexture name="SS left instance 10007" x="1294" y="2203" width="641" height="477" rotated="true" frameX="-83" frameY="-181" frameWidth="698" frameHeight="951"/>
+	<SubTexture name="SS left instance 10008" x="645" y="2357" width="641" height="470" rotated="true" frameX="-90" frameY="-181" frameWidth="698" frameHeight="951"/>
+	<SubTexture name="SS left instance 10009" x="645" y="2357" width="641" height="470" rotated="true" frameX="-90" frameY="-181" frameWidth="698" frameHeight="951"/>
+	<SubTexture name="SS left instance 10010" x="1" y="2756" width="639" height="470" rotated="true" frameX="-91" frameY="-183" frameWidth="698" frameHeight="951"/>
+	<SubTexture name="SS left instance 10011" x="1" y="2756" width="639" height="470" rotated="true" frameX="-91" frameY="-183" frameWidth="698" frameHeight="951"/>
+	<SubTexture name="SS left instance 10012" x="2533" y="3429" width="398" height="631" frameX="-164" frameY="-191" frameWidth="698" frameHeight="951"/>
+	<SubTexture name="SS left instance 10013" x="3368" y="1323" width="322" height="648" frameX="-243" frameY="-172" frameWidth="698" frameHeight="951"/>
+	<SubTexture name="SS left instance 10014" x="1" y="2147" width="645" height="199" rotated="true" frameX="-365" frameY="-169" frameWidth="698" frameHeight="951"/>
+	<SubTexture name="SS left instance 10015" x="2579" y="2354" width="638" height="206" rotated="true" frameX="-370" frameY="-172" frameWidth="698" frameHeight="951"/>
+	<SubTexture name="SS return clarinet instance 10000" x="650" y="1940" width="646" height="205" rotated="true" frameX="-78" frameY="-13" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10001" x="650" y="1940" width="646" height="205" rotated="true" frameX="-78" frameY="-13" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10002" x="2688" y="1734" width="648" height="200" rotated="true" frameX="-80" frameY="-13" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10003" x="2688" y="1734" width="648" height="200" rotated="true" frameX="-80" frameY="-13" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10004" x="2688" y="1734" width="648" height="200" rotated="true" frameX="-80" frameY="-13" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10005" x="2688" y="1734" width="648" height="200" rotated="true" frameX="-80" frameY="-13" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10006" x="2688" y="1734" width="648" height="200" rotated="true" frameX="-80" frameY="-13" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10007" x="1951" y="1934" width="644" height="203" rotated="true" frameX="-77" frameY="-17" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10008" x="1951" y="1934" width="644" height="203" rotated="true" frameX="-77" frameY="-17" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10009" x="3710" y="1322" width="198" height="654" frameX="-82" frameY="-7" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10010" x="3710" y="1322" width="198" height="654" frameX="-82" frameY="-7" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10011" x="728" y="1320" width="652" height="207" rotated="true" frameX="-73" frameY="-9" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10012" x="728" y="1320" width="652" height="207" rotated="true" frameX="-73" frameY="-9" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10013" x="2843" y="510" width="659" height="200" rotated="true" frameX="-80" frameY="-2" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10014" x="2843" y="510" width="659" height="200" rotated="true" frameX="-80" frameY="-2" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10015" x="3505" y="665" width="202" height="655" frameX="-78" frameY="-6" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10016" x="3505" y="665" width="202" height="655" frameX="-78" frameY="-6" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10017" x="3505" y="665" width="202" height="655" frameX="-78" frameY="-6" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10018" x="1400" y="1089" width="654" height="204" rotated="true" frameX="-76" frameY="-7" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10019" x="1400" y="1089" width="654" height="204" rotated="true" frameX="-76" frameY="-7" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10020" x="2180" y="499" width="660" height="200" rotated="true" frameX="-80" frameY="-1" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10021" x="2180" y="499" width="660" height="200" rotated="true" frameX="-80" frameY="-1" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10022" x="2057" y="1110" width="654" height="203" rotated="true" frameX="-77" frameY="-7" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10023" x="2838" y="713" width="655" height="202" rotated="true" frameX="-78" frameY="-6" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10024" x="2180" y="905" width="655" height="202" rotated="true" frameX="-78" frameY="-6" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10025" x="2180" y="905" width="655" height="202" rotated="true" frameX="-78" frameY="-6" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10026" x="2180" y="905" width="655" height="202" rotated="true" frameX="-78" frameY="-6" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10027" x="2180" y="905" width="655" height="202" rotated="true" frameX="-78" frameY="-6" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10028" x="2180" y="905" width="655" height="202" rotated="true" frameX="-78" frameY="-6" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10029" x="1" y="1444" width="652" height="204" rotated="true" frameX="-76" frameY="-9" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10030" x="1" y="1444" width="652" height="204" rotated="true" frameX="-76" frameY="-9" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10031" x="3632" y="1" width="200" height="661" frameX="-80" frameY="-0" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10032" x="3632" y="1" width="200" height="661" frameX="-80" frameY="-0" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10033" x="1" y="2555" width="641" height="198" rotated="true" frameX="-82" frameY="-20" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS return clarinet instance 10034" x="1" y="2555" width="641" height="198" rotated="true" frameX="-82" frameY="-20" frameWidth="283" frameHeight="662"/>
+	<SubTexture name="SS right instance 10000" x="728" y="979" width="669" height="338" rotated="true" frameX="-142" frameY="-61" frameWidth="480" frameHeight="732"/>
+	<SubTexture name="SS right instance 10001" x="728" y="979" width="669" height="338" rotated="true" frameX="-142" frameY="-61" frameWidth="480" frameHeight="732"/>
+	<SubTexture name="SS right instance 10002" x="2838" y="918" width="655" height="386" rotated="true" frameX="-91" frameY="-76" frameWidth="480" frameHeight="732"/>
+	<SubTexture name="SS right instance 10003" x="2838" y="918" width="655" height="386" rotated="true" frameX="-91" frameY="-76" frameWidth="480" frameHeight="732"/>
+	<SubTexture name="SS right instance 10004" x="1938" y="2555" width="638" height="387" rotated="true" frameX="-92" frameY="-93" frameWidth="480" frameHeight="732"/>
+	<SubTexture name="SS right instance 10005" x="1938" y="2555" width="638" height="387" rotated="true" frameX="-92" frameY="-93" frameWidth="480" frameHeight="732"/>
+	<SubTexture name="SS right instance 10006" x="2579" y="2773" width="635" height="389" rotated="true" frameX="-90" frameY="-96" frameWidth="480" frameHeight="732"/>
+	<SubTexture name="SS right instance 10007" x="2579" y="2773" width="635" height="389" rotated="true" frameX="-90" frameY="-96" frameWidth="480" frameHeight="732"/>
+	<SubTexture name="SS right instance 10008" x="1283" y="3096" width="634" height="394" rotated="true" frameX="-84" frameY="-97" frameWidth="480" frameHeight="732"/>
+	<SubTexture name="SS right instance 10009" x="1283" y="3096" width="634" height="394" rotated="true" frameX="-84" frameY="-97" frameWidth="480" frameHeight="732"/>
+	<SubTexture name="SS right instance 10010" x="2133" y="3429" width="397" height="633" frameX="-81" frameY="-98" frameWidth="480" frameHeight="732"/>
+	<SubTexture name="SS right instance 10011" x="2133" y="3429" width="397" height="633" frameX="-81" frameY="-98" frameWidth="480" frameHeight="732"/>
+	<SubTexture name="SS right instance 10012" x="210" y="3438" width="440" height="637" frameX="-35" frameY="-94" frameWidth="480" frameHeight="732"/>
+	<SubTexture name="SS right instance 10013" x="2714" y="1307" width="651" height="424" rotated="true" frameX="-5" frameY="-76" frameWidth="480" frameHeight="732"/>
+	<SubTexture name="SS right instance 10014" x="653" y="3252" width="625" height="224" rotated="true" frameX="-118" frameY="-84" frameWidth="480" frameHeight="732"/>
+	<SubTexture name="SS right instance 10015" x="1289" y="2683" width="638" height="206" rotated="true" frameX="-108" frameY="-77" frameWidth="480" frameHeight="732"/>
+	<SubTexture name="SS up instance 10000" x="1" y="1" width="758" height="453" rotated="true" frameX="-151" frameY="-131" frameWidth="604" frameHeight="889"/>
+	<SubTexture name="SS up instance 10001" x="1" y="1" width="758" height="453" rotated="true" frameX="-151" frameY="-131" frameWidth="604" frameHeight="889"/>
+	<SubTexture name="SS up instance 10002" x="1" y="944" width="724" height="497" rotated="true" frameX="-107" frameY="-165" frameWidth="604" frameHeight="889"/>
+	<SubTexture name="SS up instance 10003" x="1" y="944" width="724" height="497" rotated="true" frameX="-107" frameY="-165" frameWidth="604" frameHeight="889"/>
+	<SubTexture name="SS up instance 10004" x="739" y="486" width="731" height="490" rotated="true" frameX="-114" frameY="-158" frameWidth="604" frameHeight="889"/>
+	<SubTexture name="SS up instance 10005" x="739" y="486" width="731" height="490" rotated="true" frameX="-114" frameY="-158" frameWidth="604" frameHeight="889"/>
+	<SubTexture name="SS up instance 10006" x="1501" y="1" width="734" height="485" rotated="true" frameX="-117" frameY="-155" frameWidth="604" frameHeight="889"/>
+	<SubTexture name="SS up instance 10007" x="1501" y="1" width="734" height="485" rotated="true" frameX="-117" frameY="-155" frameWidth="604" frameHeight="889"/>
+	<SubTexture name="SS up instance 10008" x="1" y="457" width="735" height="484" rotated="true" frameX="-119" frameY="-154" frameWidth="604" frameHeight="889"/>
+	<SubTexture name="SS up instance 10009" x="1" y="457" width="735" height="484" rotated="true" frameX="-119" frameY="-154" frameWidth="604" frameHeight="889"/>
+	<SubTexture name="SS up instance 10010" x="762" y="1" width="736" height="482" rotated="true" frameX="-120" frameY="-153" frameWidth="604" frameHeight="889"/>
+	<SubTexture name="SS up instance 10011" x="762" y="1" width="736" height="482" rotated="true" frameX="-120" frameY="-153" frameWidth="604" frameHeight="889"/>
+	<SubTexture name="SS up instance 10012" x="2238" y="1" width="724" height="495" rotated="true" frameX="-107" frameY="-165" frameWidth="604" frameHeight="889"/>
+	<SubTexture name="SS up instance 10013" x="1473" y="489" width="704" height="597" rotated="true" frameX="-0" frameY="-185" frameWidth="604" frameHeight="889"/>
+	<SubTexture name="SS up instance 10014" x="2056" y="1316" width="651" height="199" rotated="true" frameX="-238" frameY="-238" frameWidth="604" frameHeight="889"/>
+	<SubTexture name="SS up instance 10015" x="643" y="2830" width="638" height="206" rotated="true" frameX="-233" frameY="-250" frameWidth="604" frameHeight="889"/>
+</TextureAtlas>

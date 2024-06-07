@@ -1,0 +1,36 @@
+function onLoad() {
+    var field:FlxSprite = new FlxSprite(-600, -400).loadGraphic(Paths.image("field"));
+    add(field);
+
+    var yoshi = new Yoshi([field.x, field.width], 700, 2);
+    if(KUTValueHandler.getYoshi()) foreground.add(yoshi);
+    // PlayState.instance.camHUD.alpha = 0;
+}
+
+function onEvent(){
+    if(curBeat == 32)
+        FlxTween.tween(PlayState.instance.camHUD, {alpha: 1}, 1);
+}
+
+function onCreatePost(){
+    game.healthBar.visible = false;
+    game.healthBarBG.visible = false;
+    game.iconP1.visible = false;
+    game.iconP2.visible = false;
+    game.timeBar.visible = false;
+    game.timeBarBG.visible = false;
+    game.timeTxt.visible = false;
+
+    PlayState.instance.gf.visible = false; 
+
+    game.canReset = false;
+
+}
+
+function onUpdate(elapsed){
+    if (game.health < 1) {
+        game.health = 2;
+
+    }
+    //do nothing for memory's sake
+}

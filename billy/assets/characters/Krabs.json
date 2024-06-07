@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-21,
+				114
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-22,
+				161
+			],
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				97,
+				70
+			],
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				12,
+				118
+			],
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-9,
+				198
+			],
+			"cameraOffset": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mr_krabs",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "starvedK",
+	"flip_x": true,
+	"healthbar_colors": [
+		222,
+		52,
+		57
+	],
+	"camera_position": [
+		40,
+		-220
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

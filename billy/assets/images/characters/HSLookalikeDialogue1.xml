@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="HSLookalikeDialogue1.png" width="2447" height="2499">
+  <SubTexture name="HSLookalikeDialogue0052" x="3" y="3"  width="437" height="317" frameX="-43" frameY="-185" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0055" x="446" y="3"  width="437" height="317" frameX="-43" frameY="-185" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0056" x="889" y="3"  width="437" height="317" frameX="-43" frameY="-185" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0058" x="1332" y="3"  width="437" height="317" frameX="-43" frameY="-185" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0060" x="1775" y="3"  width="437" height="317" frameX="-43" frameY="-185" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0012" x="2218" y="3"  width="226" height="375" frameX="-59" frameY="-125" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0061" x="3" y="384" width="317" height="437" rotated="true"  frameX="-43" frameY="-185" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0062" x="3" y="827" width="317" height="437" rotated="true"  frameX="-43" frameY="-185" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0065" x="3" y="1270" width="317" height="437" rotated="true"  frameX="-43" frameY="-185" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0066" x="3" y="1713" width="317" height="437" rotated="true"  frameX="-43" frameY="-185" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0036" x="3" y="2156"  width="361" height="336" frameX="-46" frameY="-167" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0097" x="370" y="2156"  width="363" height="328" frameX="-51" frameY="-175" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0088" x="739" y="2156"  width="372" height="323" frameX="-46" frameY="-180" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0093" x="1117" y="2156"  width="371" height="323" frameX="-46" frameY="-180" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0068" x="1494" y="326"  width="437" height="317" frameX="-43" frameY="-185" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0015" x="1937" y="326"  width="274" height="375" frameX="-13" frameY="-125" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0070" x="1494" y="649"  width="437" height="317" frameX="-43" frameY="-185" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0048" x="1494" y="972"  width="436" height="316" frameX="-43" frameY="-186" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0051" x="1494" y="1294"  width="436" height="316" frameX="-43" frameY="-186" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0071" x="1937" y="707"  width="434" height="316" frameX="-43" frameY="-186" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0073" x="1936" y="1029"  width="434" height="316" frameX="-43" frameY="-186" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0074" x="1936" y="1351"  width="434" height="316" frameX="-43" frameY="-186" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0076" x="1494" y="1616"  width="433" height="316" frameX="-43" frameY="-186" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0077" x="1933" y="1673"  width="433" height="316" frameX="-43" frameY="-186" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0045" x="1494" y="1938"  width="433" height="315" frameX="-43" frameY="-187" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0001" x="1494" y="2259" width="385" height="237" rotated="true"  frameX="-59" frameY="-117" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0010" x="1885" y="2259" width="384" height="234" rotated="true"  frameX="-62" frameY="-117" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0047" x="326" y="326"  width="433" height="315" frameX="-43" frameY="-187" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0040" x="765" y="326"  width="424" height="317" frameX="-44" frameY="-186" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0020" x="1195" y="326"  width="288" height="366" frameX="-0" frameY="-134" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0081" x="326" y="647"  width="423" height="316" frameX="-41" frameY="-186" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0085" x="755" y="649"  width="391" height="318" frameX="-47" frameY="-185" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue00100" x="1152" y="698"  width="303" height="369" frameX="-44" frameY="-131" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0016" x="326" y="969" width="375" height="274" rotated="true"  frameX="-13" frameY="-125" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0028" x="707" y="973" width="371" height="269" rotated="true"  frameX="-19" frameY="-129" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0027" x="1084" y="1073" width="371" height="268" rotated="true"  frameX="-20" frameY="-129" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0023" x="707" y="1248" width="370" height="286" rotated="true"  frameX="-2" frameY="-130" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0025" x="326" y="1249" width="370" height="286" rotated="true"  frameX="-2" frameY="-130" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0030" x="1083" y="1347" width="370" height="268" rotated="true"  frameX="-21" frameY="-130" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0031" x="702" y="1540" width="370" height="268" rotated="true"  frameX="-21" frameY="-130" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0021" x="326" y="1541" width="366" height="288" rotated="true"  frameX="-0" frameY="-134" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0018" x="326" y="1835" width="366" height="285" rotated="true"  frameX="-2" frameY="-134" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0017" x="1078" y="1621" width="366" height="284" rotated="true"  frameX="-3" frameY="-134" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0032" x="698" y="1814" width="351" height="274" rotated="true"  frameX="-57" frameY="-150" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0002" x="1494" y="2259" width="385" height="237" rotated="true"  frameX="-59" frameY="-117" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0003" x="1494" y="2259" width="385" height="237" rotated="true"  frameX="-59" frameY="-117" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0004" x="1494" y="2259" width="385" height="237" rotated="true"  frameX="-59" frameY="-117" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0005" x="1494" y="2259" width="385" height="237" rotated="true"  frameX="-59" frameY="-117" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0006" x="1494" y="2259" width="385" height="237" rotated="true"  frameX="-59" frameY="-117" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0007" x="1494" y="2259" width="385" height="237" rotated="true"  frameX="-59" frameY="-117" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0008" x="1494" y="2259" width="385" height="237" rotated="true"  frameX="-59" frameY="-117" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0009" x="1494" y="2259" width="385" height="237" rotated="true"  frameX="-59" frameY="-117" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0011" x="1885" y="2259" width="384" height="234" rotated="true"  frameX="-62" frameY="-117" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0013" x="2218" y="3"  width="226" height="375" frameX="-59" frameY="-125" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0014" x="2218" y="3"  width="226" height="375" frameX="-59" frameY="-125" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0019" x="326" y="1835" width="366" height="285" rotated="true"  frameX="-2" frameY="-134" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0022" x="1195" y="326"  width="288" height="366" frameX="-0" frameY="-134" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0024" x="707" y="1248" width="370" height="286" rotated="true"  frameX="-2" frameY="-130" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0026" x="707" y="1248" width="370" height="286" rotated="true"  frameX="-2" frameY="-130" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0029" x="707" y="973" width="371" height="269" rotated="true"  frameX="-19" frameY="-129" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0033" x="698" y="1814" width="351" height="274" rotated="true"  frameX="-57" frameY="-150" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0034" x="698" y="1814" width="351" height="274" rotated="true"  frameX="-57" frameY="-150" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0035" x="698" y="1814" width="351" height="274" rotated="true"  frameX="-57" frameY="-150" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0037" x="3" y="2156"  width="361" height="336" frameX="-46" frameY="-167" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0038" x="3" y="2156"  width="361" height="336" frameX="-46" frameY="-167" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0039" x="3" y="2156"  width="361" height="336" frameX="-46" frameY="-167" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0041" x="765" y="326"  width="424" height="317" frameX="-44" frameY="-186" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0042" x="765" y="326"  width="424" height="317" frameX="-44" frameY="-186" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0043" x="765" y="326"  width="424" height="317" frameX="-44" frameY="-186" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0044" x="765" y="326"  width="424" height="317" frameX="-44" frameY="-186" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0046" x="1494" y="1938"  width="433" height="315" frameX="-43" frameY="-187" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0049" x="1494" y="972"  width="436" height="316" frameX="-43" frameY="-186" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0050" x="1494" y="972"  width="436" height="316" frameX="-43" frameY="-186" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0053" x="3" y="3"  width="437" height="317" frameX="-43" frameY="-185" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0054" x="3" y="3"  width="437" height="317" frameX="-43" frameY="-185" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0057" x="889" y="3"  width="437" height="317" frameX="-43" frameY="-185" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0059" x="1332" y="3"  width="437" height="317" frameX="-43" frameY="-185" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0063" x="3" y="384" width="317" height="437" rotated="true"  frameX="-43" frameY="-185" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0064" x="3" y="384" width="317" height="437" rotated="true"  frameX="-43" frameY="-185" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0067" x="3" y="1270" width="317" height="437" rotated="true"  frameX="-43" frameY="-185" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0069" x="1494" y="326"  width="437" height="317" frameX="-43" frameY="-185" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0072" x="1937" y="707"  width="434" height="316" frameX="-43" frameY="-186" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0075" x="1937" y="707"  width="434" height="316" frameX="-43" frameY="-186" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0078" x="1494" y="1616"  width="433" height="316" frameX="-43" frameY="-186" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0079" x="1494" y="1616"  width="433" height="316" frameX="-43" frameY="-186" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0080" x="1494" y="1616"  width="433" height="316" frameX="-43" frameY="-186" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0082" x="326" y="647"  width="423" height="316" frameX="-41" frameY="-186" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0083" x="326" y="647"  width="423" height="316" frameX="-41" frameY="-186" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0084" x="326" y="647"  width="423" height="316" frameX="-41" frameY="-186" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0086" x="755" y="649"  width="391" height="318" frameX="-47" frameY="-185" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0087" x="755" y="649"  width="391" height="318" frameX="-47" frameY="-185" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0089" x="739" y="2156"  width="372" height="323" frameX="-46" frameY="-180" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0090" x="739" y="2156"  width="372" height="323" frameX="-46" frameY="-180" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0091" x="739" y="2156"  width="372" height="323" frameX="-46" frameY="-180" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0092" x="739" y="2156"  width="372" height="323" frameX="-46" frameY="-180" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0094" x="1117" y="2156"  width="371" height="323" frameX="-46" frameY="-180" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0095" x="1117" y="2156"  width="371" height="323" frameX="-46" frameY="-180" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0096" x="1117" y="2156"  width="371" height="323" frameX="-46" frameY="-180" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0098" x="370" y="2156"  width="363" height="328" frameX="-51" frameY="-175" frameWidth="480" frameHeight="503"/>
+  <SubTexture name="HSLookalikeDialogue0099" x="370" y="2156"  width="363" height="328" frameX="-51" frameY="-175" frameWidth="480" frameHeight="503"/>
+</TextureAtlas>

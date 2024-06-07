@@ -1,0 +1,158 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "dd idle"
+		},
+		{
+			"offsets": [
+				280,
+				0
+			],
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "leftreal"
+		},
+		{
+			"offsets": [
+				20,
+				-30
+			],
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "downreal"
+		},
+		{
+			"offsets": [
+				130,
+				30
+			],
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "upreal"
+		},
+		{
+			"offsets": [
+				50,
+				-10
+			],
+			"cameraOffset": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "rightreal"
+		},
+		{
+			"offsets": [
+				331,
+				0
+			],
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "MISS leftreal"
+		},
+		{
+			"offsets": [
+				45,
+				-13
+			],
+			"cameraOffset": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "MISS rightreal"
+		},
+		{
+			"offsets": [
+				15,
+				-25
+			],
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "MISS downreal"
+		},
+		{
+			"offsets": [
+				110,
+				40
+			],
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MISS upreal"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dearest_fnfbaby",
+	"position": [
+		20,
+		80
+	],
+	"healthicon": "hed",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		6,
+		6
+	],
+	"camera_position": [
+		80,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

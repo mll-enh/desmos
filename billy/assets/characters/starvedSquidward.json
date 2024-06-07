@@ -1,0 +1,127 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-21,
+				114
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SS idle instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				192
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SS right instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				271,
+				287
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SS left instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				132,
+				363
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SS up instance 1"
+		},
+		{
+			"offsets": [
+				-85,
+				114
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SS down instance 1"
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				-21,
+				131
+			],
+			"anim": "clarinetDeploy",
+			"fps": 24,
+			"name": "SS get clarinet instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				-99,
+				117
+			],
+			"anim": "clarinetOut",
+			"fps": 24,
+			"name": "SS idle clarinet instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-21,
+				135
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "clarinetReturn",
+			"loop": false,
+			"name": "SS return clarinet instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/starved_squidward",
+	"position": [
+		0,
+		190
+	],
+	"healthicon": "starved",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		255
+	],
+	"camera_position": [
+		-100,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

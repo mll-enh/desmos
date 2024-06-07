@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="THE_GOG.png" width="4276" height="1080">
+	<SubTexture name="THE FOG0000" x="1506" y="0" width="1380" height="1080" frameX="-540" frameY="-0" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="THE FOG0001" x="1506" y="0" width="1380" height="1080" frameX="-540" frameY="-0" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="THE FOG0002" x="1506" y="0" width="1380" height="1080" frameX="-540" frameY="-0" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="THE FOG0003" x="1506" y="0" width="1380" height="1080" frameX="-540" frameY="-0" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="THE FOG0004" x="0" y="0" width="1496" height="1080" frameX="-424" frameY="-0" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="THE FOG0005" x="0" y="0" width="1496" height="1080" frameX="-424" frameY="-0" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="THE FOG0006" x="0" y="0" width="1496" height="1080" frameX="-424" frameY="-0" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="THE FOG0007" x="0" y="0" width="1496" height="1080" frameX="-424" frameY="-0" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="THE FOG0008" x="2896" y="0" width="1380" height="1080" frameX="-540" frameY="-0" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="THE FOG0009" x="2896" y="0" width="1380" height="1080" frameX="-540" frameY="-0" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="THE FOG0010" x="2896" y="0" width="1380" height="1080" frameX="-540" frameY="-0" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="THE FOG0011" x="2896" y="0" width="1380" height="1080" frameX="-540" frameY="-0" frameWidth="1920" frameHeight="1080"/>
+</TextureAtlas>

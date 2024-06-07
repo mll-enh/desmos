@@ -1,0 +1,22 @@
+var text:FlxText;
+
+function onCreatePost(){
+    text = new FlxText();
+    text.cameras = [PlayState.instance.camOther];
+    text.setFormat(Paths.font("sponge.ttf"), 24, 0xFF0000FF);
+    text.screenCenter();
+    text.color = 0xFF0000FF;
+    text.y = PlayState.instance.healthBarBG.y - (text.height * 2);
+    add(text);
+
+    trace("yea!");
+}
+
+function onEvent(eventName, value1){
+    switch(eventName){
+        case 'Lyrics':
+            text.text = value1;
+            text.screenCenter();
+            text.y = PlayState.instance.healthBarBG.y - (text.height * 2);
+    }
+}

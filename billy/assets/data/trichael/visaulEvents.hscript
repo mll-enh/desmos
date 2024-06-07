@@ -1,0 +1,43 @@
+var whiteTint:FlxSprite;
+var blackTint:FlxSprite;
+
+function onCreatePost(){
+    whiteTint = new FlxSprite();
+    whiteTint.makeGraphic(4000, 4000, 0xFFFFFFFF);
+    whiteTint.scale.set(1.5, 1.5);
+    whiteTint.scrollFactor.set();
+    
+    blackTint = new FlxSprite();
+    blackTint.makeGraphic(4000, 4000, 0xFF000000);
+    blackTint.scale.set(1.5, 1.5);
+    blackTint.scrollFactor.set();
+
+    add(whiteTint);
+    add(blackTint);
+
+    PlayState.instance.camHUD.alpha = 0;
+    PlayState.instance.introSoundsSuffix = ' ';
+}
+
+function onStepHit() {
+    if (PlayState.instance.curStep == 99){
+        FlxTween.tween(blackTint, {alpha: 0});
+        FlxTween.tween(PlayState.instance.camHUD, {alpha: 1});
+    }
+    if (PlayState.instance.curStep == 114)
+        FlxTween.tween(whiteTint, {alpha: 0});        
+    if (PlayState.instance.curStep == 1012){
+        FlxTween.tween(blackTint, {alpha: 1});
+        FlxTween.tween(PlayState.instance.camHUD, {alpha: 0});
+    }
+    if (PlayState.instance.curStep == 1028){
+        FlxTween.tween(blackTint, {alpha: 0}, 0.5);
+        FlxTween.tween(PlayState.instance.camHUD, {alpha: 1}, 0.5);
+    }
+    if (PlayState.instance.curStep == 1680)
+        FlxTween.tween(whiteTint, {alpha: 1}, 2);
+    if (PlayState.instance.curStep == 1808){
+        FlxTween.tween(blackTint, {alpha: 1});
+        FlxTween.tween(PlayState.instance.camHUD, {alpha: 0});
+    }
+}

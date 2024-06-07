@@ -1,0 +1,221 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"HUD Fade",
+						"0",
+						"2"
+					]
+				]
+			],
+			[
+				2944.78527607362,
+				[
+					[
+						"Camera Zoom",
+						"1.25",
+						"24, quadIn"
+					]
+				]
+			],
+			[
+				4601.22699386503,
+				[
+					[
+						"Lyrics",
+						"Tonight we rehearse for the greatest concert to ever be held,",
+						""
+					]
+				]
+			],
+			[
+				7223.9263803681,
+				[
+					[
+						"Update Lyrics",
+						"concert to ever",
+						""
+					]
+				]
+			],
+			[
+				9110.42944785276,
+				[
+					[
+						"Lyrics",
+						"Crustacean.",
+						""
+					]
+				]
+			],
+			[
+				10306.7484662577,
+				[
+					[
+						"Update Lyrics",
+						"crustacean.",
+						""
+					]
+				]
+			],
+			[
+				11134.9693251534,
+				[
+					[
+						"Lyrics",
+						"A symphony unmatched by even Neptune himself!",
+						""
+					]
+				]
+			],
+			[
+				15736.1963190184,
+				[
+					[
+						"Update Lyrics",
+						"and YOU'VE got",
+						""
+					]
+				]
+			],
+			[
+				15828.2208588957,
+				[
+					[
+						"Lyrics",
+						"..And YOU'VE got the lead role!",
+						""
+					]
+				]
+			],
+			[
+				19601.226993865,
+				[
+					[
+						"Lyrics",
+						"Won't you join me?",
+						""
+					]
+				]
+			],
+			[
+				20613.4969325153,
+				[
+					[
+						"Camera Zoom",
+						"1.2",
+						"4, cubeInOut"
+					]
+				]
+			],
+			[
+				22085.8895705521,
+				[
+					[
+						"HUD Fade",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				23558.282208589,
+				[
+					[
+						"Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				94233.1288343557,
+				[
+					[
+						"Play Animation",
+						"clarinetDeploy",
+						"Dad"
+					]
+				]
+			],
+			[
+				94693.2515337422,
+				[
+					[
+						"Play Animation",
+						"clarinetOut",
+						"Dad"
+					]
+				]
+			],
+			[
+				106012.26993865,
+				[
+					[
+						"Change Character",
+						"BF",
+						"mrKrabsViolin"
+					]
+				]
+			],
+			[
+				117791.411042945,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Krabs"
+					]
+				]
+			],
+			[
+				122208.588957055,
+				[
+					[
+						"Play Animation",
+						"clarinetReturn",
+						"Dad"
+					]
+				]
+			],
+			[
+				194355.828220859,
+				[
+					[
+						"Blue",
+						"on",
+						""
+					]
+				]
+			],
+			[
+				240000,
+				[
+					[
+						"Blue",
+						"off",
+						""
+					]
+				]
+			],
+			[
+				240552.147239263,
+				[
+					[
+						"Byeeee",
+						"0",
+						""
+					],
+					[
+						"Camera Flash",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}

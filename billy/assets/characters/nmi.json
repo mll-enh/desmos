@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "NMI Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				40,
+				0
+			],
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "NMI Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				-40
+			],
+			"anim": "singUP",
+			"loop": false,
+			"name": "NMI Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				40
+			],
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "NMI Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				-40,
+				0
+			],
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "NMI Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NMI",
+	"position": [
+		250,
+		360
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-110,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

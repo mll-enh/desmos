@@ -1,0 +1,115 @@
+addHaxeLibrary('ShaderFilter', 'openfl.filters');
+addHaxeLibrary('ColorSwap', 'gameObjects.shader');
+addHaxeLibrary('FlxBasic', 'flixel');
+
+var interior:FlxSprite;
+var fart:FlxSprite;
+var fart2:FlxSprite;
+var sponge:FlxSprite;
+var black:FlxSprite;
+var yoshi:Yoshi;
+
+function onLoad() {
+    var x = -50;
+    var y = 30;
+
+    fart = new FlxSprite(x,y);
+    fart.frames = Paths.getSparrowAtlas('TheBg');
+    fart.animation.addByPrefix('i','the actual background',24);
+    fart.animation.play('i');
+    add(fart);
+
+    fart2 = new FlxSprite(x,y);
+    fart2.frames = Paths.getSparrowAtlas('Stage');
+    fart2.animation.addByPrefix('i','Stage',24);
+    fart2.animation.play('i');
+    add(fart2);
+
+    interior = new FlxSprite(x,y);
+    interior.frames = Paths.getSparrowAtlas('THE_GOG');
+    interior.animation.addByPrefix('i','THE FOG',24);
+    interior.animation.play('i');
+    add(interior);
+
+    sponge = new FlxSprite(x + 448,y + 610);
+    sponge.frames = Paths.getSparrowAtlas('IHadABobNowHesGone');
+    sponge.animation.addByPrefix('i','I',24);
+    sponge.animation.play('i');
+    sponge.scale.set(1.2,1.2);
+    sponge.updateHitbox();
+    foreground.add(sponge);
+
+    for (i in [fart,fart2,interior]) {
+        i.scale.set(1.15,1.15);
+        i.updateHitbox();
+    }
+
+    
+    black = new FlxSprite().makeGraphic(1, 1, 0xFF000000);
+    //add(black);
+    black.alpha = 0;
+    black.scrollFactor.set();
+    black.setGraphicSize(1280 / PlayState.instance.defaultCamZoom);
+
+    yoshi = new Yoshi([350, 1500], 350, 1);
+    yoshi.colorSwap.hue = 100;
+    yoshi.colorSwap.brightness = -0.5;
+    if(KUTValueHandler.getYoshi()) add(yoshi);
+
+}
+//zoom in on teuthida, zoom out on krabs
+function onMoveCamera(){
+    if(PlayState.instance.whosTurn == "dad")
+        PlayState.instance.defaultCamZoom = 1.05;
+    else
+        PlayState.instance.defaultCamZoom = 0.825;
+}
+
+var bluemode:Array<FlxBasic>;
+
+function onCreatePost(){
+    //boyfriend.visible = false;
+
+    bluemode = [
+        PlayState.instance.healthBar, 
+        PlayState.instance.healthBarBG, 
+        PlayState.instance.iconP1, 
+        PlayState.instance.iconP2,
+        PlayState.instance.dad, 
+        PlayState.instance.boyfriend, 
+        PlayState.instance.gf,
+        fart,
+        fart2,
+        interior,
+        sponge
+    ];
+
+    remove(boyfriendGroup);
+    foreground.add(boyfriendGroup); //this foreground stuff is actually dumb just insert em into desired idx. maybe imma re work this 
+
+    modManager.queueSet(0, "opponentSwap", 0.5);
+    modManager.queueSet(0, "alpha", 1, 1);
+}
+
+function onEvent(eventName, value1, value2){
+    if(eventName == 'Blue'){
+        if(value1 == 'on'){
+            PlayState.instance.camOther.flash(FlxColor.fromRGB(0,0,255), 0.75);
+            for (i in bluemode){
+                i.color = FlxColor.fromRGB(0, 0, 255);
+            }
+            modManager.setValue("tipsy", .5);
+            modManager.setValue("squish", .5);
+            modManager.queueEase(curStep, curStep + 4, "squish", 0, 'circOut');
+        }else{
+            PlayState.instance.camOther.flash(FlxColor.fromRGB(255, 59, 59), 1);
+            for (i in bluemode){
+                i.color = FlxColor.fromRGB(255, 255, 255);
+            }
+
+            modManager.setValue("tipsy", .0);
+            modManager.setValue("squish", .5);
+            modManager.queueEase(curStep, curStep + 4, "squish", 0, 'circOut');
+        }
+    }
+}

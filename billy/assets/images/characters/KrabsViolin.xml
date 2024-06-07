@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="KrabsViolin.png" width="4064" height="2804">
+	<SubTexture name="ViolinDown0000" x="3583" y="554" width="474" height="530" frameX="-0" frameY="-21" frameWidth="474" frameHeight="551"/>
+	<SubTexture name="ViolinDown0001" x="3589" y="1" width="474" height="530" frameX="-0" frameY="-21" frameWidth="474" frameHeight="551"/>
+	<SubTexture name="ViolinDown0002" x="3126" y="554" width="454" height="546" frameX="-17" frameY="-5" frameWidth="474" frameHeight="551"/>
+	<SubTexture name="ViolinDown0003" x="3566" y="1103" width="454" height="546" frameX="-17" frameY="-5" frameWidth="474" frameHeight="551"/>
+	<SubTexture name="ViolinDown0004" x="446" y="1684" width="443" height="551" frameX="-24" frameY="-0" frameWidth="474" frameHeight="551"/>
+	<SubTexture name="ViolinDown0005" x="891" y="1111" width="443" height="551" frameX="-24" frameY="-0" frameWidth="474" frameHeight="551"/>
+	<SubTexture name="ViolinDown0006" x="446" y="2238" width="443" height="551" frameX="-24" frameY="-0" frameWidth="474" frameHeight="551"/>
+	<SubTexture name="ViolinDown0007" x="446" y="2238" width="443" height="551" frameX="-24" frameY="-0" frameWidth="474" frameHeight="551"/>
+	<SubTexture name="ViolinDown0008" x="896" y="1" width="443" height="551" frameX="-24" frameY="-0" frameWidth="474" frameHeight="551"/>
+	<SubTexture name="ViolinDown0009" x="896" y="1" width="443" height="551" frameX="-24" frameY="-0" frameWidth="474" frameHeight="551"/>
+	<SubTexture name="ViolinDown0010" x="896" y="555" width="443" height="551" frameX="-24" frameY="-0" frameWidth="474" frameHeight="551"/>
+	<SubTexture name="ViolinDown0011" x="896" y="555" width="443" height="551" frameX="-24" frameY="-0" frameWidth="474" frameHeight="551"/>
+	<SubTexture name="ViolinDown0012" x="892" y="1665" width="443" height="551" frameX="-24" frameY="-0" frameWidth="474" frameHeight="551"/>
+	<SubTexture name="ViolinDown0013" x="892" y="1665" width="443" height="551" frameX="-24" frameY="-0" frameWidth="474" frameHeight="551"/>
+	<SubTexture name="ViolinLeft0000" x="1" y="2251" width="442" height="552" frameX="-0" frameY="-1" frameWidth="466" frameHeight="553"/>
+	<SubTexture name="ViolinLeft0001" x="446" y="1129" width="442" height="552" frameX="-0" frameY="-1" frameWidth="466" frameHeight="553"/>
+	<SubTexture name="ViolinLeft0002" x="447" y="1" width="446" height="552" frameX="-15" frameY="-0" frameWidth="466" frameHeight="553"/>
+	<SubTexture name="ViolinLeft0003" x="447" y="556" width="446" height="552" frameX="-15" frameY="-0" frameWidth="466" frameHeight="553"/>
+	<SubTexture name="ViolinLeft0004" x="1337" y="1109" width="443" height="551" frameX="-23" frameY="-0" frameWidth="466" frameHeight="553"/>
+	<SubTexture name="ViolinLeft0005" x="892" y="2219" width="443" height="551" frameX="-23" frameY="-0" frameWidth="466" frameHeight="553"/>
+	<SubTexture name="ViolinLeft0006" x="1342" y="1" width="443" height="551" frameX="-23" frameY="-0" frameWidth="466" frameHeight="553"/>
+	<SubTexture name="ViolinLeft0007" x="1342" y="1" width="443" height="551" frameX="-23" frameY="-0" frameWidth="466" frameHeight="553"/>
+	<SubTexture name="ViolinLeft0008" x="1342" y="555" width="443" height="551" frameX="-23" frameY="-0" frameWidth="466" frameHeight="553"/>
+	<SubTexture name="ViolinLeft0009" x="1342" y="555" width="443" height="551" frameX="-23" frameY="-0" frameWidth="466" frameHeight="553"/>
+	<SubTexture name="ViolinLeft0010" x="1338" y="1663" width="443" height="551" frameX="-23" frameY="-0" frameWidth="466" frameHeight="553"/>
+	<SubTexture name="ViolinLeft0011" x="1338" y="1663" width="443" height="551" frameX="-23" frameY="-0" frameWidth="466" frameHeight="553"/>
+	<SubTexture name="ViolinLeft0012" x="1783" y="1109" width="443" height="551" frameX="-23" frameY="-0" frameWidth="466" frameHeight="553"/>
+	<SubTexture name="ViolinLeft0013" x="1783" y="1109" width="443" height="551" frameX="-23" frameY="-0" frameWidth="466" frameHeight="553"/>
+	<SubTexture name="ViolinRight0000" x="1338" y="2217" width="471" height="551" frameX="-0" frameY="-0" frameWidth="471" frameHeight="551"/>
+	<SubTexture name="ViolinRight0001" x="1784" y="1663" width="471" height="551" frameX="-0" frameY="-0" frameWidth="471" frameHeight="551"/>
+	<SubTexture name="ViolinRight0002" x="3594" y="2217" width="460" height="550" frameX="-4" frameY="-0" frameWidth="471" frameHeight="551"/>
+	<SubTexture name="ViolinRight0003" x="3126" y="1" width="460" height="550" frameX="-4" frameY="-0" frameWidth="471" frameHeight="551"/>
+	<SubTexture name="ViolinRight0004" x="1812" y="2217" width="443" height="551" frameX="-15" frameY="-0" frameWidth="471" frameHeight="551"/>
+	<SubTexture name="ViolinRight0005" x="1788" y="1" width="443" height="551" frameX="-15" frameY="-0" frameWidth="471" frameHeight="551"/>
+	<SubTexture name="ViolinRight0006" x="1788" y="555" width="443" height="551" frameX="-15" frameY="-0" frameWidth="471" frameHeight="551"/>
+	<SubTexture name="ViolinRight0007" x="1788" y="555" width="443" height="551" frameX="-15" frameY="-0" frameWidth="471" frameHeight="551"/>
+	<SubTexture name="ViolinRight0008" x="2229" y="1109" width="443" height="551" frameX="-15" frameY="-0" frameWidth="471" frameHeight="551"/>
+	<SubTexture name="ViolinRight0009" x="2229" y="1109" width="443" height="551" frameX="-15" frameY="-0" frameWidth="471" frameHeight="551"/>
+	<SubTexture name="ViolinRight0010" x="2234" y="1" width="443" height="551" frameX="-15" frameY="-0" frameWidth="471" frameHeight="551"/>
+	<SubTexture name="ViolinRight0011" x="2234" y="1" width="443" height="551" frameX="-15" frameY="-0" frameWidth="471" frameHeight="551"/>
+	<SubTexture name="ViolinRight0012" x="2234" y="555" width="443" height="551" frameX="-15" frameY="-0" frameWidth="471" frameHeight="551"/>
+	<SubTexture name="ViolinRight0013" x="2234" y="555" width="443" height="551" frameX="-15" frameY="-0" frameWidth="471" frameHeight="551"/>
+	<SubTexture name="ViolinUp0000" x="1" y="1" width="443" height="561" frameX="-0" frameY="-0" frameWidth="454" frameHeight="561"/>
+	<SubTexture name="ViolinUp0001" x="1" y="565" width="443" height="561" frameX="-0" frameY="-0" frameWidth="454" frameHeight="561"/>
+	<SubTexture name="ViolinUp0002" x="1" y="1129" width="442" height="558" frameX="-7" frameY="-3" frameWidth="454" frameHeight="561"/>
+	<SubTexture name="ViolinUp0003" x="1" y="1690" width="442" height="558" frameX="-7" frameY="-3" frameWidth="454" frameHeight="561"/>
+	<SubTexture name="ViolinUp0004" x="2258" y="1663" width="443" height="551" frameX="-11" frameY="-10" frameWidth="454" frameHeight="561"/>
+	<SubTexture name="ViolinUp0005" x="2675" y="1109" width="443" height="551" frameX="-11" frameY="-10" frameWidth="454" frameHeight="561"/>
+	<SubTexture name="ViolinUp0006" x="2258" y="2217" width="443" height="551" frameX="-11" frameY="-10" frameWidth="454" frameHeight="561"/>
+	<SubTexture name="ViolinUp0007" x="2258" y="2217" width="443" height="551" frameX="-11" frameY="-10" frameWidth="454" frameHeight="561"/>
+	<SubTexture name="ViolinUp0008" x="2680" y="1" width="443" height="551" frameX="-11" frameY="-10" frameWidth="454" frameHeight="561"/>
+	<SubTexture name="ViolinUp0009" x="2680" y="1" width="443" height="551" frameX="-11" frameY="-10" frameWidth="454" frameHeight="561"/>
+	<SubTexture name="ViolinUp0010" x="2680" y="555" width="443" height="551" frameX="-11" frameY="-10" frameWidth="454" frameHeight="561"/>
+	<SubTexture name="ViolinUp0011" x="2680" y="555" width="443" height="551" frameX="-11" frameY="-10" frameWidth="454" frameHeight="561"/>
+	<SubTexture name="ViolinUp0012" x="2704" y="1663" width="443" height="551" frameX="-11" frameY="-10" frameWidth="454" frameHeight="561"/>
+	<SubTexture name="ViolinUp0013" x="2704" y="1663" width="443" height="551" frameX="-11" frameY="-10" frameWidth="454" frameHeight="561"/>
+	<SubTexture name="Violinidle0000" x="3121" y="1109" width="442" height="551" frameX="-0" frameY="-0" frameWidth="443" frameHeight="551"/>
+	<SubTexture name="Violinidle0001" x="3121" y="1109" width="442" height="551" frameX="-0" frameY="-0" frameWidth="443" frameHeight="551"/>
+	<SubTexture name="Violinidle0002" x="2704" y="2217" width="442" height="551" frameX="-0" frameY="-0" frameWidth="443" frameHeight="551"/>
+	<SubTexture name="Violinidle0003" x="2704" y="2217" width="442" height="551" frameX="-0" frameY="-0" frameWidth="443" frameHeight="551"/>
+	<SubTexture name="Violinidle0004" x="3149" y="2217" width="442" height="551" frameX="-0" frameY="-0" frameWidth="443" frameHeight="551"/>
+	<SubTexture name="Violinidle0005" x="3149" y="2217" width="442" height="551" frameX="-0" frameY="-0" frameWidth="443" frameHeight="551"/>
+	<SubTexture name="Violinidle0006" x="3150" y="1663" width="442" height="551" frameX="-0" frameY="-0" frameWidth="443" frameHeight="551"/>
+	<SubTexture name="Violinidle0007" x="3150" y="1663" width="442" height="551" frameX="-0" frameY="-0" frameWidth="443" frameHeight="551"/>
+</TextureAtlas>

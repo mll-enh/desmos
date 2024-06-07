@@ -1,0 +1,11 @@
+{
+	"directory": "weeklord",
+	"defaultZoom": 0.9,
+	"isPixelStage": false,
+
+	"boyfriend": [900, 100],
+	"girlfriend": [430, 1300],
+	"opponent": [60, 100],
+	
+	"hide_girlfriend": true
+}

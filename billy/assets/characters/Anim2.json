@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-93,
+				40
+			],
+			"indices": [],
+			"fps": 0,
+			"anim": "idle",
+			"loop": false,
+			"name": "HSLookalikeDialogue0"
+		},
+		{
+			"offsets": [
+				-93,
+				40
+			],
+			"indices": [],
+			"fps": 31,
+			"anim": "a2",
+			"loop": false,
+			"name": "HSLookalikeDialogue0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HSLookalikeDialogue2",
+	"position": [
+		160,
+		-50
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-200,
+		-240
+	],
+	"sing_duration": 6.1,
+	"scale": 2.34
+}

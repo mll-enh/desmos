@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="starved_plankton.png" width="428" height="376">
+	<SubTexture name="SP down0000" x="376" y="306" width="51" height="49" frameX="-0" frameY="-12" frameWidth="52" frameHeight="62"/>
+	<SubTexture name="SP down0001" x="376" y="306" width="51" height="49" frameX="-0" frameY="-12" frameWidth="52" frameHeight="62"/>
+	<SubTexture name="SP down0002" x="205" y="135" width="49" height="62" frameX="-2" frameY="-0" frameWidth="52" frameHeight="62"/>
+	<SubTexture name="SP down0003" x="205" y="135" width="49" height="62" frameX="-2" frameY="-0" frameWidth="52" frameHeight="62"/>
+	<SubTexture name="SP down0004" x="1" y="326" width="60" height="49" rotated="true" frameX="-1" frameY="-2" frameWidth="52" frameHeight="62"/>
+	<SubTexture name="SP down0005" x="1" y="326" width="60" height="49" rotated="true" frameX="-1" frameY="-2" frameWidth="52" frameHeight="62"/>
+	<SubTexture name="SP down0006" x="64" y="326" width="60" height="49" rotated="true" frameX="-2" frameY="-2" frameWidth="52" frameHeight="62"/>
+	<SubTexture name="SP down0007" x="64" y="326" width="60" height="49" rotated="true" frameX="-2" frameY="-2" frameWidth="52" frameHeight="62"/>
+	<SubTexture name="SP down0008" x="127" y="326" width="60" height="49" rotated="true" frameX="-2" frameY="-2" frameWidth="52" frameHeight="62"/>
+	<SubTexture name="SP down0009" x="127" y="326" width="60" height="49" rotated="true" frameX="-2" frameY="-2" frameWidth="52" frameHeight="62"/>
+	<SubTexture name="SP down0010" x="190" y="326" width="60" height="49" rotated="true" frameX="-1" frameY="-2" frameWidth="52" frameHeight="62"/>
+	<SubTexture name="SP down0011" x="190" y="326" width="60" height="49" rotated="true" frameX="-1" frameY="-2" frameWidth="52" frameHeight="62"/>
+	<SubTexture name="SP down0012" x="253" y="324" width="60" height="49" rotated="true" frameX="-1" frameY="-2" frameWidth="52" frameHeight="62"/>
+	<SubTexture name="SP down0013" x="253" y="324" width="60" height="49" rotated="true" frameX="-1" frameY="-2" frameWidth="52" frameHeight="62"/>
+	<SubTexture name="SP down0014" x="253" y="324" width="60" height="49" rotated="true" frameX="-1" frameY="-2" frameWidth="52" frameHeight="62"/>
+	<SubTexture name="SP idle0000" x="199" y="268" width="61" height="52" rotated="true" frameX="-2" frameY="-1" frameWidth="54" frameHeight="63"/>
+	<SubTexture name="SP idle0001" x="131" y="269" width="61" height="54" rotated="true" frameX="-0" frameY="-1" frameWidth="54" frameHeight="63"/>
+	<SubTexture name="SP idle0002" x="131" y="269" width="61" height="54" rotated="true" frameX="-0" frameY="-1" frameWidth="54" frameHeight="63"/>
+	<SubTexture name="SP idle0003" x="131" y="269" width="61" height="54" rotated="true" frameX="-0" frameY="-1" frameWidth="54" frameHeight="63"/>
+	<SubTexture name="SP idle0004" x="1" y="206" width="62" height="54" rotated="true" frameX="-0" frameY="-1" frameWidth="54" frameHeight="63"/>
+	<SubTexture name="SP idle0005" x="1" y="206" width="62" height="54" rotated="true" frameX="-0" frameY="-1" frameWidth="54" frameHeight="63"/>
+	<SubTexture name="SP idle0006" x="1" y="206" width="62" height="54" rotated="true" frameX="-0" frameY="-1" frameWidth="54" frameHeight="63"/>
+	<SubTexture name="SP idle0007" x="199" y="268" width="61" height="52" rotated="true" frameX="-2" frameY="-1" frameWidth="54" frameHeight="63"/>
+	<SubTexture name="SP idle0008" x="199" y="268" width="61" height="52" rotated="true" frameX="-2" frameY="-1" frameWidth="54" frameHeight="63"/>
+	<SubTexture name="SP idle0009" x="199" y="268" width="61" height="52" rotated="true" frameX="-2" frameY="-1" frameWidth="54" frameHeight="63"/>
+	<SubTexture name="SP idle0010" x="131" y="269" width="61" height="54" rotated="true" frameX="-0" frameY="-1" frameWidth="54" frameHeight="63"/>
+	<SubTexture name="SP idle0011" x="131" y="269" width="61" height="54" rotated="true" frameX="-0" frameY="-1" frameWidth="54" frameHeight="63"/>
+	<SubTexture name="SP idle0012" x="131" y="269" width="61" height="54" rotated="true" frameX="-0" frameY="-1" frameWidth="54" frameHeight="63"/>
+	<SubTexture name="SP idle0013" x="1" y="206" width="62" height="54" rotated="true" frameX="-0" frameY="-1" frameWidth="54" frameHeight="63"/>
+	<SubTexture name="SP idle0014" x="1" y="206" width="62" height="54" rotated="true" frameX="-0" frameY="-1" frameWidth="54" frameHeight="63"/>
+	<SubTexture name="SP left0000" x="257" y="135" width="62" height="56" rotated="true" frameX="-0" frameY="-0" frameWidth="65" frameHeight="67"/>
+	<SubTexture name="SP left0001" x="257" y="135" width="62" height="56" rotated="true" frameX="-0" frameY="-0" frameWidth="65" frameHeight="67"/>
+	<SubTexture name="SP left0002" x="198" y="1" width="62" height="64" frameX="-3" frameY="-3" frameWidth="65" frameHeight="67"/>
+	<SubTexture name="SP left0003" x="198" y="1" width="62" height="64" frameX="-3" frameY="-3" frameWidth="65" frameHeight="67"/>
+	<SubTexture name="SP left0004" x="198" y="68" width="61" height="64" frameX="-2" frameY="-3" frameWidth="65" frameHeight="67"/>
+	<SubTexture name="SP left0005" x="198" y="68" width="61" height="64" frameX="-2" frameY="-3" frameWidth="65" frameHeight="67"/>
+	<SubTexture name="SP left0006" x="141" y="135" width="61" height="64" frameX="-2" frameY="-3" frameWidth="65" frameHeight="67"/>
+	<SubTexture name="SP left0007" x="141" y="135" width="61" height="64" frameX="-2" frameY="-3" frameWidth="65" frameHeight="67"/>
+	<SubTexture name="SP left0008" x="199" y="202" width="61" height="63" frameX="-2" frameY="-4" frameWidth="65" frameHeight="67"/>
+	<SubTexture name="SP left0009" x="199" y="202" width="61" height="63" frameX="-2" frameY="-4" frameWidth="65" frameHeight="67"/>
+	<SubTexture name="SP left0010" x="83" y="202" width="60" height="64" frameX="-2" frameY="-3" frameWidth="65" frameHeight="67"/>
+	<SubTexture name="SP left0011" x="83" y="202" width="60" height="64" frameX="-2" frameY="-3" frameWidth="65" frameHeight="67"/>
+	<SubTexture name="SP left0012" x="83" y="202" width="60" height="64" frameX="-2" frameY="-3" frameWidth="65" frameHeight="67"/>
+	<SubTexture name="SP left0013" x="83" y="202" width="60" height="64" frameX="-2" frameY="-3" frameWidth="65" frameHeight="67"/>
+	<SubTexture name="SP left0014" x="83" y="202" width="60" height="64" frameX="-2" frameY="-3" frameWidth="65" frameHeight="67"/>
+	<SubTexture name="SP pop up0000" x="322" y="1" width="52" height="61" frameX="-2" frameY="-59" frameWidth="88" frameHeight="120"/>
+	<SubTexture name="SP pop up0001" x="322" y="1" width="52" height="61" frameX="-2" frameY="-59" frameWidth="88" frameHeight="120"/>
+	<SubTexture name="SP pop up0002" x="322" y="65" width="52" height="61" frameX="-0" frameY="-46" frameWidth="88" frameHeight="120"/>
+	<SubTexture name="SP pop up0003" x="262" y="68" width="51" height="62" frameX="-1" frameY="-45" frameWidth="88" frameHeight="120"/>
+	<SubTexture name="SP pop up0004" x="322" y="129" width="52" height="61" frameX="-10" frameY="-27" frameWidth="88" frameHeight="120"/>
+	<SubTexture name="SP pop up0005" x="322" y="129" width="52" height="61" frameX="-10" frameY="-27" frameWidth="88" frameHeight="120"/>
+	<SubTexture name="SP pop up0006" x="263" y="1" width="53" height="62" frameX="-26" frameY="-13" frameWidth="88" frameHeight="120"/>
+	<SubTexture name="SP pop up0007" x="263" y="1" width="53" height="62" frameX="-26" frameY="-13" frameWidth="88" frameHeight="120"/>
+	<SubTexture name="SP pop up0008" x="263" y="194" width="55" height="62" frameX="-32" frameY="-3" frameWidth="88" frameHeight="120"/>
+	<SubTexture name="SP pop up0009" x="83" y="132" width="55" height="65" frameX="-33" frameY="-0" frameWidth="88" frameHeight="120"/>
+	<SubTexture name="SP pop up0010" x="1" y="269" width="62" height="54" rotated="true" frameX="-31" frameY="-4" frameWidth="88" frameHeight="120"/>
+	<SubTexture name="SP pop up0011" x="1" y="269" width="62" height="54" rotated="true" frameX="-31" frameY="-4" frameWidth="88" frameHeight="120"/>
+	<SubTexture name="SP pop up0012" x="322" y="193" width="52" height="61" frameX="-33" frameY="-6" frameWidth="88" frameHeight="120"/>
+	<SubTexture name="SP pop up0013" x="322" y="193" width="52" height="61" frameX="-33" frameY="-6" frameWidth="88" frameHeight="120"/>
+	<SubTexture name="SP pop up0014" x="263" y="259" width="52" height="62" frameX="-33" frameY="-5" frameWidth="88" frameHeight="120"/>
+	<SubTexture name="SP pop up0015" x="66" y="269" width="62" height="54" rotated="true" frameX="-31" frameY="-5" frameWidth="88" frameHeight="120"/>
+	<SubTexture name="SP pop up0016" x="66" y="269" width="62" height="54" rotated="true" frameX="-31" frameY="-5" frameWidth="88" frameHeight="120"/>
+	<SubTexture name="SP pop up0017" x="66" y="269" width="62" height="54" rotated="true" frameX="-31" frameY="-5" frameWidth="88" frameHeight="120"/>
+	<SubTexture name="SP pop up0018" x="318" y="259" width="54" height="61" frameX="-31" frameY="-6" frameWidth="88" frameHeight="120"/>
+	<SubTexture name="SP pop up0019" x="318" y="259" width="54" height="61" frameX="-31" frameY="-6" frameWidth="88" frameHeight="120"/>
+	<SubTexture name="SP pop up0020" x="318" y="259" width="54" height="61" frameX="-31" frameY="-6" frameWidth="88" frameHeight="120"/>
+	<SubTexture name="SP pop up0021" x="263" y="259" width="52" height="62" frameX="-33" frameY="-5" frameWidth="88" frameHeight="120"/>
+	<SubTexture name="SP pop up0022" x="263" y="259" width="52" height="62" frameX="-33" frameY="-5" frameWidth="88" frameHeight="120"/>
+	<SubTexture name="SP right0000" x="146" y="202" width="50" height="64" rotated="true" frameX="-8" frameY="-0" frameWidth="72" frameHeight="51"/>
+	<SubTexture name="SP right0001" x="146" y="202" width="50" height="64" rotated="true" frameX="-8" frameY="-0" frameWidth="72" frameHeight="51"/>
+	<SubTexture name="SP right0002" x="377" y="246" width="50" height="57" rotated="true" frameX="-0" frameY="-0" frameWidth="72" frameHeight="51"/>
+	<SubTexture name="SP right0003" x="377" y="246" width="50" height="57" rotated="true" frameX="-0" frameY="-0" frameWidth="72" frameHeight="51"/>
+	<SubTexture name="SP right0004" x="316" y="324" width="57" height="50" frameX="-1" frameY="-0" frameWidth="72" frameHeight="51"/>
+	<SubTexture name="SP right0005" x="316" y="324" width="57" height="50" frameX="-1" frameY="-0" frameWidth="72" frameHeight="51"/>
+	<SubTexture name="SP right0006" x="377" y="63" width="50" height="58" rotated="true" frameX="-2" frameY="-0" frameWidth="72" frameHeight="51"/>
+	<SubTexture name="SP right0007" x="377" y="63" width="50" height="58" rotated="true" frameX="-2" frameY="-0" frameWidth="72" frameHeight="51"/>
+	<SubTexture name="SP right0008" x="377" y="1" width="50" height="59" rotated="true" frameX="-1" frameY="-0" frameWidth="72" frameHeight="51"/>
+	<SubTexture name="SP right0009" x="377" y="1" width="50" height="59" rotated="true" frameX="-1" frameY="-0" frameWidth="72" frameHeight="51"/>
+	<SubTexture name="SP right0010" x="377" y="124" width="50" height="58" rotated="true" frameX="-1" frameY="-0" frameWidth="72" frameHeight="51"/>
+	<SubTexture name="SP right0011" x="377" y="124" width="50" height="58" rotated="true" frameX="-1" frameY="-0" frameWidth="72" frameHeight="51"/>
+	<SubTexture name="SP right0012" x="377" y="185" width="50" height="58" rotated="true" frameX="-2" frameY="-0" frameWidth="72" frameHeight="51"/>
+	<SubTexture name="SP right0013" x="377" y="185" width="50" height="58" rotated="true" frameX="-2" frameY="-0" frameWidth="72" frameHeight="51"/>
+	<SubTexture name="SP right0014" x="377" y="185" width="50" height="58" rotated="true" frameX="-2" frameY="-0" frameWidth="72" frameHeight="51"/>
+	<SubTexture name="SP up0000" x="1" y="1" width="46" height="106" frameX="-0" frameY="-0" frameWidth="47" frameHeight="106"/>
+	<SubTexture name="SP up0001" x="1" y="1" width="46" height="106" frameX="-0" frameY="-0" frameWidth="47" frameHeight="106"/>
+	<SubTexture name="SP up0002" x="99" y="1" width="47" height="79" frameX="-0" frameY="-27" frameWidth="47" frameHeight="106"/>
+	<SubTexture name="SP up0003" x="99" y="1" width="47" height="79" frameX="-0" frameY="-27" frameWidth="47" frameHeight="106"/>
+	<SubTexture name="SP up0004" x="50" y="1" width="46" height="80" frameX="-0" frameY="-25" frameWidth="47" frameHeight="106"/>
+	<SubTexture name="SP up0005" x="50" y="1" width="46" height="80" frameX="-0" frameY="-25" frameWidth="47" frameHeight="106"/>
+	<SubTexture name="SP up0006" x="1" y="110" width="79" height="45" rotated="true" frameX="-0" frameY="-27" frameWidth="47" frameHeight="106"/>
+	<SubTexture name="SP up0007" x="1" y="110" width="79" height="45" rotated="true" frameX="-0" frameY="-27" frameWidth="47" frameHeight="106"/>
+	<SubTexture name="SP up0008" x="149" y="1" width="46" height="79" frameX="-0" frameY="-27" frameWidth="47" frameHeight="106"/>
+	<SubTexture name="SP up0009" x="149" y="1" width="46" height="79" frameX="-0" frameY="-27" frameWidth="47" frameHeight="106"/>
+	<SubTexture name="SP up0010" x="99" y="83" width="79" height="46" rotated="true" frameX="-0" frameY="-26" frameWidth="47" frameHeight="106"/>
+	<SubTexture name="SP up0011" x="99" y="83" width="79" height="46" rotated="true" frameX="-0" frameY="-26" frameWidth="47" frameHeight="106"/>
+	<SubTexture name="SP up0012" x="1" y="158" width="79" height="45" rotated="true" frameX="-1" frameY="-26" frameWidth="47" frameHeight="106"/>
+	<SubTexture name="SP up0013" x="1" y="158" width="79" height="45" rotated="true" frameX="-1" frameY="-26" frameWidth="47" frameHeight="106"/>
+	<SubTexture name="SP up0014" x="1" y="158" width="79" height="45" rotated="true" frameX="-1" frameY="-26" frameWidth="47" frameHeight="106"/>
+</TextureAtlas>

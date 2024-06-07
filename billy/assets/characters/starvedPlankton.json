@@ -1,0 +1,132 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-18,
+				111
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SP idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				154
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SP up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				110
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SP down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-12,
+				116
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SP left"
+		},
+		{
+			"offsets": [
+				-15,
+				97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SP right"
+		},
+		{
+			"offsets": [
+				13,
+				117
+			],
+			"indices": [],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "appear",
+			"loop": false,
+			"name": "SP pop up"
+		},
+		{
+			"offsets": [
+				14,
+				117
+			],
+			"indices": [
+				22,
+				21,
+				20,
+				19,
+				18,
+				17,
+				16,
+				15,
+				14,
+				13,
+				12,
+				11,
+				10,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			],
+			"fps": 24,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"anim": "disappear",
+			"loop": false,
+			"name": "SP pop up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/starved_plankton",
+	"position": [
+		200,
+		390
+	],
+	"healthicon": "starvedAlt",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		225
+	],
+	"camera_position": [
+		-100,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
