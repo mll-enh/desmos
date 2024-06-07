@@ -73,7 +73,6 @@ class LimoRideStage extends Stage
 
 		var fastCar = getNamedProp('fastCar');
 		fastCar.velocity.x = (FlxG.random.int(170, 220) / FlxG.elapsed) * 3;
-		trace(fastCar.velocity.x);
 		fastCarCanDrive = false;
 		new FlxTimer().start(2, function(tmr:FlxTimer)
 		{
@@ -108,7 +107,7 @@ class LimoRideStage extends Stage
 	/**
 	 * Make sure the fast car is reset when the song restarts.
 	 */
-	function onCountdownStart(event:SongLoadScriptEvent) {
+	function onCountdownStart(event:ScriptEvent) {
 		super.onCountdownStart(event);
 		resetFastCar();
 	}

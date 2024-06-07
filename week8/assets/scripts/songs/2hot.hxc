@@ -1,24 +1,23 @@
 import flixel.FlxG;
 import flixel.FlxSprite;
 import flixel.math.FlxBasePoint;
-import flixel.tweens.FlxTween;
 import flixel.tweens.FlxEase;
+import flixel.tweens.FlxTween;
 import flixel.util.FlxTimer;
+import funkin.audio.FunkinSound;
 import funkin.Conductor;
 import funkin.graphics.adobeanimate.FlxAtlasSprite;
 import funkin.graphics.FunkinSprite;
 import funkin.modding.base.ScriptedFlxAtlasSprite;
 import funkin.Paths;
-import funkin.audio.FunkinSound;
+import funkin.play.cutscene.CutsceneType;
+import funkin.play.cutscene.VideoCutscene;
 import funkin.play.GameOverSubState;
 import funkin.play.PlayState;
+import funkin.play.PlayStatePlaylist;
 import funkin.play.song.Song;
 import funkin.play.stage.StageProp;
 import funkin.save.Save;
-import funkin.audio.FunkinSound;
-import funkin.play.cutscene.VideoCutscene;
-import funkin.play.cutscene.CutsceneType;
-import funkin.play.PlayStatePlaylist;
 
 // We have to use FlxBasePoint in scripts because FlxPoint is inlined and not available in scripts
 
@@ -56,8 +55,6 @@ class TwoHOTSong extends Song
 	function onSongRetry(event:ScriptEvent)
 	{
 		super.onSongRetry(event);
-
-		hasPlayedCutscene = true;
 
 		removeCans();
 		gunCocked = false;
@@ -113,7 +110,7 @@ class TwoHOTSong extends Song
 			// video would play around here
 			//PlayState.instance.endSong(true);
 
-			 trace('Pausing ending to play a video cutscene (`2hot`)');
+			trace('Pausing ending to play a video cutscene (`2hot`)');
 
 			// Add a black background behind the cutscene to fix a transition bug!
 			trace('Adding black background behind cutscene over UI');
