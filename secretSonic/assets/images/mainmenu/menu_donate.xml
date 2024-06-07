@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_more.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="donate basic0000" x="0" y="0" width="169" height="113"/>
+	<SubTexture name="donate basic0001" x="0" y="0" width="169" height="113"/>
+	<SubTexture name="donate basic0002" x="0" y="0" width="169" height="113"/>
+	<SubTexture name="donate white0000" x="0" y="113" width="223" height="131"/>
+	<SubTexture name="donate white0001" x="0" y="113" width="223" height="131"/>
+	<SubTexture name="donate white0002" x="0" y="113" width="223" height="131"/>
+</TextureAtlas>

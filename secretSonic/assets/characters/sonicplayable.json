@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				27,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				15,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [
+				37,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF dies"
+		},
+		{
+			"offsets": [
+				37,
+				15
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop"
+		},
+		{
+			"offsets": [
+				37,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm"
+		},
+		{
+			"offsets": [
+				-10,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "boyfriend dodge"
+		},
+		{
+			"offsets": [
+				294,
+				267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "boyfriend attack"
+		},
+		{
+			"offsets": [
+				-40,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "bf pre attack"
+		},
+		{
+			"offsets": [
+				-5,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sonic idle dance"
+		},
+		{
+			"offsets": [
+				90,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sonic up note0"
+		},
+		{
+			"offsets": [
+				63,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sonic down note0"
+		},
+		{
+			"offsets": [
+				94,
+				91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Sonic up note miss"
+		},
+		{
+			"offsets": [
+				65,
+				-45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Sonic down note miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				490
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Sonic left note miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				193,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Sonic right note miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				106,
+				494
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sonic left note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				227,
+				-17
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sonic right note0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sonic_Assets",
+	"position": [
+		80,
+		100
+	],
+	"healthicon": "sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		2,
+		112,
+		232
+	],
+	"camera_position": [
+		150,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bottomBop.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bottom Level Boppers0000" x="0" y="0" width="1996" height="571"/>
+	<SubTexture name="Bottom Level Boppers0001" x="0" y="0" width="1996" height="571"/>
+	<SubTexture name="Bottom Level Boppers0002" x="1996" y="0" width="1996" height="571"/>
+	<SubTexture name="Bottom Level Boppers0003" x="1996" y="0" width="1996" height="571"/>
+	<SubTexture name="Bottom Level Boppers0004" x="0" y="571" width="1996" height="571"/>
+	<SubTexture name="Bottom Level Boppers0005" x="0" y="571" width="1996" height="571"/>
+	<SubTexture name="Bottom Level Boppers0006" x="1996" y="571" width="1996" height="571"/>
+	<SubTexture name="Bottom Level Boppers0007" x="1996" y="571" width="1996" height="571"/>
+	<SubTexture name="Bottom Level Boppers0008" x="1996" y="571" width="1996" height="571"/>
+	<SubTexture name="Bottom Level Boppers0009" x="1996" y="571" width="1996" height="571"/>
+	<SubTexture name="Bottom Level Boppers0010" x="1996" y="571" width="1996" height="571"/>
+	<SubTexture name="Bottom Level Boppers0011" x="1996" y="571" width="1996" height="571"/>
+	<SubTexture name="Bottom Level Boppers0012" x="1996" y="571" width="1996" height="571"/>
+	<SubTexture name="Bottom Level Boppers0013" x="1996" y="571" width="1996" height="571"/>
+</TextureAtlas>

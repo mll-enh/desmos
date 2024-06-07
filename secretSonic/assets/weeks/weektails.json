@@ -1,0 +1,67 @@
+{
+	"storyName": "Best friends",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "tails",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Best Friends",
+			"tails",
+			[
+				186,
+				133,
+				93
+			]
+		],
+		[
+			"red-flag",
+			"tails",
+			[
+				186,
+				133,
+				95
+			]
+		],
+		[
+			"Deadly Obsession",
+			"tails",
+			[
+				186,
+				133,
+				95
+			]
+		],
+		[
+			"dark-secrets",
+			"tails",
+			[
+				186,
+				133,
+				95
+			]
+		],
+		[
+			"confrontation",
+			"tails",
+			[
+				186,
+				133,
+				93
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Mashed Week"
+}
