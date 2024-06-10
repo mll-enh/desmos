@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				111
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF Dies",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				58
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Death Confirm",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-90,
+				-31
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF Dead Loop",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/burgerdeath",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		86,
+		250,
+		87
+	],
+	"camera_position": [
+		50,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 0.999999999999998
+}

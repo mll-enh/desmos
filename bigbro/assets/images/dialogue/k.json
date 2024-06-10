@@ -1,0 +1,206 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		270,
+		110
+	],
+	"scale": 1.7,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "1k",
+			"idle_name": "1k"
+		},
+		{
+			"anim": "2k",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "2k",
+			"idle_name": "2k"
+		},
+		{
+			"anim": "3k",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "3k",
+			"idle_name": "3k"
+		},
+		{
+			"anim": "4k",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "4k",
+			"idle_name": "4k"
+		},
+		{
+			"anim": "5k",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "5k",
+			"idle_name": "5k"
+		},
+		{
+			"anim": "6k",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "6k",
+			"idle_name": "6k"
+		},
+		{
+			"anim": "7k",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "7k",
+			"idle_name": "7k"
+		},
+		{
+			"anim": "9k",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "9k",
+			"idle_name": "9k"
+		},
+		{
+			"anim": "10k",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "10k",
+			"idle_name": "10k"
+		},
+		{
+			"anim": "11k",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "11k",
+			"idle_name": "11k"
+		},
+		{
+			"anim": "12k",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "12k",
+			"idle_name": "12k"
+		},
+		{
+			"anim": "13k",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "13k",
+			"idle_name": "13k"
+		},
+		{
+			"anim": "1pk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "1pk",
+			"idle_name": "1pk"
+		},
+		{
+			"anim": "2pk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "2pk",
+			"idle_name": "2pk"
+		},
+		{
+			"anim": "3pk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "3pk",
+			"idle_name": "3pk"
+		}
+	],
+	"image": "k"
+}

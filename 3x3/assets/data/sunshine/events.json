@@ -1,0 +1,69 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "sunshine",
+		"player1": "bf",
+		"player2": "tails",
+		"player3": null,
+		"events": [
+			[
+				83238.0952380952,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tails-alt"
+					]
+				]
+			],
+			[
+				83428.5714285714,
+				[
+					[
+						"Change Scroll Speed",
+						"0.75",
+						"0.2"
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Tails",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				122642.857142857,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.2"
+					],
+					[
+						"Change Character",
+						"dad",
+						"tails"
+					],
+					[
+						"Tails",
+						"2",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 105,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "sunshine"
+	}
+}

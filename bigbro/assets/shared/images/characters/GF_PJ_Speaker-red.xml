@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GF PJ Speaker-red.png">
+    <SubTexture name="GF PJ Speaker Idle0000" x="0" y="0" width="375" height="348" frameX="0" frameY="0" frameWidth="375" frameHeight="348" />
+    <SubTexture name="GF PJ Speaker Idle0001" x="375" y="0" width="375" height="348" frameX="0" frameY="0" frameWidth="375" frameHeight="348" />
+    <SubTexture name="GF PJ Speaker Idle0002" x="751" y="0" width="375" height="348" frameX="0" frameY="0" frameWidth="375" frameHeight="348" />
+    <SubTexture name="GF PJ Speaker Idle0003" x="1126" y="0" width="375" height="348" frameX="0" frameY="0" frameWidth="375" frameHeight="348" />
+    <SubTexture name="GF PJ Speaker Idle0004" x="1502" y="0" width="375" height="348" frameX="0" frameY="0" frameWidth="375" frameHeight="348" />
+    <SubTexture name="GF PJ Speaker Idle0005" x="0" y="348" width="375" height="348" frameX="0" frameY="0" frameWidth="375" frameHeight="348" />
+    <SubTexture name="GF PJ Speaker Idle0006" x="375" y="348" width="375" height="348" frameX="0" frameY="0" frameWidth="375" frameHeight="348" />
+    <SubTexture name="GF PJ Speaker Idle0007" x="751" y="348" width="375" height="348" frameX="0" frameY="0" frameWidth="375" frameHeight="348" />
+    <SubTexture name="GF PJ Speaker Idle0008" x="1126" y="348" width="375" height="348" frameX="0" frameY="0" frameWidth="375" frameHeight="348" />
+    <SubTexture name="GF PJ Speaker Idle0009" x="1502" y="348" width="375" height="348" frameX="0" frameY="0" frameWidth="375" frameHeight="348" />
+    <SubTexture name="GF PJ Speaker Idle0010" x="0" y="696" width="375" height="348" frameX="0" frameY="0" frameWidth="375" frameHeight="348" />
+    <SubTexture name="GF PJ Speaker Idle0011" x="375" y="696" width="375" height="348" frameX="0" frameY="0" frameWidth="375" frameHeight="348" />
+    <SubTexture name="GF PJ Speaker Idle0012" x="751" y="696" width="375" height="348" frameX="0" frameY="0" frameWidth="375" frameHeight="348" />
+    <SubTexture name="GF PJ Speaker Idle0013" x="1126" y="696" width="375" height="348" frameX="0" frameY="0" frameWidth="375" frameHeight="348" />
+    <SubTexture name="GF PJ Speaker Idle0014" x="1502" y="696" width="375" height="348" frameX="0" frameY="0" frameWidth="375" frameHeight="348" />
+    <SubTexture name="GF PJ Speaker Idle0015" x="0" y="1044" width="375" height="348" frameX="0" frameY="0" frameWidth="375" frameHeight="348" />
+    <SubTexture name="GF PJ Speaker Idle0016" x="375" y="1044" width="375" height="348" frameX="0" frameY="0" frameWidth="375" frameHeight="348" />
+    <SubTexture name="GF PJ Speaker Idle0017" x="751" y="1044" width="375" height="348" frameX="0" frameY="0" frameWidth="375" frameHeight="348" />
+    <SubTexture name="GF PJ Speaker Idle0018" x="1126" y="1044" width="375" height="348" frameX="0" frameY="0" frameWidth="375" frameHeight="348" />
+    <SubTexture name="GF PJ Speaker Idle0019" x="1502" y="1044" width="375" height="348" frameX="0" frameY="0" frameWidth="375" frameHeight="348" />
+    <SubTexture name="GF PJ Speaker Idle0020" x="0" y="1392" width="375" height="348" frameX="0" frameY="0" frameWidth="375" frameHeight="348" />
+    <SubTexture name="GF PJ Speaker Idle0021" x="375" y="1392" width="375" height="348" frameX="0" frameY="0" frameWidth="375" frameHeight="348" />
+    <SubTexture name="GF PJ Speaker Idle0022" x="751" y="1392" width="375" height="348" frameX="0" frameY="0" frameWidth="375" frameHeight="348" />
+    <SubTexture name="GF PJ Speaker Idle0023" x="1126" y="1392" width="375" height="348" frameX="0" frameY="0" frameWidth="375" frameHeight="348" />
+    <SubTexture name="GF PJ Speaker Idle0024" x="1502" y="1392" width="375" height="348" frameX="0" frameY="0" frameWidth="375" frameHeight="348" />
+    <SubTexture name="GF PJ Speaker Idle0025" x="0" y="1740" width="375" height="348" frameX="0" frameY="0" frameWidth="375" frameHeight="348" />
+</TextureAtlas>

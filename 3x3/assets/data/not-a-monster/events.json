@@ -1,0 +1,679 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "spooky",
+		"player1": "bf-shaded-w2",
+		"player2": "monster",
+		"player3": null,
+		"events": [
+			[
+				6646.42857142857,
+				[
+					[
+						"Update Lyrics",
+						"Hello there my friend.",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				8357.14285714286,
+				[
+					[
+						"Update Lyrics",
+						"We meet and we understand.",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				10071.4285714286,
+				[
+					[
+						"Update Lyrics",
+						"Gotta whole bunch of time together,",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				11782.1428571429,
+				[
+					[
+						"Update Lyrics",
+						"Let's sit back and rewind and remember.",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				13525,
+				[
+					[
+						"Update Lyrics",
+						"",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				20571.4285714286,
+				[
+					[
+						"Update Lyrics",
+						"You and your girlfriend...",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Update Lyrics",
+						"So much time that",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				25285.7142857143,
+				[
+					[
+						"Update Lyrics",
+						"So much time that you ",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				25714.2857142857,
+				[
+					[
+						"Update Lyrics",
+						"So much time that you both ",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				26353.5714285714,
+				[
+					[
+						"Update Lyrics",
+						"So much time that you both spend.",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				27428.5714285714,
+				[
+					[
+						"Update Lyrics",
+						"",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				34285.7142857143,
+				[
+					[
+						"Update Lyrics",
+						"Greetings,",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				34925,
+				[
+					[
+						"Update Lyrics",
+						"Greetings, hello,",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				35353.5714285714,
+				[
+					[
+						"Update Lyrics",
+						"Greetings, hello, bonjour.",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				35792.8571428571,
+				[
+					[
+						"Update Lyrics",
+						"Greetings, hello, bonjour. I know the walk here has got you sore.",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				37503.5714285714,
+				[
+					[
+						"Update Lyrics",
+						"Oh how great it is to see ya.",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				39235.7142857143,
+				[
+					[
+						"Update Lyrics",
+						"I'm not crazy.",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				40082.1428571429,
+				[
+					[
+						"Update Lyrics",
+						"I'm not crazy. I'm not a monster.",
+						"#68EF26"
+					]
+				]
+			],
+			[
+				41142.8571428572,
+				[
+					[
+						"Update Lyrics",
+						"",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				45642.8571428572,
+				[
+					[
+						"Update Lyrics",
+						"La",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				45857.1428571429,
+				[
+					[
+						"Update Lyrics",
+						"La la",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				46060.7142857143,
+				[
+					[
+						"Update Lyrics",
+						"La la la",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				46285.7142857143,
+				[
+					[
+						"Update Lyrics",
+						"La la la laaaaa...",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				47235.7142857143,
+				[
+					[
+						"Update Lyrics",
+						"",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				50800,
+				[
+					[
+						"Update Lyrics",
+						"Are you talking to me?",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				51650,
+				[
+					[
+						"Update Lyrics",
+						"",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				52089.2857142857,
+				[
+					[
+						"Update Lyrics",
+						"To me?",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				52510.7142857143,
+				[
+					[
+						"Update Lyrics",
+						"",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				52928.5714285715,
+				[
+					[
+						"Update Lyrics",
+						"Oh man, that's kinda crazy.",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				54428.5714285715,
+				[
+					[
+						"Update Lyrics",
+						"",
+						"#EF3826"
+					]
+				]
+			],
+			[
+				54857.1428571429,
+				[
+					[
+						"Update Lyrics",
+						"Trying to be such a friendly guy,",
+						""
+					]
+				]
+			],
+			[
+				56571.4285714286,
+				[
+					[
+						"Update Lyrics",
+						"Trying to be such a friendly guy, but my scary looks make everyone cry.",
+						""
+					]
+				]
+			],
+			[
+				58285.7142857143,
+				[
+					[
+						"Update Lyrics",
+						"No I don't have any friends,",
+						""
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Update Lyrics",
+						"No I don't have any friends, but I can't stick with this 'till the end.",
+						""
+					]
+				]
+			],
+			[
+				61714.2857142858,
+				[
+					[
+						"Update Lyrics",
+						"You and your girlfriend...",
+						""
+					]
+				]
+			],
+			[
+				64571.4285714286,
+				[
+					[
+						"Update Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				65142.8571428572,
+				[
+					[
+						"Update Lyrics",
+						"So much time that",
+						""
+					]
+				]
+			],
+			[
+				66428.5714285715,
+				[
+					[
+						"Update Lyrics",
+						"So much time that you",
+						""
+					]
+				]
+			],
+			[
+				66857.1428571429,
+				[
+					[
+						"Update Lyrics",
+						"So much time that you both",
+						""
+					]
+				]
+			],
+			[
+				67428.5714285715,
+				[
+					[
+						"Update Lyrics",
+						"So much time that you both spend.",
+						""
+					]
+				]
+			],
+			[
+				68142.8571428572,
+				[
+					[
+						"Update Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				75428.5714285715,
+				[
+					[
+						"Update Lyrics",
+						"Greetings, ",
+						""
+					]
+				]
+			],
+			[
+				76078.5714285715,
+				[
+					[
+						"Update Lyrics",
+						"Greetings, hello, ",
+						""
+					]
+				]
+			],
+			[
+				76492.8571428572,
+				[
+					[
+						"Update Lyrics",
+						"Greetings, hello, bonjour, ",
+						""
+					]
+				]
+			],
+			[
+				76921.4285714286,
+				[
+					[
+						"Update Lyrics",
+						"Greetings, hello, bonjour, I know the walk here has got you sore.",
+						""
+					]
+				]
+			],
+			[
+				78642.8571428572,
+				[
+					[
+						"Update Lyrics",
+						"Oh how great it is to see ya,",
+						""
+					]
+				]
+			],
+			[
+				80571.4285714286,
+				[
+					[
+						"Update Lyrics",
+						"I'm not crazy,",
+						""
+					]
+				]
+			],
+			[
+				81285.7142857143,
+				[
+					[
+						"Update Lyrics",
+						"I'm not crazy, I'm not a monster.",
+						""
+					]
+				]
+			],
+			[
+				82285.7142857143,
+				[
+					[
+						"Update Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				89142.8571428571,
+				[
+					[
+						"Update Lyrics",
+						"You and your girlfriend,",
+						""
+					]
+				]
+			],
+			[
+				90757.1428571429,
+				[
+					[
+						"Update Lyrics",
+						"You and your girlfriend, can't we all just be friends?",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Update Lyrics",
+						"I know I may seem creepy...",
+						""
+					]
+				]
+			],
+			[
+				99142.8571428571,
+				[
+					[
+						"Update Lyrics",
+						"But that's not how I really am.",
+						""
+					]
+				]
+			],
+			[
+				102857.142857143,
+				[
+					[
+						"Update Lyrics",
+						"Greetings,",
+						""
+					]
+				]
+			],
+			[
+				103500,
+				[
+					[
+						"Update Lyrics",
+						"Greetings, hello,",
+						""
+					]
+				]
+			],
+			[
+				103928.571428571,
+				[
+					[
+						"Update Lyrics",
+						"Greetings, hello, bonjour,",
+						""
+					]
+				]
+			],
+			[
+				104357.142857143,
+				[
+					[
+						"Update Lyrics",
+						"Greetings, hello, bonjour, I know the walk here has got you sore.",
+						""
+					]
+				]
+			],
+			[
+				106067.857142857,
+				[
+					[
+						"Update Lyrics",
+						"Oh how great it is to see ya.",
+						""
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Update Lyrics",
+						"I'm not crazy,",
+						""
+					]
+				]
+			],
+			[
+				108714.285714286,
+				[
+					[
+						"Update Lyrics",
+						"I'm not crazy, I'm not a monster.",
+						""
+					]
+				]
+			],
+			[
+				109714.285714286,
+				[
+					[
+						"Update Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				114221.428571429,
+				[
+					[
+						"Update Lyrics",
+						"La ",
+						""
+					]
+				]
+			],
+			[
+				114428.571428571,
+				[
+					[
+						"Update Lyrics",
+						"La la",
+						""
+					]
+				]
+			],
+			[
+				114617.857142857,
+				[
+					[
+						"Update Lyrics",
+						"La la la",
+						""
+					]
+				]
+			],
+			[
+				114857.142857143,
+				[
+					[
+						"Update Lyrics",
+						"La la la laaaaa...",
+						""
+					]
+				]
+			],
+			[
+				115857.142857143,
+				[
+					[
+						"Update Lyrics",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-shaded-w2",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Not A Monster"
+	}
+}

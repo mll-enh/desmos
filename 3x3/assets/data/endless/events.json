@@ -1,0 +1,54 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "majin",
+		"player1": "bf",
+		"player2": "majin-sonic",
+		"player3": null,
+		"events": [
+			[
+				86322.5806451614,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				86709.6774193549,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				87096.7741935485,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					],
+					[
+						"Hey!",
+						"GF",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 155,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Endless"
+	}
+}

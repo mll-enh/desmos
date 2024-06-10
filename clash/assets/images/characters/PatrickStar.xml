@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PatrickStar.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="yea0000" x="19" y="19" width="433" height="721" frameX="0" frameY="-1" frameWidth="433" frameHeight="723"/>
+	<SubTexture name="yea0001" x="19" y="19" width="433" height="721" frameX="0" frameY="-1" frameWidth="433" frameHeight="723"/>
+	<SubTexture name="yea0002" x="552" y="19" width="415" height="723" frameX="-10" frameY="0" frameWidth="433" frameHeight="723"/>
+	<SubTexture name="yea0003" x="552" y="19" width="415" height="723" frameX="-10" frameY="0" frameWidth="433" frameHeight="723"/>
+	<SubTexture name="yea0004" x="1067" y="19" width="406" height="723" frameX="-15" frameY="0" frameWidth="433" frameHeight="723"/>
+	<SubTexture name="yea0005" x="1067" y="19" width="406" height="723" frameX="-15" frameY="0" frameWidth="433" frameHeight="723"/>
+	<SubTexture name="yea0006" x="1573" y="19" width="403" height="723" frameX="-17" frameY="0" frameWidth="433" frameHeight="723"/>
+	<SubTexture name="yea0007" x="1573" y="19" width="403" height="723" frameX="-17" frameY="0" frameWidth="433" frameHeight="723"/>
+	<SubTexture name="yea0008" x="19" y="842" width="404" height="723" frameX="-17" frameY="0" frameWidth="433" frameHeight="723"/>
+	<SubTexture name="yea0009" x="19" y="842" width="404" height="723" frameX="-17" frameY="0" frameWidth="433" frameHeight="723"/>
+	<SubTexture name="yea0010" x="523" y="842" width="405" height="723" frameX="-16" frameY="0" frameWidth="433" frameHeight="723"/>
+	<SubTexture name="yea0011" x="523" y="842" width="405" height="723" frameX="-16" frameY="0" frameWidth="433" frameHeight="723"/>
+	<SubTexture name="yea0012" x="1028" y="842" width="405" height="723" frameX="-16" frameY="0" frameWidth="433" frameHeight="723"/>
+	<SubTexture name="yea0013" x="1028" y="842" width="405" height="723" frameX="-16" frameY="0" frameWidth="433" frameHeight="723"/>
+</TextureAtlas>

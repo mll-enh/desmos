@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				111
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				190,
+				115
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "bf dead loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				106
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF dead comfirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/B3_bf_dead_triptrou",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		123,
+		214,
+		246
+	],
+	"camera_position": [
+		50,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 0.999999999999998
+}

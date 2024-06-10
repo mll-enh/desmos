@@ -1,0 +1,172 @@
+{
+	"dialogue": [
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "5k",
+			"text": "Damn, I didn't expect you both to sound as good as you do. For a minute there, I almost actually enjoyed my time singing."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "14bb",
+			"text": "!!!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "15bb",
+			"text": "......"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bf-r",
+			"boxState": "normal",
+			"expression": "13bf",
+			"text": "!!!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "4k",
+			"text": "Whoops, my finger must've slipped. My bad."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-r",
+			"boxState": "normal",
+			"expression": "14bf",
+			"text": "Beep B!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "15bb",
+			"text": "..."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "2k",
+			"text": "One down, one more to go."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bf-r",
+			"boxState": "normal",
+			"expression": "15bf",
+			"text": "..."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "15bb",
+			"text": "..."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "16bb",
+			"text": "Keith.. go behind the speaker, now."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-r",
+			"boxState": "normal",
+			"expression": "13bf",
+			"text": "b-beep!?"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "5k",
+			"text": "Huh? You're still standing?"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "angry",
+			"expression": "19bb",
+			"text": "KEITH, GO BEHIND THE SPEAKER NOW!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-r",
+			"boxState": "angry",
+			"expression": "13bf",
+			"text": "EEP!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "angry",
+			"expression": "18bb",
+			"text": "AS FOR YOU, I'LL  RIP THAT OTHER WING OFF OF YOU, YOU FLYING RAT!!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "angry",
+			"expression": "18bb",
+			"text": "HOW DARE YOU COME IN TO MY LIFE, TORMENT ME FOR MONTHS, AND TRY TO KILL ME, AGAIN!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "angry",
+			"expression": "18bb",
+			"text": "NOT THIS TIME. I AIN'T PLAYING SOFT ANYMORE!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "angry",
+			"expression": "20bb",
+			"text": "FUCK MY VOICE! TIME TO BE A FUCKIN HERO, AND TAKE YOU OUT!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "angry",
+			"expression": "6k",
+			"text": "UGH."
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"song": {
+		"events": [
+			[
+				96450,
+				[
+					[
+						"Change Character",
+						"dad",
+						"youwin"
+					],
+					[
+						"Play Animation",
+						"youwin",
+						"dad"
+					]
+				]
+			],
+			[
+				106350,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bb-tired"
+					]
+				]
+			]
+		]
+	}
+}

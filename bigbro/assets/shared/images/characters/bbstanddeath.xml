@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bbstanddeath.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BBDeadConfirm0000" x="0" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0001" x="743" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0002" x="1486" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0003" x="2229" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0004" x="2972" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0005" x="3715" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0006" x="4458" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0007" x="5201" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0008" x="5944" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0009" x="6687" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0010" x="7430" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0011" x="0" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0012" x="743" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0013" x="1486" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0014" x="2229" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0015" x="2972" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0016" x="0" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0017" x="0" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0018" x="0" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0019" x="0" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0020" x="0" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0021" x="0" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0022" x="0" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0023" x="0" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0024" x="0" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0025" x="0" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0026" x="0" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0027" x="0" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0028" x="0" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0029" x="0" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0030" x="0" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0031" x="0" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0032" x="0" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadConfirm0033" x="0" y="0" width="743" height="1226"/>
+	<SubTexture name="BBDeadLoop0000" x="3715" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadLoop0001" x="4458" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadLoop0002" x="4458" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadLoop0003" x="5201" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadLoop0004" x="5201" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadLoop0005" x="5944" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadLoop0006" x="5944" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadLoop0007" x="6687" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadLoop0008" x="7430" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadLoop0009" x="6687" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadLoop0010" x="6687" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadLoop0011" x="6687" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadLoop0012" x="6687" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadLoop0013" x="6687" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadLoop0014" x="6687" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadLoop0015" x="6687" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadLoop0016" x="6687" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadLoop0017" x="3715" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadLoop0018" x="4458" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadLoop0019" x="4458" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadLoop0020" x="5201" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadLoop0021" x="5201" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadLoop0022" x="5944" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadLoop0023" x="0" y="2452" width="743" height="1226"/>
+	<SubTexture name="BBDeadLoop0024" x="6687" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDeadLoop0025" x="6687" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDies0000" x="743" y="2452" width="633" height="1192" frameX="-88" frameY="-12" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0001" x="1376" y="2452" width="654" height="1192" frameX="-88" frameY="-12" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0002" x="2030" y="2452" width="647" height="1220" frameX="-96" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0003" x="2677" y="2452" width="674" height="1220" frameX="-96" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0004" x="2677" y="2452" width="674" height="1220" frameX="-96" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0005" x="3351" y="2452" width="674" height="1220" frameX="-96" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0006" x="4025" y="2452" width="647" height="1220" frameX="-96" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0007" x="4025" y="2452" width="647" height="1220" frameX="-96" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0008" x="4025" y="2452" width="647" height="1220" frameX="-96" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0009" x="4025" y="2452" width="647" height="1220" frameX="-96" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0010" x="4025" y="2452" width="647" height="1220" frameX="-96" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0011" x="4025" y="2452" width="647" height="1220" frameX="-96" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0012" x="4025" y="2452" width="647" height="1220" frameX="-96" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0013" x="4025" y="2452" width="647" height="1220" frameX="-96" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0014" x="4025" y="2452" width="647" height="1220" frameX="-96" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0015" x="4672" y="2452" width="656" height="1220" frameX="-87" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0016" x="4672" y="2452" width="656" height="1220" frameX="-87" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0017" x="4672" y="2452" width="656" height="1220" frameX="-87" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0018" x="5328" y="2452" width="688" height="1220" frameX="-55" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0019" x="5328" y="2452" width="688" height="1220" frameX="-55" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0020" x="5328" y="2452" width="688" height="1220" frameX="-55" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0021" x="6016" y="2452" width="723" height="1220" frameX="-20" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0022" x="6016" y="2452" width="723" height="1220" frameX="-20" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0023" x="6739" y="2452" width="703" height="1220" frameX="-40" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0024" x="7442" y="2452" width="742" height="1243" frameX="-1" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0025" x="7442" y="2452" width="742" height="1243" frameX="-1" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0026" x="0" y="3695" width="743" height="1226" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0027" x="0" y="3695" width="743" height="1226" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0028" x="743" y="3695" width="743" height="1222" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0029" x="743" y="3695" width="743" height="1222" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0030" x="1486" y="3695" width="743" height="1227" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0031" x="2229" y="3695" width="742" height="1229" frameX="-1" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0032" x="0" y="3695" width="743" height="1226" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0033" x="0" y="3695" width="743" height="1226" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0034" x="0" y="3695" width="743" height="1226" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0035" x="0" y="3695" width="743" height="1226" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0036" x="0" y="3695" width="743" height="1226" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0037" x="0" y="3695" width="743" height="1226" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0038" x="2971" y="3695" width="743" height="1226" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0039" x="2971" y="3695" width="743" height="1226" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0040" x="2971" y="3695" width="743" height="1226" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0041" x="2971" y="3695" width="743" height="1226" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0042" x="2971" y="3695" width="743" height="1226" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0043" x="3714" y="3695" width="743" height="1226" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0044" x="3714" y="3695" width="743" height="1226" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0045" x="3714" y="3695" width="743" height="1226" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0046" x="3714" y="3695" width="743" height="1226" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0047" x="4457" y="3695" width="743" height="1226" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0048" x="4457" y="3695" width="743" height="1226" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0049" x="4457" y="3695" width="743" height="1226" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0050" x="4457" y="3695" width="743" height="1226" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0051" x="4457" y="3695" width="743" height="1226" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0052" x="5200" y="3695" width="743" height="1226" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0053" x="5200" y="3695" width="743" height="1226" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+	<SubTexture name="BBDies0054" x="5944" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDies0055" x="3715" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDies0056" x="3715" y="1226" width="743" height="1226"/>
+	<SubTexture name="BBDies0057" x="5943" y="3695" width="743" height="1226" frameX="0" frameY="0" frameWidth="770" frameHeight="1243"/>
+</TextureAtlas>

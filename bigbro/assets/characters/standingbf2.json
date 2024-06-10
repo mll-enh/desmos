@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF PJ Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				3
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF PJ Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-2
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF PJ Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF PJ Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF PJ Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF PJ MISSRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				3
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF PJ MISSDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF PJ MISSUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				1
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF PJ MISSLeft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF_Pj",
+	"position": [
+		120,
+		480
+	],
+	"healthicon": "couchbf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		205,
+		-240
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

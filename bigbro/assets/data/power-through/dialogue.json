@@ -1,0 +1,252 @@
+{
+	"dialogue": [
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "1pk",
+			"text": ""
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "2pk",
+			"text": ""
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "3pk",
+			"text": ""
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "2k",
+			"text": "Well, well, well. Look who it is."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Aren't you that pile of flesh I offed a while ago?"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "3k",
+			"text": "HAHAHAHAHA! Oh, what a joy it is to run back into you, again!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You and that damn demon ruined my life."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If you hadn't fucking moved that day, no one would've suffered, and I still would've been at heaven's door. Ugh!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, and the whore is here too."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "My, my, are the gods giving me a sliver of grace today."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The two people who I want gone in the same spot, TOGETHER!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're making this too easy!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.5,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "17bb",
+			"text": "..."
+		},
+		{
+			"sound": "bfText",
+			"speed": 0.05,
+			"portrait": "bf-r",
+			"boxState": "angry",
+			"expression": "6bf",
+			"text": "BEOP BEEP!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hm? Oh. Almost completely forgot you existed, midget."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What do you want, huh? You think I'm scared of you? Look at your brother."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "17bb",
+			"text": "..."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "2k",
+			"text": "Your only protection is having his own mental problems, and you're not even on my kill list."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "2k",
+			"text": "It's almost sad, seeing your brother look so helpless. I could, as an angel myself, spare him some grace and just.."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "2k",
+			"text": "..put him out of his misery right here and now. I still have 13 rounds left in the chamber, I'd be doing him a favor."
+		},
+		{
+			"sound": "bfText",
+			"speed": 0.05,
+			"portrait": "bf-r",
+			"boxState": "angry",
+			"expression": "5bf",
+			"text": "BEEP BEOP!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "2k",
+			"text": "You want a what? A rap battle? ME?"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "3k",
+			"text": "HAHAHAHAHAHA oh, no no no. I don't rap, however.."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "2k",
+			"text": "..I will sing, and after I crush you, I'll take your brother, and girlfriend to where they belong. In hell."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "6bb",
+			"text": "Not... without... me."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-r",
+			"boxState": "normal",
+			"expression": "2bf",
+			"text": "...B-Beep?"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "12bb",
+			"text": "I'm afraid, but I'm not going to let him hurt you."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-r",
+			"boxState": "normal",
+			"expression": "2bf",
+			"text": "..bee..."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hmph. Fine then, let's see how well you two sing. If you beat me, maybe I'll give you guys a few seconds to get away.."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "6bb",
+			"text": "I.. I've not sang this type of music in a while. I'll try and keep up. We got this man! ..I hope."
+		},
+		{
+			"sound": "bfText",
+			"speed": 0.05,
+			"portrait": "bf-r",
+			"boxState": "angry",
+			"expression": "3bf",
+			"text": "Beep!"
+		}
+	]
+}

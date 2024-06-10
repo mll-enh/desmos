@@ -1,0 +1,68 @@
+{
+	"songs": [
+		[
+			"Worry",
+			"bf-bbdark",
+			[
+				80,
+				0,
+				160
+			]
+		],
+		[
+			"Dont Worry",
+			"couchbf",
+			[
+				0,
+				186,
+				215
+			]
+		],
+		[
+			"Always-Here-Remix",
+			"couchbf",
+			[
+				0,
+				186,
+				215
+			]
+		],
+		[
+			"Power-Through",
+			"killer",
+			[
+				110,
+				0,
+				0
+			]
+		],
+		[
+			"Survive",
+			"killer angy",
+			[
+				110,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "weekBB0",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "weekBB0",
+	"startUnlocked": true
+}

@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				-127
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pat rick",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pat",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

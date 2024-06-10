@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pcameos.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bop0000" x="0" y="0" width="1290" height="726" frameX="0" frameY="-29.5" frameWidth="1290" frameHeight="776"/>
+	<SubTexture name="bop0001" x="1290" y="0" width="1290" height="736" frameX="0" frameY="-25" frameWidth="1290" frameHeight="776"/>
+	<SubTexture name="bop0002" x="2580" y="0" width="1290" height="776"/>
+	<SubTexture name="bop0003" x="0" y="776" width="1290" height="745" frameX="0" frameY="-20" frameWidth="1290" frameHeight="776"/>
+	<SubTexture name="bop0004" x="0" y="0" width="1290" height="726" frameX="0" frameY="-29.5" frameWidth="1290" frameHeight="776"/>
+</TextureAtlas>

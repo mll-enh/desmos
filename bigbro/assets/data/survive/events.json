@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				27157.8947368421,
+				[
+					[
+						"Change Character",
+						"dad",
+						"ENOUF"
+					],
+					[
+						"Play Animation",
+						"ENOUF",
+						"dad"
+					]
+				]
+			],
+			[
+				29684.2105263158,
+				[
+					[
+						"Change Character",
+						"dad",
+						"killer-angry"
+					],
+					[
+						"Play Animation",
+						"reload",
+						"dad"
+					]
+				]
+			],
+			[
+				110605.263157895,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"dad"
+					]
+				]
+			]
+		]
+	}
+}

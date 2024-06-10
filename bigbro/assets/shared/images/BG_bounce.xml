@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BG bounce.png"><SubTexture name="BG bounce bounce bg0000" x="0" y="0" width="1451" height="920" frameX="0" frameY="0" frameWidth="1451" frameHeight="920" />
+<SubTexture name="BG bounce bounce bg0001" x="1451" y="0" width="1451" height="920" frameX="0" frameY="0" frameWidth="1451" frameHeight="920" />
+<SubTexture name="BG bounce bounce bg0002" x="0" y="920" width="1451" height="920" frameX="0" frameY="0" frameWidth="1451" frameHeight="920" />
+<SubTexture name="BG bounce bounce bg0003" x="1451" y="920" width="1451" height="920" frameX="0" frameY="0" frameWidth="1451" frameHeight="920" />
+</TextureAtlas>

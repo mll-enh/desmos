@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BB idle dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				32
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BB NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				22
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BB NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				30
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BB NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				30
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BB NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				31
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BB NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				31
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BB NOTE UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				31
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BB NOTE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				32
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BB NOTE LEFT0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/playablebb",
+	"position": [
+		140,
+		220
+	],
+	"healthicon": "bb",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		190,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

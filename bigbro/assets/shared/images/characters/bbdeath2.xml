@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bbdeath2.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bbworried dead confirm0000" x="0" y="0" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0001" x="907" y="0" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0002" x="1814" y="0" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0003" x="2721" y="0" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0004" x="3628" y="0" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0005" x="4535" y="0" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0006" x="5442" y="0" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0007" x="6349" y="0" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0008" x="7256" y="0" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0009" x="0" y="1188" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0010" x="907" y="1188" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0011" x="1814" y="1188" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0012" x="2721" y="1188" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0013" x="3628" y="1188" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0014" x="4535" y="1188" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0015" x="5442" y="1188" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0016" x="6349" y="1188" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0017" x="7256" y="1188" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0018" x="0" y="2376" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0019" x="907" y="2376" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0020" x="1814" y="2376" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0021" x="2721" y="2376" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0022" x="3628" y="2376" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0023" x="4535" y="2376" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0024" x="5442" y="2376" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0025" x="6349" y="2376" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0026" x="7256" y="2376" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0027" x="0" y="3564" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0028" x="907" y="3564" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0029" x="1814" y="3564" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0030" x="2721" y="3564" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0031" x="3628" y="3564" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0032" x="4535" y="3564" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0033" x="5442" y="3564" width="907" height="1188"/>
+	<SubTexture name="bbworried dead confirm0034" x="6349" y="3564" width="907" height="1188"/>
+	<SubTexture name="bbworried dead loop0000" x="7256" y="3564" width="907" height="1188"/>
+	<SubTexture name="bbworried dead loop0001" x="0" y="4752" width="907" height="1188"/>
+	<SubTexture name="bbworried dead loop0002" x="907" y="4752" width="907" height="1188"/>
+	<SubTexture name="bbworried dead loop0003" x="1814" y="4752" width="907" height="1188"/>
+	<SubTexture name="bbworried dead loop0004" x="2721" y="4752" width="907" height="1188"/>
+	<SubTexture name="bbworried dead loop0005" x="3628" y="4752" width="907" height="1188"/>
+	<SubTexture name="bbworried dead loop0006" x="4535" y="4752" width="907" height="1188"/>
+	<SubTexture name="bbworried dead loop0007" x="5442" y="4752" width="907" height="1188"/>
+	<SubTexture name="bbworried dead loop0008" x="6349" y="4752" width="907" height="1188"/>
+	<SubTexture name="bbworried dead loop0009" x="7256" y="4752" width="907" height="1188"/>
+	<SubTexture name="bbworried dead loop0010" x="0" y="5940" width="907" height="1188"/>
+	<SubTexture name="bbworried dead loop0011" x="907" y="5940" width="907" height="1188"/>
+	<SubTexture name="bbworried dead loop0012" x="1814" y="5940" width="907" height="1188"/>
+	<SubTexture name="bbworried dead loop0013" x="2721" y="5940" width="907" height="1188"/>
+	<SubTexture name="bbworried dead loop0014" x="3628" y="5940" width="907" height="1188"/>
+	<SubTexture name="bbworried dead loop0015" x="4535" y="5940" width="907" height="1188"/>
+	<SubTexture name="bbworried dead loop0016" x="5442" y="5940" width="907" height="1188"/>
+	<SubTexture name="bbworried dies0000" x="6349" y="5940" width="907" height="1188"/>
+	<SubTexture name="bbworried dies0001" x="7256" y="5940" width="907" height="1188"/>
+</TextureAtlas>

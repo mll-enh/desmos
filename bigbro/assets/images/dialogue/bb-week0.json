@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		310,
+		130
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"loop_name": "bb-1",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bb-1",
+			"anim": "bb-1",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bb-2",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bb-2",
+			"anim": "bb-2",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bb-3",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bb-3",
+			"anim": "bb-3",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bb-4",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bb-4",
+			"anim": "bb-4",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bb-5",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bb-5",
+			"anim": "bb-5",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "bb-week0"
+}

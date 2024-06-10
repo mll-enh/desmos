@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				138,
+				-69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "GAMEOVER DEATH"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Gameover Loop"
+		},
+		{
+			"offsets": [
+				24,
+				87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "RETRY"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_bloody2_gameover",
+	"position": [
+		40,
+		360
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		86,
+		250,
+		87
+	],
+	"camera_position": [
+		-20,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

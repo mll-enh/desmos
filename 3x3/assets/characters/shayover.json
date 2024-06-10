@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				231,
+				391
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Gameover",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				218,
+				-227
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Shivers",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				267,
+				-252
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Retry Play",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shaya-gameover",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		235,
+		38,
+		186
+	],
+	"camera_position": [
+		270,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

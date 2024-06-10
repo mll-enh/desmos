@@ -1,0 +1,9 @@
+<TextureAtlas imagePath="dcameos.png">
+	
+	
+	<SubTexture name="bop0000" x="0" y="0" width="1296" height="729" frameX="0" frameY="-6" frameWidth="1296" frameHeight="741" />
+	<SubTexture name="bop0001" x="1296" y="0" width="1296" height="738" frameX="0" frameY="-2" frameWidth="1296" frameHeight="741" />
+	<SubTexture name="bop0002" x="0" y="738" width="1296" height="741" />
+	<SubTexture name="bop0003" x="1296" y="738" width="1296" height="710" frameX="0" frameY="-16" frameWidth="1296" frameHeight="741" />
+	<SubTexture name="bop0004" x="0" y="1479" width="1296" height="702" frameX="0" frameY="-20" frameWidth="1296" frameHeight="741" />
+</TextureAtlas>

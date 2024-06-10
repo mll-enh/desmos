@@ -1,0 +1,209 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "podcast",
+		"player1": "p-gf-playable",
+		"player2": "pico-unshaded",
+		"player3": null,
+		"events": [
+			[
+				25200,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						""
+					],
+					[
+						"Update Lyrics",
+						"Fuck you!",
+						""
+					]
+				]
+			],
+			[
+				25600,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"Update Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				38000,
+				[
+					[
+						"Update Lyrics",
+						"Ha ha!",
+						""
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Update Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				44400,
+				[
+					[
+						"Update Lyrics",
+						"Ha ha!",
+						""
+					]
+				]
+			],
+			[
+				44800,
+				[
+					[
+						"Update Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				50800,
+				[
+					[
+						"Update Lyrics",
+						"Ha ha!",
+						""
+					]
+				]
+			],
+			[
+				51200,
+				[
+					[
+						"Update Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				63600,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						""
+					],
+					[
+						"Update Lyrics",
+						"Really?",
+						""
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"Update Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				95600,
+				[
+					[
+						"Update Lyrics",
+						"Ha ha!",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Update Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Update Lyrics",
+						"Ha ha!",
+						""
+					]
+				]
+			],
+			[
+				102400,
+				[
+					[
+						"Update Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				114800,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						""
+					],
+					[
+						"Update Lyrics",
+						"Really?",
+						""
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"Update Lyrics",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "F-U"
+	}
+}

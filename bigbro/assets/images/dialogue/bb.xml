@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf-week0.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bang0000" x="0" y="0" width="287" height="286" frameX="0" frameY="0" frameWidth="287" frameHeight="286" />
+	<SubTexture name="6bb0000" x="1148" y="858" width="287" height="286" frameX="0" frameY="0" frameWidth="287" frameHeight="286" />
+	<SubTexture name="7bb0000" x="0" y="1144" width="287" height="286" frameX="0" frameY="0" frameWidth="287" frameHeight="286" />
+	<SubTexture name="8bb0000" x="287" y="1144" width="287" height="286" frameX="0" frameY="0" frameWidth="287" frameHeight="286" />
+	<SubTexture name="9bb0000" x="574" y="1144" width="287" height="286" frameX="0" frameY="0" frameWidth="287" frameHeight="286" />
+	<SubTexture name="10bb0000" x="287" y="0" width="287" height="286" frameX="0" frameY="0" frameWidth="287" frameHeight="286" />
+	<SubTexture name="11bb0000" x="574" y="0" width="287" height="286" frameX="0" frameY="0" frameWidth="287" frameHeight="286" />
+	<SubTexture name="12bb0000" x="861" y="0" width="287" height="286" frameX="0" frameY="0" frameWidth="287" frameHeight="286" />
+	<SubTexture name="13bb0000" x="0" y="286" width="287" height="286" frameX="0" frameY="0" frameWidth="287" frameHeight="286" />
+	<SubTexture name="14bb0000" x="287" y="286" width="287" height="286" frameX="0" frameY="0" frameWidth="287" frameHeight="286" />
+	<SubTexture name="15bb0000" x="574" y="286" width="287" height="286" frameX="0" frameY="0" frameWidth="287" frameHeight="286" />
+	<SubTexture name="16bb0000" x="861" y="286" width="287" height="286" frameX="0" frameY="0" frameWidth="287" frameHeight="286" />
+	<SubTexture name="17bb0000" x="0" y="572" width="287" height="286" frameX="0" frameY="0" frameWidth="287" frameHeight="286" />
+	<SubTexture name="18bb0000" x="287" y="572" width="287" height="286" frameX="0" frameY="0" frameWidth="287" frameHeight="286" />
+	<SubTexture name="19bb0000" x="574" y="572" width="287" height="286" frameX="0" frameY="0" frameWidth="287" frameHeight="286" />
+	<SubTexture name="20bb0000" x="861" y="572" width="287" height="286" frameX="0" frameY="0" frameWidth="287" frameHeight="286" />
+	<SubTexture name="21bb0000" x="0" y="858" width="287" height="286" frameX="0" frameY="0" frameWidth="287" frameHeight="286" />
+	<SubTexture name="22bb0000" x="287" y="858" width="287" height="286" frameX="0" frameY="0" frameWidth="287" frameHeight="286" />
+	<SubTexture name="23bb0000" x="574" y="858" width="287" height="286" frameX="0" frameY="0" frameWidth="287" frameHeight="286" />
+	<SubTexture name="24bb0000" x="861" y="858" width="287" height="286" frameX="0" frameY="0" frameWidth="287" frameHeight="286" />
+	<SubTexture name="25bb0000" x="1148" y="0" width="287" height="286" frameX="0" frameY="0" frameWidth="287" frameHeight="286" />
+	<SubTexture name="26bb0000" x="1148" y="286" width="287" height="286" frameX="0" frameY="0" frameWidth="287" frameHeight="286" />
+	<SubTexture name="27bb0000" x="1148" y="572" width="287" height="286" frameX="0" frameY="0" frameWidth="287" frameHeight="286" />
+</TextureAtlas>

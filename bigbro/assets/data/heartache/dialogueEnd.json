@@ -1,0 +1,236 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "bruh, he's dead"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-4",
+			"text": "F-fuckin shit... hate.. that it hiccups now.."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-4",
+			"text": "I gotta sit down, bro. Come and sit by me..."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-4",
+			"text": "in case.. you know, you can call your girl's dad if shit hits the fan."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-4",
+			"text": "But- I think it should be okay."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-week0",
+			"boxState": "normal",
+			"expression": "bf-3",
+			"text": "...beep..?"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-5",
+			"text": "5 Minutes Later.."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-5",
+			"text": "Alright, man... I think we're in the clear."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-5",
+			"text": "I'm feeling a bit better."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-5",
+			"text": "Sorry to give you a scare there, bro."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-5",
+			"text": "That night was scary... you know how bad it messed us up."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-5",
+			"text": "Y'know, I thought you weren't ever gonna visit-"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-5",
+			"text": "part of me thought you were gonna be too.."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-5",
+			"text": "'busy' with your babe.. heh."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-5",
+			"text": "Thanks for making some time just for me, man. Like the old times.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-week0",
+			"boxState": "normal",
+			"expression": "bf-5",
+			"text": "..beep bop."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-5",
+			"text": "Course, bro- I'll take it easy. I promise. Now c'mere, little man."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-5",
+			"text": "..I love you, Keith."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-5",
+			"text": "Even if I don't say it often,"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-5",
+			"text": "you know damn well that if shit hits the fan-"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-5",
+			"text": "I'll always be right at your side."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-5",
+			"text": "..cause that's what family's for."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-week0",
+			"boxState": "normal",
+			"expression": "bf-5",
+			"text": "..be op bee"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-5",
+			"text": "It's getting late.. we should start heading home."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-5",
+			"text": "See you later, bro... and hey-"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-5",
+			"text": "Maybe we can have a rematch sometime..."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-5",
+			"text": "and see who really is the better singer.. heh!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-5",
+			"text": "Night, man."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-5",
+			"text": "Night, man."
+		}
+	]
+}

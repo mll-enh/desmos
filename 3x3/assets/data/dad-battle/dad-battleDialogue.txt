@@ -1,0 +1,14 @@
+:music:dad:0.4
+:font:size:32
+:dad:surprised: Funky bars kid! Good job.
+:dad:insane: That was fun and all, but itâ€™s time to die now.
+:effect:shake:-1
+:gf:angry: DAD! We made a deal!
+ :effect:shake:0
+:dad:angrysmile: Sorry my Jelly Munchkin, I just canâ€™t approve of this green haired cocky bastard no matter how good he is at rapping. Iâ€™ll make sure to find you a better boyfriend one day.
+:dad:insane: Any last words, boy?
+:bf:angry: ...
+:dad:smug: ...
+:dad:angrysmile: On second thought, letâ€™s see if he survives one more song though. Come on boy.
+:bf:smug: Ha! 
+

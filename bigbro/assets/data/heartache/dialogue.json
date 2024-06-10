@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Die, NOW!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-4",
+			"text": "M-mph... shit-"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-4",
+			"text": "Shit. You gotta... be... shittin' me..."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-4",
+			"text": "Really..? Now?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-week0",
+			"boxState": "normal",
+			"expression": "bf-4",
+			"text": "Beep!?"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-4",
+			"text": "A-ah.. it's not that bad, m-man..."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-4",
+			"text": "Maybe it'll stop in a bit..?"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-4",
+			"text": "I still got- ugh.. plenty of oomph in me-"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-4",
+			"text": "Let's do one more song, alright?"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-4",
+			"text": "..."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-4",
+			"text": "I promise, bro-"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-4",
+			"text": "If it gets to where I can't take any more, I'll tap out..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-week0",
+			"boxState": "normal",
+			"expression": "bf-3",
+			"text": "...beep.."
+		}
+	]
+}

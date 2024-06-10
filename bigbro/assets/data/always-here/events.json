@@ -1,0 +1,81 @@
+{
+	"song": {
+		"events": [
+			[
+				14648.4375,
+				[
+					[
+						"Change Character",
+						"bf",
+						"playablebb-lipsync"
+					],
+					[
+						"Play Animation",
+						"notbad",
+						"bf"
+					]
+				]
+			],
+			[
+				15468.75,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-playablebb"
+					]
+				]
+			],
+			[
+				59882.8125,
+				[
+					[
+						"Change Character",
+						"bf",
+						"playablebb-lipsync"
+					],
+					[
+						"Play Animation",
+						"shitniceone",
+						"bf"
+					]
+				]
+			],
+			[
+				61640.625,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-playablebb"
+					]
+				]
+			],
+			[
+				127734.375,
+				[
+					[
+						"Change Character",
+						"bf",
+						"playablebb-lipsync"
+					],
+					[
+						"Play Animation",
+						"awsweetdude",
+						"bf"
+					]
+				]
+			],
+			[
+				128671.875,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-playablebb"
+					]
+				]
+			]
+		]
+	}
+}

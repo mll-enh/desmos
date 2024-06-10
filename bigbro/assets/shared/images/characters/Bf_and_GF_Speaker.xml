@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bf and GF Speaker.png"><SubTexture name="Bf and GF Speaker Idle0000" x="0" y="0" width="357" height="276" frameX="0" frameY="0" frameWidth="357" frameHeight="276" />
+<SubTexture name="Bf and GF Speaker Idle0001" x="357" y="0" width="357" height="276" frameX="0" frameY="0" frameWidth="357" frameHeight="276" />
+<SubTexture name="Bf and GF Speaker Idle0002" x="714" y="0" width="357" height="276" frameX="0" frameY="0" frameWidth="357" frameHeight="276" />
+<SubTexture name="Bf and GF Speaker Idle0003" x="1071" y="0" width="357" height="276" frameX="0" frameY="0" frameWidth="357" frameHeight="276" />
+<SubTexture name="Bf and GF Speaker Idle0004" x="1428" y="0" width="357" height="276" frameX="0" frameY="0" frameWidth="357" frameHeight="276" />
+<SubTexture name="Bf and GF Speaker Idle0005" x="0" y="276" width="357" height="276" frameX="0" frameY="0" frameWidth="357" frameHeight="276" />
+<SubTexture name="Bf and GF Speaker Idle0006" x="357" y="276" width="357" height="276" frameX="0" frameY="0" frameWidth="357" frameHeight="276" />
+<SubTexture name="Bf and GF Speaker Idle0007" x="714" y="276" width="357" height="276" frameX="0" frameY="0" frameWidth="357" frameHeight="276" />
+<SubTexture name="Bf and GF Speaker Idle0008" x="1071" y="276" width="357" height="276" frameX="0" frameY="0" frameWidth="357" frameHeight="276" />
+<SubTexture name="Bf and GF Speaker Idle0009" x="1428" y="276" width="357" height="276" frameX="0" frameY="0" frameWidth="357" frameHeight="276" />
+<SubTexture name="Bf and GF Speaker Idle0010" x="0" y="552" width="357" height="276" frameX="0" frameY="0" frameWidth="357" frameHeight="276" />
+<SubTexture name="Bf and GF Speaker idle0000" x="357" y="552" width="357" height="276" frameX="0" frameY="0" frameWidth="357" frameHeight="276" />
+<SubTexture name="Bf and GF Speaker Idle0011" x="714" y="552" width="357" height="276" frameX="0" frameY="0" frameWidth="357" frameHeight="276" />
+<SubTexture name="Bf and GF Speaker Idle0012" x="1071" y="552" width="357" height="276" frameX="0" frameY="0" frameWidth="357" frameHeight="276" />
+<SubTexture name="Bf and GF Speaker Idle0013" x="1428" y="552" width="357" height="276" frameX="0" frameY="0" frameWidth="357" frameHeight="276" />
+<SubTexture name="Bf and GF Speaker Idle0014" x="0" y="828" width="357" height="276" frameX="0" frameY="0" frameWidth="357" frameHeight="276" />
+<SubTexture name="Bf and GF Speaker Idle0015" x="357" y="828" width="357" height="276" frameX="0" frameY="0" frameWidth="357" frameHeight="276" />
+<SubTexture name="Bf and GF Speaker Idle0016" x="714" y="828" width="357" height="276" frameX="0" frameY="0" frameWidth="357" frameHeight="276" />
+<SubTexture name="Bf and GF Speaker Idle0017" x="1071" y="828" width="357" height="276" frameX="0" frameY="0" frameWidth="357" frameHeight="276" />
+<SubTexture name="Bf and GF Speaker Idle0018" x="1428" y="828" width="357" height="276" frameX="0" frameY="0" frameWidth="357" frameHeight="276" />
+<SubTexture name="Bf and GF Speaker Idle0019" x="0" y="1104" width="357" height="276" frameX="0" frameY="0" frameWidth="357" frameHeight="276" />
+<SubTexture name="Bf and GF Speaker Idle0020" x="357" y="1104" width="357" height="276" frameX="0" frameY="0" frameWidth="357" frameHeight="276" />
+<SubTexture name="Bf and GF Speaker Idle0021" x="714" y="1104" width="357" height="276" frameX="0" frameY="0" frameWidth="357" frameHeight="276" />
+<SubTexture name="Bf and GF Speaker Idle0022" x="1071" y="1104" width="357" height="276" frameX="0" frameY="0" frameWidth="357" frameHeight="276" />
+<SubTexture name="Bf and GF Speaker Idle0023" x="1428" y="1104" width="357" height="276" frameX="0" frameY="0" frameWidth="357" frameHeight="276" />
+<SubTexture name="Bf and GF Speaker Idle0024" x="0" y="1380" width="357" height="276" frameX="0" frameY="0" frameWidth="357" frameHeight="276" />
+</TextureAtlas>

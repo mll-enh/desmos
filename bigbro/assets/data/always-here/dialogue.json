@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-1",
+			"text": "Nice one, man! You still got some tight bars, for being rusty."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-1",
+			"text": "Nice one, man! You still got some tight bars, for being rusty."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-2",
+			"text": "You finally managed to get my tongue in a knot!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-3",
+			"text": "I never thought I'd see the day."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-week0",
+			"boxState": "normal",
+			"expression": "bf-2",
+			"text": "Bobee bop!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-2",
+			"text": "Looks like that girl of yours motivated you to improve so much!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-2",
+			"text": "I'm starting to get why you wanted to see me..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-week0",
+			"boxState": "normal",
+			"expression": "bf-1",
+			"text": "Beep!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-2",
+			"text": "No more games then. Let's see what you've really got."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-2",
+			"text": "Maybe you can actually beat me..."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-2",
+			"text": "No more holding back!"
+		}
+	]
+}

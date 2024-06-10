@@ -1,0 +1,2939 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "dream",
+		"player1": "bf-sad",
+		"player2": "pico-zombie",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"PicoTransition",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				105205.479452055,
+				[
+					[
+						"Transition",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				106849.315068493,
+				[
+					[
+						"Change Character",
+						"dad",
+						"torment"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-pained"
+					]
+				]
+			],
+			[
+				131506.849315069,
+				[
+					[
+						"PepTransition",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				133150.684931507,
+				[
+					[
+						"Change Character",
+						"dad",
+						"monster-zombie"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-sad-alt"
+					],
+					[
+						"Update Lyrics",
+						"Greetings",
+						""
+					]
+				]
+			],
+			[
+				133767.123287671,
+				[
+					[
+						"Update Lyrics",
+						"Greetings, Hel",
+						""
+					]
+				]
+			],
+			[
+				133972.602739726,
+				[
+					[
+						"Update Lyrics",
+						"Greetings, Hello",
+						""
+					]
+				]
+			],
+			[
+				134178.082191781,
+				[
+					[
+						"Update Lyrics",
+						"Greetings, Hello, Bon",
+						""
+					]
+				]
+			],
+			[
+				134383.561643836,
+				[
+					[
+						"Update Lyrics",
+						"Greetings, Hello, Bonjour",
+						""
+					]
+				]
+			],
+			[
+				134589.041095891,
+				[
+					[
+						"Update Lyrics",
+						"I've",
+						""
+					]
+				]
+			],
+			[
+				134794.520547945,
+				[
+					[
+						"Update Lyrics",
+						"I've never hurt",
+						""
+					]
+				]
+			],
+			[
+				135410.95890411,
+				[
+					[
+						"Update Lyrics",
+						"like this",
+						""
+					]
+				]
+			],
+			[
+				135821.917808219,
+				[
+					[
+						"Update Lyrics",
+						"like this before",
+						""
+					]
+				]
+			],
+			[
+				136232.876712329,
+				[
+					[
+						"Update Lyrics",
+						"I've",
+						""
+					]
+				]
+			],
+			[
+				136438.356164384,
+				[
+					[
+						"Update Lyrics",
+						"I've met my fate",
+						""
+					]
+				]
+			],
+			[
+				137054.794520548,
+				[
+					[
+						"Update Lyrics",
+						"been torn to tissue",
+						""
+					]
+				]
+			],
+			[
+				138082.191780822,
+				[
+					[
+						"Update Lyrics",
+						"God I look",
+						""
+					]
+				]
+			],
+			[
+				138698.630136986,
+				[
+					[
+						"Update Lyrics",
+						"God I look, just like a monster!",
+						""
+					]
+				]
+			],
+			[
+				139623.287671233,
+				[
+					[
+						"Update Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				146095.890410959,
+				[
+					[
+						"Update Lyrics",
+						"No",
+						""
+					]
+				]
+			],
+			[
+				146301.369863014,
+				[
+					[
+						"Update Lyrics",
+						"No I don't think",
+						""
+					]
+				]
+			],
+			[
+				146815.068493151,
+				[
+					[
+						"Update Lyrics",
+						"You understand,",
+						""
+					]
+				]
+			],
+			[
+				147328.767123288,
+				[
+					[
+						"Update Lyrics",
+						"You understand, how unpleasant I am,",
+						""
+					]
+				]
+			],
+			[
+				148150.684931507,
+				[
+					[
+						"Update Lyrics",
+						"You understand, how unpleasant I am, doing all that I can",
+						""
+					]
+				]
+			],
+			[
+				148972.602739726,
+				[
+					[
+						"Update Lyrics",
+						"All I'm hoping is that you can just take a stand",
+						""
+					]
+				]
+			],
+			[
+				150513.698630137,
+				[
+					[
+						"Update Lyrics",
+						"Oh, all I'm hoping is that",
+						""
+					]
+				]
+			],
+			[
+				151232.876712329,
+				[
+					[
+						"Update Lyrics",
+						"You can end the nightmare",
+						""
+					]
+				]
+			],
+			[
+				151952.054794521,
+				[
+					[
+						"Update Lyrics",
+						"You can end the nightmare, and end your girlfriend's",
+						""
+					]
+				]
+			],
+			[
+				152465.753424658,
+				[
+					[
+						"Update Lyrics",
+						"SORRY",
+						""
+					]
+				]
+			],
+			[
+				152568.493150685,
+				[
+					[
+						"Update Lyrics",
+						"SORRY LITTLE",
+						""
+					]
+				]
+			],
+			[
+				152876.712328767,
+				[
+					[
+						"Update Lyrics",
+						"BAND!",
+						""
+					]
+				]
+			],
+			[
+				153698.630136986,
+				[
+					[
+						"Update Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				158630.136986302,
+				[
+					[
+						"Update Lyrics",
+						"Why's",
+						""
+					]
+				]
+			],
+			[
+				158835.616438356,
+				[
+					[
+						"Update Lyrics",
+						"Why's she",
+						""
+					]
+				]
+			],
+			[
+				159041.095890411,
+				[
+					[
+						"Update Lyrics",
+						"Why's she causing",
+						""
+					]
+				]
+			],
+			[
+				159452.054794521,
+				[
+					[
+						"Update Lyrics",
+						"All of this anguish and pain",
+						""
+					]
+				]
+			],
+			[
+				160376.712328767,
+				[
+					[
+						"Update Lyrics",
+						"Oh I don't get it",
+						""
+					]
+				]
+			],
+			[
+				160890.410958904,
+				[
+					[
+						"Update Lyrics",
+						"It's enough to make someone",
+						""
+					]
+				]
+			],
+			[
+				161815.068493151,
+				[
+					[
+						"Update Lyrics",
+						"It's enough to make someone go",
+						""
+					]
+				]
+			],
+			[
+				161917.808219178,
+				[
+					[
+						"Update Lyrics",
+						"It's enough to make someone go insane!",
+						""
+					]
+				]
+			],
+			[
+				162123.287671233,
+				[
+					[
+						"Update Lyrics",
+						"You saw",
+						""
+					]
+				]
+			],
+			[
+				162431.506849315,
+				[
+					[
+						"Update Lyrics",
+						"You saw just what she did",
+						""
+					]
+				]
+			],
+			[
+				162945.205479452,
+				[
+					[
+						"Update Lyrics",
+						"You saw just what she did to him",
+						""
+					]
+				]
+			],
+			[
+				163253.424657534,
+				[
+					[
+						"Update Lyrics",
+						"TO",
+						""
+					]
+				]
+			],
+			[
+				163356.164383562,
+				[
+					[
+						"Update Lyrics",
+						"TO PI",
+						""
+					]
+				]
+			],
+			[
+				163458.904109589,
+				[
+					[
+						"Update Lyrics",
+						"TO PICO",
+						""
+					]
+				]
+			],
+			[
+				163664.383561644,
+				[
+					[
+						"Update Lyrics",
+						"And she'll continue to",
+						""
+					]
+				]
+			],
+			[
+				164486.301369863,
+				[
+					[
+						"Update Lyrics",
+						"Rip us all",
+						""
+					]
+				]
+			],
+			[
+				164897.260273973,
+				[
+					[
+						"Update Lyrics",
+						"into shreds",
+						""
+					]
+				]
+			],
+			[
+				165308.219178082,
+				[
+					[
+						"Update Lyrics",
+						"Until we're all,",
+						""
+					]
+				]
+			],
+			[
+				165821.917808219,
+				[
+					[
+						"Update Lyrics",
+						"Until we're all, BLOODY",
+						""
+					]
+				]
+			],
+			[
+				166027.397260274,
+				[
+					[
+						"Update Lyrics",
+						"Until we're all, BLOODY RED",
+						""
+					]
+				]
+			],
+			[
+				166746.575342466,
+				[
+					[
+						"Update Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				172602.739726028,
+				[
+					[
+						"Update Lyrics",
+						"Your",
+						""
+					]
+				]
+			],
+			[
+				173219.178082192,
+				[
+					[
+						"Update Lyrics",
+						"Your liii",
+						""
+					]
+				]
+			],
+			[
+				173835.616438356,
+				[
+					[
+						"Update Lyrics",
+						"Your liiittle",
+						""
+					]
+				]
+			],
+			[
+				174246.575342466,
+				[
+					[
+						"Update Lyrics",
+						"GIRL",
+						""
+					]
+				]
+			],
+			[
+				174863.01369863,
+				[
+					[
+						"Update Lyrics",
+						"GIRLFRIEND",
+						""
+					]
+				]
+			],
+			[
+				175890.410958904,
+				[
+					[
+						"Update Lyrics",
+						"BROUGHT",
+						""
+					]
+				]
+			],
+			[
+				176506.849315069,
+				[
+					[
+						"Update Lyrics",
+						"BROUGHT US",
+						""
+					]
+				]
+			],
+			[
+				177123.287671233,
+				[
+					[
+						"Update Lyrics",
+						"BROUGHT US TO",
+						""
+					]
+				]
+			],
+			[
+				177534.246575343,
+				[
+					[
+						"Update Lyrics",
+						"BROUGHT US TO OUR",
+						""
+					]
+				]
+			],
+			[
+				178150.684931507,
+				[
+					[
+						"Update Lyrics",
+						"ENDS",
+						""
+					]
+				]
+			],
+			[
+				179178.082191781,
+				[
+					[
+						"Update Lyrics",
+						"Sweet,",
+						""
+					]
+				]
+			],
+			[
+				180000,
+				[
+					[
+						"Update Lyrics",
+						"Sweet, lit",
+						""
+					]
+				]
+			],
+			[
+				180410.95890411,
+				[
+					[
+						"Update Lyrics",
+						"Sweet, little",
+						""
+					]
+				]
+			],
+			[
+				180821.917808219,
+				[
+					[
+						"Update Lyrics",
+						"GIRL",
+						""
+					]
+				]
+			],
+			[
+				181438.356164384,
+				[
+					[
+						"Update Lyrics",
+						"GIRLFRIEND",
+						""
+					]
+				]
+			],
+			[
+				182465.753424658,
+				[
+					[
+						"Update Lyrics",
+						"That",
+						""
+					]
+				]
+			],
+			[
+				182773.97260274,
+				[
+					[
+						"Update Lyrics",
+						"That the",
+						""
+					]
+				]
+			],
+			[
+				183082.191780822,
+				[
+					[
+						"Update Lyrics",
+						"That the mon",
+						""
+					]
+				]
+			],
+			[
+				183493.150684932,
+				[
+					[
+						"Update Lyrics",
+						"That the monster",
+						""
+					]
+				]
+			],
+			[
+				183698.630136986,
+				[
+					[
+						"Update Lyrics",
+						"COULD",
+						""
+					]
+				]
+			],
+			[
+				184109.589041096,
+				[
+					[
+						"Update Lyrics",
+						"NOT",
+						""
+					]
+				]
+			],
+			[
+				184726.02739726,
+				[
+					[
+						"Update Lyrics",
+						"MEND",
+						""
+					]
+				]
+			],
+			[
+				185753.424657534,
+				[
+					[
+						"Update Lyrics",
+						"AND",
+						""
+					]
+				]
+			],
+			[
+				187397.260273973,
+				[
+					[
+						"Update Lyrics",
+						"AND THOUGH",
+						""
+					]
+				]
+			],
+			[
+				188219.178082192,
+				[
+					[
+						"Update Lyrics",
+						"AND THOUGH I",
+						""
+					]
+				]
+			],
+			[
+				189041.095890411,
+				[
+					[
+						"Update Lyrics",
+						"AND THOUGH I WRITHE",
+						""
+					]
+				]
+			],
+			[
+				190273.97260274,
+				[
+					[
+						"Update Lyrics",
+						"AND THOUGH I WRITHE IN",
+						""
+					]
+				]
+			],
+			[
+				190684.93150685,
+				[
+					[
+						"Update Lyrics",
+						"AND THOUGH I WRITHE IN PAIN",
+						""
+					]
+				]
+			],
+			[
+				191506.849315069,
+				[
+					[
+						"Update Lyrics",
+						"AND",
+						""
+					]
+				]
+			],
+			[
+				191712.328767124,
+				[
+					[
+						"Update Lyrics",
+						"AND A",
+						""
+					]
+				]
+			],
+			[
+				191917.808219178,
+				[
+					[
+						"Update Lyrics",
+						"AND AGON",
+						""
+					]
+				]
+			],
+			[
+				192123.287671233,
+				[
+					[
+						"Update Lyrics",
+						"AND AGONY",
+						""
+					]
+				]
+			],
+			[
+				193561.643835617,
+				[
+					[
+						"Update Lyrics",
+						"I'LL",
+						""
+					]
+				]
+			],
+			[
+				193972.602739726,
+				[
+					[
+						"Update Lyrics",
+						"I'LL SING",
+						""
+					]
+				]
+			],
+			[
+				194589.041095891,
+				[
+					[
+						"Update Lyrics",
+						"I'LL SING MY",
+						""
+					]
+				]
+			],
+			[
+				195205.479452055,
+				[
+					[
+						"Update Lyrics",
+						"I'LL SING MY SONG",
+						""
+					]
+				]
+			],
+			[
+				195616.438356165,
+				[
+					[
+						"Update Lyrics",
+						"SPREAD",
+						""
+					]
+				]
+			],
+			[
+				196232.876712329,
+				[
+					[
+						"Update Lyrics",
+						"SPREAD MY",
+						""
+					]
+				]
+			],
+			[
+				196438.356164384,
+				[
+					[
+						"Update Lyrics",
+						"SPREAD MY MES",
+						""
+					]
+				]
+			],
+			[
+				196849.315068493,
+				[
+					[
+						"Update Lyrics",
+						"SPREAD MY MESSAGE",
+						""
+					]
+				]
+			],
+			[
+				197260.273972603,
+				[
+					[
+						"Update Lyrics",
+						"KEEP",
+						""
+					]
+				]
+			],
+			[
+				198082.191780822,
+				[
+					[
+						"Update Lyrics",
+						"KEEP IT",
+						""
+					]
+				]
+			],
+			[
+				198493.150684932,
+				[
+					[
+						"Update Lyrics",
+						"KEEP IT STRONG",
+						""
+					]
+				]
+			],
+			[
+				198904.109589041,
+				[
+					[
+						"Update Lyrics",
+						"Partings,",
+						""
+					],
+					[
+						"WindowMove",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				199417.808219178,
+				[
+					[
+						"Update Lyrics",
+						"Partings, Goodbye",
+						""
+					]
+				]
+			],
+			[
+				199726.027397261,
+				[
+					[
+						"Update Lyrics",
+						"Partings, Goodbye, Au",
+						""
+					]
+				]
+			],
+			[
+				199931.506849315,
+				[
+					[
+						"Update Lyrics",
+						"Partings, Goodbye, Au Revoir",
+						""
+					]
+				]
+			],
+			[
+				200342.465753425,
+				[
+					[
+						"Update Lyrics",
+						"It's",
+						""
+					]
+				]
+			],
+			[
+				200547.94520548,
+				[
+					[
+						"Update Lyrics",
+						"It's hard to sing",
+						""
+					]
+				]
+			],
+			[
+				201164.383561644,
+				[
+					[
+						"Update Lyrics",
+						"It's hard to sing when your",
+						""
+					]
+				]
+			],
+			[
+				201369.863013699,
+				[
+					[
+						"Update Lyrics",
+						"THROAT ",
+						""
+					]
+				]
+			],
+			[
+				201575.342465754,
+				[
+					[
+						"Update Lyrics",
+						"IS",
+						""
+					]
+				]
+			],
+			[
+				201780.821917808,
+				[
+					[
+						"Update Lyrics",
+						"SCARRED",
+						""
+					]
+				]
+			],
+			[
+				201883.561643836,
+				[
+					[
+						"Update Lyrics",
+						"Isn't it",
+						""
+					]
+				]
+			],
+			[
+				202191.780821918,
+				[
+					[
+						"Update Lyrics",
+						"Isn't it quite",
+						""
+					]
+				]
+			],
+			[
+				202500,
+				[
+					[
+						"Update Lyrics",
+						"Isn't it quite BIZ",
+						""
+					]
+				]
+			],
+			[
+				202808.219178082,
+				[
+					[
+						"Update Lyrics",
+						"Isn't it quite BIZARRE",
+						""
+					]
+				]
+			],
+			[
+				203219.178082192,
+				[
+					[
+						"Update Lyrics",
+						"That her eyes are coated",
+						""
+					]
+				]
+			],
+			[
+				203835.616438356,
+				[
+					[
+						"Update Lyrics",
+						"BLACK",
+						""
+					]
+				]
+			],
+			[
+				204143.835616439,
+				[
+					[
+						"Update Lyrics",
+						"BLACK WITH",
+						""
+					]
+				]
+			],
+			[
+				204452.054794521,
+				[
+					[
+						"Update Lyrics",
+						"BLACK WITH TAR",
+						""
+					]
+				]
+			],
+			[
+				204863.01369863,
+				[
+					[
+						"Update Lyrics",
+						"Eating everybody",
+						""
+					]
+				]
+			],
+			[
+				205479.452054795,
+				[
+					[
+						"Update Lyrics",
+						"Causing",
+						""
+					],
+					[
+						"WindowMove",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				205993.150684932,
+				[
+					[
+						"Update Lyrics",
+						"Causing endless",
+						""
+					]
+				]
+			],
+			[
+				206301.369863014,
+				[
+					[
+						"Update Lyrics",
+						"Causing endless pain",
+						""
+					]
+				]
+			],
+			[
+				206506.849315069,
+				[
+					[
+						"Update Lyrics",
+						"She",
+						""
+					]
+				]
+			],
+			[
+				206712.328767124,
+				[
+					[
+						"Update Lyrics",
+						"She even tried",
+						""
+					]
+				]
+			],
+			[
+				207123.287671233,
+				[
+					[
+						"Update Lyrics",
+						"RE",
+						""
+					],
+					[
+						"WindowMove",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				207328.767123288,
+				[
+					[
+						"Update Lyrics",
+						"REMOV",
+						""
+					]
+				]
+			],
+			[
+				207534.246575343,
+				[
+					[
+						"Update Lyrics",
+						"REMOVING",
+						""
+					]
+				]
+			],
+			[
+				207739.726027397,
+				[
+					[
+						"Update Lyrics",
+						"REMOVING MY",
+						""
+					]
+				]
+			],
+			[
+				207945.205479452,
+				[
+					[
+						"Update Lyrics",
+						"REMOVING MY BRAIN",
+						""
+					]
+				]
+			],
+			[
+				208150.684931507,
+				[
+					[
+						"Update Lyrics",
+						"Oh little",
+						""
+					]
+				]
+			],
+			[
+				208767.123287671,
+				[
+					[
+						"Update Lyrics",
+						"Boyfriend,",
+						""
+					]
+				]
+			],
+			[
+				209383.561643836,
+				[
+					[
+						"Update Lyrics",
+						"Boyfriend, don't",
+						""
+					]
+				]
+			],
+			[
+				209589.041095891,
+				[
+					[
+						"Update Lyrics",
+						"Boyfriend, don't let",
+						""
+					]
+				]
+			],
+			[
+				210000,
+				[
+					[
+						"Update Lyrics",
+						"Boyfriend, don't let me",
+						""
+					]
+				]
+			],
+			[
+				210410.95890411,
+				[
+					[
+						"Update Lyrics",
+						"DIE",
+						""
+					]
+				]
+			],
+			[
+				210821.917808219,
+				[
+					[
+						"Update Lyrics",
+						"IN",
+						""
+					]
+				]
+			],
+			[
+				211232.876712329,
+				[
+					[
+						"Update Lyrics",
+						"VAIN",
+						""
+					]
+				]
+			],
+			[
+				212054.794520548,
+				[
+					[
+						"Update Lyrics",
+						"Only a jaw,",
+						""
+					]
+				]
+			],
+			[
+				212671.232876713,
+				[
+					[
+						"Update Lyrics",
+						"Only a jaw, I look like a freak",
+						""
+					]
+				]
+			],
+			[
+				213595.890410959,
+				[
+					[
+						"Update Lyrics",
+						"And now that I'm feeling",
+						""
+					]
+				]
+			],
+			[
+				214315.068493151,
+				[
+					[
+						"Update Lyrics",
+						"that I'm growing weak",
+						""
+					]
+				]
+			],
+			[
+				215342.465753425,
+				[
+					[
+						"Update Lyrics",
+						"I know the future,",
+						""
+					]
+				]
+			],
+			[
+				216164.383561644,
+				[
+					[
+						"Update Lyrics",
+						"I know the future, is looking bleak",
+						""
+					]
+				]
+			],
+			[
+				216780.821917808,
+				[
+					[
+						"Update Lyrics",
+						"But",
+						""
+					]
+				]
+			],
+			[
+				216986.301369863,
+				[
+					[
+						"Update Lyrics",
+						"But retribution",
+						""
+					]
+				]
+			],
+			[
+				217602.739726028,
+				[
+					[
+						"Update Lyrics",
+						"But retribution is what we must seek",
+						""
+					]
+				]
+			],
+			[
+				218630.136986302,
+				[
+					[
+						"Update Lyrics",
+						"\"What we seek...\"",
+						""
+					]
+				]
+			],
+			[
+				219452.054794521,
+				[
+					[
+						"Update Lyrics",
+						"As the people all shriek",
+						""
+					]
+				]
+			],
+			[
+				220273.97260274,
+				[
+					[
+						"Update Lyrics",
+						"As my ",
+						""
+					]
+				]
+			],
+			[
+				220582.191780822,
+				[
+					[
+						"Update Lyrics",
+						"As my capsaicin",
+						""
+					]
+				]
+			],
+			[
+				220890.410958904,
+				[
+					[
+						"Update Lyrics",
+						"As my capsaicin flows",
+						""
+					]
+				]
+			],
+			[
+				221095.890410959,
+				[
+					[
+						"Update Lyrics",
+						"As my capsaicin flows into the creek",
+						""
+					]
+				]
+			],
+			[
+				221917.808219178,
+				[
+					[
+						"Update Lyrics",
+						"Things are looking dreary,",
+						""
+					]
+				]
+			],
+			[
+				223013.698630137,
+				[
+					[
+						"Update Lyrics",
+						"Things are looking dreary, but don't worry",
+						""
+					]
+				]
+			],
+			[
+				223356.164383562,
+				[
+					[
+						"Update Lyrics",
+						"Listen to me,",
+						""
+					]
+				]
+			],
+			[
+				224280.821917808,
+				[
+					[
+						"Update Lyrics",
+						"Listen to me, oh won't you hear my envy",
+						""
+					]
+				]
+			],
+			[
+				225205.479452055,
+				[
+					[
+						"Update Lyrics",
+						"Well aware",
+						""
+					]
+				]
+			],
+			[
+				225719.178082192,
+				[
+					[
+						"Update Lyrics",
+						"Well aware of your little",
+						""
+					]
+				]
+			],
+			[
+				226232.876712329,
+				[
+					[
+						"Update Lyrics",
+						"Well aware of your little situation",
+						""
+					]
+				]
+			],
+			[
+				226643.835616439,
+				[
+					[
+						"Update Lyrics",
+						"But you're breathing,",
+						""
+					]
+				]
+			],
+			[
+				227260.273972603,
+				[
+					[
+						"Update Lyrics",
+						"But you're breathing, that ",
+						""
+					]
+				]
+			],
+			[
+				227465.753424658,
+				[
+					[
+						"Update Lyrics",
+						"But you're breathing, that must",
+						""
+					]
+				]
+			],
+			[
+				227671.232876713,
+				[
+					[
+						"Update Lyrics",
+						"But you're breathing, that must feel",
+						""
+					]
+				]
+			],
+			[
+				227876.712328767,
+				[
+					[
+						"Update Lyrics",
+						"But you're breathing, that must feel amazing",
+						""
+					]
+				]
+			],
+			[
+				228493.150684932,
+				[
+					[
+						"Update Lyrics",
+						"Is really all of this",
+						""
+					]
+				]
+			],
+			[
+				229109.589041096,
+				[
+					[
+						"Update Lyrics",
+						"Is really all of this in your own imagination",
+						""
+					]
+				]
+			],
+			[
+				230034.246575343,
+				[
+					[
+						"Update Lyrics",
+						"IS THIS",
+						""
+					]
+				]
+			],
+			[
+				230342.465753425,
+				[
+					[
+						"Update Lyrics",
+						"IS THIS MON",
+						""
+					]
+				]
+			],
+			[
+				230547.94520548,
+				[
+					[
+						"Update Lyrics",
+						"IS THIS MONSTER",
+						""
+					]
+				]
+			],
+			[
+				230753.424657535,
+				[
+					[
+						"Update Lyrics",
+						"IS THIS MONSTER YOUR",
+						""
+					]
+				]
+			],
+			[
+				230958.904109589,
+				[
+					[
+						"Update Lyrics",
+						"IS THIS MONSTER YOUR CREATION?!",
+						""
+					]
+				]
+			],
+			[
+				231780.821917808,
+				[
+					[
+						"Update Lyrics",
+						"Her little act...",
+						""
+					],
+					[
+						"WindowMove",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				232808.219178082,
+				[
+					[
+						"Update Lyrics",
+						"Her little act... is one that",
+						""
+					]
+				]
+			],
+			[
+				233424.657534247,
+				[
+					[
+						"Update Lyrics",
+						"I",
+						""
+					],
+					[
+						"WindowMove",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				233630.136986302,
+				[
+					[
+						"Update Lyrics",
+						"I can't",
+						""
+					]
+				]
+			],
+			[
+				233835.616438356,
+				[
+					[
+						"Update Lyrics",
+						"I can't commend...",
+						""
+					]
+				]
+			],
+			[
+				234452.054794521,
+				[
+					[
+						"Update Lyrics",
+						"MAD",
+						""
+					]
+				]
+			],
+			[
+				234657.534246576,
+				[
+					[
+						"Update Lyrics",
+						"MAD AT",
+						""
+					]
+				]
+			],
+			[
+				234863.01369863,
+				[
+					[
+						"Update Lyrics",
+						"MAD AT YOU,",
+						""
+					]
+				]
+			],
+			[
+				235068.493150685,
+				[
+					[
+						"Update Lyrics",
+						"MAD AT YOU, I",
+						""
+					],
+					[
+						"WindowMove",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				235273.97260274,
+				[
+					[
+						"Update Lyrics",
+						"MAD AT YOU, I CANNOT",
+						""
+					]
+				]
+			],
+			[
+				235684.93150685,
+				[
+					[
+						"Update Lyrics",
+						"MAD AT YOU, I CANNOT PRE",
+						""
+					]
+				]
+			],
+			[
+				235890.410958904,
+				[
+					[
+						"Update Lyrics",
+						"MAD AT YOU, I CANNOT PRETEND",
+						""
+					]
+				]
+			],
+			[
+				236095.890410959,
+				[
+					[
+						"Update Lyrics",
+						"Because",
+						""
+					]
+				]
+			],
+			[
+				236506.849315069,
+				[
+					[
+						"Update Lyrics",
+						"Because in the",
+						""
+					]
+				]
+			],
+			[
+				236712.328767124,
+				[
+					[
+						"Transition",
+						"1",
+						""
+					],
+					[
+						"Update Lyrics",
+						"end, ",
+						""
+					],
+					[
+						"WindowMove",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				236917.808219178,
+				[
+					[
+						"Update Lyrics",
+						"end, little",
+						""
+					]
+				]
+			],
+			[
+				237123.287671233,
+				[
+					[
+						"Update Lyrics",
+						"end, little boy,",
+						""
+					]
+				]
+			],
+			[
+				237328.767123288,
+				[
+					[
+						"Update Lyrics",
+						"I",
+						""
+					]
+				]
+			],
+			[
+				237534.246575343,
+				[
+					[
+						"Update Lyrics",
+						"I KNOW",
+						""
+					]
+				]
+			],
+			[
+				237739.726027398,
+				[
+					[
+						"Update Lyrics",
+						"I KNOW YOU'RE",
+						""
+					]
+				]
+			],
+			[
+				237945.205479452,
+				[
+					[
+						"Update Lyrics",
+						"I KNOW YOU'RE MY",
+						""
+					]
+				]
+			],
+			[
+				238150.684931507,
+				[
+					[
+						"Update Lyrics",
+						"I KNOW YOU'RE MY FRIEND",
+						""
+					]
+				]
+			],
+			[
+				238356.164383562,
+				[
+					[
+						"Change Character",
+						"dad",
+						"torment-alt"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-pained-alt"
+					],
+					[
+						"WindowMove",
+						"2",
+						""
+					],
+					[
+						"Update Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				289315.068493151,
+				[
+					[
+						"MiaTransition",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				290958.904109589,
+				[
+					[
+						"Change Character",
+						"dad",
+						"mia-zombie"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-sad"
+					]
+				]
+			],
+			[
+				295973.964350553,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				296019.145073445,
+				[
+					[
+						"Play Animation",
+						"hehe",
+						"dad"
+					]
+				]
+			],
+			[
+				296154.68724212,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				296199.867965011,
+				[
+					[
+						"Play Animation",
+						"hehe",
+						"dad"
+					]
+				]
+			],
+			[
+				296335.410133686,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				296380.590856577,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					]
+				]
+			],
+			[
+				296516.133025252,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				296561.313748144,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					]
+				]
+			],
+			[
+				301802.277603565,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				301983.000495131,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				302163.723386698,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				302344.446278264,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				307540.229410794,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				307585.410133686,
+				[
+					[
+						"Play Animation",
+						"hehe",
+						"dad"
+					]
+				]
+			],
+			[
+				307720.95230236,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				307766.133025252,
+				[
+					[
+						"Play Animation",
+						"hehe",
+						"dad"
+					]
+				]
+			],
+			[
+				307901.675193927,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				307946.855916818,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					]
+				]
+			],
+			[
+				308082.398085493,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				308127.578808384,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					]
+				]
+			],
+			[
+				313368.542663806,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				313549.265555372,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				313729.988446939,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				313910.711338505,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				324211.916157782,
+				[
+					[
+						"MiaTransition",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				347344.446278264,
+				[
+					[
+						"MiaTransition",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				400070.349892721,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				400115.530615613,
+				[
+					[
+						"Play Animation",
+						"hehe",
+						"dad"
+					]
+				]
+			],
+			[
+				400251.072784287,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				400296.253507179,
+				[
+					[
+						"Play Animation",
+						"hehe",
+						"dad"
+					]
+				]
+			],
+			[
+				400431.795675854,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				400476.976398745,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					]
+				]
+			],
+			[
+				400612.51856742,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				400657.699290311,
+				[
+					[
+						"Play Animation",
+						"haha",
+						"dad"
+					]
+				]
+			],
+			[
+				405175.771579468,
+				[
+					[
+						"Transition",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				405898.663145733,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				406079.386037299,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				406260.108928866,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				406440.831820432,
+				[
+					[
+						"Add Camera Zoom",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				406621.554711998,
+				[
+					[
+						"Change Character",
+						"gf",
+						"monstergf"
+					]
+				]
+			],
+			[
+				406621.554711998,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-pained"
+					],
+					[
+						"Change Character",
+						"dad",
+						"torment"
+					]
+				]
+			],
+			[
+				441320.349892721,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				452886.614952962,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				455778.181218022,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				464452.880013202,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				467344.446278263,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				476019.145073443,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				476380.590856576,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				476742.036639708,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				478187.819772238,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				478549.265555371,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				478910.711338504,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				479272.157121636,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				479633.602904769,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				479995.048687901,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				482163.723386696,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				483428.78362766,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				484151.675193925,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				484693.843868624,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				485055.289651756,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				485416.735434889,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				486139.627001154,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				486320.34989272,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				486501.072784287,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				486681.795675853,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				486862.518567419,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				487223.964350552,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				487585.410133684,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				487946.855916817,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				488308.301699949,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				489031.193266214,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				489754.084832479,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				490115.530615612,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				490476.976398744,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				490838.422181877,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				491199.867965009,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				491561.313748142,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				493368.542663805,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				493729.988446937,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				494091.43423007,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				494995.048687901,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				495717.940254166,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				496260.108928865,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				496621.554711997,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				496983.00049513,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				497705.892061395,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				497886.614952961,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				498067.337844527,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				498248.060736094,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				498428.78362766,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				498790.229410793,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				499151.675193925,
+				[
+					[
+						"Add Camera Zoom",
+						"1.5",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 146,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Triple B Trouble"
+	}
+}

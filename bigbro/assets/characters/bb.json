@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "BB idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				30
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "BB Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				29
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "BB Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				21
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "BB Sing Note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				30
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "BB Sing Note RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BB_Sprite_Sheet",
+	"position": [
+		140,
+		220
+	],
+	"healthicon": "bb",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		186,
+		215
+	],
+	"camera_position": [
+		-90,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

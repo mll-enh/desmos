@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"falling-down",
+			"killer",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"creation",
+			"kitty",
+			[
+				255,
+				116,
+				255
+			]
+		],
+		[
+			"thank-you",
+			"kitty",
+			[
+				255,
+				116,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "weekBB0",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "weekBB1",
+	"startUnlocked": true
+}

@@ -1,0 +1,164 @@
+{
+	"dialogue": [
+		{
+			"expression": "bf-5",
+			"text": "",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bf-week0"
+		},
+		{
+			"expression": "bf-2",
+			"text": "Beep!",
+			"boxState": "normal",
+			"sound": "bfText",
+			"speed": 0.05,
+			"portrait": "bf-week0"
+		},
+		{
+			"expression": "bb-5",
+			"text": "",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0"
+		},
+		{
+			"expression": "bb-1",
+			"text": "Well look who it is, little man Keith! How's it going, bro?",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0"
+		},
+		{
+			"expression": "bb-2",
+			"text": "Still with the redhead wonder I keep hearing about?",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0"
+		},
+		{
+			"expression": "bb-3",
+			"text": "Or...",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0"
+		},
+		{
+			"expression": "bb-2",
+			"text": "Have you already moved on and need some more advice from your big bro?",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0"
+		},
+		{
+			"expression": "bf-3",
+			"text": "Beep- skbee bop...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-week0"
+		},
+		{
+			"expression": "bb-2",
+			"text": "Aww come on man, I know how you are with chicks.",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0"
+		},
+		{
+			"expression": "bb-3",
+			"text": "Once you get head over heels for a girl, it's pretty damn hard to get you to change your mind.",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0"
+		},
+		{
+			"expression": "bb-1",
+			"text": "So what's with the meetup? Miss me already?",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0"
+		},
+		{
+			"expression": "bf-1",
+			"text": "Bopbee! Beep!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-week0"
+		},
+		{
+			"expression": "bb-2",
+			"text": "A rap battle, huh? Shit... last time we did that, I literally got killed.",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0"
+		},
+		{
+			"expression": "bb-1",
+			"text": "Hell, my heart still has its hiccups from that night.",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0"
+		},
+		{
+			"expression": "bf-3",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "bf-week0"
+		},
+		{
+			"expression": "bb-1",
+			"text": "Hey, hey! Don't give me that worried look, I've been fine.",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0"
+		},
+		{
+			"expression": "bb-3",
+			"text": "Besides, a little heart pain ain't gonna stop me.",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0"
+		},
+		{
+			"expression": "bb-1",
+			"text": "I've still gotta find your girl's dad and give him my thanks for saving my ass that day!",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0"
+		},
+		{
+			"expression": "bb-2",
+			"text": "Aaaanyways- show me those bars of yours! Or are you gonna chicken out?",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0"
+		},
+		{
+			"expression": "bf-2",
+			"text": "Beep bop!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-week0"
+		}
+	]
+}

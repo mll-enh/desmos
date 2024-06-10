@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				77,
+				-135
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down placeholder"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dearest Idle"
+		},
+		{
+			"offsets": [
+				395,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dearest Left"
+		},
+		{
+			"offsets": [
+				121,
+				177
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP Pose"
+		},
+		{
+			"offsets": [
+				-19,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right DD"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DADDY_DEAREST",
+	"position": [
+		20,
+		-5
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		110,
+		93,
+		113
+	],
+	"camera_position": [
+		-50,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1.25
+}

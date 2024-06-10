@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"Familial-Bonds",
+			"bb",
+			[
+				0,
+				186,
+				215
+			]
+		],
+		[
+			"always-here",
+			"bf",
+			[
+				0,
+				186,
+				215
+			]
+		],
+		[
+			"memories",
+			"bb",
+			[
+				0,
+				186,
+				215
+			]
+		],
+		[
+			"heartache",
+			"bb-tired",
+			[
+				0,
+				186,
+				215
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "weekBB0",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

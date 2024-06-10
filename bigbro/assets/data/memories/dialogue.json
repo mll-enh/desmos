@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-3",
+			"text": "Alright, alright. As much as I hate to say it..."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-2",
+			"text": "You might actually be on my level."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-week0",
+			"boxState": "normal",
+			"expression": "bf-1",
+			"text": "Bee bop!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-3",
+			"text": "But hey, at least I don't gotta worry about keeping relationships and chicks."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-2",
+			"text": "I've got the night, the stars, and my little bro to keep me goin'!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-1",
+			"text": "Next song, let's go!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-week0",
+			"boxState": "normal",
+			"expression": "bf-3",
+			"text": "..bep?"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-1",
+			"text": "What, worried about me already?"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-2",
+			"text": "Come on man, we've only done two songs!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-3",
+			"text": "Pfft- my heart can take it!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-2",
+			"text": "As IF I'm backing down from a rap battle with YOU!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb-week0",
+			"boxState": "normal",
+			"expression": "bb-2",
+			"text": "Let's.. fuckin.. GO!"
+		}
+	]
+}

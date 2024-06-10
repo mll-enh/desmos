@@ -1,0 +1,106 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 75,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF-Sitting Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				11,
+				12,
+				13,
+				14,
+				15,
+				16
+			],
+			"name": "BF-Sitting Left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				11,
+				12,
+				13,
+				14,
+				15,
+				16
+			],
+			"name": "BF-Sitting Down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				11,
+				12,
+				13,
+				14,
+				15,
+				16
+			],
+			"name": "BF-Sitting Up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				11,
+				12,
+				13,
+				14,
+				15,
+				16
+			],
+			"name": "BF-Sitting Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF-Sitting",
+	"position": [
+		190,
+		160
+	],
+	"healthicon": "couchbf",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		186,
+		215
+	],
+	"camera_position": [
+		105,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

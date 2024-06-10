@@ -1,0 +1,49 @@
+{
+	"storyName": "B3 x EXE",
+	"hideFreeplay": false,
+	"difficulties": "Hard, GetReal",
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Dessert",
+			"fang",
+			[
+				235,
+				38,
+				186
+			]
+		],
+		[
+			"Endless",
+			"b3geeckoirl",
+			[
+				58,
+				167,
+				115
+			]
+		],
+		[
+			"Sunshine",
+			"tails",
+			[
+				237,
+				113,
+				222
+			]
+		]
+	],
+	"weekName": "EXE"
+}

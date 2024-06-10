@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf-week0.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="1bf0000" x="0" y="0" width="186" height="217" frameX="0" frameY="0" frameWidth="186" frameHeight="217" />
+	<SubTexture name="2bf0000" x="186" y="434" width="186" height="217" frameX="0" frameY="0" frameWidth="186" frameHeight="217" />
+	<SubTexture name="3bf0000" x="372" y="434" width="186" height="217" frameX="0" frameY="0" frameWidth="186" frameHeight="217" />
+	<SubTexture name="4bf0000" x="558" y="434" width="186" height="217" frameX="0" frameY="0" frameWidth="186" frameHeight="217" />
+	<SubTexture name="5bf0000" x="744" y="0" width="186" height="217" frameX="0" frameY="0" frameWidth="186" frameHeight="217" />
+	<SubTexture name="6bf0000" x="744" y="217" width="186" height="217" frameX="0" frameY="0" frameWidth="186" frameHeight="217" />
+	<SubTexture name="7bf0000" x="744" y="434" width="186" height="217" frameX="0" frameY="0" frameWidth="186" frameHeight="217" />
+	<SubTexture name="8bf0000" x="0" y="651" width="186" height="217" frameX="0" frameY="0" frameWidth="186" frameHeight="217" />
+	<SubTexture name="9bf0000" x="186" y="651" width="186" height="217" frameX="0" frameY="0" frameWidth="186" frameHeight="217" />
+	<SubTexture name="10bf0000" x="186" y="0" width="186" height="217" frameX="0" frameY="0" frameWidth="186" frameHeight="217" />
+	<SubTexture name="11bf0000" x="372" y="0" width="186" height="217" frameX="0" frameY="0" frameWidth="186" frameHeight="217" />
+	<SubTexture name="12bf0000" x="558" y="0" width="186" height="217" frameX="0" frameY="0" frameWidth="186" frameHeight="217" />
+	<SubTexture name="13bf0000" x="0" y="217" width="186" height="217" frameX="0" frameY="0" frameWidth="186" frameHeight="217" />
+	<SubTexture name="14bf0000" x="186" y="217" width="186" height="217" frameX="0" frameY="0" frameWidth="186" frameHeight="217" />
+	<SubTexture name="15bf0000" x="372" y="217" width="186" height="217" frameX="0" frameY="0" frameWidth="186" frameHeight="217" />
+	<SubTexture name="16bf0000" x="558" y="217" width="186" height="217" frameX="0" frameY="0" frameWidth="186" frameHeight="217" />
+	<SubTexture name="18bf0000" x="0" y="434" width="186" height="217" frameX="0" frameY="0" frameWidth="186" frameHeight="217" />
+</TextureAtlas>

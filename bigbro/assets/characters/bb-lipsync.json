@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "heythatsit",
+			"fps": 12,
+			"name": "heythatsit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "nicebarstherebro",
+			"fps": 12,
+			"name": "nicebarstherebro",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bb-lipsync_assets",
+	"position": [
+		140,
+		220
+	],
+	"healthicon": "bb",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		186,
+		215
+	],
+	"camera_position": [
+		-90,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

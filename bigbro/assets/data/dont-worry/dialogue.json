@@ -1,0 +1,260 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "blank"
+		},
+		{
+			"expression": "7bb",
+			"text": "Sorry, man... they got pretty bad tonight. I really needed some company, thanks for appearing..",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "9bf",
+			"text": "Beep!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-l"
+		},
+		{
+			"expression": "6bb",
+			"text": "You don't gotta keep beeping at me, you know..",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep bop",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-l"
+		},
+		{
+			"expression": "6bb",
+			"text": "Alright man, at least I can understand you.",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "6bb",
+			"text": "I've just... been so worried man.",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "6bb",
+			"text": "The guy who shot me that night, I swear I've been seeing him around again.",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "6bb",
+			"text": "Hell, even some of the ghosts are even warning me, which is a first.",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "2bf",
+			"text": "....",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-l"
+		},
+		{
+			"expression": "9bb",
+			"text": "What if he comes back? What if that angel freak tries to kill me again?",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "9bb",
+			"text": "Can someone who died once, and then gets killed again, even be able to come back?",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "2bf",
+			"text": "*shrugging*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-l"
+		},
+		{
+			"expression": "7bb",
+			"text": "You're not helping man... ugh I feel my anxiety starting to spiral...",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "6bb",
+			"text": "I try to keep cool and ignore it, but the threat of another sudden death from HIM is...",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "6bb",
+			"text": "is.. FUCKING TERRIFYING!",
+			"boxState": "angry",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "6bb",
+			"text": "Do you even know what I do on my down time man?",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "6bb",
+			"text": "People say being a bounty hunter is more dangerous, but why am I SO FUCKING SCARED ABOUT THIS?",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "18bf",
+			"text": "Beep...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-l"
+		},
+		{
+			"expression": "4bf",
+			"text": "Beo beepo bap.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-l"
+		},
+		{
+			"expression": "10bb",
+			"text": "I know you hate that I do that job, but the ghosts actually make it easy where the killers are.",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "10bb",
+			"text": "It's easy cash for me, man.",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "10bb",
+			"text": "Can we like, not argue about my career path right now... as I have a LITERAL anxiety attack?",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "16bf",
+			"text": "....",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-l"
+		},
+		{
+			"expression": "9bb",
+			"text": "Sorry.. I'm freaking out man, I usually don't break down like this..",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "9bb",
+			"text": "I didn't mean... to sound snappy at you, I get it.. I just.. I-",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "8bf",
+			"text": "...Beop bee (...Don't Worry.)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-l"
+		},
+		{
+			"expression": "11bb",
+			"text": "But, I-",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "8bf",
+			"text": "Beep- op bee (Sing with me.)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-l"
+		},
+		{
+			"expression": "6bb",
+			"text": "....",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "8bf",
+			"text": "...Beeeep? (....Pleeeeease?)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-l"
+		},
+		{
+			"expression": "11bb",
+			"text": "Alright... if you think it'll help.",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		}
+	]
+}

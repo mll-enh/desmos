@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-25
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "v",
+			"indices": [
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-25
+			],
+			"anim": "youwin",
+			"fps": 9,
+			"name": "v",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/youwin",
+	"position": [
+		130,
+		200
+	],
+	"healthicon": "bb-tired",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		186,
+		215
+	],
+	"camera_position": [
+		-80,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

@@ -1,0 +1,16 @@
+{
+	"song": {
+		"events": [
+			[
+				42000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-bbhappy"
+					]
+				]
+			]
+		]
+	}
+}

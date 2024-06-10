@@ -1,0 +1,310 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-80,
+		100
+	],
+	"scale": 1.7,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bang",
+			"idle_name": "bang"
+		},
+		{
+			"loop_name": "6bb",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "6bb",
+			"anim": "6bb",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "7bb",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "7bb",
+			"anim": "7bb",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "8bb",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "8bb",
+			"anim": "8bb",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "9bb",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "9bb",
+			"anim": "9bb",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "10bb",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "10bb",
+			"anim": "10bb",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "11bb",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "11bb",
+			"anim": "11bb",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "12bb",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "12bb",
+			"anim": "12bb",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "13bb",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "13bb",
+			"anim": "13bb",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "14bb",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "14bb",
+			"anim": "14bb",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "15bb",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "15bb",
+			"anim": "15bb",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "16bb",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "16bb",
+			"anim": "16bb",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "17bb",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "17bb",
+			"anim": "17bb",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "18bb",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "18bb",
+			"anim": "18bb",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "19bb",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "19bb",
+			"anim": "19bb",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "20bb",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "20bb",
+			"anim": "20bb",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "21bb",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "21bb",
+			"anim": "21bb",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "22bb",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "22bb",
+			"anim": "22bb",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "23bb",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "23bb",
+			"anim": "23bb",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "24bb",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "24bb",
+			"anim": "24bb",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "25bb",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "25bb",
+			"anim": "25bb",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "26bb",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "26bb",
+			"anim": "26bb",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "27bb",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "27bb",
+			"anim": "27bb",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "bb"
+}

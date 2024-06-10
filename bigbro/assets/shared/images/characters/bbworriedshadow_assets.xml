@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bbworriedshadow_assets.png">
+	
+	
+	<SubTexture name="bbmissdown0000" x="0" y="0" width="453" height="594" />
+	<SubTexture name="bbmissdown0001" x="453" y="0" width="453" height="594" />
+	<SubTexture name="bbmissdown0002" x="907" y="0" width="453" height="594" />
+	<SubTexture name="bbmissdown0003" x="1360" y="0" width="453" height="594" />
+	<SubTexture name="bbmissleft0000" x="1814" y="0" width="453" height="594" />
+	<SubTexture name="bbmissleft0001" x="2267" y="0" width="453" height="594" />
+	<SubTexture name="bbmissleft0002" x="2721" y="0" width="453" height="594" />
+	<SubTexture name="bbmissleft0003" x="3174" y="0" width="453" height="594" />
+	<SubTexture name="bbmissright0000" x="3628" y="0" width="453" height="594" />
+	<SubTexture name="bbmissright0001" x="0" y="594" width="453" height="594" />
+	<SubTexture name="bbmissright0002" x="453" y="594" width="453" height="594" />
+	<SubTexture name="bbmissright0003" x="907" y="594" width="453" height="594" />
+	<SubTexture name="bbmissup0000" x="1360" y="594" width="453" height="594" />
+	<SubTexture name="bbmissup0001" x="1814" y="594" width="453" height="594" />
+	<SubTexture name="bbmissup0002" x="2267" y="594" width="453" height="594" />
+	<SubTexture name="bbmissup0003" x="2721" y="594" width="453" height="594" />
+	<SubTexture name="bbworriedDOWN0000" x="3174" y="594" width="453" height="594" />
+	<SubTexture name="bbworriedDOWN0001" x="3628" y="594" width="453" height="594" />
+	<SubTexture name="bbworriedDOWN0002" x="0" y="1188" width="453" height="594" />
+	<SubTexture name="bbworriedDOWN0003" x="453" y="1188" width="453" height="594" />
+	<SubTexture name="bbworriedIDLE0000" x="907" y="1188" width="453" height="594" />
+	<SubTexture name="bbworriedIDLE0001" x="1360" y="1188" width="453" height="594" />
+	<SubTexture name="bbworriedIDLE0002" x="1814" y="1188" width="453" height="594" />
+	<SubTexture name="bbworriedIDLE0003" x="2267" y="1188" width="453" height="594" />
+	<SubTexture name="bbworriedIDLE0004" x="2721" y="1188" width="453" height="594" />
+	<SubTexture name="bbworriedIDLE0005" x="3174" y="1188" width="453" height="594" />
+	<SubTexture name="bbworriedIDLE0006" x="3628" y="1188" width="453" height="594" />
+	<SubTexture name="bbworriedIDLE0007" x="0" y="1782" width="453" height="594" />
+	<SubTexture name="bbworriedIDLE0008" x="453" y="1782" width="453" height="594" />
+	<SubTexture name="bbworriedIDLE0009" x="907" y="1782" width="453" height="594" />
+	<SubTexture name="bbworriedIDLE0010" x="1360" y="1782" width="453" height="594" />
+	<SubTexture name="bbworriedIDLE0011" x="1814" y="1782" width="453" height="594" />
+	<SubTexture name="bbworriedIDLE0012" x="2267" y="1782" width="453" height="594" />
+	<SubTexture name="bbworriedLEFT0000" x="2721" y="1782" width="453" height="594" />
+	<SubTexture name="bbworriedLEFT0001" x="3174" y="1782" width="453" height="594" />
+	<SubTexture name="bbworriedLEFT0002" x="3628" y="1782" width="453" height="594" />
+	<SubTexture name="bbworriedLEFT0003" x="0" y="2376" width="453" height="594" />
+	<SubTexture name="bbworriedRIGHT0000" x="453" y="2376" width="453" height="594" />
+	<SubTexture name="bbworriedRIGHT0001" x="907" y="2376" width="453" height="594" />
+	<SubTexture name="bbworriedRIGHT0002" x="1360" y="2376" width="453" height="594" />
+	<SubTexture name="bbworriedRIGHT0003" x="1814" y="2376" width="453" height="594" />
+	<SubTexture name="bbworriedUP0000" x="2267" y="2376" width="453" height="594" />
+	<SubTexture name="bbworriedUP0001" x="2721" y="2376" width="453" height="594" />
+	<SubTexture name="bbworriedUP0002" x="3174" y="2376" width="453" height="594" />
+	<SubTexture name="bbworriedUP0003" x="3628" y="2376" width="453" height="594" />
+</TextureAtlas>

@@ -1,0 +1,58 @@
+{
+	"storyName": "A Bloodsucker Brawl",
+	"difficulties": "Hard, GetReal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Bopeebo",
+			"dad",
+			[
+				110,
+				93,
+				113
+			]
+		],
+		[
+			"Fresh",
+			"dad",
+			[
+				110,
+				93,
+				113
+			]
+		],
+		[
+			"Dad Battle",
+			"dad",
+			[
+				110,
+				93,
+				113
+			]
+		],
+		[
+			"Problem",
+			"dad",
+			[
+				110,
+				93,
+				113
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

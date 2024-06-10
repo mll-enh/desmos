@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="playablebb.png">
+<SubTexture name="BB NOTE DOWN0000" x="984" y="400" width="199" height="394" frameX="-34" frameY="-37" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE DOWN0001" x="984" y="400" width="199" height="394" frameX="-34" frameY="-37" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE DOWN0002" x="984" y="400" width="199" height="394" frameX="-34" frameY="-37" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE DOWN0003" x="984" y="400" width="199" height="394" frameX="-34" frameY="-37" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE DOWN0004" x="984" y="400" width="199" height="394" frameX="-34" frameY="-37" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE DOWN0005" x="440" y="824" width="202" height="390" frameX="-34" frameY="-41" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE DOWN0006" x="440" y="824" width="202" height="390" frameX="-34" frameY="-41" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE DOWN0007" x="440" y="824" width="202" height="390" frameX="-34" frameY="-41" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE DOWN0008" x="440" y="824" width="202" height="390" frameX="-34" frameY="-41" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE DOWN0009" x="440" y="824" width="202" height="390" frameX="-34" frameY="-41" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE DOWN0010" x="440" y="824" width="202" height="390" frameX="-34" frameY="-41" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE DOWN0011" x="440" y="824" width="202" height="390" frameX="-34" frameY="-41" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE DOWN MISS0000" x="642" y="824" width="218" height="380" frameX="-34" frameY="-51" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE LEFT0000" x="591" y="0" width="211" height="407" frameX="-34" frameY="-25" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE LEFT0001" x="591" y="0" width="211" height="407" frameX="-34" frameY="-25" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE LEFT0002" x="591" y="0" width="211" height="407" frameX="-34" frameY="-25" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE LEFT0003" x="591" y="0" width="211" height="407" frameX="-34" frameY="-25" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE LEFT0004" x="377" y="0" width="213" height="408" frameX="-35" frameY="-24" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE LEFT0005" x="377" y="0" width="213" height="408" frameX="-35" frameY="-24" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE LEFT0006" x="377" y="0" width="213" height="408" frameX="-35" frameY="-24" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE LEFT MISS0000" x="227" y="824" width="212" height="394" frameX="-34" frameY="-38" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE RIGHT0000" x="802" y="0" width="181" height="405" frameX="-32" frameY="-26" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE RIGHT0001" x="802" y="0" width="181" height="405" frameX="-32" frameY="-26" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE RIGHT0002" x="802" y="0" width="181" height="405" frameX="-32" frameY="-26" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE RIGHT0003" x="802" y="0" width="181" height="405" frameX="-32" frameY="-26" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE RIGHT0004" x="802" y="0" width="181" height="405" frameX="-32" frameY="-26" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE RIGHT0005" x="802" y="0" width="181" height="405" frameX="-32" frameY="-26" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE RIGHT0006" x="802" y="0" width="181" height="405" frameX="-32" frameY="-26" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE RIGHT0007" x="802" y="0" width="181" height="405" frameX="-32" frameY="-26" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE RIGHT0008" x="802" y="0" width="181" height="405" frameX="-32" frameY="-26" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE RIGHT0009" x="802" y="0" width="181" height="405" frameX="-32" frameY="-26" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE RIGHT0010" x="802" y="0" width="181" height="405" frameX="-32" frameY="-26" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE RIGHT0011" x="0" y="420" width="183" height="404" frameX="-29" frameY="-27" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE RIGHT0012" x="0" y="420" width="183" height="404" frameX="-29" frameY="-27" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE RIGHT0013" x="0" y="420" width="183" height="404" frameX="-29" frameY="-27" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE RIGHT MISS0000" x="1189" y="400" width="210" height="394" frameX="-34" frameY="-37" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE UP0000" x="0" y="0" width="188" height="420" frameX="-37" frameY="-7" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE UP0001" x="0" y="0" width="188" height="420" frameX="-37" frameY="-7" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE UP0002" x="0" y="0" width="188" height="420" frameX="-37" frameY="-7" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE UP0003" x="188" y="0" width="189" height="418" frameX="-37" frameY="-9" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE UP0004" x="188" y="0" width="189" height="418" frameX="-37" frameY="-9" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE UP0005" x="188" y="0" width="189" height="418" frameX="-37" frameY="-9" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE UP0006" x="188" y="0" width="189" height="418" frameX="-37" frameY="-9" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE UP0007" x="188" y="0" width="189" height="418" frameX="-37" frameY="-9" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE UP0008" x="188" y="0" width="189" height="418" frameX="-37" frameY="-9" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB NOTE UP MISS0000" x="984" y="0" width="205" height="400" frameX="-34" frameY="-31" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB idle dance0000" x="0" y="824" width="227" height="396" frameX="-18" frameY="-23" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB idle dance0001" x="0" y="824" width="227" height="396" frameX="-18" frameY="-23" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB idle dance0002" x="614" y="420" width="209" height="402" frameX="-28" frameY="-15" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB idle dance0003" x="614" y="420" width="209" height="402" frameX="-28" frameY="-15" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB idle dance0004" x="401" y="420" width="213" height="402" frameX="-28" frameY="-14" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB idle dance0005" x="401" y="420" width="213" height="402" frameX="-28" frameY="-14" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB idle dance0006" x="183" y="420" width="218" height="403" frameX="-24" frameY="-16" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB idle dance0007" x="183" y="420" width="218" height="403" frameX="-24" frameY="-16" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB idle dance0008" x="1189" y="0" width="223" height="400" frameX="-21" frameY="-19" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB idle dance0009" x="1189" y="0" width="223" height="400" frameX="-21" frameY="-19" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB idle dance0010" x="1189" y="0" width="223" height="400" frameX="-21" frameY="-19" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB idle dance0011" x="1189" y="0" width="223" height="400" frameX="-21" frameY="-19" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB idle dance0012" x="0" y="824" width="227" height="396" frameX="-21" frameY="-22" frameWidth="282" frameHeight="443" />
+<SubTexture name="BB idle dance0013" x="0" y="824" width="227" height="396" frameX="-21" frameY="-22" frameWidth="282" frameHeight="443" />
+</TextureAtlas>

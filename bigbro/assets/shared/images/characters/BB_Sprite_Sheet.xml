@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BB_Sprite_Sheet.png">
+	
+	
+	<SubTexture name="BB Sing Note DOWN0001" x="0" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note DOWN0002" x="285" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note DOWN0003" x="285" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note DOWN0004" x="285" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note DOWN0005" x="285" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note DOWN0006" x="285" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note DOWN0007" x="285" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note DOWN0008" x="285" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note DOWN0009" x="285" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note DOWN0010" x="285" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note DOWN0011" x="285" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note DOWN0012" x="285" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note LEFT0001" x="570" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note LEFT0002" x="855" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note LEFT0003" x="855" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note LEFT0004" x="855" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note LEFT0005" x="855" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note LEFT0006" x="855" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note LEFT0007" x="855" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note LEFT0008" x="855" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note LEFT0009" x="855" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note LEFT0010" x="855" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note LEFT0011" x="855" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note LEFT0012" x="855" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note RIGHT0001" x="1140" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note RIGHT0002" x="1425" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note RIGHT0003" x="1710" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note RIGHT0004" x="1710" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note RIGHT0005" x="1710" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note RIGHT0006" x="1710" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note RIGHT0007" x="1710" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note RIGHT0007" x="1710" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note RIGHT0009" x="1710" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note RIGHT0010" x="1710" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note RIGHT0011" x="1710" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note RIGHT0012" x="1710" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note RIGHT0013" x="1710" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note RIGHT0014" x="1710" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note RIGHT0015" x="1710" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note RIGHT0016" x="1710" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note RIGHT0017" x="1710" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note RIGHT0018" x="1710" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note RIGHT0019" x="1710" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note RIGHT0020" x="1710" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note UP0001" x="0" y="444" width="282" height="442" />
+	<SubTexture name="BB Sing Note UP0002" x="285" y="444" width="282" height="442" />
+	<SubTexture name="BB Sing Note UP0003" x="285" y="444" width="282" height="442" />
+	<SubTexture name="BB Sing Note UP0004" x="285" y="444" width="282" height="442" />
+	<SubTexture name="BB Sing Note UP0005" x="285" y="444" width="282" height="442" />
+	<SubTexture name="BB Sing Note UP0006" x="285" y="444" width="282" height="442" />
+	<SubTexture name="BB Sing Note UP0007" x="285" y="444" width="282" height="442" />
+	<SubTexture name="BB Sing Note UP0008" x="285" y="444" width="282" height="442" />
+	<SubTexture name="BB Sing Note UP0009" x="285" y="444" width="282" height="442" />
+	<SubTexture name="BB Sing Note UP0010" x="285" y="444" width="282" height="442" />
+	<SubTexture name="BB Sing Note UP0011" x="285" y="444" width="282" height="442" />
+	<SubTexture name="BB Sing Note UP0012" x="285" y="444" width="282" height="442" />
+	<SubTexture name="BB Sing Note UP0013" x="285" y="444" width="282" height="442" />
+	<SubTexture name="BB Sing Note UP0014" x="285" y="444" width="282" height="442" />
+	<SubTexture name="BB Sing Note UP0015" x="285" y="444" width="282" height="442" />
+	<SubTexture name="BB idle dance0000" x="570" y="444" width="276" height="431" />
+	<SubTexture name="BB idle dance0001" x="849" y="444" width="276" height="431" />
+	<SubTexture name="BB idle dance0002" x="1128" y="444" width="276" height="431" />
+	<SubTexture name="BB idle dance0003" x="1407" y="444" width="276" height="431" />
+	<SubTexture name="BB idle dance0004" x="1686" y="444" width="276" height="431" />
+</TextureAtlas>

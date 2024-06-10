@@ -1,0 +1,18 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "philly",
+		"player1": "bf-shaded-w3",
+		"player2": "pico",
+		"player3": null,
+		"events": [],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 162,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "School"
+	}
+}

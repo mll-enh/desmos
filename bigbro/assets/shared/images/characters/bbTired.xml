@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bbTired.png">
+	
+	
+	<SubTexture name="BB Sing Note DOWN0000" x="0" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note DOWN0001" x="285" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note LEFT0000" x="570" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note LEFT0001" x="855" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note RIGH0000" x="1140" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note RIGHT0001" x="1425" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note RIGHT0002" x="1710" y="0" width="282" height="442" />
+	<SubTexture name="BB Sing Note UP0000" x="0" y="444" width="282" height="442" />
+	<SubTexture name="BB Sing Note UP0001" x="285" y="444" width="282" height="442" />
+	<SubTexture name="BB idle dance0000" x="570" y="444" width="276" height="431" />
+	<SubTexture name="BB idle dance0001" x="849" y="444" width="276" height="431" />
+	<SubTexture name="BB idle dance0002" x="1128" y="444" width="276" height="431" />
+	<SubTexture name="BB idle dance0003" x="1407" y="444" width="276" height="431" />
+	<SubTexture name="BB idle dance0004" x="1686" y="444" width="276" height="431" />
+</TextureAtlas>

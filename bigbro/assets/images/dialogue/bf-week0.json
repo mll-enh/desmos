@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-160,
+		165
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"loop_name": "bf-1",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bf-1",
+			"anim": "bf-1",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bf-2",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bf-2",
+			"anim": "bf-2",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bf-3",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bf-3",
+			"anim": "bf-3",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bf-4",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bf-4",
+			"anim": "bf-4",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bf-5",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bf-5",
+			"anim": "bf-5",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "bf-week0"
+}

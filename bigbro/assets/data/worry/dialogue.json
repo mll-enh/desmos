@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "6bb",
+			"text": "Hey, um.. bro..? Hate to call you late at night. But I really need some company tonight.."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "6bb",
+			"text": "Yeah, you can bring your GF, but I just need you right now, man. She can come in later."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "6bb",
+			"text": "Yeah... alright, see you in a bit."
+		}
+	]
+}

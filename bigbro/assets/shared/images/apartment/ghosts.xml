@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ghosts.png"><SubTexture name="ghosts ghosts bop animation0000" x="0" y="0" width="1451" height="846" frameX="0" frameY="0" frameWidth="1451" frameHeight="846" />
+<SubTexture name="ghosts ghosts bop animation0001" x="1451" y="0" width="1451" height="846" frameX="0" frameY="0" frameWidth="1451" frameHeight="846" />
+<SubTexture name="ghosts ghosts bop animation0002" x="0" y="846" width="1451" height="846" frameX="0" frameY="0" frameWidth="1451" frameHeight="846" />
+<SubTexture name="ghosts ghosts bop animation0003" x="1451" y="846" width="1451" height="846" frameX="0" frameY="0" frameWidth="1451" frameHeight="846" />
+<SubTexture name="ghosts ghosts bop animation0004" x="0" y="1692" width="1451" height="846" frameX="0" frameY="0" frameWidth="1451" frameHeight="846" />
+<SubTexture name="ghosts ghosts bop animation0005" x="1451" y="1692" width="1451" height="846" frameX="0" frameY="0" frameWidth="1451" frameHeight="846" />
+<SubTexture name="ghosts ghosts bop animation0006" x="0" y="2538" width="1451" height="846" frameX="0" frameY="0" frameWidth="1451" frameHeight="846" />
+<SubTexture name="ghosts ghosts bop animation0007" x="1451" y="2538" width="1451" height="846" frameX="0" frameY="0" frameWidth="1451" frameHeight="846" />
+</TextureAtlas>

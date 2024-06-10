@@ -1,0 +1,244 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "blank"
+		},
+		{
+			"expression": "12bb",
+			"text": "I felt I needed to get some fresh air after that.",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "12bb",
+			"text": "Thanks for forcing me sing there... helped ground me back in reality.",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "11bf",
+			"text": "Beep!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-l"
+		},
+		{
+			"expression": "13bb",
+			"text": "Being with family again really has boosted my mental health.",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "13bb",
+			"text": "I thought being away for a while was what I needed...",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "13bb",
+			"text": "But, I think I was accidentally driving myself further away and not realizing it.",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "9bf",
+			"text": "Beep beop be.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-l"
+		},
+		{
+			"expression": "8bb",
+			"text": "I know thats a sign for depression but, come on man, you think I would realize that?",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "4bf",
+			"text": "..Beop be",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-l"
+		},
+		{
+			"expression": "6bb",
+			"text": "Yeah, yeah, I know, I know. I need to get help for that.",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "7bf",
+			"text": "Beep. Beop. Bee.",
+			"boxState": "angry",
+			"sound": "bfText",
+			"speed": 0.05,
+			"portrait": "bf-l"
+		},
+		{
+			"expression": "11bb",
+			"text": "Damn, putting it blunt now, huh?",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "6bf",
+			"text": "BEEP!",
+			"boxState": "angry",
+			"sound": "bfText",
+			"speed": 0.05,
+			"portrait": "bf-l"
+		},
+		{
+			"expression": "11bb",
+			"text": "Geez, come on man... I don't need it. Plus, there are others who probably have it worse.",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "11bb",
+			"text": "It feels.. wrong for me to go in.",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "7bf",
+			"text": "Bopbe Beo bop!",
+			"boxState": "angry",
+			"sound": "bfText",
+			"speed": 0.05,
+			"portrait": "bf-l"
+		},
+		{
+			"expression": "6bb",
+			"text": "I just... maybe another time. Besides, I'm technically doing better now, so..",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "5bf",
+			"text": "BE BOP BEEP!",
+			"boxState": "angry",
+			"sound": "bfText",
+			"speed": 0.05,
+			"portrait": "bf-l"
+		},
+		{
+			"expression": "9bb",
+			"text": "Yikes! Alright, alright! Tomorrow morning... damn, I'll give a call to get an appointment.",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "7bf",
+			"text": "Beop bee bop be-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-l"
+		},
+		{
+			"expression": "8bb",
+			"text": "Dude, I'm 25. You think I can't handle a phone call to a doctor? Seriously?",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "4bf",
+			"text": "Beep.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-l"
+		},
+		{
+			"expression": "10bb",
+			"text": "Well shit... can't walk my way out of this, huh?",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "10bb",
+			"text": "Fuck.. fine. You can be next to me when I make the stupid call, alright?",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "4bf",
+			"text": "Beep!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-l"
+		},
+		{
+			"expression": "12bb",
+			"text": "Mm, but that aside... I came up here for a reason. Wanna do a remix, man?",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "12bb",
+			"text": "I kinda tweaked some of the melody of one of our songs this time. Would love for us to try it out!",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		},
+		{
+			"expression": "10bf",
+			"text": "Beep bop!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-l"
+		},
+		{
+			"expression": "13bb",
+			"text": "Coolio, glad you and me are on the same brain wave! And this time, your girl can actually see us live!",
+			"boxState": "normal",
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb"
+		}
+	]
+}

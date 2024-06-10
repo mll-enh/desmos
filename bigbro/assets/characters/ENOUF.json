@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "ENOUF",
+			"indices": [],
+			"name": "angry killer ENOUFFF"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/angry_killer_EENOUFFF",
+	"position": [
+		330,
+		202
+	],
+	"healthicon": "killer",
+	"flip_x": false,
+	"healthbar_colors": [
+		110,
+		0,
+		0
+	],
+	"camera_position": [
+		-60,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lines.png">
+	
+	
+	<SubTexture name="bb not bad0000" x="5" y="5" width="336" height="609" frameX="-2" frameY="-1" frameWidth="340" frameHeight="610" />
+	<SubTexture name="bb not bad0001" x="5" y="5" width="336" height="609" frameX="-2" frameY="-1" frameWidth="340" frameHeight="610" />
+	<SubTexture name="bb not bad0002" x="346" y="5" width="335" height="607" frameX="-3" frameY="-3" frameWidth="340" frameHeight="610" />
+	<SubTexture name="bb not bad0003" x="346" y="5" width="335" height="607" frameX="-3" frameY="-3" frameWidth="340" frameHeight="610" />
+	<SubTexture name="bb not bad0004" x="686" y="5" width="332" height="604" frameX="-5" frameY="-6" frameWidth="340" frameHeight="610" />
+	<SubTexture name="bb not bad0005" x="686" y="5" width="332" height="604" frameX="-5" frameY="-6" frameWidth="340" frameHeight="610" />
+	<SubTexture name="bb not bad0006" x="1024" y="5" width="330" height="604" frameX="-8" frameY="-6" frameWidth="340" frameHeight="610" />
+	<SubTexture name="bb not bad0007" x="1024" y="5" width="330" height="604" frameX="-8" frameY="-6" frameWidth="340" frameHeight="610" />
+	<SubTexture name="bb not bad0008" x="1359" y="5" width="330" height="604" frameX="-8" frameY="-6" frameWidth="340" frameHeight="610" />
+	<SubTexture name="bb not bad0009" x="1359" y="5" width="330" height="604" frameX="-8" frameY="-6" frameWidth="340" frameHeight="610" />
+	<SubTexture name="bb not bad0010" x="1694" y="5" width="327" height="609" frameX="-11" frameY="-1" frameWidth="340" frameHeight="610" />
+	<SubTexture name="bb not bad0011" x="1694" y="5" width="327" height="609" frameX="-11" frameY="-1" frameWidth="340" frameHeight="610" />
+	<SubTexture name="bb not bad0012" x="2026" y="5" width="332" height="610" frameX="-7" frameY="0" frameWidth="340" frameHeight="610" />
+	<SubTexture name="bb not bad0013" x="2026" y="5" width="332" height="610" frameX="-7" frameY="0" frameWidth="340" frameHeight="610" />
+	<SubTexture name="bb not bad0014" x="2364" y="5" width="336" height="610" frameX="-4" frameY="0" frameWidth="340" frameHeight="610" />
+	<SubTexture name="bb not bad0015" x="2364" y="5" width="336" height="610" frameX="-4" frameY="0" frameWidth="340" frameHeight="610" />
+	<SubTexture name="bb not bad0016" x="2705" y="5" width="332" height="610" frameX="-7" frameY="0" frameWidth="340" frameHeight="610" />
+	<SubTexture name="bb not bad0017" x="2705" y="5" width="332" height="610" frameX="-7" frameY="0" frameWidth="340" frameHeight="610" />
+	<SubTexture name="bb not bad0018" x="3042" y="5" width="332" height="610" frameX="-7" frameY="0" frameWidth="340" frameHeight="610" />
+	<SubTexture name="bb not bad0019" x="3042" y="5" width="332" height="610" frameX="-7" frameY="0" frameWidth="340" frameHeight="610" />
+	<SubTexture name="bb not bad0020" x="3380" y="5" width="337" height="606" frameX="0" frameY="-4" frameWidth="340" frameHeight="610" />
+	<SubTexture name="bb not bad0021" x="3380" y="5" width="337" height="606" frameX="0" frameY="-4" frameWidth="340" frameHeight="610" />
+	<SubTexture name="bb not bad0022" x="3722" y="5" width="332" height="606" frameX="-6" frameY="-5" frameWidth="340" frameHeight="610" />
+	<SubTexture name="bb not bad0023" x="3722" y="5" width="332" height="606" frameX="-6" frameY="-5" frameWidth="340" frameHeight="610" />
+	<SubTexture name="bb shit nice one0000" x="5" y="620" width="336" height="609" frameX="-9" frameY="-1" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0001" x="346" y="620" width="336" height="608" frameX="-9" frameY="-3" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0002" x="687" y="620" width="335" height="607" frameX="-9" frameY="-3" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0003" x="1028" y="620" width="333" height="606" frameX="-11" frameY="-5" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0004" x="1366" y="620" width="333" height="605" frameX="-11" frameY="-5" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0005" x="1366" y="620" width="333" height="605" frameX="-11" frameY="-5" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0006" x="1704" y="620" width="333" height="605" frameX="-11" frameY="-5" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0007" x="1704" y="620" width="333" height="605" frameX="-11" frameY="-5" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0008" x="1704" y="620" width="333" height="605" frameX="-11" frameY="-5" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0009" x="1704" y="620" width="333" height="605" frameX="-11" frameY="-5" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0010" x="1704" y="620" width="333" height="605" frameX="-11" frameY="-5" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0011" x="1704" y="620" width="333" height="605" frameX="-11" frameY="-5" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0012" x="1704" y="620" width="333" height="605" frameX="-11" frameY="-5" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0013" x="1704" y="620" width="333" height="605" frameX="-11" frameY="-5" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0014" x="1704" y="620" width="333" height="605" frameX="-11" frameY="-5" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0015" x="1704" y="620" width="333" height="605" frameX="-11" frameY="-5" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0016" x="1704" y="620" width="333" height="605" frameX="-11" frameY="-5" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0017" x="1704" y="620" width="333" height="605" frameX="-11" frameY="-5" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0018" x="1704" y="620" width="333" height="605" frameX="-11" frameY="-5" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0019" x="1704" y="620" width="333" height="605" frameX="-11" frameY="-5" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0020" x="1704" y="620" width="333" height="605" frameX="-11" frameY="-5" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0021" x="1704" y="620" width="333" height="605" frameX="-11" frameY="-5" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0022" x="1704" y="620" width="333" height="605" frameX="-11" frameY="-5" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0023" x="1704" y="620" width="333" height="605" frameX="-11" frameY="-5" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0024" x="1704" y="620" width="333" height="605" frameX="-11" frameY="-5" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0025" x="2042" y="620" width="333" height="605" frameX="-11" frameY="-5" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0026" x="2380" y="620" width="331" height="606" frameX="-13" frameY="-4" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0027" x="2716" y="620" width="328" height="610" frameX="-17" frameY="-1" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0028" x="3050" y="620" width="328" height="610" frameX="-17" frameY="0" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0029" x="3383" y="620" width="328" height="610" frameX="-17" frameY="0" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0030" x="3716" y="620" width="328" height="610" frameX="-17" frameY="0" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0031" x="3716" y="620" width="328" height="610" frameX="-17" frameY="0" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0032" x="5" y="1236" width="328" height="610" frameX="-17" frameY="0" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0033" x="338" y="1236" width="328" height="610" frameX="-17" frameY="0" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0034" x="671" y="1236" width="328" height="610" frameX="-17" frameY="0" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0035" x="1004" y="1236" width="335" height="607" frameX="-10" frameY="-3" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0036" x="1344" y="1236" width="342" height="604" frameX="-1" frameY="-6" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0037" x="1691" y="1236" width="343" height="604" frameX="0" frameY="-7" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0038" x="1691" y="1236" width="343" height="604" frameX="0" frameY="-7" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0039" x="2039" y="1236" width="343" height="604" frameX="0" frameY="-7" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0040" x="2039" y="1236" width="343" height="604" frameX="0" frameY="-7" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0041" x="2387" y="1236" width="343" height="604" frameX="0" frameY="-7" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0042" x="2735" y="1236" width="339" height="608" frameX="-6" frameY="-2" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0043" x="3079" y="1236" width="336" height="609" frameX="-9" frameY="-1" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb shit nice one0044" x="3079" y="1236" width="336" height="609" frameX="-9" frameY="-1" frameWidth="345" frameHeight="610" />
+	<SubTexture name="bb sweet dude0000" x="3421" y="1236" width="333" height="613" frameX="-6" frameY="0" frameWidth="339" frameHeight="613" />
+	<SubTexture name="bb sweet dude0001" x="5" y="1854" width="333" height="613" frameX="-6" frameY="0" frameWidth="339" frameHeight="613" />
+	<SubTexture name="bb sweet dude0002" x="343" y="1854" width="333" height="613" frameX="-6" frameY="0" frameWidth="339" frameHeight="613" />
+	<SubTexture name="bb sweet dude0003" x="343" y="1854" width="333" height="613" frameX="-6" frameY="0" frameWidth="339" frameHeight="613" />
+	<SubTexture name="bb sweet dude0004" x="682" y="1854" width="333" height="613" frameX="-6" frameY="0" frameWidth="339" frameHeight="613" />
+	<SubTexture name="bb sweet dude0005" x="1020" y="1854" width="339" height="611" frameX="-1" frameY="-2" frameWidth="339" frameHeight="613" />
+	<SubTexture name="bb sweet dude0006" x="1364" y="1854" width="339" height="610" frameX="0" frameY="-3" frameWidth="339" frameHeight="613" />
+	<SubTexture name="bb sweet dude0007" x="1709" y="1854" width="337" height="610" frameX="-2" frameY="-3" frameWidth="339" frameHeight="613" />
+	<SubTexture name="bb sweet dude0008" x="2051" y="1854" width="336" height="609" frameX="-3" frameY="-4" frameWidth="339" frameHeight="613" />
+	<SubTexture name="bb sweet dude0009" x="2393" y="1854" width="336" height="609" frameX="-3" frameY="-4" frameWidth="339" frameHeight="613" />
+	<SubTexture name="bb sweet dude0010" x="2393" y="1854" width="336" height="609" frameX="-3" frameY="-4" frameWidth="339" frameHeight="613" />
+	<SubTexture name="bb sweet dude0011" x="2734" y="1854" width="336" height="609" frameX="-3" frameY="-4" frameWidth="339" frameHeight="613" />
+	<SubTexture name="bb sweet dude0012" x="2734" y="1854" width="336" height="609" frameX="-3" frameY="-4" frameWidth="339" frameHeight="613" />
+	<SubTexture name="bb sweet dude0013" x="3076" y="1854" width="336" height="609" frameX="-3" frameY="-4" frameWidth="339" frameHeight="613" />
+	<SubTexture name="bb sweet dude0014" x="3076" y="1854" width="336" height="609" frameX="-3" frameY="-4" frameWidth="339" frameHeight="613" />
+	<SubTexture name="bb sweet dude0015" x="3417" y="1854" width="336" height="609" frameX="-3" frameY="-4" frameWidth="339" frameHeight="613" />
+	<SubTexture name="bb sweet dude0016" x="3417" y="1854" width="336" height="609" frameX="-3" frameY="-4" frameWidth="339" frameHeight="613" />
+	<SubTexture name="bb sweet dude0017" x="5" y="2472" width="336" height="609" frameX="-3" frameY="-4" frameWidth="339" frameHeight="613" />
+	<SubTexture name="bb sweet dude0018" x="5" y="2472" width="336" height="609" frameX="-3" frameY="-4" frameWidth="339" frameHeight="613" />
+	<SubTexture name="bb sweet dude0019" x="346" y="2472" width="336" height="609" frameX="-3" frameY="-4" frameWidth="339" frameHeight="613" />
+	<SubTexture name="bb sweet dude0020" x="688" y="2472" width="336" height="609" frameX="-3" frameY="-4" frameWidth="339" frameHeight="613" />
+	<SubTexture name="bb sweet dude0021" x="1029" y="2472" width="336" height="609" frameX="-3" frameY="-4" frameWidth="339" frameHeight="613" />
+	<SubTexture name="bb sweet dude0022" x="1371" y="2472" width="336" height="609" frameX="-3" frameY="-4" frameWidth="339" frameHeight="613" />
+	<SubTexture name="bb sweet dude0023" x="1712" y="2472" width="336" height="609" frameX="-3" frameY="-4" frameWidth="339" frameHeight="613" />
+	<SubTexture name="bb sweet dude0024" x="1712" y="2472" width="336" height="609" frameX="-3" frameY="-4" frameWidth="339" frameHeight="613" />
+</TextureAtlas>

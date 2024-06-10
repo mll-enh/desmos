@@ -1,0 +1,56 @@
+{
+	"song": {
+		"events": [
+			[
+				61483.5164835165,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bb-lipsync"
+					],
+					[
+						"Play Animation",
+						"nicebarstherebro",
+						"dad"
+					]
+				]
+			],
+			[
+				63296.7032967033,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bb"
+					]
+				]
+			],
+			[
+				103351.648351648,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bb-lipsync"
+					],
+					[
+						"Play Animation",
+						"heythatsit",
+						"dad"
+					]
+				]
+			],
+			[
+				105164.835164835,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bb"
+					]
+				]
+			]
+		]
+	}
+}

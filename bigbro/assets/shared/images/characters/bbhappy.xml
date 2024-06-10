@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bb.png">
+	
+	
+	<SubTexture name="bbhappyDOWN0000" x="3174" y="594" width="453" height="594" />
+	<SubTexture name="bbhappyDOWN0001" x="3628" y="594" width="453" height="594" />
+	<SubTexture name="bbhappyDOWN0002" x="0" y="1188" width="453" height="594" />
+	<SubTexture name="bbhappyDOWN0003" x="453" y="1188" width="453" height="594" />
+	<SubTexture name="bbhappyIDLE0000" x="907" y="1188" width="453" height="594" />
+	<SubTexture name="bbhappyIDLE0001" x="1360" y="1188" width="453" height="594" />
+	<SubTexture name="bbhappyIDLE0002" x="1814" y="1188" width="453" height="594" />
+	<SubTexture name="bbhappyIDLE0003" x="2267" y="1188" width="453" height="594" />
+	<SubTexture name="bbhappyIDLE0004" x="2721" y="1188" width="453" height="594" />
+	<SubTexture name="bbhappyIDLE0005" x="3174" y="1188" width="453" height="594" />
+	<SubTexture name="bbhappyIDLE0006" x="3628" y="1188" width="453" height="594" />
+	<SubTexture name="bbhappyIDLE0007" x="0" y="1782" width="453" height="594" />
+	<SubTexture name="bbhappyIDLE0008" x="453" y="1782" width="453" height="594" />
+	<SubTexture name="bbhappyIDLE0009" x="907" y="1782" width="453" height="594" />
+	<SubTexture name="bbhappyIDLE0010" x="1360" y="1782" width="453" height="594" />
+	<SubTexture name="bbhappyIDLE0011" x="1814" y="1782" width="453" height="594" />
+	<SubTexture name="bbhappyIDLE0012" x="2267" y="1782" width="453" height="594" />
+	<SubTexture name="bbhappyLEFT0000" x="2721" y="1782" width="453" height="594" />
+	<SubTexture name="bbhappyLEFT0001" x="3174" y="1782" width="453" height="594" />
+	<SubTexture name="bbhappyLEFT0002" x="3628" y="1782" width="453" height="594" />
+	<SubTexture name="bbhappyLEFT0003" x="0" y="2376" width="453" height="594" />
+	<SubTexture name="bbhappyRIGHT0000" x="453" y="2376" width="453" height="594" />
+	<SubTexture name="bbhappyRIGHT0001" x="907" y="2376" width="453" height="594" />
+	<SubTexture name="bbhappyRIGHT0002" x="1360" y="2376" width="453" height="594" />
+	<SubTexture name="bbhappyRIGHT0003" x="1814" y="2376" width="453" height="594" />
+	<SubTexture name="bbhappyUP0000" x="2267" y="2376" width="453" height="594" />
+	<SubTexture name="bbhappyUP0001" x="2721" y="2376" width="453" height="594" />
+	<SubTexture name="bbhappyUP0002" x="3174" y="2376" width="453" height="594" />
+	<SubTexture name="bbhappyUP0003" x="3628" y="2376" width="453" height="594" />
+	<SubTexture name="bbmissdown0000" x="0" y="0" width="453" height="594" />
+	<SubTexture name="bbmissdown0001" x="453" y="0" width="453" height="594" />
+	<SubTexture name="bbmissdown0002" x="907" y="0" width="453" height="594" />
+	<SubTexture name="bbmissdown0003" x="1360" y="0" width="453" height="594" />
+	<SubTexture name="bbmissleft0000" x="1814" y="0" width="453" height="594" />
+	<SubTexture name="bbmissleft0001" x="2267" y="0" width="453" height="594" />
+	<SubTexture name="bbmissleft0002" x="2721" y="0" width="453" height="594" />
+	<SubTexture name="bbmissleft0003" x="3174" y="0" width="453" height="594" />
+	<SubTexture name="bbmissright0000" x="3628" y="0" width="453" height="594" />
+	<SubTexture name="bbmissright0001" x="0" y="594" width="453" height="594" />
+	<SubTexture name="bbmissright0002" x="453" y="594" width="453" height="594" />
+	<SubTexture name="bbmissright0003" x="907" y="594" width="453" height="594" />
+	<SubTexture name="bbmissup0000" x="1360" y="594" width="453" height="594" />
+	<SubTexture name="bbmissup0001" x="1814" y="594" width="453" height="594" />
+	<SubTexture name="bbmissup0002" x="2267" y="594" width="453" height="594" />
+	<SubTexture name="bbmissup0003" x="2721" y="594" width="453" height="594" />
+</TextureAtlas>

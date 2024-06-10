@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Killer_Silhouette.png">
+<SubTexture name="Killer Silhouette Idle0000" x="1635" y="0" width="545" height="373" frameX="-33" frameY="-73" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Idle0001" x="1635" y="373" width="545" height="372" frameX="-33" frameY="-74" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Idle0002" x="1635" y="745" width="545" height="371" frameX="-33" frameY="-75" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Idle0003" x="1635" y="1116" width="545" height="369" frameX="-33" frameY="-77" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Idle0004" x="0" y="1539" width="545" height="368" frameX="-33" frameY="-78" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Idle0005" x="2180" y="367" width="545" height="366" frameX="-33" frameY="-80" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Idle0006" x="2180" y="1464" width="545" height="364" frameX="-33" frameY="-82" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Idle0007" x="0" y="1907" width="545" height="364" frameX="-33" frameY="-82" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Idle0008" x="545" y="1907" width="545" height="364" frameX="-33" frameY="-82" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Idle0009" x="1090" y="1907" width="545" height="364" frameX="-33" frameY="-82" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Idle0010" x="2180" y="1099" width="545" height="365" frameX="-33" frameY="-82" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Idle0011" x="2180" y="733" width="545" height="366" frameX="-33" frameY="-81" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Idle0012" x="545" y="1539" width="545" height="367" frameX="-33" frameY="-80" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Idle0013" x="1090" y="1539" width="545" height="367" frameX="-33" frameY="-80" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Idle0014" x="1635" y="1539" width="545" height="367" frameX="-33" frameY="-80" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Idle0015" x="1635" y="1539" width="545" height="367" frameX="-33" frameY="-80" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Idle0016" x="1635" y="1539" width="545" height="367" frameX="-33" frameY="-80" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Idle0017" x="1635" y="1539" width="545" height="367" frameX="-33" frameY="-80" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Idle0018" x="1635" y="1539" width="545" height="367" frameX="-33" frameY="-80" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Idle0019" x="1635" y="1539" width="545" height="367" frameX="-33" frameY="-80" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Idle0020" x="2180" y="0" width="545" height="367" frameX="-33" frameY="-79" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Idle0021" x="2180" y="0" width="545" height="367" frameX="-33" frameY="-79" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Idle0022" x="2180" y="0" width="545" height="367" frameX="-33" frameY="-79" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Idle0023" x="2180" y="0" width="545" height="367" frameX="-33" frameY="-79" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Idle0024" x="2180" y="0" width="545" height="367" frameX="-33" frameY="-79" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Idle0025" x="2180" y="0" width="545" height="367" frameX="-33" frameY="-79" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Idle0026" x="2180" y="0" width="545" height="367" frameX="-33" frameY="-79" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Idle0027" x="2180" y="0" width="545" height="367" frameX="-33" frameY="-79" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Down0000" x="0" y="1160" width="545" height="379" frameX="-33" frameY="-67" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Down0001" x="545" y="1160" width="545" height="379" frameX="-33" frameY="-67" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Down0002" x="1090" y="1160" width="545" height="379" frameX="-33" frameY="-68" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Left0000" x="0" y="776" width="545" height="384" frameX="-33" frameY="-62" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Left0001" x="545" y="776" width="545" height="384" frameX="-33" frameY="-62" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Left0002" x="1090" y="776" width="545" height="384" frameX="-33" frameY="-62" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Right0000" x="1090" y="0" width="545" height="385" frameX="-33" frameY="-61" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Right0001" x="1090" y="385" width="545" height="385" frameX="-33" frameY="-61" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Right0002" x="545" y="389" width="545" height="386" frameX="-33" frameY="-60" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Up0000" x="0" y="389" width="545" height="387" frameX="-33" frameY="-59" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Up0001" x="545" y="0" width="545" height="388" frameX="-33" frameY="-58" frameWidth="640" frameHeight="503" />
+<SubTexture name="Killer Silhouette Up0002" x="0" y="0" width="545" height="389" frameX="-33" frameY="-57" frameWidth="640" frameHeight="503" />
+</TextureAtlas>

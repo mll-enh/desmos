@@ -1,0 +1,49 @@
+{
+	"storyName": "???",
+	"hideFreeplay": false,
+	"difficulties": "Hard, GetReal",
+	"weekBackground": "bedtime2",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Guh",
+			"succ-alt",
+			[
+				190,
+				0,
+				181
+			]
+		],
+		[
+			"Famine",
+			"succ-alt",
+			[
+				190,
+				0,
+				181
+			]
+		],
+		[
+			"Succ'd",
+			"succ-alt",
+			[
+				190,
+				0,
+				181
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"weekName": "weekbb2"
+}

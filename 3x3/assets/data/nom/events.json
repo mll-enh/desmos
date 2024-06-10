@@ -1,0 +1,139 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "room",
+		"player1": "bf-pajamas",
+		"player2": "p-gf-hungry-3",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Play Animation",
+						"talk",
+						"1"
+					],
+					[
+						"Update Lyrics",
+						"What's wrong B3?",
+						""
+					]
+				]
+			],
+			[
+				2000,
+				[
+					[
+						"Update Lyrics",
+						"I'm only just a little hungry...",
+						""
+					]
+				]
+			],
+			[
+				3894.73684210526,
+				[
+					[
+						"Update Lyrics",
+						"Ahahahah...",
+						""
+					]
+				]
+			],
+			[
+				4973.68421052632,
+				[
+					[
+						"Add Camera Zoom",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				5055.92105263158,
+				[
+					[
+						"Add Camera Zoom",
+						"0.15",
+						""
+					],
+					[
+						"Update Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				55684.2105263158,
+				[
+					[
+						"Update Lyrics",
+						"C'mon...",
+						""
+					]
+				]
+			],
+			[
+				56210.5263157894,
+				[
+					[
+						"Update Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				56763.1578947368,
+				[
+					[
+						"Update Lyrics",
+						"Quit resisting already!",
+						""
+					]
+				]
+			],
+			[
+				58105.2631578947,
+				[
+					[
+						"Update Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				58421.0526315789,
+				[
+					[
+						"Update Lyrics",
+						"Ha ha ha ha!",
+						""
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Update Lyrics",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 190,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Nom"
+	}
+}

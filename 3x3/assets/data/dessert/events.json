@@ -1,0 +1,94 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "room",
+		"player1": "bf-pajamas",
+		"player2": "p-gf-hungry-1",
+		"player3": null,
+		"events": [
+			[
+				45568.1818181818,
+				[
+					[
+						"funnystatic",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				47272.7272727273,
+				[
+					[
+						"Change Character",
+						"dad",
+						"torment"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-pained"
+					],
+					[
+						"Dessert",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				74659.0909090909,
+				[
+					[
+						"funnystatic",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				76363.6363636364,
+				[
+					[
+						"Change Character",
+						"dad",
+						"p-gf-hungry-1"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-pajamas"
+					],
+					[
+						"Dessert",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				83636.3636363637,
+				[
+					[
+						"Change Character",
+						"dad",
+						"p-gf-hungry-1"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-pajamas"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 132,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Dessert"
+	}
+}

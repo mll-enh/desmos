@@ -1,0 +1,348 @@
+{
+	"dialogue": [
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "5k",
+			"text": "No.. no no fuck, why now? This isn't fair!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "23bb",
+			"text": "Heh, out of bullets, I guess you can say. HUH?"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "9k",
+			"text": "!!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "10k",
+			"text": "I'm the angel here! I'm the good guy! You guys have the demon on your side!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "10k",
+			"text": "I'm trying to do what is good for this place! This is all wrong!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "22bb",
+			"text": "What?"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "10k",
+			"text": "GAH! I hate you! Why are you protecting this stupid succubus?"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "10k",
+			"text": "You weren't meant to be killed that day. Why are you ruining my LIFE?"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "22bb",
+			"text": "..."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "11k",
+			"text": "..."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "24bb",
+			"text": "I'm... not the bad guy here.. I love my brother as family, and I want what makes him happy."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "24bb",
+			"text": "And he's happy with her, so.."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "24bb",
+			"text": "..why wouldn't I do what I can to make sure they are happy?"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "9k",
+			"text": "She's.. a demon!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "26bb",
+			"text": "Don't judge a book by it's cover, man. You're an angel, and look who's really the villain in this situation. It's YOU."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "12k",
+			"text": "This.. just.. can't be right."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "21bb",
+			"text": "You need to get your head out of your ass, and get some serious anger management classes."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "21bb",
+			"text": "You need it. If you seriously think we are the bad guys, you need a reality check, man."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "k",
+			"boxState": "normal",
+			"expression": "11k",
+			"text": "..."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-l",
+			"boxState": "normal",
+			"expression": "15bf",
+			"text": "...b-beep?"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "27bb",
+			"text": "It's okay, bro. You and your girl can come out now. I.. don't think he'll be coming back any time soon."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-l",
+			"boxState": "normal",
+			"expression": "18bf",
+			"text": "...beop bee.."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "27bb",
+			"text": "Yeah, I'll be fine he shot me somewhere where there were no vitals. I'm okay."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.045,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "27bb",
+			"text": "Let's get back inside. I'm tired, and really should get this wrapped up."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-l",
+			"boxState": "normal",
+			"expression": "16bf",
+			"text": "Beep."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The end... Thank you for playing!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "However, the adventure isn't truly over just yet!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Check freeplay, you unlocked something special...."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Michael..."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You truly do live up to your name."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You remind me of a close friend with a similar name in heaven..."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fitting."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Perhaps, they casted me out for a reason, to allow me experience this..."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "to get me to snap out of this obsessed rage..."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "They loved me back home. I see, I... I have a lot of reflecting I need to do."
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm not the righteous angel I thought I was. All the mess I've done speaks for itself.. *sigh*"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "- Signed, [REDACTED NAME]"
+		}
+	]
+}

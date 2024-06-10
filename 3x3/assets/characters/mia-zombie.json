@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "mia idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-110
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "mia right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				71
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mia Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				310,
+				-33
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mia Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				-84
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mia Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				80,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hehe",
+			"indices": [],
+			"name": "hehe"
+		},
+		{
+			"offsets": [
+				306,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "haha",
+			"indices": [],
+			"name": "haha"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Zombie_Mia",
+	"position": [
+		110,
+		120
+	],
+	"healthicon": "zombia",
+	"flip_x": false,
+	"healthbar_colors": [
+		231,
+		113,
+		221
+	],
+	"camera_position": [
+		-210,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

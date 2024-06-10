@@ -1,0 +1,141 @@
+{
+	"song": {
+		"events": [
+			[
+				23700,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-bb-standing-lines"
+					],
+					[
+						"Play Animation",
+						"not bad",
+						"bf"
+					]
+				]
+			],
+			[
+				24400,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-bb-standing"
+					]
+				]
+			],
+			[
+				49300,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-bb-standing-lines"
+					],
+					[
+						"Play Animation",
+						"not bad",
+						"bf"
+					]
+				]
+			],
+			[
+				50000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-bb-standing"
+					]
+				]
+			],
+			[
+				87900,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-bb-standing-lines"
+					],
+					[
+						"Play Animation",
+						"shit nice one",
+						"bf"
+					]
+				]
+			],
+			[
+				89400,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-bb-standing"
+					]
+				]
+			],
+			[
+				89600,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-waving"
+					]
+				]
+			],
+			[
+				164600,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-bb-standing-lines"
+					],
+					[
+						"Play Animation",
+						"not bad",
+						"bf"
+					]
+				]
+			],
+			[
+				165200,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-bb-standing"
+					]
+				]
+			],
+			[
+				197100,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-bb-standing-lines"
+					],
+					[
+						"Play Animation",
+						"sweet dude",
+						"bf"
+					]
+				]
+			],
+			[
+				198000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-bb-standing"
+					]
+				]
+			]
+		]
+	}
+}

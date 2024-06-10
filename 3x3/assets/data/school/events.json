@@ -1,0 +1,959 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "philly",
+		"player1": "bf-shaded-w3",
+		"player2": "pico",
+		"player3": null,
+		"events": [
+			[
+				41358.024691358,
+				[
+					[
+						"Trigger Song Event",
+						"school",
+						"start"
+					]
+				]
+			],
+			[
+				41481.4814814815,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				42037.037037037,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				42592.5925925926,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				43333.3333333333,
+				[
+					[
+						"Play Animation",
+						"cock",
+						"dad"
+					]
+				]
+			],
+			[
+				43703.7037037037,
+				[
+					[
+						"Play Animation",
+						"cock",
+						"dad"
+					]
+				]
+			],
+			[
+				44074.0740740741,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				44259.2592592593,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				44351.8518518519,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				44444.4444444444,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				45000,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				45555.5555555556,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				46296.2962962963,
+				[
+					[
+						"Play Animation",
+						"cock",
+						"dad"
+					]
+				]
+			],
+			[
+				46666.6666666667,
+				[
+					[
+						"Play Animation",
+						"cock",
+						"dad"
+					]
+				]
+			],
+			[
+				47037.037037037,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				47222.2222222222,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				47314.8148148148,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				47407.4074074074,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				47962.962962963,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				48518.5185185185,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				49259.2592592593,
+				[
+					[
+						"Play Animation",
+						"cock",
+						"dad"
+					]
+				]
+			],
+			[
+				49629.6296296296,
+				[
+					[
+						"Play Animation",
+						"cock",
+						"dad"
+					]
+				]
+			],
+			[
+				50000,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				50185.1851851852,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				50277.7777777778,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				50370.3703703704,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				50925.9259259259,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				51481.4814814815,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				52222.2222222222,
+				[
+					[
+						"Play Animation",
+						"cock",
+						"dad"
+					]
+				]
+			],
+			[
+				52592.5925925926,
+				[
+					[
+						"Play Animation",
+						"cock",
+						"dad"
+					]
+				]
+			],
+			[
+				52962.962962963,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				53148.1481481482,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				53240.7407407407,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				53333.3333333333,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				53888.8888888889,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				54444.4444444444,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				55185.1851851852,
+				[
+					[
+						"Play Animation",
+						"cock",
+						"dad"
+					]
+				]
+			],
+			[
+				55555.5555555556,
+				[
+					[
+						"Play Animation",
+						"cock",
+						"dad"
+					]
+				]
+			],
+			[
+				55925.9259259259,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				56111.1111111111,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				56203.7037037037,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				56296.2962962963,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				56851.8518518519,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				57407.4074074074,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				58148.1481481482,
+				[
+					[
+						"Play Animation",
+						"cock",
+						"dad"
+					]
+				]
+			],
+			[
+				58518.5185185185,
+				[
+					[
+						"Play Animation",
+						"cock",
+						"dad"
+					]
+				]
+			],
+			[
+				58888.8888888889,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				59074.0740740741,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				59166.6666666667,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				59259.2592592593,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				59814.8148148148,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				60370.3703703704,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				61111.1111111111,
+				[
+					[
+						"Play Animation",
+						"cock",
+						"dad"
+					]
+				]
+			],
+			[
+				61481.4814814815,
+				[
+					[
+						"Play Animation",
+						"cock",
+						"dad"
+					]
+				]
+			],
+			[
+				61851.8518518519,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				62037.037037037,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				62129.6296296296,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				62222.2222222222,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				62777.7777777778,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				63333.3333333333,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				63703.7037037037,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				64074.0740740741,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				64444.4444444444,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				64814.8148148148,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				64907.4074074074,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				65000,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				65092.5925925926,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.02",
+						"0.2,0.02"
+					],
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					]
+				]
+			],
+			[
+				65185.1851851852,
+				[
+					[
+						"Trigger Song Event",
+						"school",
+						"end"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-shaded-w3",
+		"bpm": 162,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "School"
+	}
+}

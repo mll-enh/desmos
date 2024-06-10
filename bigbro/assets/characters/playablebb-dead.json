@@ -1,0 +1,56 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        45,
+        25
+      ],
+      "indices": [],
+      "fps": 24,
+      "anim": "firstDeath",
+      "loop": false,
+      "name": "BB dies"
+    },
+    {
+      "offsets": [
+        45,
+        25
+      ],
+      "indices": [],
+      "fps": 24,
+      "anim": "deathConfirm",
+      "loop": false,
+      "name": "BB Dead confirm"
+    },
+    {
+      "offsets": [
+        45,
+        25
+      ],
+      "indices": [],
+      "fps": 24,
+      "anim": "deathLoop",
+      "loop": true,
+      "name": "BB Dead Loop"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/playablebb",
+  "position": [
+    0,
+    0
+  ],
+  "healthicon": "bb",
+  "flip_x": false,
+  "healthbar_colors": [
+    49,
+    176,
+    209
+  ],
+  "camera_position": [
+    50,
+    0
+  ],
+  "sing_duration": 4,
+  "scale": 2
+}

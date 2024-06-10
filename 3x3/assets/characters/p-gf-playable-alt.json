@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				156,
+				6
+			],
+			"indices": [],
+			"fps": 100,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left Miss"
+		},
+		{
+			"offsets": [
+				-5,
+				50
+			],
+			"indices": [],
+			"fps": 100,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up Miss"
+		},
+		{
+			"offsets": [
+				214,
+				-218
+			],
+			"indices": [],
+			"fps": 100,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down Miss"
+		},
+		{
+			"offsets": [
+				79,
+				78
+			],
+			"indices": [],
+			"fps": 100,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right Right Miss"
+		},
+		{
+			"offsets": [
+				144,
+				11
+			],
+			"indices": [],
+			"fps": 200,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Left Miss"
+		},
+		{
+			"offsets": [
+				29,
+				61
+			],
+			"indices": [],
+			"fps": 200,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Up Miss"
+		},
+		{
+			"offsets": [
+				245,
+				-239
+			],
+			"indices": [],
+			"fps": 200,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Down Miss"
+		},
+		{
+			"offsets": [
+				65,
+				88
+			],
+			"indices": [],
+			"fps": 200,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Right Right Miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shaya-playable",
+	"position": [
+		70,
+		170
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		235,
+		38,
+		186
+	],
+	"camera_position": [
+		-20,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

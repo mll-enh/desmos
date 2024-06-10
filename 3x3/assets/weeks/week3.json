@@ -1,0 +1,53 @@
+{
+	"storyName": "Showdown with a Superstar",
+	"hideFreeplay": false,
+	"difficulties": "Hard, GetReal",
+	"weekBackground": "philly",
+	"weekBefore": "week2",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Pico",
+			"pico",
+			[
+				131,
+				0,
+				31
+			]
+		],
+		[
+			"Philly Nice",
+			"pico",
+			[
+				131,
+				0,
+				31
+			]
+		],
+		[
+			"Blammed",
+			"pico",
+			[
+				131,
+				0,
+				31
+			]
+		],
+		[
+			"School",
+			"pico",
+			[
+				91,
+				0,
+				31
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 3"
+}

@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "blank",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "13bb",
+			"text": "Hell yeah, man! That sounded amazing!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-l",
+			"boxState": "normal",
+			"expression": "11bf",
+			"text": "Beop be!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "12bb",
+			"text": "You and me need to sing way more often!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "12bb",
+			"text": "It's actually helping my heart get tougher! I feel amazing, no thanks to you!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-l",
+			"boxState": "normal",
+			"expression": "3bf",
+			"text": "Beop bee!"
+		},
+		{
+			"sound": "empty",
+			"speed": 0.05,
+			"portrait": "bb",
+			"boxState": "normal",
+			"expression": "17bb",
+			"text": "!!!"
+		}
+	]
+}

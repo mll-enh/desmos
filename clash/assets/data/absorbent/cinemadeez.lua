@@ -1,0 +1,18 @@
+function onCreate()
+    makeLuaSprite('cinemadeez1')
+    makeLuaSprite('cinemadeez2')
+    makeGraphic('cinemadeez1',  1500, 150, '000000')
+    makeGraphic('cinemadeez2', 1500, 150, '000000')
+    addLuaSprite('cinemadeez1', true)
+    addLuaSprite('cinemadeez2', true)
+    setObjectCamera('cinemadeez1', 'hud')
+    setObjectCamera('cinemadeez2', 'hud')
+    setProperty('cinemadeez1.y', 625)
+    setProperty('cinemadeez2.y', -50)
+setObjectOrder('cinemadeez1', 1)
+setObjectOrder('cinemadeez2', 0)
+end
+function onSongStart()
+    doTweenY('cinemadeez1Y', 'cinemadeez1', 625, 0.5, 'circOut')
+    doTweenY('cinemadeez2Y', 'cinemadeez2', -50, 0.5, 'circOut')
+end

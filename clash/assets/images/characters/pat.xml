@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pat.png">
+<SubTexture name="pat rick0000" x="0" y="0" width="405" height="723" frameX="0" frameY="0" frameWidth="405" frameHeight="723" />
+<SubTexture name="pat rick0001" x="0" y="0" width="405" height="723" frameX="0" frameY="0" frameWidth="405" frameHeight="723" />
+<SubTexture name="pat rick0002" x="405" y="0" width="405" height="723" frameX="0" frameY="0" frameWidth="405" frameHeight="723" />
+<SubTexture name="pat rick0003" x="405" y="0" width="405" height="723" frameX="0" frameY="0" frameWidth="405" frameHeight="723" />
+</TextureAtlas>

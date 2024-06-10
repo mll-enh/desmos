@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf-week0.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf-10000" x="0" y="0" width="186" height="217" frameX="0" frameY="0" frameWidth="186" frameHeight="217" />
+	<SubTexture name="bf-20000" x="186" y="0" width="186" height="217" frameX="0" frameY="0" frameWidth="186" frameHeight="217" />
+	<SubTexture name="bf-30000" x="0" y="217" width="186" height="217" frameX="0" frameY="0" frameWidth="186" frameHeight="217" />
+	<SubTexture name="bf-40000" x="186" y="217" width="186" height="217" frameX="0" frameY="0" frameWidth="186" frameHeight="217" />
+	<SubTexture name="bf-50000" x="372" y="0" width="171" height="187" frameX="0" frameY="0" frameWidth="171" frameHeight="187" />
+</TextureAtlas>

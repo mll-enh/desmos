@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="174" height="183" frameX="0" frameY="4" frameWidth="174" frameHeight="183" />
+	<SubTexture name="purple0000" x="174" y="0" width="174" height="183" frameX="0" frameY="4" frameWidth="174" frameHeight="183" />
+	<SubTexture name="red0000" x="348" y="0" width="174" height="183" frameX="0" frameY="4" frameWidth="174" frameHeight="183" />
+	<SubTexture name="green0000" x="0" y="183" width="174" height="183" frameX="0" frameY="4" frameWidth="174" frameHeight="183" />
+</TextureAtlas>
+s>

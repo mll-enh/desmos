@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Tutorial", "gf", [165, 0, 77]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Training with Shaya",
+	"weekBefore": "tutorial",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+	"difficulties": "Hard, GetReal",
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,44 @@
+{
+	"storyName": "Old Friends, Older Forest",
+	"hideFreeplay": false,
+	"difficulties": "Hard, GetReal",
+	"weekBackground": "halloween",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Spookeez",
+			"spooky",
+			[
+				34,
+				71,
+				68
+			]
+		],
+		[
+			"South",
+			"spooky",
+			[
+				34,
+				51,
+				88
+			]
+		],
+		[
+			"Not a monster",
+			"monster",
+			[
+				115,
+				35,
+				15
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 2"
+}

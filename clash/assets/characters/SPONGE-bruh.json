@@ -1,0 +1,105 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-148,
+				-53
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "R",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-138,
+				-38
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "D",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-180,
+				-80
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-151,
+				-61
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				12,
+				14
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-73,
+				78
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "U",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				78
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "U",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SpongeBruh",
+	"position": [
+		0,
+		340
+	],
+	"healthicon": "bob",
+	"flip_x": false,
+	"healthbar_colors": [
+		234,
+		246,
+		27
+	],
+	"camera_position": [
+		100,
+		-270
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.6
+}
