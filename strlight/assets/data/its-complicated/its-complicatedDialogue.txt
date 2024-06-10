@@ -1,0 +1,23 @@
+:bg:PRESSONGCUTSCENE
+:voice:RUBY1
+:ruby:Thank you for coming out here CJ, i know you are busy,, but this request i have for you is a bit important
+:voice:CJ1
+:cj:Yeah whats up ruby, ready for some 1 on 1 practice?
+:voice:RUBY2
+:ruby:Not quite, you see, i have been writing a song,,,, a song for mark!
+:voice:RUBY3
+:ruby:Something special for our anniversary, to thank him for everything he has done for me
+:voice:RUBY4
+:ruby:I wanted to write something sentimental and happy, but im not sure if the song is going in the right place though
+:voice:RUBY5
+:ruby:The feeling of the song is all,,,, complicated
+:voice:CJ2
+:cj:So you want me to help you with it?
+:voice:RUBY6
+:ruby:Yeah... i want this to be perfect,,, just for him
+:voice:CJ3
+:cj:I see, well ruby, you called the right guy for the job!
+:voice:CJ4
+:cj:Lets make this the best song ever! just for mark! Now show me what you got!
+:voice:RUBY7
+:ruby:A-Alright

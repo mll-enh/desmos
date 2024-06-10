@@ -1,0 +1,74 @@
+:bg:1
+:nar:one day, you decide to take your Girlfriend to a local music festival, and a local band is currently performing..
+:voice:gf1
+:gf:These Guys are really good!
+:bf:Beep boop!
+:voice:gf2
+:gf:Thank you for bringing me to this festival, Boyfriend!
+:voice:gf3
+:gf:Too bad this is the last show, I was really enjoying it!
+:bf:Boop!
+:bg:2
+:voice:cj1
+:singer:Thank you, thank you, everyone! Itâ€™s awesome to be having all of you he-...
+:voice:cj2
+:singer:Huh?
+:voice:cj3
+:singer:Hang on a second. Is that...?!
+:bg:3
+:voice:cj4
+:singer:You there! Yeah, you! Blue dude in the white tee, step up right here!
+:bf:boop!?
+:voice:gf4
+:gf:Does he know you? should we go up?
+:bf:Boop!
+:voice:gf5
+:gf:Welp, why not. come on, let's go!
+:bg:4
+:voice:cj5
+:singer:Heh sorry bringing you up here all of a sudden, but I just need to know...
+:voice:cj6
+:singer:Sooo... youâ€™re Boyfriend, right?
+:bf:Boop!
+:voice:cj7
+:singer:Hah! I never knew Iâ€™d be running into you here, especially after what Iâ€™ve heard about you
+:voice:cj8
+:singer:You're the one that beat DD and MM in their own game right? 
+:voice:cj9
+:singer:Hell, you even managed to defeat that one up and coming robot dude. 
+:voice:gf6
+:gf:Yes he was!
+:voice:cj10
+:singer:Sick!
+:voice:gfmissing
+:gf:You know us?
+:voice:cj11
+:singer:Why, of course I do, silly! The music scene has been going nuts about you both!
+:voice:cj12
+:singer:Never thought that Iâ€™d be getting to meet up with big dudes so soon. 
+:voice:cj13
+:singer:And you must be The Girlfriend right? The Dearestâ€™s daughter, yeah?
+:voice:gf7
+:gf:yep
+:voice:cj15
+:cj:Heh, what a duo you both are.  The namesâ€™ CJ by the way, but I bet that you already knew that!  And now that youâ€™re both here...
+:bf:Beep Boop!
+:bg:5
+:voice:cj16
+:cj:Iâ€™ll quit the rambling. Sorry for interrupting your date over here little dude, buuut... what do you say? up for a friendly match? Just the two of us?
+:voice:cj17
+:cj:(Since we are really not that famous yet, battling you might up our social status) 
+:voice:gf8
+:gf:I don't know.. Don't you have, like, a schedule planned for your show?
+:bf:Beep!!!
+:voice:cj18
+:cj:Sick. Just warning you ahead, I ainâ€™t going easy on you! 
+:voice:gf9
+:gf:(he didn't answer my question!)
+
+
+
+
+
+
+

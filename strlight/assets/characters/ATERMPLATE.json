@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "pissIDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-20,
+				94
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pissUP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				20
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pissLEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-51,
+				30
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pissRIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-50,
+				-80
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pissDOWN",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Monster_Assets",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "monster",
+	"flip_x": false,
+	"healthbar_colors": [
+		243,
+		255,
+		110
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,45 @@
+:bg:6
+:voice:cj19
+:cj:Hehe, not bad bud!  You managed to out-perform me somehow. 
+:voice:cj20
+:cj:That Blue hair of yours really has something going for it.
+:bf:Beep ba boop!
+:voice:gf10fixed
+:gf:Not bad, that was funky indeed!
+:voice:cj21
+:cj:Buuut, if I were to be honest with you bothâ€¦ I was never really the best vocalist... of the group.
+:bf:Beep...?
+:bg:7
+:voice:ruby1
+:mystery:Ah...! Iâ€™m so sorry that I'm late! I ran into traffic and, and,  Huff-huff...
+:voice:cj22
+:cj:Don't worry! You came here right on time!
+:voice:gf11
+:gf:huh!?
+:bg:8
+:voice:cj23
+:cj:Ah... it looks like you two havenâ€™t met her yet. This is Ruby, a good old friend of mine.  Sheâ€™s kinda timid, but donâ€™t let that make you underestimate her! Sheâ€™s killer at vocals, thatâ€™s for sure!
+:voice:cj24
+:cj:Say, you wanna go at them, Ruby?
+:bg:9
+:voice:ruby2
+:ruby:W-what now..?!  Are you... asking me to challenge t-them...?
+:voice:ruby3
+:ruby:Uhm, are those the...?
+:bf:boop beep
+:voice:gf12
+:gf:She doesn't seem so sure of herself..
+:voice:ruby4
+:ruby:D-Don't worry... i- I can do it.. I-I need to prove myself to them, and I wonâ€™t fail that now...! to show them that I can be strong...
+:voice:cj25
+:cj:Well, if you say so Ruby! I knew I could count on you, donâ€™t even sweat it! go on and break a leg out there! (But, not literally...)
+:bf:Beep!
+:voice:gf13
+:gf:(So this is the stage fright my parents were talking about..)
+
+
+
+
+
+
+

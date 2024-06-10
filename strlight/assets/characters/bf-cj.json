@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				380
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "cj idle dance"
+		},
+		{
+			"offsets": [
+				76,
+				405
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cj Sing Note RIGHT0"
+		},
+		{
+			"offsets": [
+				60,
+				373
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cj Sing Note DOWN0"
+		},
+		{
+			"offsets": [
+				1,
+				430
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cj Sing Note UP0"
+		},
+		{
+			"offsets": [
+				101,
+				376
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cj Sing Note LEFT0"
+		},
+		{
+			"offsets": [
+				68,
+				617
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "cj miss right"
+		},
+		{
+			"offsets": [
+				47,
+				374
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "cj miss down"
+		},
+		{
+			"offsets": [
+				350,
+				546
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "cj miss up"
+		},
+		{
+			"offsets": [
+				569,
+				1171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "cj miss left"
+		},
+		{
+			"offsets": [
+				505,
+				1035
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "1Cj fucking dies"
+		},
+		{
+			"offsets": [
+				101,
+				245
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "3Cj fucking dies loop"
+		},
+		{
+			"offsets": [
+				101,
+				245
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "2Cj fucking dies confirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/new/playable_CJ",
+	"position": [
+		10,
+		370
+	],
+	"healthicon": "cj",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		76,
+		255
+	],
+	"camera_position": [
+		370,
+		-560
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

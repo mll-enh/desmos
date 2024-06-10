@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mark_Faith.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mark and Faith0000" x="3" y="3" width="857" height="701" frameX="-1" frameY="-1" frameWidth="859" frameHeight="702"/>
+	<SubTexture name="Mark and Faith0001" x="864" y="3" width="859" height="701" frameX="0" frameY="-1" frameWidth="859" frameHeight="702"/>
+	<SubTexture name="Mark and Faith0002" x="1727" y="3" width="859" height="702"/>
+	<SubTexture name="Mark and Faith0003" x="2590" y="3" width="859" height="702"/>
+	<SubTexture name="Mark and Faith0004" x="3" y="709" width="859" height="702"/>
+	<SubTexture name="Mark and Faith0005" x="866" y="709" width="859" height="702"/>
+	<SubTexture name="Mark and Faith0006" x="1729" y="709" width="859" height="702"/>
+	<SubTexture name="Mark and Faith0007" x="2592" y="709" width="859" height="702"/>
+	<SubTexture name="Mark and Faith0008" x="3" y="1415" width="858" height="702" frameX="-1" frameY="0" frameWidth="859" frameHeight="702"/>
+	<SubTexture name="Mark and Faith0009" x="865" y="1415" width="858" height="702" frameX="-1" frameY="0" frameWidth="859" frameHeight="702"/>
+	<SubTexture name="Mark and Faith0010" x="1727" y="1415" width="857" height="702" frameX="-1" frameY="0" frameWidth="859" frameHeight="702"/>
+	<SubTexture name="Mark and Faith0011" x="3" y="3" width="857" height="701" frameX="-1" frameY="-1" frameWidth="859" frameHeight="702"/>
+	<SubTexture name="Mark and Faith0012" x="3" y="3" width="857" height="701" frameX="-1" frameY="-1" frameWidth="859" frameHeight="702"/>
+	<SubTexture name="Mark and Faith0013" x="3" y="3" width="857" height="701" frameX="-1" frameY="-1" frameWidth="859" frameHeight="702"/>
+</TextureAtlas>

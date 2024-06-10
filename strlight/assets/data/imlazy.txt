@@ -1,0 +1,14 @@
+useText:true
+bgscale:1
+bgx:-700
+bgy:-200
+tlightsx:-700
+tlightsy:-200
+couchx:-630
+couchy:200
+olleyidlex:860
+olleyidley:100
+vadeidlex:1100
+vadeidley:50
+abelx:220
+abely:205

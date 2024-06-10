@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-9,
+				-20
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "OLLEYDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-7,
+				-23
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "OLLEYUP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				-24
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "OLLEYLEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-7,
+				-18
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "OLLEYRIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-7,
+				-21
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "OLLEYDOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-8,
+				-20
+			],
+			"loop": false,
+			"anim": "idle2",
+			"fps": 24,
+			"name": "altOLLEYDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-7,
+				-23
+			],
+			"loop": false,
+			"anim": "singUP2",
+			"fps": 24,
+			"name": "altOLLEYUP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				-24
+			],
+			"loop": false,
+			"anim": "singLEFT2",
+			"fps": 24,
+			"name": "altOLLEYLEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-7,
+				-18
+			],
+			"loop": false,
+			"anim": "singRIGHT2",
+			"fps": 24,
+			"name": "altOLLEYRIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-7,
+				-21
+			],
+			"loop": false,
+			"anim": "singDOWN2",
+			"fps": 24,
+			"name": "altOLLEYDOWN",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Olley",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "monster",
+	"flip_x": false,
+	"healthbar_colors": [
+		243,
+		255,
+		110
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

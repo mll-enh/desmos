@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LIGHTSHINE.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lights0000" x="3" y="3" width="2408" height="552"/>
+	<SubTexture name="lights0001" x="2415" y="3" width="2408" height="552"/>
+	<SubTexture name="lights0002" x="4827" y="3" width="2408" height="552"/>
+	<SubTexture name="lights0003" x="3" y="559" width="2408" height="552"/>
+	<SubTexture name="lights0004" x="2415" y="559" width="2408" height="552"/>
+	<SubTexture name="lights0005" x="4827" y="559" width="2408" height="552"/>
+	<SubTexture name="lights0006" x="3" y="1115" width="2408" height="552"/>
+	<SubTexture name="lights0007" x="2415" y="1115" width="2408" height="552"/>
+	<SubTexture name="lights0008" x="4827" y="1115" width="2408" height="552"/>
+	<SubTexture name="lights0009" x="3" y="1671" width="2408" height="552"/>
+	<SubTexture name="lights0010" x="2415" y="1671" width="2408" height="552"/>
+	<SubTexture name="lights0011" x="4827" y="1671" width="2408" height="552"/>
+	<SubTexture name="lights0012" x="3" y="2227" width="2408" height="552"/>
+	<SubTexture name="lights0013" x="3" y="3" width="2408" height="552"/>
+</TextureAtlas>

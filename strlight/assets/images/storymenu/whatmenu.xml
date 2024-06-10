@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="whatmenu.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dad idle dance0000" x="3" y="3" width="296" height="688" frameX="-34" frameY="-18" frameWidth="337" frameHeight="706"/>
+	<SubTexture name="Dad idle dance0001" x="303" y="3" width="304" height="689" frameX="-30" frameY="-17" frameWidth="337" frameHeight="706"/>
+	<SubTexture name="Dad idle dance0002" x="611" y="3" width="321" height="692" frameX="-16" frameY="-14" frameWidth="337" frameHeight="706"/>
+	<SubTexture name="Dad idle dance0003" x="936" y="3" width="327" height="697" frameX="-10" frameY="-9" frameWidth="337" frameHeight="706"/>
+	<SubTexture name="Dad idle dance0004" x="1267" y="3" width="331" height="701" frameX="-5" frameY="-5" frameWidth="337" frameHeight="706"/>
+	<SubTexture name="Dad idle dance0005" x="1602" y="3" width="336" height="704" frameX="0" frameY="-2" frameWidth="337" frameHeight="706"/>
+	<SubTexture name="Dad idle dance0006" x="1942" y="3" width="335" height="706" frameX="0" frameY="0" frameWidth="337" frameHeight="706"/>
+	<SubTexture name="Dad idle dance0007" x="2281" y="3" width="328" height="704" frameX="-6" frameY="-2" frameWidth="337" frameHeight="706"/>
+	<SubTexture name="Dad idle dance0008" x="2613" y="3" width="321" height="702" frameX="-12" frameY="-4" frameWidth="337" frameHeight="706"/>
+	<SubTexture name="Dad idle dance0009" x="2938" y="3" width="314" height="698" frameX="-18" frameY="-8" frameWidth="337" frameHeight="706"/>
+	<SubTexture name="Dad idle dance0010" x="3256" y="3" width="307" height="694" frameX="-24" frameY="-12" frameWidth="337" frameHeight="706"/>
+	<SubTexture name="Dad idle dance0011" x="3567" y="3" width="300" height="689" frameX="-30" frameY="-17" frameWidth="337" frameHeight="706"/>
+	<SubTexture name="Dad idle dance0012" x="3" y="713" width="296" height="688" frameX="-34" frameY="-18" frameWidth="337" frameHeight="706"/>
+</TextureAtlas>

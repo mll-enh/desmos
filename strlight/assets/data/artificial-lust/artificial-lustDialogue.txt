@@ -1,0 +1,64 @@
+:bg:10
+:voice:cj26
+:cj:Now that was a sick performance Ruby!  You keep on improving more and more every time.
+:bf:Boop!
+:voice:gf14
+:gf:I wasn't expecting that! You're definitely better than my mom.
+:voice:rubymissing
+:ruby:Huh?  You... mean that?!  T-thanks...
+:voice:ruby6
+:ruby:Especially since it's coming from the daughter of MM herself, Its a big honor..
+:voice:ruby7
+:ruby:Yet... you still beat me to it...
+:bg:11
+:voice:cj27
+:cj:And thatâ€™s where I come in! Haha!
+:voice:cj28
+:cj:So, what do you say Ruby? How about we step our game up together?
+:voice:ruby8
+:ruby:Pardon...?!
+:bg:12
+:voice:cj29
+:cj:Me and you both, taking them on 2V1!!
+:bf:Beep!?!
+:voice:gf15
+:gf:That is so totally against the rules, But you can take them on, right?
+:voice:ruby10
+:ruby:S-since when there were rules?!
+:bf:Boop!
+:voice:cj30
+:cj:Alright now, letâ€™s rock on for one final time!
+:bg:13
+:voice:gf16
+:gf:wait!
+:voice:cj31
+:cj:...
+:voice:ruby9
+:ruby:...
+:bf:.......beep?
+:voice:gf17
+:gf:You know, on another thoughtâ€¦
+:voice:gf18
+:gf:A 2 versus 1 isn't really fair, is it..?
+:bg:14
+:voice:gf19
+:gf:Let me join you in a duet, my love!
+:voice:gf20
+:gf:I'm a little rusty, but remember, my genes are no joke!
+:bf:beep!
+:voice:cj32
+:bg:15
+:cj:Hmm... not bad, not bad.  Come on Girlfriend, show us what youâ€™ve got!
+:voice:gf22
+:gf:I'll do my best!
+:bf:Beep boop beep!
+:voice:cj33
+:cj:So Ruby, do you want me to carry you just like they do?
+:voice:ruby10
+:ruby:N-no thanks, itâ€™s alright Iâ€™m fine standing up here.
+:voice:cj34
+:cj:Sweet. Alright my dudes, letâ€™s end this mayhem right here, right now!
+:voice:ruby11
+:ruby:Y-yeah! 
+:voice:gf23
+:gf:Loser buys dinner!

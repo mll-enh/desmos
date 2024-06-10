@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Abel.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+			<SubTexture name="altABELDOWN0000" x="0" y="3000" width="477" height="565"/>
+	<SubTexture name="altABELDOWN0001" x="477" y="3000" width="475" height="552" frameX="0" frameY="-13" frameWidth="477" frameHeight="565"/>
+	<SubTexture name="altABELDOWN0002" x="952" y="3000" width="475" height="559" frameX="0" frameY="-6" frameWidth="477" frameHeight="565"/>
+	<SubTexture name="altABELDOWN0003" x="1427" y="3000" width="472" height="554" frameX="0" frameY="-11" frameWidth="477" frameHeight="565"/>
+	<SubTexture name="altABELDOWN0004" x="1899" y="3000" width="471" height="553" frameX="0" frameY="-12" frameWidth="477" frameHeight="565"/>
+	<SubTexture name="altABELDOWN0005" x="1899" y="3000" width="471" height="553" frameX="0" frameY="-12" frameWidth="477" frameHeight="565"/>
+	<SubTexture name="altABELDOWN0006" x="1899" y="3000" width="471" height="553" frameX="0" frameY="-12" frameWidth="477" frameHeight="565"/>
+	<SubTexture name="altABELDOWN0007" x="1899" y="3000" width="471" height="553" frameX="0" frameY="-12" frameWidth="477" frameHeight="565"/>
+	<SubTexture name="altABELDOWN0008" x="1899" y="3000" width="471" height="553" frameX="0" frameY="-12" frameWidth="477" frameHeight="565"/>
+	<SubTexture name="altABELDOWN0009" x="1899" y="3000" width="471" height="553" frameX="0" frameY="-12" frameWidth="477" frameHeight="565"/>
+	<SubTexture name="altABELDOWN0010" x="1899" y="3000" width="471" height="553" frameX="0" frameY="-12" frameWidth="477" frameHeight="565"/>
+	<SubTexture name="altABELDOWN0011" x="1899" y="3000" width="471" height="553" frameX="0" frameY="-12" frameWidth="477" frameHeight="565"/>
+	<SubTexture name="altABELDOWN0012" x="1899" y="3000" width="471" height="553" frameX="0" frameY="-12" frameWidth="477" frameHeight="565"/>
+	<SubTexture name="altABELDOWN0013" x="1899" y="3000" width="471" height="553" frameX="0" frameY="-12" frameWidth="477" frameHeight="565"/>
+	<SubTexture name="altABELIDLE0000" x="2370" y="3000" width="480" height="573"/>
+	<SubTexture name="altABELIDLE0001" x="2850" y="3000" width="480" height="573"/>
+	<SubTexture name="altABELIDLE0002" x="3330" y="3000" width="480" height="573"/>
+	<SubTexture name="altABELIDLE0003" x="0" y="3573" width="478" height="573" frameX="-1" frameY="0" frameWidth="480" frameHeight="573"/>
+	<SubTexture name="altABELIDLE0004" x="478" y="3573" width="476" height="573" frameX="-2" frameY="0" frameWidth="480" frameHeight="573"/>
+	<SubTexture name="altABELIDLE0005" x="954" y="3573" width="475" height="572" frameX="-2" frameY="-1" frameWidth="480" frameHeight="573"/>
+	<SubTexture name="altABELIDLE0006" x="1429" y="3573" width="475" height="568" frameX="-2" frameY="-5" frameWidth="480" frameHeight="573"/>
+	<SubTexture name="altABELIDLE0007" x="1429" y="3573" width="475" height="568" frameX="-2" frameY="-5" frameWidth="480" frameHeight="573"/>
+	<SubTexture name="altABELIDLE0008" x="1429" y="3573" width="475" height="568" frameX="-2" frameY="-5" frameWidth="480" frameHeight="573"/>
+	<SubTexture name="altABELIDLE0009" x="1429" y="3573" width="475" height="568" frameX="-2" frameY="-5" frameWidth="480" frameHeight="573"/>
+	<SubTexture name="altABELIDLE0010" x="1429" y="3573" width="475" height="568" frameX="-2" frameY="-5" frameWidth="480" frameHeight="573"/>
+	<SubTexture name="altABELIDLE0011" x="1429" y="3573" width="475" height="568" frameX="-2" frameY="-5" frameWidth="480" frameHeight="573"/>
+	<SubTexture name="altABELIDLE0012" x="1429" y="3573" width="475" height="568" frameX="-2" frameY="-5" frameWidth="480" frameHeight="573"/>
+	<SubTexture name="altABELIDLE0013" x="1429" y="3573" width="475" height="568" frameX="-2" frameY="-5" frameWidth="480" frameHeight="573"/>
+	<SubTexture name="altABELLEFT0000" x="1904" y="3573" width="479" height="578" frameX="0" frameY="-1" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="altABELLEFT0001" x="2383" y="3573" width="481" height="579" frameX="-5" frameY="0" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="altABELLEFT0002" x="2864" y="3573" width="482" height="579" frameX="-10" frameY="0" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="altABELLEFT0003" x="3346" y="3573" width="483" height="579" frameX="-15" frameY="0" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="altABELLEFT0004" x="3346" y="3573" width="483" height="579" frameX="-15" frameY="0" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="altABELLEFT0005" x="3346" y="3573" width="483" height="579" frameX="-15" frameY="0" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="altABELLEFT0006" x="3346" y="3573" width="483" height="579" frameX="-15" frameY="0" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="altABELLEFT0007" x="3346" y="3573" width="483" height="579" frameX="-15" frameY="0" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="altABELLEFT0008" x="3346" y="3573" width="483" height="579" frameX="-15" frameY="0" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="altABELLEFT0009" x="3346" y="3573" width="483" height="579" frameX="-15" frameY="0" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="altABELLEFT0010" x="3346" y="3573" width="483" height="579" frameX="-15" frameY="0" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="altABELLEFT0011" x="3346" y="3573" width="483" height="579" frameX="-15" frameY="0" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="altABELLEFT0012" x="3346" y="3573" width="483" height="579" frameX="-15" frameY="0" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="altABELLEFT0013" x="3346" y="3573" width="483" height="579" frameX="-15" frameY="0" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="altABELRIGHT0000" x="0" y="4152" width="502" height="566" frameX="0" frameY="0" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="altABELRIGHT0001" x="502" y="4152" width="534" height="563" frameX="0" frameY="-3" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="altABELRIGHT0002" x="1036" y="4152" width="525" height="562" frameX="0" frameY="-4" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="altABELRIGHT0003" x="1561" y="4152" width="518" height="559" frameX="0" frameY="-7" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="altABELRIGHT0004" x="2079" y="4152" width="514" height="557" frameX="0" frameY="-9" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="altABELRIGHT0005" x="2079" y="4152" width="514" height="557" frameX="0" frameY="-9" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="altABELRIGHT0006" x="2079" y="4152" width="514" height="557" frameX="0" frameY="-9" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="altABELRIGHT0007" x="2079" y="4152" width="514" height="557" frameX="0" frameY="-9" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="altABELRIGHT0008" x="2079" y="4152" width="514" height="557" frameX="0" frameY="-9" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="altABELRIGHT0009" x="2079" y="4152" width="514" height="557" frameX="0" frameY="-9" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="altABELRIGHT0010" x="2079" y="4152" width="514" height="557" frameX="0" frameY="-9" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="altABELRIGHT0011" x="2079" y="4152" width="514" height="557" frameX="0" frameY="-9" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="altABELRIGHT0012" x="2079" y="4152" width="514" height="557" frameX="0" frameY="-9" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="altABELRIGHT0013" x="2079" y="4152" width="514" height="557" frameX="0" frameY="-9" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="altABELUP0000" x="2593" y="4152" width="531" height="594" frameX="0" frameY="-16" frameWidth="532" frameHeight="611"/>
+	<SubTexture name="altABELUP0001" x="3124" y="4152" width="532" height="611"/>
+	<SubTexture name="altABELUP0002" x="0" y="4763" width="526" height="599" frameX="-3" frameY="-12" frameWidth="532" frameHeight="611"/>
+	<SubTexture name="altABELUP0003" x="526" y="4763" width="520" height="588" frameX="-7" frameY="-23" frameWidth="532" frameHeight="611"/>
+	<SubTexture name="altABELUP0004" x="526" y="4763" width="520" height="588" frameX="-7" frameY="-23" frameWidth="532" frameHeight="611"/>
+	<SubTexture name="altABELUP0005" x="526" y="4763" width="520" height="588" frameX="-7" frameY="-23" frameWidth="532" frameHeight="611"/>
+	<SubTexture name="altABELUP0006" x="526" y="4763" width="520" height="588" frameX="-7" frameY="-23" frameWidth="532" frameHeight="611"/>
+	<SubTexture name="altABELUP0007" x="526" y="4763" width="520" height="588" frameX="-7" frameY="-23" frameWidth="532" frameHeight="611"/>
+	<SubTexture name="altABELUP0008" x="526" y="4763" width="520" height="588" frameX="-7" frameY="-23" frameWidth="532" frameHeight="611"/>
+	<SubTexture name="altABELUP0009" x="526" y="4763" width="520" height="588" frameX="-7" frameY="-23" frameWidth="532" frameHeight="611"/>
+	<SubTexture name="altABELUP0010" x="526" y="4763" width="520" height="588" frameX="-7" frameY="-23" frameWidth="532" frameHeight="611"/>
+	<SubTexture name="altABELUP0011" x="526" y="4763" width="520" height="588" frameX="-7" frameY="-23" frameWidth="532" frameHeight="611"/>
+	<SubTexture name="altABELUP0012" x="526" y="4763" width="520" height="588" frameX="-7" frameY="-23" frameWidth="532" frameHeight="611"/>
+	<SubTexture name="altABELUP0013" x="526" y="4763" width="520" height="588" frameX="-7" frameY="-23" frameWidth="532" frameHeight="611"/>
+	<SubTexture name="altABLENOGUITAR0000" x="1046" y="4763" width="320" height="659" frameX="0" frameY="-1" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="altABLENOGUITAR0001" x="1366" y="4763" width="320" height="659" frameX="0" frameY="-1" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="altABLENOGUITAR0002" x="1686" y="4763" width="320" height="660"/>
+	<SubTexture name="altABLENOGUITAR0003" x="2006" y="4763" width="318" height="659" frameX="-1" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="altABLENOGUITAR0004" x="2324" y="4763" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="altABLENOGUITAR0005" x="2640" y="4763" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="altABLENOGUITAR0006" x="2640" y="4763" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="altABLENOGUITAR0007" x="2640" y="4763" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="altABLENOGUITAR0008" x="2640" y="4763" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="altABLENOGUITAR0009" x="2640" y="4763" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="altABLENOGUITAR0010" x="2640" y="4763" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="altABLENOGUITAR0011" x="2640" y="4763" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="altABLENOGUITAR0012" x="2640" y="4763" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="altABLENOGUITAR0013" x="2640" y="4763" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="ABELDOWN0000" x="0" y="0" width="477" height="565"/>
+	<SubTexture name="ABELDOWN0001" x="477" y="0" width="475" height="552" frameX="0" frameY="-13" frameWidth="477" frameHeight="565"/>
+	<SubTexture name="ABELDOWN0002" x="952" y="0" width="475" height="559" frameX="0" frameY="-6" frameWidth="477" frameHeight="565"/>
+	<SubTexture name="ABELDOWN0003" x="1427" y="0" width="472" height="554" frameX="0" frameY="-11" frameWidth="477" frameHeight="565"/>
+	<SubTexture name="ABELDOWN0004" x="1899" y="0" width="471" height="553" frameX="0" frameY="-12" frameWidth="477" frameHeight="565"/>
+	<SubTexture name="ABELDOWN0005" x="1899" y="0" width="471" height="553" frameX="0" frameY="-12" frameWidth="477" frameHeight="565"/>
+	<SubTexture name="ABELDOWN0006" x="1899" y="0" width="471" height="553" frameX="0" frameY="-12" frameWidth="477" frameHeight="565"/>
+	<SubTexture name="ABELDOWN0007" x="1899" y="0" width="471" height="553" frameX="0" frameY="-12" frameWidth="477" frameHeight="565"/>
+	<SubTexture name="ABELDOWN0008" x="1899" y="0" width="471" height="553" frameX="0" frameY="-12" frameWidth="477" frameHeight="565"/>
+	<SubTexture name="ABELDOWN0009" x="1899" y="0" width="471" height="553" frameX="0" frameY="-12" frameWidth="477" frameHeight="565"/>
+	<SubTexture name="ABELDOWN0010" x="1899" y="0" width="471" height="553" frameX="0" frameY="-12" frameWidth="477" frameHeight="565"/>
+	<SubTexture name="ABELDOWN0011" x="1899" y="0" width="471" height="553" frameX="0" frameY="-12" frameWidth="477" frameHeight="565"/>
+	<SubTexture name="ABELDOWN0012" x="1899" y="0" width="471" height="553" frameX="0" frameY="-12" frameWidth="477" frameHeight="565"/>
+	<SubTexture name="ABELDOWN0013" x="1899" y="0" width="471" height="553" frameX="0" frameY="-12" frameWidth="477" frameHeight="565"/>
+	<SubTexture name="ABELIDLE0000" x="2370" y="0" width="480" height="573"/>
+	<SubTexture name="ABELIDLE0001" x="2850" y="0" width="480" height="573"/>
+	<SubTexture name="ABELIDLE0002" x="3330" y="0" width="480" height="573"/>
+	<SubTexture name="ABELIDLE0003" x="0" y="573" width="478" height="573" frameX="-1" frameY="0" frameWidth="480" frameHeight="573"/>
+	<SubTexture name="ABELIDLE0004" x="478" y="573" width="476" height="573" frameX="-2" frameY="0" frameWidth="480" frameHeight="573"/>
+	<SubTexture name="ABELIDLE0005" x="954" y="573" width="475" height="572" frameX="-2" frameY="-1" frameWidth="480" frameHeight="573"/>
+	<SubTexture name="ABELIDLE0006" x="1429" y="573" width="475" height="568" frameX="-2" frameY="-5" frameWidth="480" frameHeight="573"/>
+	<SubTexture name="ABELIDLE0007" x="1429" y="573" width="475" height="568" frameX="-2" frameY="-5" frameWidth="480" frameHeight="573"/>
+	<SubTexture name="ABELIDLE0008" x="1429" y="573" width="475" height="568" frameX="-2" frameY="-5" frameWidth="480" frameHeight="573"/>
+	<SubTexture name="ABELIDLE0009" x="1429" y="573" width="475" height="568" frameX="-2" frameY="-5" frameWidth="480" frameHeight="573"/>
+	<SubTexture name="ABELIDLE0010" x="1429" y="573" width="475" height="568" frameX="-2" frameY="-5" frameWidth="480" frameHeight="573"/>
+	<SubTexture name="ABELIDLE0011" x="1429" y="573" width="475" height="568" frameX="-2" frameY="-5" frameWidth="480" frameHeight="573"/>
+	<SubTexture name="ABELIDLE0012" x="1429" y="573" width="475" height="568" frameX="-2" frameY="-5" frameWidth="480" frameHeight="573"/>
+	<SubTexture name="ABELIDLE0013" x="1429" y="573" width="475" height="568" frameX="-2" frameY="-5" frameWidth="480" frameHeight="573"/>
+	<SubTexture name="ABELLEFT0000" x="1904" y="573" width="479" height="578" frameX="0" frameY="-1" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="ABELLEFT0001" x="2383" y="573" width="481" height="579" frameX="-5" frameY="0" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="ABELLEFT0002" x="2864" y="573" width="482" height="579" frameX="-10" frameY="0" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="ABELLEFT0003" x="3346" y="573" width="483" height="579" frameX="-15" frameY="0" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="ABELLEFT0004" x="3346" y="573" width="483" height="579" frameX="-15" frameY="0" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="ABELLEFT0005" x="3346" y="573" width="483" height="579" frameX="-15" frameY="0" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="ABELLEFT0006" x="3346" y="573" width="483" height="579" frameX="-15" frameY="0" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="ABELLEFT0007" x="3346" y="573" width="483" height="579" frameX="-15" frameY="0" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="ABELLEFT0008" x="3346" y="573" width="483" height="579" frameX="-15" frameY="0" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="ABELLEFT0009" x="3346" y="573" width="483" height="579" frameX="-15" frameY="0" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="ABELLEFT0010" x="3346" y="573" width="483" height="579" frameX="-15" frameY="0" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="ABELLEFT0011" x="3346" y="573" width="483" height="579" frameX="-15" frameY="0" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="ABELLEFT0012" x="3346" y="573" width="483" height="579" frameX="-15" frameY="0" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="ABELLEFT0013" x="3346" y="573" width="483" height="579" frameX="-15" frameY="0" frameWidth="498" frameHeight="579"/>
+	<SubTexture name="ABELRIGHT0000" x="0" y="1152" width="502" height="566" frameX="0" frameY="0" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="ABELRIGHT0001" x="502" y="1152" width="534" height="563" frameX="0" frameY="-3" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="ABELRIGHT0002" x="1036" y="1152" width="525" height="562" frameX="0" frameY="-4" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="ABELRIGHT0003" x="1561" y="1152" width="518" height="559" frameX="0" frameY="-7" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="ABELRIGHT0004" x="2079" y="1152" width="514" height="557" frameX="0" frameY="-9" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="ABELRIGHT0005" x="2079" y="1152" width="514" height="557" frameX="0" frameY="-9" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="ABELRIGHT0006" x="2079" y="1152" width="514" height="557" frameX="0" frameY="-9" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="ABELRIGHT0007" x="2079" y="1152" width="514" height="557" frameX="0" frameY="-9" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="ABELRIGHT0008" x="2079" y="1152" width="514" height="557" frameX="0" frameY="-9" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="ABELRIGHT0009" x="2079" y="1152" width="514" height="557" frameX="0" frameY="-9" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="ABELRIGHT0010" x="2079" y="1152" width="514" height="557" frameX="0" frameY="-9" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="ABELRIGHT0011" x="2079" y="1152" width="514" height="557" frameX="0" frameY="-9" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="ABELRIGHT0012" x="2079" y="1152" width="514" height="557" frameX="0" frameY="-9" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="ABELRIGHT0013" x="2079" y="1152" width="514" height="557" frameX="0" frameY="-9" frameWidth="534" frameHeight="566"/>
+	<SubTexture name="ABELUP0000" x="2593" y="1152" width="531" height="594" frameX="0" frameY="-16" frameWidth="532" frameHeight="611"/>
+	<SubTexture name="ABELUP0001" x="3124" y="1152" width="532" height="611"/>
+	<SubTexture name="ABELUP0002" x="0" y="1763" width="526" height="599" frameX="-3" frameY="-12" frameWidth="532" frameHeight="611"/>
+	<SubTexture name="ABELUP0003" x="526" y="1763" width="520" height="588" frameX="-7" frameY="-23" frameWidth="532" frameHeight="611"/>
+	<SubTexture name="ABELUP0004" x="526" y="1763" width="520" height="588" frameX="-7" frameY="-23" frameWidth="532" frameHeight="611"/>
+	<SubTexture name="ABELUP0005" x="526" y="1763" width="520" height="588" frameX="-7" frameY="-23" frameWidth="532" frameHeight="611"/>
+	<SubTexture name="ABELUP0006" x="526" y="1763" width="520" height="588" frameX="-7" frameY="-23" frameWidth="532" frameHeight="611"/>
+	<SubTexture name="ABELUP0007" x="526" y="1763" width="520" height="588" frameX="-7" frameY="-23" frameWidth="532" frameHeight="611"/>
+	<SubTexture name="ABELUP0008" x="526" y="1763" width="520" height="588" frameX="-7" frameY="-23" frameWidth="532" frameHeight="611"/>
+	<SubTexture name="ABELUP0009" x="526" y="1763" width="520" height="588" frameX="-7" frameY="-23" frameWidth="532" frameHeight="611"/>
+	<SubTexture name="ABELUP0010" x="526" y="1763" width="520" height="588" frameX="-7" frameY="-23" frameWidth="532" frameHeight="611"/>
+	<SubTexture name="ABELUP0011" x="526" y="1763" width="520" height="588" frameX="-7" frameY="-23" frameWidth="532" frameHeight="611"/>
+	<SubTexture name="ABELUP0012" x="526" y="1763" width="520" height="588" frameX="-7" frameY="-23" frameWidth="532" frameHeight="611"/>
+	<SubTexture name="ABELUP0013" x="526" y="1763" width="520" height="588" frameX="-7" frameY="-23" frameWidth="532" frameHeight="611"/>
+	<SubTexture name="ABLENOGUITAR0000" x="1046" y="1763" width="320" height="659" frameX="0" frameY="-1" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="ABLENOGUITAR0001" x="1366" y="1763" width="320" height="659" frameX="0" frameY="-1" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="ABLENOGUITAR0002" x="1686" y="1763" width="320" height="660"/>
+	<SubTexture name="ABLENOGUITAR0003" x="2006" y="1763" width="318" height="659" frameX="-1" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="ABLENOGUITAR0004" x="2324" y="1763" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="ABLENOGUITAR0005" x="2640" y="1763" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="ABLENOGUITAR0006" x="2640" y="1763" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="ABLENOGUITAR0007" x="2640" y="1763" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="ABLENOGUITAR0008" x="2640" y="1763" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="ABLENOGUITAR0009" x="2640" y="1763" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="ABLENOGUITAR0010" x="2640" y="1763" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="ABLENOGUITAR0011" x="2640" y="1763" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="ABLENOGUITAR0012" x="2640" y="1763" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+	<SubTexture name="ABLENOGUITAR0013" x="2640" y="1763" width="316" height="660" frameX="-2" frameY="0" frameWidth="320" frameHeight="660"/>
+</TextureAtlas>

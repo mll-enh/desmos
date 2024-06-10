@@ -1,0 +1,26 @@
+:bg:POSTSONGCUTSCENE
+:voice:CJ5
+:cj:Not bad ruby, that was pretty good!
+:voice:RUBY8
+:ruby:Really??
+:voice:CJ6
+:cj:Yeah i quite liked it, i think you are going in a good direction with this song
+:voice:CJ7
+:cj:But, you brought me here to give you some good old constructive criticism, so let me lay it on ya
+:voice:CJ8
+:cj:You are right, the feeling of the song is all messed up, it sounds too sad for it to be an anniversary song
+:voice:CJ9
+:cj:It almost sounded like you were trying to break up with me, even though we arent a couple haha
+:voice:RUBY9
+:ruby:*Sigh*.. Yeah figured
+:voice:CJ10
+:cj:Dont worry ruby! we will work on this together,and make this a great song just for your boyfriend
+:voice:RUBY10
+:ruby:T-Thanks cj! lets do this
+:showbox:
+:voice:CHRIS1
+:chris:"Its complicated" is originally a song from FNF soft, it shouldnt go without mention
+:voice:CJ11
+:chris:Thank you for playing starlight mayhem, and see you in week 2!
+
+

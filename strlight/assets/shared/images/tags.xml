@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tags.png"><SubTexture name="1tags bf0000" x="0" y="0" width="2121" height="666" frameX="0" frameY="0" frameWidth="2121" frameHeight="666" />
+<SubTexture name="2tags cj0000" x="2121" y="0" width="684" height="582" frameX="0" frameY="0" frameWidth="684" frameHeight="582" />
+<SubTexture name="3tags gf0000" x="2805" y="0" width="2004" height="690" frameX="0" frameY="0" frameWidth="2004" frameHeight="690" />
+<SubTexture name="4tags mystery0000" x="4809" y="0" width="3125" height="648" frameX="0" frameY="0" frameWidth="3125" frameHeight="648" />
+<SubTexture name="5tags ruby0000" x="0" y="690" width="1100" height="638" frameX="0" frameY="0" frameWidth="1100" frameHeight="638" />
+<SubTexture name="6tags singer0000" x="1100" y="690" width="1528" height="679" frameX="0" frameY="0" frameWidth="1528" frameHeight="679" />
+<SubTexture name="7tags vade0000" x="2628" y="690" width="906" height="533" frameX="0" frameY="0" frameWidth="906" frameHeight="533" />
+</TextureAtlas>

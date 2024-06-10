@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Vade.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Vade0000" x="3" y="3" width="399" height="764" frameX="-2" frameY="-3" frameWidth="403" frameHeight="768"/>
+	<SubTexture name="Vade0001" x="406" y="3" width="400" height="764" frameX="-1" frameY="-3" frameWidth="403" frameHeight="768"/>
+	<SubTexture name="Vade0002" x="810" y="3" width="403" height="768"/>
+	<SubTexture name="Vade0003" x="1217" y="3" width="403" height="768"/>
+	<SubTexture name="Vade0004" x="1624" y="3" width="403" height="765" frameX="0" frameY="-3" frameWidth="403" frameHeight="768"/>
+	<SubTexture name="Vade0005" x="2031" y="3" width="403" height="764" frameX="0" frameY="-4" frameWidth="403" frameHeight="768"/>
+	<SubTexture name="Vade0006" x="2438" y="3" width="403" height="764" frameX="0" frameY="-4" frameWidth="403" frameHeight="768"/>
+	<SubTexture name="Vade0007" x="2845" y="3" width="403" height="766" frameX="0" frameY="-2" frameWidth="403" frameHeight="768"/>
+	<SubTexture name="Vade0008" x="3252" y="3" width="400" height="765" frameX="-2" frameY="-2" frameWidth="403" frameHeight="768"/>
+	<SubTexture name="Vade0009" x="3656" y="3" width="400" height="766" frameX="-2" frameY="-1" frameWidth="403" frameHeight="768"/>
+	<SubTexture name="Vade0010" x="3" y="775" width="399" height="766" frameX="-2" frameY="-1" frameWidth="403" frameHeight="768"/>
+	<SubTexture name="Vade0011" x="406" y="775" width="399" height="766" frameX="-2" frameY="-1" frameWidth="403" frameHeight="768"/>
+	<SubTexture name="Vade0012" x="406" y="775" width="399" height="766" frameX="-2" frameY="-1" frameWidth="403" frameHeight="768"/>
+	<SubTexture name="Vade0013" x="406" y="775" width="399" height="766" frameX="-2" frameY="-1" frameWidth="403" frameHeight="768"/>
+</TextureAtlas>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="girlfriendCJ2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CJ GF Dancing Beat0000" x="3" y="3" width="765" height="766" frameX="0" frameY="-37" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0001" x="772" y="3" width="767" height="766" frameX="0" frameY="-37" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0002" x="1543" y="3" width="767" height="767" frameX="0" frameY="-36" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0003" x="2314" y="3" width="764" height="770" frameX="-1" frameY="-33" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0004" x="3082" y="3" width="763" height="775" frameX="-2" frameY="-28" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0005" x="3849" y="3" width="761" height="782" frameX="-4" frameY="-21" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0006" x="4614" y="3" width="760" height="786" frameX="-5" frameY="-16" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0007" x="5378" y="3" width="759" height="788" frameX="-6" frameY="-14" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0008" x="6141" y="3" width="759" height="789" frameX="-6" frameY="-13" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0009" x="6141" y="3" width="759" height="789" frameX="-6" frameY="-13" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0010" x="6904" y="3" width="759" height="789" frameX="-6" frameY="-13" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0011" x="6904" y="3" width="759" height="789" frameX="-6" frameY="-13" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0012" x="6904" y="3" width="759" height="789" frameX="-6" frameY="-13" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0013" x="3" y="796" width="759" height="791" frameX="-6" frameY="-11" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0014" x="766" y="796" width="762" height="802" frameX="-3" frameY="-1" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0015" x="1532" y="796" width="762" height="803" frameX="-3" frameY="0" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0016" x="2298" y="796" width="764" height="803" frameX="-3" frameY="0" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0017" x="3066" y="796" width="764" height="802" frameX="-3" frameY="-1" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0018" x="3834" y="796" width="761" height="799" frameX="-4" frameY="-4" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0019" x="4599" y="796" width="760" height="790" frameX="-5" frameY="-12" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0020" x="5363" y="796" width="759" height="785" frameX="-6" frameY="-17" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0021" x="6126" y="796" width="759" height="783" frameX="-6" frameY="-19" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0022" x="6889" y="796" width="759" height="782" frameX="-6" frameY="-20" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0023" x="6889" y="796" width="759" height="782" frameX="-6" frameY="-20" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0024" x="6889" y="796" width="759" height="782" frameX="-6" frameY="-20" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0025" x="3" y="1603" width="759" height="782" frameX="-6" frameY="-20" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0026" x="766" y="1603" width="759" height="781" frameX="-6" frameY="-21" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0027" x="1529" y="1603" width="759" height="779" frameX="-6" frameY="-23" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0028" x="2292" y="1603" width="759" height="777" frameX="-6" frameY="-25" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ GF Dancing Beat0029" x="3055" y="1603" width="759" height="776" frameX="-6" frameY="-26" frameWidth="767" frameHeight="803"/>
+	<SubTexture name="CJ gf sad0000" x="3818" y="1603" width="765" height="763" frameX="0" frameY="-2" frameWidth="765" frameHeight="766"/>
+	<SubTexture name="CJ gf sad0001" x="3818" y="1603" width="765" height="763" frameX="0" frameY="-2" frameWidth="765" frameHeight="766"/>
+	<SubTexture name="CJ gf sad0002" x="4587" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0003" x="4587" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0004" x="5356" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0005" x="5356" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0006" x="6125" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0007" x="6125" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0008" x="6894" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0009" x="6894" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0010" x="4587" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0011" x="4587" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0012" x="5356" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0013" x="5356" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0014" x="6125" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0015" x="6125" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0016" x="6894" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0017" x="6894" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0018" x="4587" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0019" x="4587" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0020" x="5356" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0021" x="5356" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0022" x="6125" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0023" x="6125" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0024" x="6894" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0025" x="6894" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0026" x="4587" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0027" x="4587" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0028" x="5356" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0029" x="5356" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0030" x="6125" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0031" x="6125" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0032" x="6894" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0033" x="6894" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0034" x="4587" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0035" x="4587" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0036" x="5356" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0037" x="5356" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0038" x="6125" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0039" x="6125" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0040" x="6894" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0041" x="6894" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0042" x="4587" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0043" x="4587" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0044" x="5356" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0045" x="5356" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0046" x="6125" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0047" x="6125" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0048" x="6894" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0049" x="6894" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0050" x="4587" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0051" x="4587" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0052" x="5356" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0053" x="5356" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0054" x="6125" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0055" x="6125" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0056" x="6894" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0057" x="6894" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0058" x="4587" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0059" x="4587" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0060" x="5356" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0061" x="5356" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0062" x="6125" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0063" x="6125" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0064" x="6894" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0065" x="6894" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0066" x="4587" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0067" x="4587" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0068" x="5356" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0069" x="5356" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0070" x="6125" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0071" x="6125" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0072" x="6894" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0073" x="6894" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0074" x="4587" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0075" x="4587" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0076" x="5356" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0077" x="5356" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0078" x="6125" y="1603" width="765" height="766"/>
+	<SubTexture name="CJ gf sad0079" x="6125" y="1603" width="765" height="766"/>
+</TextureAtlas>

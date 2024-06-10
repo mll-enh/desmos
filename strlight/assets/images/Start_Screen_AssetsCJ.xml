@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Start_Screen_AssetsCJ.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="StartscreenCJRUBY0000" x="3" y="3" width="655" height="821" frameX="-29" frameY="-8" frameWidth="698" frameHeight="829"/>
+	<SubTexture name="StartscreenCJRUBY0001" x="662" y="3" width="677" height="821" frameX="-14" frameY="-6" frameWidth="698" frameHeight="829"/>
+	<SubTexture name="StartscreenCJRUBY0002" x="1343" y="3" width="693" height="826" frameX="-4" frameY="-1" frameWidth="698" frameHeight="829"/>
+	<SubTexture name="StartscreenCJRUBY0003" x="2040" y="3" width="698" height="827" frameX="0" frameY="0" frameWidth="698" frameHeight="829"/>
+	<SubTexture name="StartscreenCJRUBY0004" x="2742" y="3" width="698" height="827" frameX="0" frameY="0" frameWidth="698" frameHeight="829"/>
+	<SubTexture name="StartscreenCJRUBY0005" x="3" y="834" width="695" height="827" frameX="-2" frameY="-1" frameWidth="698" frameHeight="829"/>
+	<SubTexture name="StartscreenCJRUBY0006" x="702" y="834" width="688" height="825" frameX="-7" frameY="-3" frameWidth="698" frameHeight="829"/>
+	<SubTexture name="StartscreenCJRUBY0007" x="1394" y="834" width="677" height="822" frameX="-14" frameY="-6" frameWidth="698" frameHeight="829"/>
+	<SubTexture name="StartscreenCJRUBY0008" x="2075" y="834" width="666" height="819" frameX="-22" frameY="-9" frameWidth="698" frameHeight="829"/>
+	<SubTexture name="StartscreenCJRUBY0009" x="2745" y="834" width="658" height="821" frameX="-27" frameY="-8" frameWidth="698" frameHeight="829"/>
+	<SubTexture name="StartscreenCJRUBY0010" x="3407" y="834" width="655" height="821" frameX="-29" frameY="-8" frameWidth="698" frameHeight="829"/>
+	<SubTexture name="StartscreenCJRUBY0011" x="3407" y="834" width="655" height="821" frameX="-29" frameY="-8" frameWidth="698" frameHeight="829"/>
+	<SubTexture name="StartscreenCJRUBY0012" x="3407" y="834" width="655" height="821" frameX="-29" frameY="-8" frameWidth="698" frameHeight="829"/>
+</TextureAtlas>

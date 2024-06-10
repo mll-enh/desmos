@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="girlfriendCJ.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ruby GF Dancing Beat0000" x="3" y="3" width="701" height="734" frameX="-18" frameY="-14" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0001" x="708" y="3" width="703" height="734" frameX="-18" frameY="-14" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0002" x="1415" y="3" width="716" height="732" frameX="-5" frameY="-16" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0003" x="2135" y="3" width="719" height="732" frameX="0" frameY="-16" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0004" x="2858" y="3" width="719" height="735" frameX="0" frameY="-13" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0005" x="3581" y="3" width="719" height="735" frameX="0" frameY="-13" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0006" x="4304" y="3" width="717" height="737" frameX="-2" frameY="-11" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0007" x="5025" y="3" width="717" height="748" frameX="-2" frameY="0" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0008" x="5746" y="3" width="712" height="748" frameX="-7" frameY="0" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0009" x="6462" y="3" width="712" height="748" frameX="-7" frameY="0" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0010" x="7178" y="3" width="707" height="748" frameX="-12" frameY="0" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0011" x="3" y="755" width="707" height="748" frameX="-12" frameY="0" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0012" x="714" y="755" width="703" height="748" frameX="-16" frameY="0" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0013" x="1421" y="755" width="703" height="748" frameX="-16" frameY="0" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0014" x="2128" y="755" width="701" height="748" frameX="-18" frameY="0" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0015" x="2833" y="755" width="701" height="736" frameX="-18" frameY="-12" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0016" x="3538" y="755" width="703" height="736" frameX="-18" frameY="-12" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0017" x="4245" y="755" width="703" height="736" frameX="-18" frameY="-12" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0018" x="4952" y="755" width="701" height="736" frameX="-18" frameY="-12" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0019" x="5657" y="755" width="703" height="737" frameX="-16" frameY="-11" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0020" x="6364" y="755" width="703" height="737" frameX="-16" frameY="-11" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0021" x="7071" y="755" width="703" height="738" frameX="-16" frameY="-10" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0022" x="3" y="1507" width="703" height="743" frameX="-16" frameY="-5" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0023" x="710" y="1507" width="703" height="743" frameX="-16" frameY="-5" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0024" x="1417" y="1507" width="702" height="743" frameX="-17" frameY="-5" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0025" x="2123" y="1507" width="702" height="742" frameX="-17" frameY="-6" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0026" x="2829" y="1507" width="701" height="742" frameX="-18" frameY="-6" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0027" x="3534" y="1507" width="701" height="742" frameX="-18" frameY="-6" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0028" x="4239" y="1507" width="701" height="742" frameX="-18" frameY="-6" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby GF Dancing Beat0029" x="4944" y="1507" width="701" height="742" frameX="-18" frameY="-6" frameWidth="721" frameHeight="748"/>
+	<SubTexture name="Ruby gf sad0000" x="5649" y="1507" width="702" height="734" frameX="0" frameY="-3" frameWidth="702" frameHeight="737"/>
+	<SubTexture name="Ruby gf sad0001" x="5649" y="1507" width="702" height="734" frameX="0" frameY="-3" frameWidth="702" frameHeight="737"/>
+	<SubTexture name="Ruby gf sad0002" x="6355" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0003" x="6355" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0004" x="7061" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0005" x="7061" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0006" x="3" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0007" x="3" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0008" x="709" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0009" x="709" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0010" x="6355" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0011" x="6355" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0012" x="7061" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0013" x="7061" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0014" x="3" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0015" x="3" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0016" x="709" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0017" x="709" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0018" x="6355" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0019" x="6355" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0020" x="7061" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0021" x="7061" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0022" x="3" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0023" x="3" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0024" x="709" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0025" x="709" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0026" x="6355" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0027" x="6355" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0028" x="7061" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0029" x="7061" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0030" x="3" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0031" x="3" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0032" x="709" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0033" x="709" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0034" x="6355" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0035" x="6355" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0036" x="7061" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0037" x="7061" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0038" x="3" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0039" x="3" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0040" x="709" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0041" x="709" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0042" x="6355" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0043" x="6355" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0044" x="7061" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0045" x="7061" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0046" x="3" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0047" x="3" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0048" x="709" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0049" x="709" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0050" x="6355" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0051" x="6355" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0052" x="7061" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0053" x="7061" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0054" x="3" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0055" x="3" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0056" x="709" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0057" x="709" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0058" x="6355" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0059" x="6355" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0060" x="7061" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0061" x="7061" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0062" x="3" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0063" x="3" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0064" x="709" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0065" x="709" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0066" x="6355" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0067" x="6355" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0068" x="7061" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0069" x="7061" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0070" x="3" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0071" x="3" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0072" x="709" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0073" x="709" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0074" x="6355" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0075" x="6355" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0076" x="7061" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0077" x="7061" y="1507" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0078" x="3" y="2254" width="702" height="737"/>
+	<SubTexture name="Ruby gf sad0079" x="3" y="2254" width="702" height="737"/>
+</TextureAtlas>

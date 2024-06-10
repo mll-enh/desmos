@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-47,
+				110
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "duet idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-81,
+				153
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "duet Sing Note UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-9,
+				111
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "duet Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-2,
+				122
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "duet Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-29,
+				73
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "duet Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-32,
+				58
+			],
+			"loop": false,
+			"anim": "showtime",
+			"fps": 24,
+			"name": "duet SHOWTIME",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-47,
+				111
+			],
+			"loop": false,
+			"anim": "idle2",
+			"fps": 24,
+			"name": "altduet idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-80,
+				154
+			],
+			"loop": false,
+			"anim": "singUP2",
+			"fps": 24,
+			"name": "altduet Sing Note UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-9,
+				112
+			],
+			"loop": false,
+			"anim": "singLEFT2",
+			"fps": 24,
+			"name": "altduet Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1,
+				124
+			],
+			"loop": false,
+			"anim": "singRIGHT2",
+			"fps": 24,
+			"name": "altduet Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-28,
+				74
+			],
+			"loop": false,
+			"anim": "singDOWN2",
+			"fps": 24,
+			"name": "altduet Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-31,
+				60
+			],
+			"loop": false,
+			"anim": "showtime2",
+			"fps": 24,
+			"name": "altduet SHOWTIME",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/new/duet_assets2",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "duet",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		0,
+		195
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
