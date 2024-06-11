@@ -1,0 +1,66 @@
+:startmusic:cutscene_jargon_shmargon
+:yuri_neutral:Yuri's neutrale uitdrukking
+:autoskip:Test ja hallo AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+:yuri_ehh:Yuri's ehh uitdrukking
+:yuri_blush:Yuri do be blushin tho
+:yuri_crazy:Damn that Yuri is crazy
+:yuri_smile:She smilin!
+:yuri_ahaha:Ahahahaha
+:yuri_gone: VERDWIJN
+:natsuki_neutral:Natsuki neutrale uitdrukking
+:natsuki_angy:Angy baby
+:natsuki_hmmph:Pruil niet tegen mij!
+:natsuki_what:WAT?!
+:natsuki_sick: Tight bars lil man
+:natsuki_spook:SPOOOKY
+:natsuki_gone: WEG
+:sayori_neutral:Sayori's neutrale uitdrukking
+:sayori_happ:ze is blij!
+:sayori_ehh:Ehhhh ach ja
+:sayori_grumpy:Chagrijnori
+:sayori_ooh:Oh...huh
+:sayori_yeah:Yeah, yeah
+:sayori_concern:Zorgwekkende ding
+:sayori_gone:sayso
+:mc_neutral:Senpai ik bedoel MC IK BEDOEL... neutrale uitdrukking
+:mc_camera:Hij houdt de camera vast
+:mc_happy:Hij is blij!
+:mc_sigh:Sorry
+:monika_neutral:Neutrale tekst box want waarom niet
+:monika_upset:Kijk mij niet zo aan
+:monika_eeh:Au au auauauauaua
+:monika_ahaha:Dank je Duster, ik ben blij dat je dat wou typen.
+:monika_ahh:AHHHHHHHHHHHHHHHHHH
+:all_neutral: Neutrale uitdrukking
+:all_gasp: MONIKA
+:bf_neutral:bf's neutrale uitdrukking
+:bf_beep:BEEP
+:bf_yeah:Yeah yeah yeah
+:bf_yeah_left:Yeah yeah yeah
+:bf_think:He do be thinkin
+:bf_scared:Wees niet bang
+:gf_neutral:GF's neutrale uitdrukking
+:gf_giggle:Schattige gegiechel
+:gf_scared:wees niet bang :(
+:gf_yeah:YEAH
+:gf_ehh:hueh
+:gf_spook: HI HO
+:gf_gone: HIJ IS DOOD
+:endmusic:
+:sayori_neutral:Stop het muziek
+:hideright:
+:sayori_neutral:Hid right
+:hideleft:
+:bf_neutral:hid left
+:no_one_left: Links praten, geen box
+:no_one_right: Rechts praten, geen box
+:bf_beep:Wij gaan glitchen!
+:glitch:
+:bf_think:yeah yeah wij deden dat
+:showbackgroundimage:example
+:bf_neutral:Dit is de achtergrond CG :)
+:hidebackground:
+:bf_beep:Wij zijn aan het schuilen
+:monika_ahaha:
+:autoskip:Fuck you
+:crash:

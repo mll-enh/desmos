@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="studioRemix.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="entire studio0000" x="10" y="10" width="1599" height="1170"/>
+	<SubTexture name="entire studio0001" x="10" y="10" width="1599" height="1170"/>
+	<SubTexture name="entire studio0002" x="10" y="1190" width="1599" height="1170"/>
+	<SubTexture name="entire studio0003" x="10" y="1190" width="1599" height="1170"/>
+	<SubTexture name="entire studio0004" x="10" y="2370" width="1599" height="1170"/>
+	<SubTexture name="entire studio0005" x="10" y="2370" width="1599" height="1170"/>
+	<SubTexture name="entire studio0006" x="10" y="2370" width="1599" height="1170"/>
+	<SubTexture name="entire studio0007" x="10" y="2370" width="1599" height="1170"/>
+	<SubTexture name="entire studio0008" x="10" y="2370" width="1599" height="1170"/>
+	<SubTexture name="entire studio0009" x="10" y="2370" width="1599" height="1170"/>
+	<SubTexture name="entire studio0010" x="10" y="2370" width="1599" height="1170"/>
+	<SubTexture name="entire studio0011" x="10" y="2370" width="1599" height="1170"/>
+	<SubTexture name="entire studio0012" x="10" y="2370" width="1599" height="1170"/>
+	<SubTexture name="entire studio0013" x="10" y="2370" width="1599" height="1170"/>
+</TextureAtlas>

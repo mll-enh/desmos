@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		80,
+		20
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				160,
+				90
+			],
+			"idle_name": "GF Sprite 1",
+			"anim": "yell1",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				145,
+				134
+			],
+			"idle_name": "GF Sprite 2",
+			"anim": "yell2",
+			"loop_offsets": [
+				65,
+				55
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				261,
+				101
+			],
+			"idle_name": "GF Sprite 3",
+			"anim": "real-smooth",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "",
+			"idle_offsets": [
+				261,
+				101
+			],
+			"idle_name": "GF Sprite 4",
+			"anim": "huh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Dialogue GF"
+}

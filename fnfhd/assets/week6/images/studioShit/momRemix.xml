@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="momRemix.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mom bop0000" x="10" y="10" width="319" height="697"/>
+	<SubTexture name="mom bop0001" x="10" y="10" width="319" height="697"/>
+	<SubTexture name="mom bop0002" x="339" y="10" width="319" height="697"/>
+	<SubTexture name="mom bop0003" x="339" y="10" width="319" height="697"/>
+	<SubTexture name="mom bop0004" x="668" y="10" width="319" height="697"/>
+	<SubTexture name="mom bop0005" x="668" y="10" width="319" height="697"/>
+	<SubTexture name="mom bop0006" x="997" y="10" width="319" height="697"/>
+	<SubTexture name="mom bop0007" x="997" y="10" width="319" height="697"/>
+	<SubTexture name="mom bop0008" x="10" y="717" width="319" height="697"/>
+	<SubTexture name="mom bop0009" x="10" y="717" width="319" height="697"/>
+	<SubTexture name="mom bop0010" x="10" y="717" width="319" height="697"/>
+	<SubTexture name="mom bop0011" x="10" y="717" width="319" height="697"/>
+	<SubTexture name="mom bop0012" x="10" y="717" width="319" height="697"/>
+	<SubTexture name="mom bop0013" x="10" y="717" width="319" height="697"/>
+</TextureAtlas>

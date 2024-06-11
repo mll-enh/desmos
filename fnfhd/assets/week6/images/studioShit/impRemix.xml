@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="impRemix.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="imp0000" x="10" y="10" width="657" height="921"/>
+	<SubTexture name="imp0001" x="10" y="10" width="657" height="921"/>
+	<SubTexture name="imp0002" x="677" y="10" width="657" height="921"/>
+	<SubTexture name="imp0003" x="677" y="10" width="657" height="921"/>
+	<SubTexture name="imp0004" x="10" y="941" width="657" height="921"/>
+	<SubTexture name="imp0005" x="10" y="941" width="657" height="921"/>
+	<SubTexture name="imp0006" x="677" y="941" width="657" height="921"/>
+	<SubTexture name="imp0007" x="677" y="941" width="657" height="921"/>
+	<SubTexture name="imp0008" x="10" y="1872" width="657" height="921"/>
+	<SubTexture name="imp0009" x="10" y="1872" width="657" height="921"/>
+	<SubTexture name="imp0010" x="10" y="1872" width="657" height="921"/>
+	<SubTexture name="imp0011" x="10" y="1872" width="657" height="921"/>
+	<SubTexture name="imp0012" x="10" y="1872" width="657" height="921"/>
+	<SubTexture name="imp0013" x="10" y="1872" width="657" height="921"/>
+</TextureAtlas>

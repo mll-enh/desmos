@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RealHorse.png">
+	<!-- Created with Adobe Animate version 15.2.0.66 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RealHorse instance 10000" x="0" y="0" width="469" height="515" frameX="0" frameY="-4" frameWidth="469" frameHeight="520"/>
+	<SubTexture name="RealHorse instance 10001" x="0" y="0" width="469" height="515" frameX="0" frameY="-4" frameWidth="469" frameHeight="520"/>
+	<SubTexture name="RealHorse instance 10002" x="469" y="0" width="444" height="486" frameX="-13" frameY="-33" frameWidth="469" frameHeight="520"/>
+	<SubTexture name="RealHorse instance 10003" x="469" y="0" width="444" height="486" frameX="-13" frameY="-33" frameWidth="469" frameHeight="520"/>
+	<SubTexture name="RealHorse instance 10004" x="913" y="0" width="433" height="516" frameX="-18" frameY="-3" frameWidth="469" frameHeight="520"/>
+	<SubTexture name="RealHorse instance 10005" x="913" y="0" width="433" height="516" frameX="-18" frameY="-3" frameWidth="469" frameHeight="520"/>
+	<SubTexture name="RealHorse instance 10006" x="1346" y="0" width="428" height="520" frameX="-21" frameY="0" frameWidth="469" frameHeight="520"/>
+	<SubTexture name="RealHorse instance 10007" x="1346" y="0" width="428" height="520" frameX="-21" frameY="0" frameWidth="469" frameHeight="520"/>
+	<SubTexture name="RealHorse instance 10008" x="0" y="520" width="428" height="520" frameX="-21" frameY="0" frameWidth="469" frameHeight="520"/>
+	<SubTexture name="RealHorse instance 10009" x="0" y="520" width="428" height="520" frameX="-21" frameY="0" frameWidth="469" frameHeight="520"/>
+	<SubTexture name="RealHorse instance 10010" x="0" y="520" width="428" height="520" frameX="-21" frameY="0" frameWidth="469" frameHeight="520"/>
+	<SubTexture name="RealHorse instance 10011" x="0" y="520" width="428" height="520" frameX="-21" frameY="0" frameWidth="469" frameHeight="520"/>
+	<SubTexture name="RealHorse instance 10012" x="0" y="520" width="428" height="520" frameX="-21" frameY="0" frameWidth="469" frameHeight="520"/>
+	<SubTexture name="RealHorse instance 10013" x="0" y="520" width="428" height="520" frameX="-21" frameY="0" frameWidth="469" frameHeight="520"/>
+</TextureAtlas>

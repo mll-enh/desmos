@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfRemix.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf bop head0000" x="10" y="10" width="375" height="474"/>
+	<SubTexture name="gf bop head0001" x="395" y="10" width="375" height="474"/>
+	<SubTexture name="gf bop head0002" x="780" y="10" width="375" height="474"/>
+	<SubTexture name="gf bop head0003" x="1165" y="10" width="375" height="474"/>
+	<SubTexture name="gf bop head0004" x="10" y="494" width="375" height="474"/>
+	<SubTexture name="gf bop head0005" x="395" y="494" width="375" height="474"/>
+	<SubTexture name="gf bop head0006" x="780" y="494" width="375" height="474"/>
+	<SubTexture name="gf bop head0007" x="1165" y="494" width="375" height="474"/>
+	<SubTexture name="gf bop head0008" x="10" y="978" width="375" height="474"/>
+	<SubTexture name="gf bop head0009" x="395" y="978" width="375" height="474"/>
+	<SubTexture name="gf bop head0010" x="780" y="978" width="375" height="474"/>
+	<SubTexture name="gf bop head0011" x="1165" y="978" width="375" height="474"/>
+	<SubTexture name="gf bop head0012" x="10" y="1462" width="375" height="474"/>
+	<SubTexture name="gf bop head0013" x="395" y="1462" width="375" height="474"/>
+	<SubTexture name="gf bop head0014" x="780" y="1462" width="375" height="474"/>
+	<SubTexture name="gf bop head0015" x="1165" y="1462" width="375" height="474"/>
+	<SubTexture name="gf bop head0016" x="10" y="1946" width="375" height="474"/>
+	<SubTexture name="gf bop head0017" x="395" y="1946" width="375" height="474"/>
+	<SubTexture name="gf bop head0018" x="780" y="1946" width="375" height="474"/>
+	<SubTexture name="gf bop head0019" x="1165" y="1946" width="375" height="474"/>
+	<SubTexture name="gf bop head0020" x="10" y="2430" width="375" height="474"/>
+	<SubTexture name="gf bop head0021" x="395" y="2430" width="375" height="474"/>
+	<SubTexture name="gf bop head0022" x="780" y="2430" width="375" height="474"/>
+	<SubTexture name="gf bop head0023" x="1165" y="2430" width="375" height="474"/>
+	<SubTexture name="gf bop head0024" x="10" y="2914" width="375" height="474"/>
+	<SubTexture name="gf bop head0025" x="395" y="2914" width="375" height="474"/>
+	<SubTexture name="gf bop head0026" x="10" y="2914" width="375" height="474"/>
+	<SubTexture name="gf bop head0027" x="780" y="2914" width="375" height="474"/>
+	<SubTexture name="gf bop head0028" x="1165" y="2914" width="375" height="474"/>
+	<SubTexture name="gf bop head0029" x="780" y="2914" width="375" height="474"/>
+</TextureAtlas>
