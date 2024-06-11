@@ -1,0 +1,37 @@
+{
+	"position": [
+		140,
+		130
+	],
+	"dialogue_pos": "left",
+	"scale": 1.6,
+	"image": "nokiaPhoneCall",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "SarvIntroAnim0000",
+			"loop_name": "SarvIntroAnim0000"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "hang up",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "SarvIntroAnim0017",
+			"loop_name": "SarvIntroAnim"
+		}
+	]
+}

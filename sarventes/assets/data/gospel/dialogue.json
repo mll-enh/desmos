@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "sad",
+			"text": "Huh... This little guy is something else!",
+			"boxState": "normal",
+			"portrait": "ruv",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "I did try and warn you huh!",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "normal",
+			"text": "You sure did...",
+			"boxState": "normal",
+			"portrait": "ruv",
+			"speed": 0.05
+		},
+		{
+			"expression": "smile",
+			"text": "Don't worry Ruv! I have just the right thing for him!",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "smirk",
+			"text": "A perfect little test that will prove if he's right for our choir!",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "concerned",
+			"text": "Huh?!",
+			"boxState": "normal",
+			"portrait": "ruv",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Get ready little fellow...",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "devil",
+			"text": "For your toughest challenge yet~",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		}
+	]
+}

@@ -1,0 +1,89 @@
+{
+	"position": [
+		110,
+		10
+	],
+	"dialogue_pos": "left",
+	"scale": 1.5,
+	"image": "portraits",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "smile",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "SarvSmile",
+			"idle_name": "SarvSmile"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "sad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "SarvSad",
+			"idle_name": "SarvSad"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "smirk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "SarvSmirk",
+			"idle_name": "SarvSmirk"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "mad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "SarvMad",
+			"idle_name": "SarvMad"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "devil",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "SarvDevil",
+			"idle_name": "SarvDevil"
+		},
+		{
+			"loop_name": "SarvHappy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "SarvHappy",
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

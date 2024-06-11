@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Heya! Thank you for taking my call... I know how busy you get...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv_phone"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv_phone",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I've been really looking forward to this..."
+		},
+		{
+			"expression": "talk",
+			"text": "Yes thank you... Now can I get umm...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv_phone"
+		},
+		{
+			"expression": "talk",
+			"text": "A Margherita? Actually 2... yeah 2...",
+			"boxState": "normal",
+			"portrait": "sarv_phone",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Ok wonderful thank you so much-",
+			"boxState": "normal",
+			"portrait": "sarv_phone",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "beep",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "OH SORRY ONE MOMENT!!",
+			"boxState": "angry",
+			"portrait": "sarv_phone",
+			"speed": 0.05
+		},
+		{
+			"expression": "hang up",
+			"text": "*hangs up*",
+			"boxState": "normal",
+			"portrait": "sarv_phone",
+			"speed": 0.05
+		},
+		{
+			"expression": "sad",
+			"text": "Oh my goodness I'm so sorry! I didn't see you there!",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "beepbop skbap",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "smile",
+			"text": "Welcome to our church! I hope you enjoy your stay!",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "My name is Sarvente! I'm a nun who works here!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "smile",
+			"text": "Maybe I can even convince you to join our little establishment! It would be so nice to have new members!",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "bip bap bee bop",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "smile",
+			"text": "You like singing? We do a lot of that here!",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "bep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Great! Let's sing a song together shall we?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "happy",
+			"text": "beep boop bap!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		}
+	]
+}

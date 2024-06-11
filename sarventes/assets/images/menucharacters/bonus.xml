@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menududes.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+
+	<SubTexture name="Bonus0000" x="0" y="0" width="550" height="600"/>
+
+</TextureAtlas>

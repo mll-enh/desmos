@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"expression": "smirk",
+			"text": "Heh... I see how it is...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "smirk",
+			"text": "You're no ordinary singer, that's for sure",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "talk",
+			"text": "beep boop pap!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "smirk",
+			"text": "Are you up to sing another song?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "talk",
+			"text": "bap boop!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "mad",
+			"text": "Hmm... let's see here... What would really\\nchallenge you?...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "sad",
+			"text": "(I need to find a scripture with more\\ncomplicated words)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "smirk",
+			"text": "(Ooh! this one looks good!)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "smirk",
+			"text": "Time to pick up the pace! You ready?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "happy",
+			"text": "bo peep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

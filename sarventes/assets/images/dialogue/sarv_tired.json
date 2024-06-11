@@ -1,0 +1,24 @@
+{
+	"position": [
+		150,
+		70
+	],
+	"dialogue_pos": "left",
+	"scale": 1.5,
+	"image": "theseknees",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "Sarv",
+			"loop_name": "TiredSarv"
+		}
+	]
+}

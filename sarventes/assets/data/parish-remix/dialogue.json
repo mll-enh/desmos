@@ -1,0 +1,165 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Heyo! I'm back again!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Aww Boyfriend! Did you miss me?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "talk",
+			"text": "I think we all missed you Sarv...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah! It's nice to see you again!"
+		},
+		{
+			"expression": "smile",
+			"text": "Well I'm not going anywhere! You know I'll always be here looking after the church!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "talk",
+			"text": "That's good to hear honestly...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So how come you decided to visit?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Kapi texted me that he walked by the place and figured he should say hi but didn't want to come alone..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Why wouldn't he come alone..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Umm..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapi",
+			"boxState": "normal",
+			"expression": "bored",
+			"text": "Well... Ruv was drunk last night... and made a bit of a mess while you were asleep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapi",
+			"boxState": "normal",
+			"expression": "stare",
+			"text": "So \\he picked up the first fluffy thing he could find to clean up... and that happened to be me"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapi",
+			"boxState": "normal",
+			"expression": "bored",
+			"text": "I think he mistook me for your feather\\nduster..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Oh Kapi! I'm so sorry!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How about in return I make you both dinner!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapi",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "You got any more of that communion cake?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "Thin ice, buddy"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapi",
+			"boxState": "normal",
+			"expression": "stare",
+			"text": "G-got it"
+		},
+		{
+			"expression": "talk",
+			"text": "Anyway now that you're both here we have to do some more singing right!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "smile",
+			"text": "You know how much I love us singing together!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "happy",
+			"text": "Feeling is mutual my friend!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "smile",
+			"text": "Then let's get started!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		}
+	]
+}

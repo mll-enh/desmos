@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="portraits.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+
+	<SubTexture name="SelHappy" x="0" y="0" width="500" height="500"/>
+	<SubTexture name="SelSmile" x="500" y="0" width="500" height="500"/>
+	<SubTexture name="SelSmirk" x="1000" y="0" width="500" height="500"/>
+	<SubTexture name="SelXD" x="1500" y="0" width="500" height="500"/>
+	<SubTexture name="SelDX" x="2000" y="0" width="500" height="500"/>
+
+	<SubTexture name="SelGrumpy" x="0" y="500" width="500" height="500"/>
+	<SubTexture name="SelMad" x="500" y="500" width="500" height="500"/>
+	<SubTexture name="SelAngry" x="1000" y="500" width="500" height="500"/>
+	<SubTexture name="RasNormal" x="1500" y="500" width="500" height="500"/>
+	<SubTexture name="RasSad" x="2000" y="500" width="500" height="500"/>
+
+	<SubTexture name="SeleneHappy" x="0" y="1000" width="500" height="500"/>
+	<SubTexture name="SeleneSmile" x="500" y="1000" width="500" height="500"/>
+	<SubTexture name="SeleneSmirk" x="1000" y="1000" width="500" height="500"/>
+	<SubTexture name="SeleneXD" x="1500" y="1000" width="500" height="500"/>
+	<SubTexture name="SeleneBored" x="2000" y="1000" width="500" height="500"/>
+	
+	<SubTexture name="RazNormal" x="0" y="1500" width="500" height="500"/>
+	<SubTexture name="RazSad" x="500" y="1500" width="500" height="500"/>
+
+</TextureAtlas>

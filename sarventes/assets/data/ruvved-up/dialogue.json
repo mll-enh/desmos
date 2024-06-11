@@ -1,0 +1,193 @@
+{
+	"dialogue": [
+		{
+			"expression": "sad",
+			"text": "Ruv Stop! You're gonna bring the entire\\nchurch down!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "talk",
+			"text": "Heh... sorry I got a bit carried away there...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "sad",
+			"text": "bap boop!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "sad",
+			"text": "Shh... It's ok little guy... you're safe now",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "sad",
+			"text": "*shivering*",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "mad",
+			"text": "You scared the poor boy senseless!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "normal",
+			"text": "Heh... it's kinda funny...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "mad",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "mad",
+			"text": "That was very unholy of you.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok, Ok, I'm sorry... Would singing another song help?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "smile",
+			"text": "Yes that sounds wonderful!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "normal",
+			"text": "Heh... I found this cool one on the Internet...",
+			"boxState": "normal",
+			"portrait": "ruv",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "I'm sure you'll both love it",
+			"boxState": "normal",
+			"portrait": "ruv",
+			"speed": 0.05
+		},
+		{
+			"expression": "smile",
+			"text": "That sounds wonderful!",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "What do you say Boyfriend?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "The hell you just call him??!!"
+		},
+		{
+			"expression": "sad",
+			"text": "That's his name...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Sir I'm in a commited relationship you don't gotta worry..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Also I'm literally half your wife's height..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "If you take my wife I take your life"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I punt you like football"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "*beep* G-got it "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "You big meanie!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "You better say sorry by singing us that nice song you promised!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "devil",
+			"text": "Am I clear?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "C-Clear as day honey!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Then start the music!"
+		}
+	]
+}

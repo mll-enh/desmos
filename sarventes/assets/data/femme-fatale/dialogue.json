@@ -1,0 +1,179 @@
+{
+	"dialogue": [
+		{
+			"expression": "mad",
+			"text": "I... I lost?!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarvin"
+		},
+		{
+			"expression": "talk",
+			"text": "Kinda seems that way... sorry pal",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "sad",
+			"text": "Nah, you're fine",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarvin"
+		},
+		{
+			"expression": "talk",
+			"text": "You're pretty damn talented thats for sure!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarvin"
+		},
+		{
+			"expression": "talk",
+			"text": "You should join our choir!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarvin"
+		},
+		{
+			"expression": "sad",
+			"text": "Nooo! You should join mine!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarvP1"
+		},
+		{
+			"expression": "sad",
+			"text": "Mine!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarvin"
+		},
+		{
+			"expression": "sad",
+			"text": "Mine!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarvP1"
+		},
+		{
+			"expression": "sad",
+			"text": "bep...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "smile",
+			"text": "Yoo chill out the pair of you!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "selene"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "selene",
+			"boxState": "normal",
+			"expression": "smirk",
+			"text": "I think you'll find this little fella is mine~"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "H-huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "selene",
+			"boxState": "normal",
+			"expression": "XD",
+			"text": "Ohohoho! You are so cute when you're\\nfrightened!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "I-Im bap... not frightened... shut up"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "selene",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The name's Selene by the way"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "selene",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm the lady of honour in this establishment~"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvin",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "I'm 99% sure you weren't invited-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "razul",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Yeah sis why are we even here..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "razul",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm bored and Fever Town's Update just dropped..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "selene",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If it's a singing challenge you want I'd\\nsuggest looking no further than yours truly~"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fine! But after this I wanna go home..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvP1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Would you like me to make you some dino nuggies?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...Umm yes I'd actually really like that Sarv... Thank you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "selene",
+			"boxState": "normal",
+			"expression": "bored",
+			"text": "Well You ain't going anywhere till you face me!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Ok! Bring it on, lady!"
+		}
+	]
+}

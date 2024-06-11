@@ -1,0 +1,256 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "sarv_phone",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvin_phone",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How's it hanging!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv_phone",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sarvin!! It's been ages!! How are you??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvin_phone",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Pretty good sis! Got the temple up and\\nrunning! We're actually having an inauguration party if ya wanna join?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv_phone",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Of course I want to join! I'll bring the whole family!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvin_phone",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Aight sounds great!"
+		},
+		{
+			"speed": 0.015,
+			"portrait": "sarvin_phone",
+			"boxState": "normal",
+			"expression": "hang up",
+			"text": "Bye!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv_phone",
+			"boxState": "normal",
+			"expression": "hang up",
+			"text": "See ya!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "Come on Boyfriend! Let's go meet my brother at the temple!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You got it!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*A few moments Later*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well well well! What do we have here?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvP1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Big Bro it's so nice to see youuu!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvP1",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "And this place looks so cool!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvin",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "Aww shucks! It's nice to have our own space up and running!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Who's this lil fella? I don't recognise him"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Umm! B-Beep! shit... no My name's Boyfriend!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Sorry I get nervous around strangers..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvin",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "Ahaha don't worry about it..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvin",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Lord knows I'm the same..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvP1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Is there going to be singing at the ceremony?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvin",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "Course there will be!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What kinda ceremony doesn't have a good sing song?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvP1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boyfriend!! Show my brother what you got!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Could I maybe use the bathroom first?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvin",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "The Bathroom?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvP1",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvin",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sel",
+			"boxState": "normal",
+			"expression": "DX",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sure Thing! First door on the left!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Thanks man!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*One bathroom break later*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright! Now I'm ready!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hit the music sis!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvP1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Youuu got it!"
+		}
+	]
+}

@@ -1,0 +1,144 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Aight, Song's over I'm out",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "sad",
+			"text": "Oh come on now! You can't be serious?!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "normal",
+			"text": "It's nap time",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "sad",
+			"text": "It's the middle of the day...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "talk",
+			"text": "Nap time",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "sad",
+			"text": "Ok fine... but will you at least be awake for tea time?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "talk",
+			"text": "I made a really nice cake that I've been saving for an occasion like this!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "normal",
+			"text": "Yeah ok fine, I'll see you then",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "sad",
+			"text": "Alright... see you soon dear",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "normal",
+			"text": "Love ya",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "talk",
+			"text": "See ya later, short man",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "normal",
+			"text": "Bye bye, big guy!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Well I guess that just leaves the two of us...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "sad",
+			"text": "I hope that's alright...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "normal",
+			"text": "Of course it is!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh I'm glad! So you want to sing again?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "normal",
+			"text": "By all means!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "smirk",
+			"text": "Heheh sure... Just cause I'm alone doesn't mean I can't bring a challenge!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "smirk",
+			"text": "I'ts been so long since I last sang this next song...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "mad",
+			"text": "I just hope I remember the words...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		}
+	]
+}

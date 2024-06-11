@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Meowgen", "monster", [34, 51, 68]],
+		["Scratch Post", "monster", [34, 51, 68]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "halloween",
+
+	"storyName": "Arcade Showdown 2",
+	"weekBefore": "week1",
+	"weekName": "Week 2",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

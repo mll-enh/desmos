@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SarvinIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				120,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SarvinLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-107
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SarvinDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SarvinUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				-18
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SarvinRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-40
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "SarvinAltLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-130
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "SarvinAltDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				30
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "SarvinAltUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-30
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "SarvinAltRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				140,
+				-70
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle-alt",
+			"loop": true,
+			"name": "TiredSarv"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sarvin_dark",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sarvin-dark",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		76,
+		169
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

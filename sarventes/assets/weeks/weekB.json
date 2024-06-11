@@ -1,0 +1,57 @@
+{
+	"storyName": "Mid Fight Masses, the Remix!",
+	"hideFreeplay": false,
+	"weekBackground": "church",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"crossandsickle",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"parish Remix",
+			"sarvente",
+			[
+				255,
+				175,
+				215
+			]
+		],
+		[
+			"WorShip Remix",
+			"sarvente-dark",
+			[
+				255,
+				133,
+				193
+			]
+		],
+		[
+			"Zavodila Remix",
+			"ruv",
+			[
+				195,
+				195,
+				255
+			]
+		],
+		[
+			"Gospel Remix",
+			"sarvente-lucifer",
+			[
+				255,
+				73,
+				173
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weekB"
+}

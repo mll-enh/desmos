@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		150,
+		10
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "RasSad",
+			"loop_name": "RasSad"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "RasNormal",
+			"idle_name": "RasNormal"
+		}
+	],
+	"image": "portraits_2"
+}

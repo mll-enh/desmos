@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="1sarventedark.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TiredSarv0000" x="0" y="0" width="458" height="760"/>
+	<SubTexture name="TiredSarv0001" x="0" y="0" width="458" height="760"/>
+	<SubTexture name="TiredSarv0002" x="0" y="0" width="458" height="760"/>
+	<SubTexture name="TiredSarv0003" x="458" y="0" width="458" height="760"/>
+	<SubTexture name="TiredSarv0004" x="916" y="0" width="458" height="760"/>
+	<SubTexture name="TiredSarv0005" x="1374" y="0" width="458" height="760"/>
+	<SubTexture name="TiredSarv0006" x="0" y="760" width="458" height="760"/>
+	<SubTexture name="TiredSarv0007" x="458" y="760" width="458" height="760"/>
+</TextureAtlas>

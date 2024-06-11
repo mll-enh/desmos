@@ -1,0 +1,50 @@
+{
+	"storyName": "That one cup guy",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "snake",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Bopeebo",
+		    "bf-old",
+			[
+				235,
+				0,
+				80
+			]
+		],
+		[
+			"Fresh",
+			"bf-old",
+			[
+				195,
+				0,
+				40
+			]
+		],
+		[
+			"Dad Battle",
+			"gf",
+			[
+				66,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"bg",
+		"fun3",
+		"cup"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "That one cup guy"
+}

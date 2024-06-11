@@ -1,0 +1,76 @@
+{
+	"position": [
+		-70,
+		0
+	],
+	"dialogue_pos": "center",
+	"scale": 1.5,
+	"image": "portraits",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "smile",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "KapiSmile",
+			"idle_name": "KapiSmile"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "mad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "KapiMad",
+			"idle_name": "KapiMad"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "KapiHappy",
+			"loop_name": "KapiHappy"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "bored",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "KapiBored",
+			"idle_name": "KapiBored"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "stare",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "KapiStare",
+			"idle_name": "KapiStare"
+		}
+	]
+}

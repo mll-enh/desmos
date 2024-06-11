@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="church_portal.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="churchdeath0000" x="0" y="0" width="979" height="568.5"/>
+	<SubTexture name="churchdeath0001" x="979" y="0" width="979" height="568.5"/>
+	<SubTexture name="churchdeath0002" x="1958" y="0" width="979" height="568.5"/>
+	<SubTexture name="churchdeath0003" x="2937" y="0" width="979" height="568.5"/>
+	<SubTexture name="churchdeath0004" x="0" y="568.5" width="979" height="568.5"/>
+	<SubTexture name="churchdeath0005" x="979" y="568.5" width="979" height="568.5"/>
+	<SubTexture name="churchdeath0006" x="1958" y="568.5" width="979" height="568.5"/>
+	<SubTexture name="churchdeath0007" x="2937" y="568.5" width="979" height="568.5"/>
+	<SubTexture name="churchdeath0008" x="0" y="1137" width="979" height="568.5"/>
+	<SubTexture name="churchdeath0009" x="979" y="1137" width="979" height="568.5"/>
+	<SubTexture name="churchdeath0010" x="1958" y="1137" width="979" height="568.5"/>
+	<SubTexture name="churchdeath0011" x="2937" y="1137" width="979" height="568.5"/>
+	<SubTexture name="churchdeath0012" x="0" y="1705.5" width="979" height="568.5"/>
+	<SubTexture name="churchdeath0013" x="979" y="1705.5" width="979" height="568.5"/>
+</TextureAtlas>

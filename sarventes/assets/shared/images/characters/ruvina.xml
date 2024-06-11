@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ruvina.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+
+	<SubTexture name="RuvinaIdle0000" x="0" y="0" width="370" height="770"/>
+	<SubTexture name="RuvinaIdle0001" x="0" y="0" width="370" height="770"/>
+	<SubTexture name="RuvinaIdle0002" x="0" y="0" width="370" height="770"/>
+	<SubTexture name="RuvinaIdle0003" x="0" y="0" width="370" height="770"/>
+	<SubTexture name="RuvinaIdle0004" x="0" y="0" width="370" height="770"/>
+	<SubTexture name="RuvinaIdle0005" x="0" y="0" width="370" height="770"/>
+	<SubTexture name="RuvinaIdle0006" x="370" y="0" width="370" height="770"/>
+	<SubTexture name="RuvinaIdle0007" x="370" y="0" width="370" height="770"/>
+	<SubTexture name="RuvinaIdle0008" x="740" y="0" width="370" height="770"/>
+	<SubTexture name="RuvinaIdle0009" x="740" y="0" width="370" height="770"/>
+	<SubTexture name="RuvinaIdle0010" x="1110" y="0" width="370" height="770"/>
+	<SubTexture name="RuvinaIdle0011" x="1110" y="0" width="370" height="770"/>
+
+	<SubTexture name="RuvinaLeft0000" x="1480" y="20" width="460" height="750"/>
+	<SubTexture name="RuvinaLeft0001" x="1480" y="20" width="460" height="750"/>
+	<SubTexture name="RuvinaLeft0002" x="1940" y="20" width="460" height="750"/>
+	<SubTexture name="RuvinaLeft0003" x="1940" y="20" width="460" height="750"/>
+	<SubTexture name="RuvinaLeft0004" x="2400" y="20" width="460" height="750"/>
+	<SubTexture name="RuvinaLeft0005" x="2400" y="20" width="460" height="750"/>
+	<SubTexture name="RuvinaLeft0006" x="2400" y="20" width="460" height="750"/>
+	<SubTexture name="RuvinaLeft0007" x="2400" y="20" width="460" height="750"/>
+	<SubTexture name="RuvinaLeft0008" x="2400" y="20" width="460" height="750"/>
+	<SubTexture name="RuvinaLeft0009" x="2400" y="20" width="460" height="750"/>
+	<SubTexture name="RuvinaLeft0010" x="2400" y="20" width="460" height="750"/>
+	<SubTexture name="RuvinaLeft0011" x="2400" y="20" width="460" height="750"/>
+	<SubTexture name="RuvinaLeft0012" x="2400" y="20" width="460" height="750"/>
+	<SubTexture name="RuvinaLeft0013" x="2400" y="20" width="460" height="750"/>
+	<SubTexture name="RuvinaLeft0014" x="2400" y="20" width="460" height="750"/>
+	<SubTexture name="RuvinaLeft0015" x="2400" y="20" width="460" height="750"/>
+	<SubTexture name="RuvinaLeft0016" x="2400" y="20" width="460" height="750"/>
+	<SubTexture name="RuvinaLeft0017" x="2400" y="20" width="460" height="750"/>
+	<SubTexture name="RuvinaLeft0018" x="2400" y="20" width="460" height="750"/>
+	<SubTexture name="RuvinaLeft0019" x="2400" y="20" width="460" height="750"/>
+	<SubTexture name="RuvinaLeft0020" x="2400" y="20" width="460" height="750"/>
+	<SubTexture name="RuvinaLeft0021" x="2400" y="20" width="460" height="750"/>
+	<SubTexture name="RuvinaLeft0022" x="2400" y="20" width="460" height="750"/>
+	<SubTexture name="RuvinaLeft0023" x="2400" y="20" width="460" height="750"/>
+
+	<SubTexture name="RuvinaDown0000" x="2860" y="70" width="490" height="700"/>
+	<SubTexture name="RuvinaDown0001" x="2860" y="70" width="490" height="700"/>
+	<SubTexture name="RuvinaDown0002" x="3350" y="70" width="490" height="700"/>
+	<SubTexture name="RuvinaDown0003" x="3350" y="70" width="490" height="700"/>
+	<SubTexture name="RuvinaDown0004" x="3350" y="70" width="490" height="700"/>
+	<SubTexture name="RuvinaDown0005" x="3350" y="70" width="490" height="700"/>
+	<SubTexture name="RuvinaDown0006" x="3350" y="70" width="490" height="700"/>
+	<SubTexture name="RuvinaDown0007" x="3350" y="70" width="490" height="700"/>
+	<SubTexture name="RuvinaDown0008" x="3350" y="70" width="490" height="700"/>
+	<SubTexture name="RuvinaDown0009" x="3350" y="70" width="490" height="700"/>
+	<SubTexture name="RuvinaDown0010" x="3350" y="70" width="490" height="700"/>
+	<SubTexture name="RuvinaDown0011" x="3350" y="70" width="490" height="700"/>
+	<SubTexture name="RuvinaDown0012" x="3350" y="70" width="490" height="700"/>
+	<SubTexture name="RuvinaDown0013" x="3350" y="70" width="490" height="700"/>
+	<SubTexture name="RuvinaDown0014" x="3350" y="70" width="490" height="700"/>
+	<SubTexture name="RuvinaDown0015" x="3350" y="70" width="490" height="700"/>
+	<SubTexture name="RuvinaDown0016" x="3350" y="70" width="490" height="700"/>
+	<SubTexture name="RuvinaDown0017" x="3350" y="70" width="490" height="700"/>
+	<SubTexture name="RuvinaDown0018" x="3350" y="70" width="490" height="700"/>
+	<SubTexture name="RuvinaDown0019" x="3350" y="70" width="490" height="700"/>
+	<SubTexture name="RuvinaDown0020" x="3350" y="70" width="490" height="700"/>
+	<SubTexture name="RuvinaDown0021" x="3350" y="70" width="490" height="700"/>
+	<SubTexture name="RuvinaDown0022" x="3350" y="70" width="490" height="700"/>
+	<SubTexture name="RuvinaDown0023" x="3350" y="70" width="490" height="700"/>
+
+	<SubTexture name="RuvinaUp0000" x="0" y="770" width="490" height="850"/>
+	<SubTexture name="RuvinaUp0001" x="0" y="770" width="490" height="850"/>
+	<SubTexture name="RuvinaUp0002" x="490" y="770" width="490" height="850"/>
+	<SubTexture name="RuvinaUp0003" x="490" y="770" width="490" height="850"/>
+	<SubTexture name="RuvinaUp0004" x="980" y="770" width="490" height="850"/>
+	<SubTexture name="RuvinaUp0004" x="980" y="770" width="490" height="850"/>
+	<SubTexture name="RuvinaUp0004" x="980" y="770" width="490" height="850"/>
+	<SubTexture name="RuvinaUp0004" x="980" y="770" width="490" height="850"/>
+	<SubTexture name="RuvinaUp0004" x="980" y="770" width="490" height="850"/>
+	<SubTexture name="RuvinaUp0004" x="980" y="770" width="490" height="850"/>
+	<SubTexture name="RuvinaUp0004" x="980" y="770" width="490" height="850"/>
+	<SubTexture name="RuvinaUp0004" x="980" y="770" width="490" height="850"/>
+	<SubTexture name="RuvinaUp0004" x="980" y="770" width="490" height="850"/>
+	<SubTexture name="RuvinaUp0004" x="980" y="770" width="490" height="850"/>
+	<SubTexture name="RuvinaUp0004" x="980" y="770" width="490" height="850"/>
+	<SubTexture name="RuvinaUp0004" x="980" y="770" width="490" height="850"/>
+	<SubTexture name="RuvinaUp0004" x="980" y="770" width="490" height="850"/>
+	<SubTexture name="RuvinaUp0004" x="980" y="770" width="490" height="850"/>
+	<SubTexture name="RuvinaUp0004" x="980" y="770" width="490" height="850"/>
+	<SubTexture name="RuvinaUp0004" x="980" y="770" width="490" height="850"/>
+	<SubTexture name="RuvinaUp0004" x="980" y="770" width="490" height="850"/>
+	<SubTexture name="RuvinaUp0004" x="980" y="770" width="490" height="850"/>
+	<SubTexture name="RuvinaUp0004" x="980" y="770" width="490" height="850"/>
+	<SubTexture name="RuvinaUp0004" x="980" y="770" width="490" height="850"/>
+
+	<SubTexture name="RuvinaRight0000" x="1470" y="850" width="470" height="770"/>
+	<SubTexture name="RuvinaRight0001" x="1470" y="850" width="470" height="770"/>
+
+	<SubTexture name="RuvinaRight0002" x="1940" y="850" width="470" height="770"/>
+	<SubTexture name="RuvinaRight0003" x="1940" y="850" width="470" height="770"/>
+
+	<SubTexture name="RuvinaRight0004" x="2410" y="850" width="470" height="770"/>
+	<SubTexture name="RuvinaRight0005" x="2410" y="850" width="470" height="770"/>
+	<SubTexture name="RuvinaRight0006" x="2410" y="850" width="470" height="770"/>
+	<SubTexture name="RuvinaRight0007" x="2410" y="850" width="470" height="770"/>
+	<SubTexture name="RuvinaRight0008" x="2410" y="850" width="470" height="770"/>
+	<SubTexture name="RuvinaRight0009" x="2410" y="850" width="470" height="770"/>
+	<SubTexture name="RuvinaRight0010" x="2410" y="850" width="470" height="770"/>
+	<SubTexture name="RuvinaRight0011" x="2410" y="850" width="470" height="770"/>
+	<SubTexture name="RuvinaRight0012" x="2410" y="850" width="470" height="770"/>
+	<SubTexture name="RuvinaRight0013" x="2410" y="850" width="470" height="770"/>
+	<SubTexture name="RuvinaRight0014" x="2410" y="850" width="470" height="770"/>
+	<SubTexture name="RuvinaRight0015" x="2410" y="850" width="470" height="770"/>
+	<SubTexture name="RuvinaRight0016" x="2410" y="850" width="470" height="770"/>
+	<SubTexture name="RuvinaRight0017" x="2410" y="850" width="470" height="770"/>
+	<SubTexture name="RuvinaRight0018" x="2410" y="850" width="470" height="770"/>
+	<SubTexture name="RuvinaRight0019" x="2410" y="850" width="470" height="770"/>
+	<SubTexture name="RuvinaRight0020" x="2410" y="850" width="470" height="770"/>
+	<SubTexture name="RuvinaRight0021" x="2410" y="850" width="470" height="770"/>
+	<SubTexture name="RuvinaRight0022" x="2410" y="850" width="470" height="770"/>
+	<SubTexture name="RuvinaRight0023" x="2410" y="850" width="470" height="770"/>
+</TextureAtlas>

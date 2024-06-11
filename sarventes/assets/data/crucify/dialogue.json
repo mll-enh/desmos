@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"expression": "sad",
+			"text": "beep boop bap pa??!!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "taki"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvP1",
+			"boxState": "normal",
+			"expression": "smirk",
+			"text": "Stay back boyfriend, I got this!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvP1",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Who on earth are you?!"
+		},
+		{
+			"expression": "mad",
+			"text": "And what in God's name do you think you're doing?!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarvP1"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "taki",
+			"speed": 0.05
+		},
+		{
+			"expression": "mad",
+			"text": "Leave this sacred place at once!",
+			"boxState": "normal",
+			"portrait": "sarvP1",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "taki",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvP1",
+			"boxState": "normal",
+			"expression": "smirk",
+			"text": "Hmm... Woman of few words huh..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvP1",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Anything you have to say for yourself?"
+		},
+		{
+			"expression": "mad",
+			"text": "You will meet God.",
+			"boxState": "normal",
+			"portrait": "taki",
+			"speed": 0.3
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvP1",
+			"boxState": "normal",
+			"expression": "smirk",
+			"text": "You poor... lost soul..."
+		},
+		{
+			"expression": "devil",
+			"text": "I will cleanse you of evil~",
+			"boxState": "normal",
+			"portrait": "sarvP1",
+			"speed": 0.1
+		}
+	]
+}

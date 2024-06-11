@@ -1,0 +1,30 @@
+{
+	"storyName": "Mid Fight Masses Extras!",
+	"hideFreeplay": false,
+	"weekBackground": "church",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"sarv",
+		"ruv",
+		"kapi"
+	],
+	"songs": [
+		[
+			"Ruv-odila",
+			"ruv",
+			[
+				166,
+				173,
+				193
+			]
+		]
+	],
+	"weekName": "weekA1"
+}

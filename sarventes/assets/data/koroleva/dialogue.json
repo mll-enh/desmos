@@ -1,0 +1,151 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Ok... Ok... hold up... I ain't done yet...",
+			"boxState": "normal",
+			"speed": 0.08,
+			"portrait": "sarvin_tired"
+		},
+		{
+			"expression": "talk",
+			"text": "Just... gimme... a second...",
+			"boxState": "normal",
+			"speed": 0.08,
+			"portrait": "sarvin_tired"
+		},
+		{
+			"expression": "talk",
+			"text": "*he collapses*",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "sad",
+			"text": "H-Huh?!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "sad",
+			"text": "Oops! Fainting sure does run in this family huh?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarvP1"
+		},
+		{
+			"expression": "sad",
+			"text": "Less running... more like falling",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "sad",
+			"text": "Ruvvv! Come get my bro!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarvP1"
+		},
+		{
+			"expression": "normal",
+			"text": "On it",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruvP1"
+		},
+		{
+			"expression": "normal",
+			"text": "Forgive me... what seems to be the trouble here?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruvina"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh Ruvina! Nice to see you!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarvP1"
+		},
+		{
+			"expression": "sad",
+			"text": "Yeah big bro funked a lil too hard...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarvP1"
+		},
+		{
+			"expression": "talk",
+			"text": "I see...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruvina"
+		},
+		{
+			"expression": "normal",
+			"text": "He does tend to rather throw himself into things...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruvina"
+		},
+		{
+			"expression": "sad",
+			"text": "You can say that again...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "I heard you singing earlier... you sound very nice...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruvina"
+		},
+		{
+			"expression": "normal",
+			"text": "Oh thanks! That's very kind!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ruvina",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "No problem..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ruvina",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I figured... since today's the ceremony... maybe I should sing with you too?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I mean if you want to then feel free!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ruvina",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Thank you... I'm not the best singer but I'll do my best..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Go for it!"
+		}
+	]
+}

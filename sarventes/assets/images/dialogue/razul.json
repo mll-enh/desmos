@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		150,
+		10
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "RazSad",
+			"loop_name": "RazSad"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "RazNormal",
+			"idle_name": "RazNormal"
+		}
+	],
+	"image": "portraits_2"
+}

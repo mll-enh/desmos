@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "sarvin",
+			"boxState": "normal",
+			"expression": "smirk",
+			"text": "Damn dude! You're pretty good!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Thanks man! You're cool too!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvin",
+			"boxState": "normal",
+			"expression": "smirk",
+			"text": "Competition ain't over yet buddy!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Aight! Bring it!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvin",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Ugh... I forgotten my song lyrics already..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvin",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Shouldn't have drunk that coffee last night..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvP1",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "Sar-venti frappucino, monsieur?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvin",
+			"boxState": "normal",
+			"expression": "smirk",
+			"text": "You know it!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvP1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm sure If I play the next track on here you'll recognise it"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvin",
+			"boxState": "normal",
+			"expression": "smirk",
+			"text": "Alright Shoot! Ready little man?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ready as I'll ever be!"
+		}
+	]
+}

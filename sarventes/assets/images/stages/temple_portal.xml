@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ctemple_portal.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="churchdeath0000" x="0" y="0" width="2032" height="1600"/>
+	<SubTexture name="churchdeath0001" x="2032" y="0" width="2032" height="1600"/>
+	<SubTexture name="churchdeath0002" x="4064" y="0" width="2032" height="1600"/>
+	<SubTexture name="churchdeath0003" x="6096" y="0" width="2032" height="1600"/>
+	<SubTexture name="churchdeath0004" x="0" y="1600" width="2032" height="1600"/>
+	<SubTexture name="churchdeath0005" x="2032" y="1600" width="2032" height="1600"/>
+	<SubTexture name="churchdeath0006" x="4064" y="1600" width="2032" height="1600"/>
+	<SubTexture name="churchdeath0007" x="6096" y="1600" width="2032" height="1600"/>
+</TextureAtlas>

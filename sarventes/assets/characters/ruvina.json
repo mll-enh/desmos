@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "RuvinaIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				-18
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "RuvinaLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "RuvinaDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				76
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "RuvinaUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RuvinaRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ruvina",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ruvina",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		120,
+		160
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

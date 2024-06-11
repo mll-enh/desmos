@@ -1,0 +1,158 @@
+{
+	"dialogue": [
+		{
+			"expression": "smile",
+			"text": "Ah! You still sound great as always!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapi",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "Heh yeah dude! You both rock!"
+		},
+		{
+			"expression": "talk",
+			"text": "You're both too kind honestly!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Ooh let's sing some more songs then we can all have a big celebration!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "smile",
+			"text": "You've really cheered me up honestly!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "talk",
+			"text": "I'm really glad to hear that!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Likewise! Do you want us to visit more often Sarv?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "Of course... That would... be w-wonderful"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "I cherish all the memories I have with people in this church..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "It... can get a little lonely sometimes... the church is pretty reserved and secluded..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "We used to get many more visitors... but I suppose we're a bit out of the way..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "So umm..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We'll come to visit once a week"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "You got it!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Oh t-thank you... I *sniff* really appreciate it..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "S-sorry... this is such a stupid reason to cry..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No it's not! and besides we're here! Your family will be back home soon too!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "I think I can actually hear Ruv approaching..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "So why don't we get back to singing!"
+		},
+		{
+			"expression": "smile",
+			"text": "Song 2 Let's go!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "happy",
+			"text": "You said it!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Go go go!"
+		}
+	]
+}

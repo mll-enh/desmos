@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SarvinIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				110,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SarvinLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-107
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SarvinDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SarvinUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-18
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SarvinRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-53,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "hey",
+			"indices": [],
+			"name": "SarvinHey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sarvin",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sarvin",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		156,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

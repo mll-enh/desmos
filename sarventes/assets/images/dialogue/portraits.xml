@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="portraits.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+
+	<SubTexture name="SarvHappy" x="0" y="0" width="500" height="500"/>
+	<SubTexture name="SarvSmile" x="500" y="0" width="500" height="500"/>
+	<SubTexture name="SarvSad" x="1000" y="0" width="500" height="500"/>
+	<SubTexture name="SarvSmirk" x="1500" y="0" width="500" height="500"/>
+	<SubTexture name="SarvMad" x="2000" y="0" width="500" height="500"/>
+
+	<SubTexture name="SarvinHappy" x="0" y="500" width="500" height="500"/>
+	<SubTexture name="SarvinSmile" x="500" y="500" width="500" height="500"/>
+	<SubTexture name="SarvinSad" x="1000" y="500" width="500" height="500"/>
+	<SubTexture name="SarvinSmirk" x="1500" y="500" width="500" height="500"/>
+	<SubTexture name="SarvinMad" x="2000" y="500" width="500" height="500"/>
+
+	<SubTexture name="SarvDevil" x="0" y="1000" width="500" height="500"/>
+	<SubTexture name="SarvinDevil" x="500" y="1000" width="500" height="500"/>
+	<SubTexture name="BFNormal" x="1000" y="1000" width="500" height="500"/>
+	<SubTexture name="BFHappy" x="1500" y="1000" width="500" height="500"/>
+	<SubTexture name="BFSad" x="2000" y="1000" width="500" height="500"/>
+	
+	<SubTexture name="RuvNormal" x="0" y="1500" width="500" height="500"/>
+	<SubTexture name="RuvTalk" x="500" y="1500" width="500" height="500"/>
+	<SubTexture name="RuvSad" x="1000" y="1500" width="500" height="500"/>
+	<SubTexture name="RuvinaNormal" x="1500" y="1500" width="500" height="500"/>
+	<SubTexture name="RuvinaTalk" x="2000" y="1500" width="500" height="500"/>
+
+	<SubTexture name="KapiHappy" x="0" y="2000" width="500" height="500"/>
+	<SubTexture name="KapiSmile" x="500" y="2000" width="500" height="500"/>
+	<SubTexture name="KapiMad" x="1000" y="2000" width="500" height="500"/>
+	<SubTexture name="KapiBored" x="1500" y="2000" width="500" height="500"/>
+	<SubTexture name="KapiStare" x="2000" y="2000" width="500" height="500"/>
+
+</TextureAtlas>

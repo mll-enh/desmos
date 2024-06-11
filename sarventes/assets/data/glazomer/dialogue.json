@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Heheh... nice one... phew",
+			"boxState": "normal",
+			"speed": 0.08,
+			"portrait": "sarv_tired"
+		},
+		{
+			"expression": "talk",
+			"text": "Heh... you're looking a lil worn out there Sarv",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruvP1"
+		},
+		{
+			"expression": "smirk",
+			"text": "Shut up ya big ol dummy",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "normal",
+			"text": "But may I add... Still stunningly beautiful",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruvP1"
+		},
+		{
+			"expression": "sad",
+			"text": "RUV!!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "sad",
+			"text": "You are NOT making me cry today, my\\nmascara was like 40 dollars!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "speak",
+			"text": "Heh sorry... Love you sweetheart",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruvP1"
+		},
+		{
+			"expression": "smile",
+			"text": "Love you too...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "bored",
+			"text": "Ya'll done?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kapi"
+		},
+		{
+			"expression": "talk",
+			"text": "Sorry Kapi... I just haven't seen Ruv in\\nyears... I really miss him...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "talk",
+			"text": "Aren't you pansexual? You want me to drop you off at an IKEA home section or\\nsomething?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruvP1"
+		},
+		{
+			"expression": "bored",
+			"text": "If I had a dollar for every time I was asked whether or not I beeped pans, I'd have enough to buy the entire IKEA home section...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kapi"
+		},
+		{
+			"expression": "talk",
+			"text": "So you could beep it?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruvP1"
+		},
+		{
+			"expression": "mad",
+			"text": "What No!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "kapi"
+		},
+		{
+			"expression": "talk",
+			"text": "Ruvvv stop being mean to the little kitty and come sing with me!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "normal",
+			"text": "Heh, Alright honey",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruvP1"
+		}
+	]
+}

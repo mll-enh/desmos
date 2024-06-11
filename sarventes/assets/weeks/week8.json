@@ -1,0 +1,48 @@
+{
+	"storyName": "VS Fuckboi",
+	"hideFreeplay": false,
+	"weekBackground": "church",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"sel",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Demonila",
+			"selever",
+			[
+				155,
+				20,
+				80
+			]
+		],
+		[
+			"Casanova",
+			"selever",
+			[
+				155,
+				20,
+				80
+			]
+		],
+		[
+			"Attack",
+			"selever",
+			[
+				115,
+				0,
+				60
+			]
+		]
+	],
+	"weekName": "Week 8"
+}

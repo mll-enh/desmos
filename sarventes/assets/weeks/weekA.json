@@ -1,0 +1,66 @@
+{
+	"storyName": "Mid Fight Masses Extras!",
+	"hideFreeplay": false,
+	"weekBackground": "church",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"sarv",
+		"ruv",
+		"kapi"
+	],
+	"songs": [
+		[
+			"Jointly",
+			"ruv",
+			[
+				166,
+				173,
+				193
+			]
+		],
+		[
+			"Sanctimonious",
+			"sarv-smirk",
+			[
+				255,
+				133,
+				195
+			]
+		],
+		[
+			"Glazomer",
+			"ruv",
+			[
+				40,
+				40,
+				60
+			]
+		],
+		[
+			"Trance",
+			"sarv-flirty",
+			[
+				195,
+				20,
+				93
+			]
+		],
+		[
+			"Sarv-odila",
+			"sarv-happy",
+			[
+				255,
+				153,
+				215
+			]
+		]
+	],
+	"weekName": "weekA"
+}

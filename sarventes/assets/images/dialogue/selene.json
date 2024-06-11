@@ -1,0 +1,76 @@
+{
+	"position": [
+		120,
+		0
+	],
+	"dialogue_pos": "left",
+	"scale": 1.5,
+	"image": "portraits_2",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "smile",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "SeleneSmile",
+			"idle_name": "SeleneSmile"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "smirk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "SeleneSmirk",
+			"idle_name": "SeleneSmirk"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "XD",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "SeleneXD",
+			"loop_name": "SeleneXD"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "SeleneHappy",
+			"idle_name": "SeleneHappy"
+		},
+		{
+			"loop_name": "SeleneBored",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "SeleneBored",
+			"anim": "bored",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

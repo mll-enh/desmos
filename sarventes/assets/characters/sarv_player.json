@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SarvDarkIdle"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SarvDarkRight"
+		},
+		{
+			"offsets": [
+				20,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SarvDarkDown"
+		},
+		{
+			"offsets": [
+				60,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SarvDarkUp"
+		},
+		{
+			"offsets": [
+				70,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SarvDarkLeft"
+		},
+		{
+			"offsets": [
+				60,
+				-10
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "TiredSarv"
+		},
+		{
+			"offsets": [
+				20,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "SarvDarkAltRight"
+		},
+		{
+			"offsets": [
+				5,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "SarvDarkAltDown"
+		},
+		{
+			"offsets": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "SarvDarkAltUp"
+		},
+		{
+			"offsets": [
+				127,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "SarvDarkAltLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				211,
+				9
+			],
+			"anim": "singLEFTmiss",
+			"fps": 1,
+			"name": "SarvRMiss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				132,
+				5
+			],
+			"loop": false,
+			"fps": 1,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "SarvDMiss"
+		},
+		{
+			"offsets": [
+				218,
+				23
+			],
+			"loop": false,
+			"fps": 1,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "SarvUMiss"
+		},
+		{
+			"offsets": [
+				211,
+				9
+			],
+			"loop": false,
+			"fps": 1,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "SarvLMiss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sarv_player",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sarvente-dark",
+	"flip_x": false,
+	"healthbar_colors": [
+		236,
+		114,
+		174
+	],
+	"camera_position": [
+		60,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

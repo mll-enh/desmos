@@ -1,0 +1,158 @@
+{
+	"dialogue": [
+		{
+			"expression": "smile",
+			"text": "Heya... umm who might you be?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sel"
+		},
+		{
+			"expression": "talk",
+			"text": "bee boop pop",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "smirk",
+			"text": "I like your funny words, magic man!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sel"
+		},
+		{
+			"expression": "talk",
+			"text": "bee boop pa!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "smile",
+			"text": "The name's Selever by the way! Who might you be?",
+			"boxState": "normal",
+			"portrait": "sel",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "boi fren",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "DX",
+			"text": "Boyfriend?!",
+			"boxState": "angry",
+			"portrait": "sel",
+			"speed": 0.05
+		},
+		{
+			"expression": "smirk",
+			"text": "Shouldn't you buy me a drink first?",
+			"boxState": "normal",
+			"portrait": "sel",
+			"speed": 0.05
+		},
+		{
+			"expression": "sad",
+			"text": "bep...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "smile",
+			"text": "Heh I'm messing with ya.",
+			"boxState": "normal",
+			"portrait": "sel",
+			"speed": 0.05
+		},
+		{
+			"expression": "DX",
+			"text": "Nice to meet ya... boyfriend...",
+			"boxState": "normal",
+			"portrait": "sel",
+			"speed": 0.05
+		},
+		{
+			"expression": "mad",
+			"text": "(That sounds a bit sus but I'll go with it I guess...)",
+			"boxState": "normal",
+			"portrait": "sel",
+			"speed": 0.05
+		},
+		{
+			"expression": "smile",
+			"text": "Anyway Can I help ya?",
+			"boxState": "normal",
+			"portrait": "sel",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "beep bap!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Oh you wanna sing with me... Umm I mean I guess lol",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sel"
+		},
+		{
+			"expression": "talk",
+			"text": "beep boop bap pop bee?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "smile",
+			"text": "You think I look like Sarv and Ruv?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sel"
+		},
+		{
+			"expression": "talk",
+			"text": "Well that makes sense! They are my parents after all...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sel"
+		},
+		{
+			"expression": "talk",
+			"text": "bee boop bop!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "smile",
+			"text": "Yeah sure I can sing something with you if ya want?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sel"
+		},
+		{
+			"expression": "smirk",
+			"text": "But ya better keep up!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sel"
+		},
+		{
+			"expression": "happy",
+			"text": "boop!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

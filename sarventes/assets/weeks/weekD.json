@@ -1,0 +1,48 @@
+{
+	"storyName": "Bonus",
+	"hideFreeplay": false,
+	"weekBackground": "church",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"bonus",
+		"bf",
+		"sarv2"
+	],
+	"songs": [
+		[
+			"Bazinga",
+			"taki",
+			[
+				175,
+				55,
+				95
+			]
+		],
+		[
+			"Crucify",
+			"taki",
+			[
+				175,
+				55,
+				95
+			]
+		],
+		[
+			"Yevangeliye",
+			"sarv-happy",
+			[
+				255,
+				195,
+				235
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weekD"
+}

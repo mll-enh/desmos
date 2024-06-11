@@ -1,0 +1,10 @@
+{
+	"idle_anim": "SarventeIdle",
+	"confirm_anim": "SarventeHey",
+	"position": [
+		160,
+		190
+	],
+	"scale": 0.45,
+	"image": "Menu_Sarv"
+}

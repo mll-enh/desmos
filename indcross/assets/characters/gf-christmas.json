@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-28
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				110
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				23
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "1 instance"
+		},
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack",
+			"loop": false,
+			"name": "Roundattack instance"
+		},
+		{
+			"offsets": [
+				110,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "ouch",
+			"loop": false,
+			"name": "Ouch instance"
+		},
+		{
+			"offsets": [
+				0,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "die",
+			"loop": false,
+			"name": "DIE BITCH instance"
+		},
+		{
+			"offsets": [
+				340,
+				248
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hadoken",
+			"loop": false,
+			"name": "Hadoken!! instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gfChristmas",
+	"position": [
+		50,
+		410
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		171,
+		22,
+		74
+	],
+	"camera_position": [
+		-230,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

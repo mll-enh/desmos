@@ -1,0 +1,57 @@
+{
+	"storyName": "Mid Fight Masses",
+	"hideFreeplay": false,
+	"weekBackground": "church",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"sarv",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Parish",
+			"sarvente",
+			[
+				255,
+				175,
+				215
+			]
+		],
+		[
+			"Worship",
+			"sarvente-dark",
+			[
+				255,
+				133,
+				193
+			]
+		],
+		[
+			"Zavodila",
+			"ruv",
+			[
+				195,
+				195,
+				255
+			]
+		],
+		[
+			"Gospel",
+			"sarvente-lucifer",
+			[
+				255,
+				73,
+				173
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week7"
+}

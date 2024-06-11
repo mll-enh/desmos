@@ -1,0 +1,186 @@
+{
+	"dialogue": [
+		{
+			"expression": "bored",
+			"text": "Ruv... are you sure we're nearly there?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kapi"
+		},
+		{
+			"expression": "stare",
+			"text": "We've been walking for hours...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kapi"
+		},
+		{
+			"expression": "talk",
+			"text": "Patience, kitty man... We are nearly there",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruvP1"
+		},
+		{
+			"expression": "sad",
+			"text": "Soon... I'll be able to see her again...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruvP1"
+		},
+		{
+			"expression": "talk",
+			"text": "*They arrive at the church*",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "talk",
+			"text": "Hi again... yeah do you do pepperoni?...",
+			"boxState": "normal",
+			"portrait": "sarv_phone",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv_phone",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"expression": "talk",
+			"text": "Oh this is the Aquarium? Oh I'm sorry never mind...",
+			"boxState": "normal",
+			"portrait": "sarv_phone",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Sarv! We're finally here!",
+			"boxState": "normal",
+			"portrait": "ruvP1",
+			"speed": 0.05
+		},
+		{
+			"expression": "hang up",
+			"text": "Ruv!",
+			"boxState": "normal",
+			"portrait": "sarv_phone",
+			"speed": 0.05
+		},
+		{
+			"expression": "normal",
+			"text": "Sarv... It's so nice to see you again...",
+			"boxState": "normal",
+			"portrait": "ruvP1",
+			"speed": 0.05
+		},
+		{
+			"expression": "smile",
+			"text": "Ruv... I've missed you...",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "I'm uhh...",
+			"boxState": "normal",
+			"portrait": "kapi",
+			"speed": 0.05
+		},
+		{
+			"expression": "stare",
+			"text": "I'm also here too I guess...",
+			"boxState": "normal",
+			"portrait": "kapi",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Kapi! It's been a while since I've seen you.. It's nice to have you back!",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "smile",
+			"text": "You do remember why we had to ban you don't you?",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "stare",
+			"text": "Uhh...",
+			"boxState": "normal",
+			"portrait": "kapi",
+			"speed": 0.05
+		},
+		{
+			"expression": "bored",
+			"text": "Was it that time when you caught me blowing vape clouds in the boys bathroom",
+			"boxState": "normal",
+			"portrait": "kapi",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapi",
+			"boxState": "normal",
+			"expression": "stare",
+			"text": "And I panicked and said I'd discovered the holy ghost??"
+		},
+		{
+			"expression": "sad",
+			"text": "...No it's because you kept eating all the communion cake for breakfast...",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapi",
+			"boxState": "normal",
+			"expression": "stare",
+			"text": "Ahahaha... oh yeah... that... haha"
+		},
+		{
+			"expression": "talk",
+			"text": "Sarv... May we sing together again...",
+			"boxState": "normal",
+			"portrait": "ruvP1",
+			"speed": 0.05
+		},
+		{
+			"expression": "concerned",
+			"text": "Like old times?",
+			"boxState": "normal",
+			"portrait": "ruvP1",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Of course we can!",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Heh nice! Ya'll mind if I sit here and watch?",
+			"boxState": "normal",
+			"portrait": "kapi",
+			"speed": 0.05
+		},
+		{
+			"expression": "smile",
+			"text": "Not at all!",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		}
+	]
+}

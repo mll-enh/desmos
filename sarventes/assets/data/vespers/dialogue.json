@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "ruvina",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Oh! You really are something!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Aww you guys are so nice!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvin",
+			"boxState": "normal",
+			"expression": "smirk",
+			"text": "Yeah yeah, he's whatever!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvin",
+			"boxState": "normal",
+			"expression": "smirk",
+			"text": "He's good but he's no match compared to me!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvP1",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Respectfully... he did just beat you in the first two songs..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvin",
+			"boxState": "normal",
+			"expression": "smirk",
+			"text": "Oh you call those songs?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvin",
+			"boxState": "normal",
+			"expression": "devil",
+			"text": "Lemme show you all what I'm truly capable of!"
+		}
+	]
+}

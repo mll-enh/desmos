@@ -1,0 +1,144 @@
+{
+	"dialogue": [
+		{
+			"expression": "smile",
+			"text": "Sweetheart is that you singing I hear?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "mad",
+			"text": "Uhh... yes mom...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sel"
+		},
+		{
+			"expression": "devil",
+			"text": "And is that you flipping off our new guest I see?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "DX",
+			"text": "WHAT NO I PROMISE NOT MA! PLEASE I'M SORRY!",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "sel"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh you silly billy, now, be a nice boy and\\nmommy will make you your favourite dinner!",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "smile",
+			"text": "Dino Nuggies!",
+			"boxState": "angry",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "mad",
+			"text": "Mom I'm 17...",
+			"boxState": "normal",
+			"portrait": "sel",
+			"speed": 0.05
+		},
+		{
+			"expression": "devil",
+			"text": "Exactly, so you should be smart enough not to argue with your mother when she's cross!",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "DX",
+			"text": "Yes Mom!",
+			"boxState": "normal",
+			"portrait": "sel",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "beep boop bap pa!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "mad",
+			"text": "Another song eh? Hmm... which one...",
+			"boxState": "normal",
+			"portrait": "sel",
+			"speed": 0.05
+		},
+		{
+			"expression": "smile",
+			"text": "I know a few more songs.. but I can't\\nremember what one's called...",
+			"boxState": "normal",
+			"portrait": "sel",
+			"speed": 0.05
+		},
+		{
+			"expression": "mad",
+			"text": "Memory fades me... Hmm...",
+			"boxState": "normal",
+			"portrait": "sel",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Oh! Sweetie! I found your old poetry book!",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "DX",
+			"text": "W-WHAT?!",
+			"boxState": "angry",
+			"portrait": "sel",
+			"speed": 0.05
+		},
+		{
+			"expression": "sad",
+			"text": "It was in the garbage! Why did you throw it away! It's so lovely!",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "smile",
+			"text": "You're such a wordsmith!\\nSuch a CASANOVA sweetie!",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "angry",
+			"text": "THAT\"\"'S THE SONG!! ROACHY PLEASE PRESS ENTER SO WE CAN PLAY THE SONG!!",
+			"boxState": "angry",
+			"portrait": "sel",
+			"speed": 0.03
+		},
+		{
+			"expression": "angry",
+			"text": "I KNOW YOU'RE PLAYING THIS, POSSIBLY ON YOUTUBE, IN WHICH CASE THANK YOU!",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "sel"
+		},
+		{
+			"expression": "angry",
+			"text": "SO GO AHEAD AND SMASH ENTER BEFORE MY MOM READS OUT MY POETRY THANKS!",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "sel"
+		}
+	]
+}

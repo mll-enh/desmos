@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SarvinIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				60,
+				-45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SarvinLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-77
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SarvinDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				40
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SarvinUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SarvinRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sarvin_demon",
+	"position": [
+		-150,
+		-400
+	],
+	"healthicon": "sarvin-demon",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		20,
+		149
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

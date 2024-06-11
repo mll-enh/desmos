@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="1sarvente.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SarvIntroAnim0000" x="0" y="0" width="455" height="767"/>
+	<SubTexture name="SarvIntroAnim0001" x="455" y="0" width="455" height="767"/>
+	<SubTexture name="SarvIntroAnim0002" x="910" y="0" width="455" height="767"/>
+	<SubTexture name="SarvIntroAnim0003" x="1365" y="0" width="455" height="767"/>
+	<SubTexture name="SarvIntroAnim0004" x="0" y="767" width="455" height="767"/>
+	<SubTexture name="SarvIntroAnim0005" x="455" y="767" width="455" height="767"/>
+	<SubTexture name="SarvIntroAnim0006" x="910" y="767" width="455" height="767"/>
+	<SubTexture name="SarvIntroAnim0007" x="1365" y="767" width="455" height="767"/>
+	<SubTexture name="SarvIntroAnim0008" x="0" y="1534" width="455" height="767"/>
+	<SubTexture name="SarvIntroAnim0009" x="455" y="1534" width="455" height="767"/>
+	<SubTexture name="SarvIntroAnim0010" x="910" y="1534" width="455" height="767"/>
+	<SubTexture name="SarvIntroAnim0011" x="1365" y="1534" width="455" height="767"/>
+	<SubTexture name="SarvIntroAnim0012" x="1365" y="1534" width="455" height="767"/>
+	<SubTexture name="SarvIntroAnim0013" x="1365" y="1534" width="455" height="767"/>
+	<SubTexture name="SarvIntroAnim0014" x="1365" y="1534" width="455" height="767"/>
+	<SubTexture name="SarvIntroAnim0015" x="1365" y="1534" width="455" height="767"/>
+	<SubTexture name="SarvIntroAnim0016" x="1365" y="1534" width="455" height="767"/>
+	<SubTexture name="SarvIntroAnim0017" x="1365" y="1534" width="455" height="767"/>
+</TextureAtlas>

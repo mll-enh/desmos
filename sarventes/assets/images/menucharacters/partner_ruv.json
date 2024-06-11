@@ -1,0 +1,10 @@
+{
+	"idle_anim": "RuvIdle",
+	"confirm_anim": " RuvIdle",
+	"position": [
+		690,
+		250
+	],
+	"scale": 0.5,
+	"image": "Menu_Ruv"
+}

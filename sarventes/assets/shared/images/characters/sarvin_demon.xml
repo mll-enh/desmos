@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sarvin.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+
+	<SubTexture name="SarvinIdle0000" x="0" y="0" width="460" height="820"/>
+	<SubTexture name="SarvinIdle0001" x="0" y="0" width="460" height="820"/>
+	<SubTexture name="SarvinIdle0002" x="0" y="0" width="460" height="820"/>
+	<SubTexture name="SarvinIdle0003" x="0" y="0" width="460" height="820"/>
+	<SubTexture name="SarvinIdle0004" x="0" y="0" width="460" height="820"/>
+	<SubTexture name="SarvinIdle0005" x="0" y="0" width="460" height="820"/>
+	<SubTexture name="SarvinIdle0006" x="460" y="0" width="460" height="820"/>
+	<SubTexture name="SarvinIdle0007" x="460" y="0" width="460" height="820"/>
+	<SubTexture name="SarvinIdle0008" x="920" y="0" width="460" height="820"/>
+	<SubTexture name="SarvinIdle0009" x="920" y="0" width="460" height="820"/>
+	<SubTexture name="SarvinIdle0010" x="1380" y="0" width="460" height="820"/>
+	<SubTexture name="SarvinIdle0011" x="1380" y="0" width="460" height="820"/>
+	<SubTexture name="SarvinIdle0012" x="1840" y="0" width="460" height="820"/>
+	<SubTexture name="SarvinIdle0013" x="1840" y="0" width="460" height="820"/>
+	<SubTexture name="SarvinIdle0014" x="2300" y="0" width="460" height="820"/>
+	<SubTexture name="SarvinIdle0015" x="2300" y="0" width="460" height="820"/>
+
+	<SubTexture name="SarvinLeft0000" x="0" y="820" width="600" height="740"/>
+	<SubTexture name="SarvinLeft0001" x="0" y="820" width="600" height="740"/>
+	<SubTexture name="SarvinLeft0002" x="600" y="820" width="600" height="740"/>
+	<SubTexture name="SarvinLeft0003" x="600" y="820" width="600" height="740"/>
+	<SubTexture name="SarvinLeft0004" x="1200" y="820" width="600" height="740"/>
+	<SubTexture name="SarvinLeft0005" x="1200" y="820" width="600" height="740"/>
+	<SubTexture name="SarvinLeft0006" x="1200" y="820" width="600" height="740"/>
+	<SubTexture name="SarvinLeft0007" x="1200" y="820" width="600" height="740"/>
+	<SubTexture name="SarvinLeft0008" x="1200" y="820" width="600" height="740"/>
+	<SubTexture name="SarvinLeft0009" x="1200" y="820" width="600" height="740"/>
+	<SubTexture name="SarvinLeft0010" x="1200" y="820" width="600" height="740"/>
+	<SubTexture name="SarvinLeft0011" x="1200" y="820" width="600" height="740"/>
+	<SubTexture name="SarvinLeft0012" x="1200" y="820" width="600" height="740"/>
+	<SubTexture name="SarvinLeft0013" x="1200" y="820" width="600" height="740"/>
+	<SubTexture name="SarvinLeft0014" x="1200" y="820" width="600" height="740"/>
+	<SubTexture name="SarvinLeft0015" x="1200" y="820" width="600" height="740"/>
+	<SubTexture name="SarvinLeft0016" x="1200" y="820" width="600" height="740"/>
+	<SubTexture name="SarvinLeft0017" x="1200" y="820" width="600" height="740"/>
+	<SubTexture name="SarvinLeft0018" x="1200" y="820" width="600" height="740"/>
+	<SubTexture name="SarvinLeft0019" x="1200" y="820" width="600" height="740"/>
+	<SubTexture name="SarvinLeft0020" x="1200" y="820" width="600" height="740"/>
+	<SubTexture name="SarvinLeft0021" x="1200" y="820" width="600" height="740"/>
+	<SubTexture name="SarvinLeft0022" x="1200" y="820" width="600" height="740"/>
+	<SubTexture name="SarvinLeft0023" x="1200" y="820" width="600" height="740"/>
+
+	<SubTexture name="SarvinDown0000" x="1800" y="850" width="600" height="710"/>
+	<SubTexture name="SarvinDown0001" x="1800" y="850" width="600" height="710"/>
+	<SubTexture name="SarvinDown0002" x="2400" y="850" width="600" height="710"/>
+	<SubTexture name="SarvinDown0003" x="2400" y="850" width="600" height="710"/>
+	<SubTexture name="SarvinDown0004" x="2400" y="850" width="600" height="710"/>
+	<SubTexture name="SarvinDown0005" x="2400" y="850" width="600" height="710"/>
+	<SubTexture name="SarvinDown0006" x="2400" y="850" width="600" height="710"/>
+	<SubTexture name="SarvinDown0007" x="2400" y="850" width="600" height="710"/>
+	<SubTexture name="SarvinDown0008" x="2400" y="850" width="600" height="710"/>
+	<SubTexture name="SarvinDown0009" x="2400" y="850" width="600" height="710"/>
+	<SubTexture name="SarvinDown0010" x="2400" y="850" width="600" height="710"/>
+	<SubTexture name="SarvinDown0011" x="2400" y="850" width="600" height="710"/>
+	<SubTexture name="SarvinDown0012" x="2400" y="850" width="600" height="710"/>
+	<SubTexture name="SarvinDown0013" x="2400" y="850" width="600" height="710"/>
+	<SubTexture name="SarvinDown0014" x="2400" y="850" width="600" height="710"/>
+	<SubTexture name="SarvinDown0015" x="2400" y="850" width="600" height="710"/>
+	<SubTexture name="SarvinDown0016" x="2400" y="850" width="600" height="710"/>
+	<SubTexture name="SarvinDown0017" x="2400" y="850" width="600" height="710"/>
+	<SubTexture name="SarvinDown0018" x="2400" y="850" width="600" height="710"/>
+	<SubTexture name="SarvinDown0019" x="2400" y="850" width="600" height="710"/>
+	<SubTexture name="SarvinDown0020" x="2400" y="850" width="600" height="710"/>
+	<SubTexture name="SarvinDown0021" x="2400" y="850" width="600" height="710"/>
+	<SubTexture name="SarvinDown0022" x="2400" y="850" width="600" height="710"/>
+	<SubTexture name="SarvinDown0023" x="2400" y="850" width="600" height="710"/>
+
+	<SubTexture name="SarvinUp0000" x="0" y="1560" width="480" height="820"/>
+	<SubTexture name="SarvinUp0001" x="0" y="1560" width="480" height="820"/>
+	<SubTexture name="SarvinUp0002" x="480" y="1560" width="480" height="820"/>
+	<SubTexture name="SarvinUp0003" x="480" y="1560" width="480" height="820"/>
+	<SubTexture name="SarvinUp0004" x="960" y="1560" width="480" height="820"/>
+	<SubTexture name="SarvinUp0004" x="960" y="1560" width="480" height="820"/>
+	<SubTexture name="SarvinUp0004" x="960" y="1560" width="480" height="820"/>
+	<SubTexture name="SarvinUp0004" x="960" y="1560" width="480" height="820"/>
+	<SubTexture name="SarvinUp0004" x="960" y="1560" width="480" height="820"/>
+	<SubTexture name="SarvinUp0004" x="960" y="1560" width="480" height="820"/>
+	<SubTexture name="SarvinUp0004" x="960" y="1560" width="480" height="820"/>
+	<SubTexture name="SarvinUp0004" x="960" y="1560" width="480" height="820"/>
+	<SubTexture name="SarvinUp0004" x="960" y="1560" width="480" height="820"/>
+	<SubTexture name="SarvinUp0004" x="960" y="1560" width="480" height="820"/>
+	<SubTexture name="SarvinUp0004" x="960" y="1560" width="480" height="820"/>
+	<SubTexture name="SarvinUp0004" x="960" y="1560" width="480" height="820"/>
+	<SubTexture name="SarvinUp0004" x="960" y="1560" width="480" height="820"/>
+	<SubTexture name="SarvinUp0004" x="960" y="1560" width="480" height="820"/>
+	<SubTexture name="SarvinUp0004" x="960" y="1560" width="480" height="820"/>
+	<SubTexture name="SarvinUp0004" x="960" y="1560" width="480" height="820"/>
+	<SubTexture name="SarvinUp0004" x="960" y="1560" width="480" height="820"/>
+	<SubTexture name="SarvinUp0004" x="960" y="1560" width="480" height="820"/>
+	<SubTexture name="SarvinUp0004" x="960" y="1560" width="480" height="820"/>
+	<SubTexture name="SarvinUp0004" x="960" y="1560" width="480" height="820"/>
+
+	<SubTexture name="SarvinRight0000" x="1440" y="1640" width="530" height="740"/>
+	<SubTexture name="SarvinRight0001" x="1440" y="1640" width="530" height="740"/>
+
+	<SubTexture name="SarvinRight0002" x="1970" y="1640" width="530" height="740"/>
+	<SubTexture name="SarvinRight0003" x="1970" y="1640" width="530" height="740"/>
+
+	<SubTexture name="SarvinRight0004" x="2500" y="1640" width="530" height="740"/>
+	<SubTexture name="SarvinRight0005" x="2500" y="1640" width="530" height="740"/>
+	<SubTexture name="SarvinRight0006" x="2500" y="1640" width="530" height="740"/>
+	<SubTexture name="SarvinRight0007" x="2500" y="1640" width="530" height="740"/>
+	<SubTexture name="SarvinRight0008" x="2500" y="1640" width="530" height="740"/>
+	<SubTexture name="SarvinRight0009" x="2500" y="1640" width="530" height="740"/>
+	<SubTexture name="SarvinRight0010" x="2500" y="1640" width="530" height="740"/>
+	<SubTexture name="SarvinRight0011" x="2500" y="1640" width="530" height="740"/>
+	<SubTexture name="SarvinRight0012" x="2500" y="1640" width="530" height="740"/>
+	<SubTexture name="SarvinRight0013" x="2500" y="1640" width="530" height="740"/>
+	<SubTexture name="SarvinRight0014" x="2500" y="1640" width="530" height="740"/>
+	<SubTexture name="SarvinRight0015" x="2500" y="1640" width="530" height="740"/>
+	<SubTexture name="SarvinRight0016" x="2500" y="1640" width="530" height="740"/>
+	<SubTexture name="SarvinRight0017" x="2500" y="1640" width="530" height="740"/>
+	<SubTexture name="SarvinRight0018" x="2500" y="1640" width="530" height="740"/>
+	<SubTexture name="SarvinRight0019" x="2500" y="1640" width="530" height="740"/>
+	<SubTexture name="SarvinRight0020" x="2500" y="1640" width="530" height="740"/>
+	<SubTexture name="SarvinRight0021" x="2500" y="1640" width="530" height="740"/>
+	<SubTexture name="SarvinRight0022" x="2500" y="1640" width="530" height="740"/>
+	<SubTexture name="SarvinRight0023" x="2500" y="1640" width="530" height="740"/>
+</TextureAtlas>

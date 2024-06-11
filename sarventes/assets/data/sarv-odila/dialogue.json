@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"expression": "devil",
+			"text": "Hehe.. you do know how to get me all riled up~",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "sad",
+			"text": "U-Ummmm hnngh...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruvP1"
+		},
+		{
+			"expression": "stare",
+			"text": "Sarv this doesn't seem like the right place for unholy activities...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kapi"
+		},
+		{
+			"expression": "devil",
+			"text": "Hehe, Sorry Kapi... lemme go put my clothes back on!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "smile",
+			"text": "Better?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "sad",
+			"text": "B-Better...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruvP1"
+		},
+		{
+			"expression": "talk",
+			"text": "Ruv! I do actually have a final song to sing for you!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "normal",
+			"text": "Oh you do?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruvP1"
+		},
+		{
+			"expression": "smile",
+			"text": "Yes! I wrote it just for you!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "talk",
+			"text": "Heh sick... hit the music cat boy!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruvP1"
+		},
+		{
+			"expression": "smile",
+			"text": "You got it!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kapi"
+		}
+	]
+}

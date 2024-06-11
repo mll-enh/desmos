@@ -1,0 +1,326 @@
+{
+	"dialogue": [
+		{
+			"expression": "normal",
+			"text": "beep boop pa!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Oh hello again!",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "smile",
+			"text": "You're becoming one of our regulars!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "normal",
+			"text": "Umm... h-hi!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Oh my goodness! You can speak English too!",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "normal",
+			"text": "Yeah aha... sorry I speak in beeps when I'm anxious...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "smile",
+			"text": "Aww! Well I'm delighted you feel comfortable around us! You're always welcome here!",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Isn't that right Ruv?",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "normal",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "ruv",
+			"speed": 0.05
+		},
+		{
+			"expression": "sad",
+			"text": "Ruv... come on... say something nice...",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Something nice",
+			"boxState": "normal",
+			"portrait": "ruv",
+			"speed": 0.05
+		},
+		{
+			"expression": "sad",
+			"text": "No not like that...",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "sad",
+			"text": "*sigh*",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "normal",
+			"text": "Heh, don't worry about it, I appreciate it... I really do...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "I just realised! I never introduced myself... I'm Boyfriend!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "Oh yes! Selever told me!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He's rather fond of you!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "Does little drawings of you two together in his sketchbook-"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "sel",
+			"boxState": "angry",
+			"expression": "DX",
+			"text": "MOM I SAID CAN YOU PLEASE STOP\\nOUTING ME LIKE THIS!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "Oh hush silly! Boyfriend doesn't mind!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Course not Sel... I think you're cool!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sel",
+			"boxState": "normal",
+			"expression": "DX",
+			"text": "Y-You do?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sel",
+			"boxState": "normal",
+			"expression": "DX",
+			"text": "Oh... Oh my..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*He passes out*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "bep-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Oh my goodness!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "RASAZY!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rasazy",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Father?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Go make your brother a sandwich or\\nsomething"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Make sure you cut the crusts off..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rasazy",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Yes dad"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh and go get your father his medicine... The one in the Smirnoff bottle..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rasazy",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Gotcha"
+		},
+		{
+			"expression": "normal",
+			"text": "Anyway uhh... I came here for some more singing practice... If that's ok?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happy",
+			"text": "I got a lot going on over the course of the next month...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "Soldiers... Sentient Computers...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "sad",
+			"text": "Giant demonic clowns...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "smile",
+			"text": "Of course you're welcome to practice here!",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Oh I know! Since Ruv is here... How about Ruv and I sing together with you?",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "smile",
+			"text": "I bet that'll be a fun challenge!",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "Sounds great!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "smile",
+			"text": "What do you say Ruv?",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "normal",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "ruv",
+			"speed": 0.05
+		},
+		{
+			"expression": "concerned",
+			"text": "...Something nice?",
+			"boxState": "normal",
+			"portrait": "ruv",
+			"speed": 0.05
+		},
+		{
+			"expression": "sad",
+			"text": "N-No... *sigh* let's just start the music...",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "ba doop!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		}
+	]
+}

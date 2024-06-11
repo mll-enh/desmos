@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Wocky", "dad", [115, 233, 253]],
+		["Beathoven", "dad", [255, 113, 253]],
+		["Hairball", "mom", [255, 113, 253]],
+		["Nyaw", "dad", [115, 233, 253]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Arcade Showdown",
+	"weekBefore": "tutorial",
+	"weekName": "Week K",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

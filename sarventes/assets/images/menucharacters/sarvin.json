@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "SarvinIdle",
+	"position": [
+		100,
+		210
+	],
+	"scale": 0.45,
+	"image": "Menu_Sarvin"
+}

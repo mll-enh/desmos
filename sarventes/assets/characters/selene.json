@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SeleneIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SeleneLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				-40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SeleneDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				118,
+				60
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SeleneUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				21
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SeleneRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-12
+			],
+			"anim": "hey",
+			"fps": 12,
+			"name": "SeleneHey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/selene",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "selene",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		56,
+		89
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

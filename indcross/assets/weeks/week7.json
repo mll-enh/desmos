@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Bopeebo", "bf-old", [255, 255, 255]],
+		["Fresh", "bf-old", [255, 255, 255]],
+		["Dad Battle", "gf", [255, 255, 255]]
+	],
+
+	"weekCharacters": [
+		"bg",
+		"fun3",
+		"cup"
+	],
+	"weekBackground": "snake",
+
+	"storyName": "That one cup guy",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+        "difficulties": "undefined, normal",
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

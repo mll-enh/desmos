@@ -1,0 +1,214 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Ah!... That was... wonderful!...",
+			"boxState": "normal",
+			"speed": 0.08,
+			"portrait": "sarv_tired"
+		},
+		{
+			"speed": 0.08,
+			"portrait": "sarv_tired",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You have... such a lovely voice..."
+		},
+		{
+			"speed": 0.08,
+			"portrait": "sarv_tired",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You've really... worn me out..."
+		},
+		{
+			"speed": 0.08,
+			"portrait": "sarv_tired",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But I can't stop now!... You need to\\npractice!..."
+		},
+		{
+			"expression": "talk",
+			"text": "Must... keep... singing...",
+			"boxState": "normal",
+			"portrait": "sarv_tired",
+			"speed": 0.1
+		},
+		{
+			"expression": "talk",
+			"text": "Hnnnggghhh...",
+			"boxState": "normal",
+			"speed": 0.1,
+			"portrait": "sarv_tired"
+		},
+		{
+			"expression": "talk",
+			"text": "*she passes out*",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "narrator"
+		},
+		{
+			"expression": "sad",
+			"text": "bap boop ba??!!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "concerned",
+			"text": "Huh?? What the hell happened here??",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "sad",
+			"text": "beep boop bap pa!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "Huh... she must have burnt herself out again...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "RASAZY!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rasazy",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Uh huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Can you go help your mum with something?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rasazy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Can't Sel do it?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Has he woken up yet?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rasazy",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "yup"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Aight Bet"
+		},
+		{
+			"expression": "talk",
+			"text": "SELEVER!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "DX",
+			"text": "YES DAD?",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "sel"
+		},
+		{
+			"expression": "talk",
+			"text": "Go get your mother something to drink...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "talk",
+			"text": "Alright Ok!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sel"
+		},
+		{
+			"expression": "talk",
+			"text": "She'll be fine, she does this all the time...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "normal",
+			"text": "Anyway I suppose it's only fair that I sing now isn't it?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "normal",
+			"text": "If you want to I'm down!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "Hmm... can't think of any songs right now...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "concerned",
+			"text": "What's on this shelf... a book of Gospel?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "talk",
+			"text": "Heh... maybe I can work with this",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "normal",
+			"text": "Alright blue boy, you're going down!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "happy",
+			"text": "bee bop!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

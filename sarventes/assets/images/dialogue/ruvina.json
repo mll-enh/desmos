@@ -1,0 +1,37 @@
+{
+	"position": [
+		120,
+		20
+	],
+	"dialogue_pos": "left",
+	"scale": 1.5,
+	"image": "portraits",
+	"animations": [
+		{
+			"loop_name": "RuvinaTalk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "RuvinaTalk",
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "RuvinaNormal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "RuvinaNormal",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

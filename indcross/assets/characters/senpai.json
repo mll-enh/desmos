@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Cuphead_standing instance"
+		},
+		{
+			"offsets": [
+				70,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left instance"
+		},
+		{
+			"offsets": [
+				-30,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down instance"
+		},
+		{
+			"offsets": [
+				0,
+				70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up instance"
+		},
+		{
+			"offsets": [
+				-30,
+				-17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/senpai",
+	"position": [
+		50,
+		410
+	],
+	"healthicon": "bf-old",
+	"flip_x": false,
+	"healthbar_colors": [
+		171,
+		22,
+		74
+	],
+	"camera_position": [
+		-230,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

@@ -1,0 +1,115 @@
+{
+	"position": [
+		120,
+		0
+	],
+	"dialogue_pos": "left",
+	"scale": 1.5,
+	"image": "portraits_2",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "smile",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "SelSmile",
+			"idle_name": "SelSmile"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "smirk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "SelSmirk",
+			"idle_name": "SelSmirk"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "mad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "SelMad",
+			"idle_name": "SelMad"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "XD",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "SelXD",
+			"loop_name": "SelXD"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				0
+			],
+			"anim": "DX",
+			"loop_offsets": [
+				-1,
+				0
+			],
+			"idle_name": "SelDX",
+			"loop_name": "SelDX"
+		},
+		{
+			"idle_offsets": [
+				-1,
+				0
+			],
+			"anim": "grumpy",
+			"loop_offsets": [
+				-1,
+				0
+			],
+			"idle_name": "SelGrumpy",
+			"loop_name": "SelGrumpy"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "SelAngry",
+			"loop_name": "SelAngry"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "SelHappy",
+			"idle_name": "SelHappy"
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+  "songs": [
+    [
+      "Philly Nice",
+      "pico",
+      [
+        148,
+        22,
+        83
+      ]
+    ],
+    [
+      "Blammed",
+      "parents",
+      [
+        148,
+        22,
+        83
+      ]
+    ],
+    [
+      "Satin Panties",
+      "parents",
+      [
+        148,
+        22,
+        83
+      ]
+    ],
+    [
+      "High",
+      "parents",
+      [
+        148,
+        22,
+        83
+      ]
+    ]
+  ],
+  "weekCharacters": [
+    "gaming",
+    "fun2",
+    ""
+  ],
+  "weekBackground": "stage",
+  "storyName": "Bendy",
+  "weekBefore": "week2",
+  "weekName": "Week 3",
+  "startUnlocked": true,
+  "hideStoryMode": false,
+  "hideFreeplay": false
+}

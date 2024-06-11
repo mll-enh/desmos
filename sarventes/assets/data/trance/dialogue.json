@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Well... It was really nice seeing you... but I should really get going now...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruvP1"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Aww... Do you have to leave now?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ruvP1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah... Sorry..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "Well... I suppose I can't change your mind right?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ruvP1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "W-What are you trying to say?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "smirk",
+			"text": "Why don't I go... slip into something more comfortable~"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapi",
+			"boxState": "normal",
+			"expression": "stare",
+			"text": "Hoooooo boy..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ruvP1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "U-Umm no you're fine!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "smirk",
+			"text": "My darling Ruv..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "devil",
+			"text": "Let us be together... eternally~"
+		}
+	]
+}

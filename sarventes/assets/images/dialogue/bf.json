@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-30,
+		10
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BFHappy",
+			"loop_name": "BFHappy"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BFSad",
+			"loop_name": "BFSad"
+		},
+		{
+			"loop_name": "BFNormal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BFNormal",
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "portraits"
+}

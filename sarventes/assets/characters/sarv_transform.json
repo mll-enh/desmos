@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SarvDarkIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				100,
+				400
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "transform",
+			"indices": [],
+			"name": "LuciferSarvRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sarv_transform",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sarvente-lucifer",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		20,
+		135
+	],
+	"camera_position": [
+		0,
+		-140
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

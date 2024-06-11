@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="Cuphead Pissed.png" width="3744" height="3337">
+  <SubTexture name="Down instance 100" x="0" y="0"  width="296" height="213" frameX="-277" frameY="-314" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="pewdown instance 10" x="296" y="0"  width="340" height="213" frameX="-261" frameY="-315" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Down instance 101" x="636" y="0"  width="300" height="234" frameX="-282" frameY="-294" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Pewleft instance 10" x="936" y="0"  width="347" height="237" frameX="-186" frameY="-296" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Down instance 103" x="1283" y="0"  width="302" height="238" frameX="-282" frameY="-290" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Ouch instance 100" x="1585" y="0"  width="265" height="239" frameX="-202" frameY="-293" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Down instance 105" x="1850" y="0"  width="304" height="241" frameX="-281" frameY="-287" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Phase 2 starts instance 12" x="2154" y="0"  width="309" height="241" frameX="-279" frameY="-287" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Down instance 107" x="2463" y="0"  width="304" height="242" frameX="-281" frameY="-286" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Down instance 109" x="2767" y="0"  width="304" height="243" frameX="-281" frameY="-285" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Roundattack instance 11" x="3071" y="0"  width="369" height="243" frameX="-256" frameY="-284" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Phase 2 instance 10" x="3440" y="0"  width="304" height="244" frameX="-281" frameY="-285" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Roundattack instance 15" x="0" y="213"  width="277" height="244" frameX="-271" frameY="-283" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="pewdown instance 11" x="277" y="213"  width="324" height="244" frameX="-281" frameY="-285" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="pewdown instance 12" x="601" y="234"  width="334" height="244" frameX="-281" frameY="-285" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Phase 2 starts instance 11" x="935" y="237"  width="306" height="246" frameX="-280" frameY="-283" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Roundattack instance 10" x="1241" y="239"  width="354" height="245" frameX="-266" frameY="-282" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Ouch instance 103" x="1595" y="239"  width="233" height="247" frameX="-232" frameY="-285" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Ouch instance 104" x="1828" y="241"  width="235" height="247" frameX="-232" frameY="-285" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Ouch instance 105" x="2063" y="241"  width="232" height="247" frameX="-236" frameY="-285" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Ouch instance 106" x="2295" y="242"  width="229" height="247" frameX="-236" frameY="-285" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Ouch instance 107" x="2524" y="242"  width="226" height="247" frameX="-240" frameY="-285" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Ouch instance 108" x="2750" y="243"  width="226" height="247" frameX="-240" frameY="-285" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Ouch instance 109" x="2976" y="243"  width="224" height="247" frameX="-242" frameY="-285" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Ouch instance 111" x="3200" y="243"  width="224" height="247" frameX="-243" frameY="-285" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Pewleft instance 14" x="3424" y="244"  width="278" height="247" frameX="-231" frameY="-286" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Pewleft instance 13" x="0" y="457"  width="328" height="247" frameX="-231" frameY="-286" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Hadoken!! instance 103" x="328" y="457"  width="234" height="248" frameX="-230" frameY="-281" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Left instance 105" x="562" y="478"  width="278" height="248" frameX="-227" frameY="-285" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="pewdown instance 13" x="840" y="483"  width="345" height="248" frameX="-283" frameY="-281" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="pewdown instance 14" x="1185" y="484"  width="299" height="248" frameX="-283" frameY="-281" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Left instance 107" x="1484" y="486"  width="277" height="249" frameX="-230" frameY="-284" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Left instance 109" x="1761" y="488"  width="277" height="249" frameX="-231" frameY="-284" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Pewleft instance 11" x="2038" y="489"  width="307" height="249" frameX="-230" frameY="-284" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Pewleft instance 12" x="2345" y="489"  width="316" height="249" frameX="-230" frameY="-284" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="DIE BITCH instance 100" x="2661" y="490"  width="316" height="250" frameX="-268" frameY="-277" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="DIE BITCH instance 101" x="2977" y="490"  width="289" height="250" frameX="-271" frameY="-277" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="DIE BITCH instance 103" x="3266" y="491"  width="312" height="250" frameX="-272" frameY="-277" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="DIE BITCH instance 106" x="0" y="704"  width="313" height="250" frameX="-271" frameY="-277" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Hadoken!! instance 104" x="313" y="705"  width="235" height="252" frameX="-228" frameY="-277" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="DIE BITCH instance 107" x="548" y="726"  width="291" height="250" frameX="-269" frameY="-277" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="DIE BITCH instance 109" x="839" y="731"  width="313" height="250" frameX="-271" frameY="-277" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="DIE BITCH instance 112" x="1152" y="732"  width="313" height="250" frameX="-271" frameY="-277" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="DIE BITCH instance 113" x="1465" y="735"  width="291" height="250" frameX="-269" frameY="-277" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="DIE BITCH instance 115" x="1756" y="738"  width="315" height="250" frameX="-269" frameY="-277" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Hadoken!! instance 102" x="2071" y="738"  width="286" height="250" frameX="-233" frameY="-279" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="DIE BITCH instance 102" x="2357" y="738"  width="302" height="251" frameX="-271" frameY="-276" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="DIE BITCH instance 104" x="2659" y="740"  width="289" height="251" frameX="-271" frameY="-276" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="DIE BITCH instance 108" x="2948" y="740"  width="305" height="251" frameX="-268" frameY="-276" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="DIE BITCH instance 110" x="3253" y="741"  width="289" height="251" frameX="-271" frameY="-276" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="DIE BITCH instance 114" x="0" y="954"  width="302" height="251" frameX="-271" frameY="-276" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Hadoken!! instance 105" x="302" y="957"  width="236" height="255" frameX="-227" frameY="-274" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="PewUp instance 15" x="538" y="976"  width="295" height="251" frameX="-242" frameY="-273" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="DIE BITCH instance 105" x="833" y="981"  width="304" height="252" frameX="-269" frameY="-275" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Roundattack instance 12" x="1137" y="985"  width="368" height="251" frameX="-265" frameY="-276" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Hadoken!! instance 121" x="1505" y="985"  width="221" height="255" frameX="-286" frameY="-269" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Left instance 100" x="1726" y="988"  width="359" height="254" frameX="-193" frameY="-278" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Ouch instance 101" x="2085" y="988"  width="238" height="255" frameX="-226" frameY="-277" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Ouch instance 102" x="2323" y="989"  width="238" height="255" frameX="-226" frameY="-277" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Hadoken!! instance 106" x="2561" y="991"  width="236" height="256" frameX="-227" frameY="-273" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Left instance 103" x="2797" y="991"  width="279" height="257" frameX="-223" frameY="-276" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="1 instance 10" x="3076" y="992"  width="235" height="259" frameX="-271" frameY="-269" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="1 instance 11" x="3311" y="992"  width="236" height="259" frameX="-271" frameY="-269" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="1 instance 14" x="0" y="1205"  width="239" height="259" frameX="-271" frameY="-269" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="1 instance 16" x="239" y="1212"  width="232" height="259" frameX="-271" frameY="-269" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="1 instance 19" x="471" y="1227"  width="235" height="259" frameX="-271" frameY="-269" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Roundattack instance 13" x="706" y="1233"  width="372" height="259" frameX="-266" frameY="-268" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="1 instance 12" x="1078" y="1236"  width="235" height="260" frameX="-271" frameY="-268" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="1 instance 13" x="1313" y="1240"  width="231" height="260" frameX="-272" frameY="-268" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="1 instance 17" x="1544" y="1242"  width="234" height="260" frameX="-272" frameY="-268" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="1 instance 18" x="1778" y="1242"  width="236" height="260" frameX="-271" frameY="-268" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="1 instance 15" x="2014" y="1243"  width="234" height="261" frameX="-271" frameY="-267" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="PewUp instance 14" x="2248" y="1244"  width="275" height="264" frameX="-253" frameY="-260" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Roundattack instance 14" x="2523" y="1248"  width="379" height="261" frameX="-266" frameY="-266" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="PewRight instance 10" x="2902" y="1251"  width="333" height="262" frameX="-278" frameY="-265" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="PewUp instance 13" x="3235" y="1251"  width="331" height="264" frameX="-253" frameY="-260" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Right instance 100" x="0" y="1471"  width="345" height="265" frameX="-282" frameY="-262" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Left instance 101" x="345" y="1486"  width="280" height="266" frameX="-217" frameY="-267" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="DIE BITCH instance 111" x="625" y="1492"  width="301" height="269" frameX="-272" frameY="-275" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="PewUp instance 11" x="926" y="1496"  width="311" height="273" frameX="-250" frameY="-252" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Up instance 109" x="1237" y="1500"  width="283" height="273" frameX="-244" frameY="-252" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="PewUp instance 12" x="1520" y="1502"  width="321" height="273" frameX="-250" frameY="-252" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Up instance 107" x="1841" y="1504"  width="269" height="275" frameX="-256" frameY="-250" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Hadoken!! instance 107" x="2110" y="1509"  width="464" height="276" frameX="-225" frameY="-253" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="PewRight instance 14" x="2574" y="1509"  width="294" height="278" frameX="-279" frameY="-249" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="PewRight instance 11" x="2868" y="1513"  width="336" height="278" frameX="-280" frameY="-249" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="PewRight instance 12" x="3204" y="1515"  width="358" height="278" frameX="-268" frameY="-249" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Right instance 103" x="0" y="1736"  width="291" height="278" frameX="-284" frameY="-250" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Right instance 105" x="291" y="1752"  width="293" height="278" frameX="-281" frameY="-250" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Right instance 107" x="584" y="1761"  width="293" height="278" frameX="-280" frameY="-250" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="PewRight instance 13" x="877" y="1769"  width="360" height="278" frameX="-279" frameY="-249" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Right instance 109" x="1237" y="1775"  width="294" height="278" frameX="-279" frameY="-250" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Right instance 101" x="1531" y="1775"  width="290" height="279" frameX="-286" frameY="-249" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Up instance 105" x="1821" y="1779"  width="261" height="281" frameX="-255" frameY="-244" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Up instance 103" x="2082" y="1785"  width="247" height="290" frameX="-255" frameY="-235" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Up instance 101" x="2329" y="1785"  width="234" height="305" frameX="-255" frameY="-221" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="PewUp instance 10" x="2563" y="1787"  width="295" height="310" frameX="-266" frameY="-216" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Up instance 100" x="2858" y="1791"  width="211" height="338" frameX="-269" frameY="-189" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Hadoken!! instance 108" x="3069" y="1793"  width="430" height="402" frameX="-173" frameY="-197" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Hadoken!! instance 101" x="0" y="2030"  width="445" height="449" frameX="-149" frameY="-180" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Hadoken!! instance 109" x="445" y="2047"  width="471" height="449" frameX="-131" frameY="-167" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Hadoken!! instance 110" x="916" y="2053"  width="503" height="473" frameX="-114" frameY="-149" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Hadoken!! instance 111" x="1419" y="2060"  width="531" height="531" frameX="-93" frameY="-104" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Hadoken!! instance 113" x="1950" y="2090"  width="558" height="538" frameX="-80" frameY="-117" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Hadoken!! instance 114" x="2508" y="2129"  width="558" height="543" frameX="-76" frameY="-112" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Hadoken!! instance 112" x="3066" y="2195"  width="540" height="545" frameX="-95" frameY="-111" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Hadoken!! instance 120" x="0" y="2496"  width="475" height="549" frameX="-59" frameY="-113" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Hadoken!! instance 119" x="475" y="2526"  width="495" height="551" frameX="-61" frameY="-113" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Hadoken!! instance 118" x="970" y="2591"  width="515" height="555" frameX="-57" frameY="-107" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Hadoken!! instance 115" x="1485" y="2628"  width="520" height="561" frameX="-70" frameY="-106" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Hadoken!! instance 116" x="2005" y="2672"  width="544" height="565" frameX="-39" frameY="-107" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Hadoken!! instance 117" x="2549" y="2740"  width="522" height="566" frameX="-58" frameY="-103" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Hadoken!! instance 100" x="3071" y="2740"  width="619" height="597" frameX="-67" frameY="-103" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Down instance 102" x="636" y="0"  width="300" height="234" frameX="-282" frameY="-294" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Down instance 104" x="1283" y="0"  width="302" height="238" frameX="-282" frameY="-290" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Down instance 106" x="1850" y="0"  width="304" height="241" frameX="-281" frameY="-287" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Down instance 108" x="2463" y="0"  width="304" height="242" frameX="-281" frameY="-286" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Down instance 110" x="2767" y="0"  width="304" height="243" frameX="-281" frameY="-285" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Left instance 102" x="345" y="1486"  width="280" height="266" frameX="-217" frameY="-267" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Left instance 104" x="2797" y="991"  width="279" height="257" frameX="-223" frameY="-276" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Left instance 106" x="562" y="478"  width="278" height="248" frameX="-227" frameY="-285" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Left instance 108" x="1484" y="486"  width="277" height="249" frameX="-230" frameY="-284" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Left instance 110" x="1761" y="488"  width="277" height="249" frameX="-231" frameY="-284" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Ouch instance 110" x="2976" y="243"  width="224" height="247" frameX="-242" frameY="-285" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Ouch instance 112" x="3200" y="243"  width="224" height="247" frameX="-243" frameY="-285" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Phase 2 starts instance 10" x="3440" y="0"  width="304" height="244" frameX="-281" frameY="-285" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Right instance 102" x="1531" y="1775"  width="290" height="279" frameX="-286" frameY="-249" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Right instance 104" x="0" y="1736"  width="291" height="278" frameX="-284" frameY="-250" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Right instance 106" x="291" y="1752"  width="293" height="278" frameX="-281" frameY="-250" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Right instance 108" x="584" y="1761"  width="293" height="278" frameX="-280" frameY="-250" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Right instance 110" x="1237" y="1775"  width="294" height="278" frameX="-279" frameY="-250" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Up instance 102" x="2329" y="1785"  width="234" height="305" frameX="-255" frameY="-221" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Up instance 104" x="2082" y="1785"  width="247" height="290" frameX="-255" frameY="-235" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Up instance 106" x="1821" y="1779"  width="261" height="281" frameX="-255" frameY="-244" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Up instance 108" x="1841" y="1504"  width="269" height="275" frameX="-256" frameY="-250" frameWidth="800" frameHeight="700"/>
+  <SubTexture name="Up instance 110" x="1237" y="1500"  width="283" height="273" frameX="-244" frameY="-252" frameWidth="800" frameHeight="700"/>
+</TextureAtlas>

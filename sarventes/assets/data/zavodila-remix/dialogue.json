@@ -1,0 +1,242 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Ahaha... wow...",
+			"boxState": "normal",
+			"speed": 0.08,
+			"portrait": "sarv_tired"
+		},
+		{
+			"speed": 0.08,
+			"portrait": "sarv_tired",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're so fun to sing with..."
+		},
+		{
+			"expression": "sad",
+			"text": "Nuh Uh! I'm not having you pass out again!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "You go take a pew!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "smirk",
+			"text": "Heheh... alright but this match ain't done yet!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "normal",
+			"text": "Well well well... Look who it is...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "talk",
+			"text": "Short man",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "And cat man"
+		},
+		{
+			"expression": "talk",
+			"text": "Lovely to see you too Ruv!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "You coming over here and routinely tiring out my wife is starting to look a bit suspect...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "sad",
+			"text": "I can assure you it's really not like that sir...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Think about it... do you think I could even... like reach her... If you get me?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Can't you find someone else to tire out?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Like cat man for instance... you buy him a sauce pan and he'll do anything for you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapi",
+			"boxState": "normal",
+			"expression": "bored",
+			"text": "Consider buying a duster while you're at it..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "What do you mean, I used one last night"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapi",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarv",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why you all look at me like that?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Anyway BF if you need to tire someone out you can play with me round the back of the arcade!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "sad",
+			"text": "Umm E-Excuse me!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah they installed a DDR Pad there!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "... Right got it"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kapi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah what did you think I was saying?"
+		},
+		{
+			"expression": "talk",
+			"text": "Well... now that you're here now I believe it is time for me to challenge you",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "normal",
+			"text": "I'm bored and crushing your blueberry muffin looking self will bring me much joy",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "talk",
+			"text": "You haven't changed a bit have you Ruv?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happy",
+			"text": "Come step on me!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "sad",
+			"text": "What?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "sad",
+			"text": "Yeah that didn't come out right...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happy",
+			"text": "Let's just start the music!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Knock yourself out",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "sad",
+			"text": "Before I do",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		}
+	]
+}

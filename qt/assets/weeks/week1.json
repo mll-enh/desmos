@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["carefree", "qt", [255, 165, 182]],
+		["careless", "qt", [255, 165, 182]],
+		["censory-overload", "kb", [255, 0, 0]]
+	],
+
+	"weekCharacters": [
+		"qt",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "alleyway",
+
+	"storyName": "QT IS ON MY PHONE?!?!",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

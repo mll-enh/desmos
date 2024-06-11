@@ -1,0 +1,66 @@
+{
+	"storyName": "Sibling Scuffle",
+	"hideFreeplay": false,
+	"weekBackground": "temple",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"sarvin",
+		"bf",
+		"sarv2"
+	],
+	"songs": [
+		[
+			"Praise",
+			"sarvin",
+			[
+				255,
+				175,
+				215
+			]
+		],
+		[
+			"Devotion",
+			"sarvin-dark",
+			[
+				255,
+				113,
+				193
+			]
+		],
+		[
+			"Koroleva",
+			"ruvina",
+			[
+				186,
+				193,
+				235
+			]
+		],
+		[
+			"Vespers",
+			"sarvin-demon",
+			[
+				235,
+				53,
+				173
+			]
+		],
+		[
+			"Femme-Fatale",
+			"selene",
+			[
+				155,
+				33,
+				73
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weekC"
+}

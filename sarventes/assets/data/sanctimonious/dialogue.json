@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "smirk",
+			"text": "Heh... not bad... not bad at all...",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "sad",
+			"text": "You still sound as beautiful as I first\\nremember...",
+			"boxState": "normal",
+			"portrait": "ruvP1",
+			"speed": 0.05
+		},
+		{
+			"expression": "sad",
+			"text": "Ruv!!!",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "smile",
+			"text": "Heheh you guys are corny!",
+			"boxState": "normal",
+			"portrait": "kapi",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Whatever you say, cat man",
+			"boxState": "normal",
+			"portrait": "ruvP1",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "I'm a little tired but how about another song?",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "normal",
+			"text": "Worn you out already eh?",
+			"boxState": "normal",
+			"portrait": "ruvP1",
+			"speed": 0.05
+		},
+		{
+			"expression": "smirk",
+			"text": "I ain't going down that easy!",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		}
+	]
+}

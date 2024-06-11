@@ -1,0 +1,50 @@
+{
+	"position": [
+		120,
+		20
+	],
+	"dialogue_pos": "left",
+	"scale": 1.5,
+	"image": "portraits",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "sad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "RuvSad",
+			"idle_name": "RuvSad"
+		},
+		{
+			"loop_name": "RuvTalk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "RuvTalk",
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "RuvNormal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "RuvNormal",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

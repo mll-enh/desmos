@@ -1,0 +1,165 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Ugh...",
+			"boxState": "normal",
+			"portrait": "sarv_tired",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "You're something else...",
+			"boxState": "normal",
+			"portrait": "sarv_tired",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "bo beep!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "normal",
+			"text": "Did somebody order pizza?",
+			"boxState": "normal",
+			"portrait": "ruv",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Ruv! It's so nice to see you!",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "sad",
+			"text": "How did you know I ordered pizza?...",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Because you always order pizza when I'm out...",
+			"boxState": "normal",
+			"portrait": "ruv",
+			"speed": 0.05
+		},
+		{
+			"expression": "sad",
+			"text": "THAT IS N O T TRUE!!",
+			"boxState": "angry",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "normal",
+			"text": "It is ok Sarv, you deserve a break... also... who is this little man?",
+			"boxState": "normal",
+			"portrait": "ruv",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "beep boop bop!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "smirk",
+			"text": "This little guy loves singing! So I'm trying to covince him to join the church!",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Sarv... Why do you look all hot and bothered?...",
+			"boxState": "normal",
+			"portrait": "ruv",
+			"speed": 0.05
+		},
+		{
+			"expression": "sad",
+			"text": "Did you have to try... a *different* way to convince him?",
+			"boxState": "normal",
+			"portrait": "ruv",
+			"speed": 0.05
+		},
+		{
+			"expression": "sad",
+			"text": "WHAT!? NO I JUST PUT A LOT OF EFFORT INTO MY SINGING IT'S NOT WHAT IT LOOKS LIKE I PROMISE!!",
+			"boxState": "angry",
+			"portrait": "sarv",
+			"speed": 0.03
+		},
+		{
+			"expression": "normal",
+			"text": "Heh... You're so easy to wind up Sarv...",
+			"boxState": "normal",
+			"portrait": "ruv",
+			"speed": 0.05
+		},
+		{
+			"expression": "sad",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "mad",
+			"text": "That was very unholy of you",
+			"boxState": "normal",
+			"portrait": "sarv",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Pssh alright alright I'm sorry...",
+			"boxState": "normal",
+			"portrait": "ruv",
+			"speed": 0.05
+		},
+		{
+			"expression": "normal",
+			"text": "To make it up to you... I'll put this little man to the test!",
+			"boxState": "normal",
+			"portrait": "ruv",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "ba doop!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "You might be able to cope with Sarv's angelic voice... but can you deal with some Russian Bass little guy?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "happy",
+			"text": "beep boop pop!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

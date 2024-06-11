@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Spookeez", "sans", [34, 51, 68]],
+		["South", "sans", [34, 51, 68]],
+		["Monster", "sans", [34, 51, 68]],
+	        ["Pico", "sans", [34, 51, 68]]
+	],
+
+	"weekCharacters": [
+		"sans",
+		"fun",
+		""
+	],
+	"weekBackground": "stage",
+
+	"storyName": "bad time",
+	"weekBefore": "week1",
+	"weekName": "Week 2",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

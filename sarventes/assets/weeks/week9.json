@@ -1,0 +1,66 @@
+{
+	"storyName": "Duet Week",
+	"hideFreeplay": false,
+	"weekBackground": "church",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"partner_sarv",
+		"bf",
+		"partner_ruv"
+	],
+	"songs": [
+		[
+			"Too Clergy",
+			"sarv-ruv",
+			[
+				235,
+				155,
+				215
+			]
+		],
+		[
+			"Panic-Stricken",
+			"sarv-ruv",
+			[
+				195,
+				95,
+				155
+			]
+		],
+		[
+			"Slaughter",
+			"sarv-smirk",
+			[
+				255,
+				120,
+				195
+			]
+		],
+		[
+			"Ruv-el",
+			"ruv",
+			[
+				215,
+				215,
+				255
+			]
+		],
+		[
+			"Ruvved Up",
+			"sarv-ruv",
+			[
+				175,
+				80,
+				135
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week9"
+}

@@ -1,0 +1,144 @@
+{
+	"dialogue": [
+		{
+			"expression": "mad",
+			"text": "STOP JUST STOP!!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "sarvP1"
+		},
+		{
+			"expression": "sad",
+			"text": "bap boop bep!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "taki"
+		},
+		{
+			"expression": "mad",
+			"text": "We are not here to hurt you/...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarvP1"
+		},
+		{
+			"expression": "smirk",
+			"text": "We are followers of God... Just like you...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarvP1"
+		},
+		{
+			"expression": "sad",
+			"text": "Please... you know the bible wouldn't want you to cause harm or upset others...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarvP1"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "taki"
+		},
+		{
+			"expression": "talk",
+			"text": "I can see you're dressed for church...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarvP1"
+		},
+		{
+			"expression": "smile",
+			"text": "If you want to spread the lord's word... why not join us in our church?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarvP1"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "taki"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "taki"
+		},
+		{
+			"expression": "happi",
+			"text": ":]",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "taki"
+		},
+		{
+			"expression": "talk",
+			"text": "That's more like it!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarvP1"
+		},
+		{
+			"expression": "smile",
+			"text": "I'm going to sing a purifying song to umm... cleanse this space",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarvP1"
+		},
+		{
+			"expression": "talk",
+			"text": "Would you like to watch while me and my little friend sing it?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarvP1"
+		},
+		{
+			"expression": "happi",
+			"text": ":]",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "taki"
+		},
+		{
+			"expression": "smile",
+			"text": "Wonderful!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarvP1"
+		},
+		{
+			"expression": "talk",
+			"text": "Could you... maybe put the chainsaw away to one side?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarvP1"
+		},
+		{
+			"expression": "mad",
+			"text": ">:[",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "taki"
+		},
+		{
+			"expression": "sad",
+			"text": "OK NO PROBLEM I'LL JUST START THE SONG NOW!",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "sarvP1"
+		}
+	]
+}

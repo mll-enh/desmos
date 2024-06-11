@@ -1,0 +1,50 @@
+{
+	"position": [
+		130,
+		-90
+	],
+	"dialogue_pos": "left",
+	"scale": 1.4,
+	"image": "TakiSprites",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "TakiEyesOpen",
+			"loop_name": "TakiEyesOpen"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "mad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "TakiBouttaKillu",
+			"idle_name": "TakiBouttaKillu"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happi",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "TakiSmile",
+			"idle_name": "TakiSmile"
+		}
+	]
+}

@@ -1,0 +1,179 @@
+{
+	"dialogue": [
+		{
+			"expression": "grumpy",
+			"text": "Mom can you please stop embarrassing me in front of the new kid?!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sel"
+		},
+		{
+			"expression": "DX",
+			"text": "(Doesn't help that he's cute...)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sel"
+		},
+		{
+			"expression": "talk",
+			"text": "bap boop!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "I'm not embarrassing! I'm a cool mom!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "smile",
+			"text": "Someone on Facebible said I look like a\\nMILF!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "smile",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "sad",
+			"text": "What does that mean honey?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "DX",
+			"text": "Uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh......",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "sel"
+		},
+		{
+			"expression": "talk",
+			"text": "It means Mother I'd Like to Fu-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "normal",
+			"text": "Dad! can you help me please?",
+			"boxState": "normal",
+			"portrait": "rasazy",
+			"speed": 0.05
+		},
+		{
+			"expression": "sad",
+			"text": "I set the kitchen on fire again...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "rasazy"
+		},
+		{
+			"expression": "sad",
+			"text": "That's the third time this week...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "talk",
+			"text": "How many times has daddy told you not to do science experiments in the house?",
+			"boxState": "normal",
+			"portrait": "ruv",
+			"speed": 0.05
+		},
+		{
+			"expression": "normal",
+			"text": "You said it was fine as long as I didn't tell mom about it...",
+			"boxState": "normal",
+			"portrait": "rasazy",
+			"speed": 0.05
+		},
+		{
+			"expression": "sad",
+			"text": "YOU said W H A T?!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "sad",
+			"text": "That is NOT what I said young lady!",
+			"boxState": "angry",
+			"portrait": "ruv",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Show me where the mess is...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "sad",
+			"text": "I'll go sort it...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "smile",
+			"text": "There's a good male-wife!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sarv"
+		},
+		{
+			"expression": "talk",
+			"text": "ZIP IT!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "ruv"
+		},
+		{
+			"expression": "talk",
+			"text": "beep boop bap pa!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "smirk",
+			"text": "Yup! Welcome to our family!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sel"
+		},
+		{
+			"expression": "talk",
+			"text": "Anyway umm...",
+			"boxState": "normal",
+			"portrait": "sel",
+			"speed": 0.05
+		},
+		{
+			"expression": "smirk",
+			"text": "Obligatory third and final song?",
+			"boxState": "normal",
+			"portrait": "sel",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "bap boop!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		}
+	]
+}
