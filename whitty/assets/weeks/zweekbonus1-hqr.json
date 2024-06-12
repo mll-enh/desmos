@@ -1,0 +1,57 @@
+{
+	"storyName": "Back Alley Blitz (High Quality)",
+	"hideFreeplay": false,
+	"weekBackground": "WhiteSG",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekhungry",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"WhiteOG",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"lo-fight (hq)",
+			"og",
+			[
+				175,
+				20,
+				0
+			]
+		],
+		[
+			"overhead (hq)",
+			"og",
+			[
+				175,
+				20,
+				0
+			]
+		],
+		[
+			"ballistic (hq)",
+			"jacket",
+			[
+				175,
+				20,
+				0
+			]
+		],
+		[
+			"ballistic (beta mix)",
+			"whitslam",
+			[
+				175,
+				20,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "bab-hqr"
+}

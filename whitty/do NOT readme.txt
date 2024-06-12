@@ -15,26 +15,6 @@
 |   |  | (_| (_| \/   | ) | (_) | ) |_   \/ (- (_| | ) 
                  /          _/           /             
 
-
------------------------------------------
-
-
-You've downloaded the Whitty Mod for FNF
-
-Thanks for supporting us, and make sure to
-support the original creators.
-
-Credits:
-Sock.clip - Artist, Animations & Music
-Nate Anim8 - Artist, Animations, Charter & Play Tester
-Kade Dev - Programmer & Charter
-Rozebud - B-Side Development
-CVal - B-Side Development
-
------------------------------------------
-
-
-
 HEY
 Thanks for downloadin Friday Night FUNKIN'
 If you downloaded this from any other place than ninja-muffin24.itch.io/FUNKIN
@@ -94,7 +74,7 @@ Final important thing, this is made with the support and love to and from Newgro
 Go to newgrounds, we love newgrounds. newgrounds good. How many times do I gotta damn say it. Newgrounds newgrounds newgrounds newgrounds
 I love Tom Fulp.
 
-- Cameron ♪(´▽｀)
+- Cameron â™ª(Â´â–½ï½€)
 
 ##################################################################################
                                                                                   

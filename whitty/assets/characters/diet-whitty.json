@@ -1,0 +1,19 @@
+{
+	"animations": [],
+	"no_antialiasing": false,
+	"image": "characters/ovariesgone",
+	"position": [0,0],
+	"healthicon": "og",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		40,
+		60
+	],
+	"camera_position": [
+		-90,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

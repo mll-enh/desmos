@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Talk_Portraits.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="No Talkie Pissed instance 10000" x="0" y="0" width="892" height="725"/>
+	<SubTexture name="No Talkie Pissed instance 10001" x="0" y="0" width="892" height="725"/>
+	<SubTexture name="Talkie Pissed instance 10000" x="896" y="0" width="891" height="729" frameX="-3" frameY="0" frameWidth="894" frameHeight="729"/>
+	<SubTexture name="Talkie Pissed instance 10001" x="896" y="0" width="891" height="729" frameX="-3" frameY="0" frameWidth="894" frameHeight="729"/>
+	<SubTexture name="Talkie Pissed instance 10002" x="0" y="733" width="894" height="727" frameX="0" frameY="-2" frameWidth="894" frameHeight="729"/>
+	<SubTexture name="Talkie Pissed instance 10003" x="0" y="733" width="894" height="727" frameX="0" frameY="-2" frameWidth="894" frameHeight="729"/>
+	<SubTexture name="Talkie Pissed instance 10004" x="898" y="733" width="892" height="725" frameX="-2" frameY="-4" frameWidth="894" frameHeight="729"/>
+	<SubTexture name="Talkie Pissed instance 10005" x="898" y="733" width="892" height="725" frameX="-2" frameY="-4" frameWidth="894" frameHeight="729"/>
+</TextureAtlas>

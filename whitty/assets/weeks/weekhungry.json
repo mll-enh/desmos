@@ -1,0 +1,30 @@
+{
+	"storyName": "Your New Week",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "weekbonus3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Hungry",
+			"white",
+			[
+				26,
+				213,
+				235
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week"
+}

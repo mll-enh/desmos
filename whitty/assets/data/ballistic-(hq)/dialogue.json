@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "ENOUGH.",
+			"boxState": "angry",
+			"speed": 0.02,
+			"portrait": "whitty-miami"
+		},
+		{
+			"expression": "talk",
+			"text": "YOU THINK THIS IS FUCKING FUNNY?\\nPUSHING ME TO MY ABSOLUTE GODDAMN LIMIT?!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "whitty-miami"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep bop. Bidoop ba.",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "bf-miami"
+		},
+		{
+			"expression": "talk",
+			"text": "I see how it is then.",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "whitty-miami"
+		},
+		{
+			"expression": "talk",
+			"text": "You're nothing but a monster. A cold, lifeless shitheel without sympathy or morals.",
+			"boxState": "normal",
+			"speed": 0.075,
+			"portrait": "whitty-miami"
+		},
+		{
+			"expression": "talk",
+			"text": "I'll take you out right where you stand.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "whitty-miami"
+		},
+		{
+			"expression": "talk",
+			"text": "SAY YOUR PRAYERS, ASSHOLE.",
+			"boxState": "angry",
+			"speed": 0.045,
+			"portrait": "whitty-miami"
+		}
+	]
+}

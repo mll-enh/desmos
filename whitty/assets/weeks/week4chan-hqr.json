@@ -1,0 +1,31 @@
+{
+	"storyName": "Your New Week",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "weekhungry",
+	"difficulties": "Normal",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Faucet (hq)",
+			"4fuck",
+			[
+				26,
+				213,
+				235
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week"
+}

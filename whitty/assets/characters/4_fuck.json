@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				181,
+				412
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				216,
+				479
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				237,
+				441
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				149,
+				403
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				309,
+				342
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/thanks_4chan",
+	"position": [
+		150,
+		470
+	],
+	"healthicon": "4fuck",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-90,
+		-430
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

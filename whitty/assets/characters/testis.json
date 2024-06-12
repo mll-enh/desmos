@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				181,
+				412
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "whitty idle"
+		},
+		{
+			"offsets": [
+				237,
+				490
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "whitty up"
+		},
+		{
+			"offsets": [
+				223,
+				368
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "whitty down"
+		},
+		{
+			"offsets": [
+				298,
+				438
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "whitty left"
+		},
+		{
+			"offsets": [
+				162,
+				406
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "whitty right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/testis",
+	"position": [
+		150,
+		420
+	],
+	"healthicon": "white",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		0
+	],
+	"camera_position": [
+		-90,
+		-430
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

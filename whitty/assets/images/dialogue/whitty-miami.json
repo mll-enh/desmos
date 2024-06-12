@@ -1,0 +1,15 @@
+{
+	"dialogue_pos": "right",
+	"position": [150, 200],
+	"scale": 7.5,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [0, 0],
+			"idle_offsets": [0, 0],
+			"loop_name": "",
+			"idle_name": "talk"
+		}
+	],
+	"image": "whittyALL"
+}

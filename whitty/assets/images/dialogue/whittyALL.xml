@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="whittyALL.png">
+	<!-- Created with fucking notepad -->
+	<!-- fuck you!!!! -->
+	<SubTexture name="talk0000" x="0" y="0" width="64" height="64"/>
+	<SubTexture name="talk0001" x="0" y="0" width="64" height="64"/>
+	<SubTexture name="talk0002" x="0" y="64" width="64" height="64"/>
+	<SubTexture name="talk0003" x="0" y="64" width="64" height="64"/>
+	<SubTexture name="talk0004" x="64" y="128" width="64" height="64"/>
+	<SubTexture name="talk0005" x="64" y="128" width="64" height="64"/>
+	<SubTexture name="talk0006" x="64" y="192" width="64" height="64"/>
+	<SubTexture name="talk0007" x="64" y="192" width="64" height="64"/>
+	<SubTexture name="talk0008" x="128" y="0" width="64" height="64"/>
+	<SubTexture name="talk0009" x="128" y="0" width="64" height="64"/>
+	<SubTexture name="talk0010" x="128" y="64" width="64" height="64"/>
+	<SubTexture name="talk0011" x="128" y="64" width="64" height="64"/>
+	<SubTexture name="talk0012" x="64" y="128" width="64" height="64"/>
+	<SubTexture name="talk0013" x="64" y="128" width="64" height="64"/>
+	<SubTexture name="talk0014" x="64" y="192" width="64" height="64"/>
+	<SubTexture name="talk0015" x="64" y="192" width="64" height="64"/>
+</TextureAtlas>

@@ -1,0 +1,48 @@
+{
+	"storyName": "Back Alley Blitz",
+	"hideFreeplay": false,
+	"weekBackground": "WhiteOG",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"WhiteOG",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"lo-fight",
+			"og",
+			[
+				175,
+				20,
+				0
+			]
+		],
+		[
+			"overhead",
+			"og",
+			[
+				175,
+				20,
+				0
+			]
+		],
+		[
+			"ballistic",
+			"og",
+			[
+				175,
+				20,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "bab"
+}

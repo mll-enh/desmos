@@ -1,0 +1,24 @@
+{
+	"position": [
+		-262,
+		-40
+	],
+	"dialogue_pos": "left",
+	"scale": 1.1,
+	"image": "Talk_Portraits",
+	"animations": [
+		{
+			"idle_offsets": [
+				-6,
+				-21
+			],
+			"loop_offsets": [
+				-4,
+				-18
+			],
+			"anim": "talk",
+			"idle_name": "No Talkie Pissed instance",
+			"loop_name": "Talkie Pissed instance"
+		}
+	]
+}

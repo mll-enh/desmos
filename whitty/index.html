@@ -4,16 +4,16 @@
 	
 	<meta charset="utf-8">
 	
-	<title>Friday Night Funkin' Kade Engine</title>
+	<title>Game 24905</title>
 	
 	<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 	<meta name="apple-mobile-web-app-capable" content="yes">
-	
+	<link rel="canonical" href="https://game.fnfhub.net/24905/" />
 	
 	<link rel="shortcut icon" type="image/png" href="./favicon.png">
 	
 	
-	<script type="text/javascript" src="./Kade Engine.js"></script>
+	<script type="text/javascript" src="./PsychEngine.js"></script>
 	
 	<script>
 		window.addEventListener ("touchmove", function (event) { event.preventDefault (); }, { capture: false, passive: false });
@@ -21,6 +21,7 @@
 			var meta = document.getElementById ("viewport");
 			meta.setAttribute ('content', 'width=device-width, initial-scale=' + (2 / window.devicePixelRatio) + ', user-scalable=no');
 		}
+		window.addEventListener("keydown", function(e) {if(["Tab","Space","ArrowUp","ArrowDown","ArrowLeft","ArrowRight"].indexOf(e.code) > -1) {e.preventDefault(); }}, false);
 	</script>
 	
 	<style>
@@ -72,7 +73,7 @@
 	<div id="openfl-content"></div>
 	
 	<script type="text/javascript">
-		lime.embed ("Kade Engine", "openfl-content", 1280, 720, { parameters: {} });
+		lime.embed ("PsychEngine", "openfl-content", 1280, 720, { parameters: {} });
 	</script>
 	
 </body>

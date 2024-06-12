@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				181,
+				412
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "wheat idle"
+		},
+		{
+			"offsets": [
+				174,
+				381
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "wheat down"
+		},
+		{
+			"offsets": [
+				174,
+				452
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "wheat up"
+		},
+		{
+			"offsets": [
+				180,
+				427
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "wheat left"
+		},
+		{
+			"offsets": [
+				175,
+				420
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "wheat right"
+		},
+		{
+			"offsets": [
+				174,
+				412
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "bruh",
+			"loop": false,
+			"name": "wheat sad"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/the_burger",
+	"position": [
+		90,
+		420
+	],
+	"healthicon": "white",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		0
+	],
+	"camera_position": [
+		-70,
+		-430
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

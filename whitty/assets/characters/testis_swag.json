@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				171,
+				412
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "whitty idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				219,
+				460
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "whitty up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				153,
+				179
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "whitty down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				184,
+				387
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "whitty left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				194,
+				390
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "whitty right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/testis_two_electric_boogaloo",
+	"position": [
+		120,
+		420
+	],
+	"healthicon": "white",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		0
+	],
+	"camera_position": [
+		-100,
+		-310
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

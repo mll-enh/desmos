@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				171,
+				412
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "whitty idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				339,
+				540
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "whitty up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				163,
+				249
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "whitty down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				234,
+				417
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "whitty left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				184,
+				402
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "whitty right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/testis_3_ecstatic_jubilee",
+	"position": [
+		120,
+		510
+	],
+	"healthicon": "whiteballs",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		0
+	],
+	"camera_position": [
+		-30,
+		-350
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
