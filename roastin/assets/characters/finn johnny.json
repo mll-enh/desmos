@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "finnIDLE"
+		},
+		{
+			"offsets": [
+				-8,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "finnLEFT"
+		},
+		{
+			"offsets": [
+				-4,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "finnDOWN"
+		},
+		{
+			"offsets": [
+				-13,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "finnRIGHT"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "finnUP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/protest/finn johnny",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "johnhate",
+	"flip_x": false,
+	"healthbar_colors": [
+		138,
+		176,
+		219
+	],
+	"camera_position": [
+		-650,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

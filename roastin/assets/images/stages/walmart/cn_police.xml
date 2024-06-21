@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cn police.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cn cops0000" x="0" y="0" width="984" height="372" frameX="0" frameY="-15" frameWidth="984" frameHeight="387"/>
+	<SubTexture name="cn cops0001" x="994" y="0" width="979" height="373" frameX="-1" frameY="-14" frameWidth="984" frameHeight="387"/>
+	<SubTexture name="cn cops0002" x="0" y="383" width="973" height="376" frameX="-1" frameY="-11" frameWidth="984" frameHeight="387"/>
+	<SubTexture name="cn cops0003" x="983" y="383" width="964" height="382" frameX="-2" frameY="-5" frameWidth="984" frameHeight="387"/>
+	<SubTexture name="cn cops0004" x="0" y="775" width="962" height="386" frameX="-2" frameY="-1" frameWidth="984" frameHeight="387"/>
+	<SubTexture name="cn cops0005" x="972" y="775" width="961" height="387" frameX="-3" frameY="0" frameWidth="984" frameHeight="387"/>
+</TextureAtlas>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="finn_song_2.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="699" height="700"/>
+	<SubTexture name="down0001" x="0" y="0" width="699" height="700"/>
+	<SubTexture name="down0002" x="709" y="0" width="699" height="700"/>
+	<SubTexture name="down0003" x="709" y="0" width="699" height="700"/>
+	<SubTexture name="idle0000" x="1418" y="0" width="699" height="700"/>
+	<SubTexture name="idle0001" x="1418" y="0" width="699" height="700"/>
+	<SubTexture name="idle0002" x="2127" y="0" width="699" height="700"/>
+	<SubTexture name="idle0003" x="2127" y="0" width="699" height="700"/>
+	<SubTexture name="idle0004" x="0" y="710" width="699" height="700"/>
+	<SubTexture name="idle0005" x="0" y="710" width="699" height="700"/>
+	<SubTexture name="idle0006" x="709" y="710" width="699" height="700"/>
+	<SubTexture name="idle0007" x="709" y="710" width="699" height="700"/>
+	<SubTexture name="idle0008" x="1418" y="710" width="699" height="700"/>
+	<SubTexture name="idle0009" x="1418" y="710" width="699" height="700"/>
+	<SubTexture name="idle0010" x="2127" y="710" width="699" height="700"/>
+	<SubTexture name="idle0011" x="2127" y="710" width="699" height="700"/>
+	<SubTexture name="left0000" x="0" y="1420" width="699" height="700"/>
+	<SubTexture name="left0001" x="0" y="1420" width="699" height="700"/>
+	<SubTexture name="left0002" x="709" y="1420" width="699" height="700"/>
+	<SubTexture name="left0003" x="709" y="1420" width="699" height="700"/>
+	<SubTexture name="right0000" x="1418" y="1420" width="699" height="700"/>
+	<SubTexture name="right0001" x="1418" y="1420" width="699" height="700"/>
+	<SubTexture name="right0002" x="2127" y="1420" width="699" height="700"/>
+	<SubTexture name="right0003" x="2127" y="1420" width="699" height="700"/>
+	<SubTexture name="up0000" x="0" y="2130" width="699" height="705"/>
+	<SubTexture name="up0001" x="0" y="2130" width="699" height="705"/>
+	<SubTexture name="up0002" x="709" y="2130" width="699" height="700" frameX="0" frameY="0" frameWidth="699" frameHeight="705"/>
+	<SubTexture name="up0003" x="709" y="2130" width="699" height="700" frameX="0" frameY="0" frameWidth="699" frameHeight="705"/>
+</TextureAtlas>

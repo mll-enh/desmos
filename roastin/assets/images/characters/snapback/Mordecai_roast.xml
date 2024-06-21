@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mordecai roast.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mordecaidown0000" x="10" y="10" width="454" height="748"/>
+	<SubTexture name="mordecaidown0001" x="10" y="10" width="454" height="748"/>
+	<SubTexture name="mordecaidown0002" x="474" y="10" width="454" height="748"/>
+	<SubTexture name="mordecaidown0003" x="474" y="10" width="454" height="748"/>
+	<SubTexture name="mordecaihah0000" x="938" y="10" width="364" height="563" frameX="-5" frameY="-3" frameWidth="369" frameHeight="566"/>
+	<SubTexture name="mordecaihah0001" x="938" y="10" width="364" height="563" frameX="-5" frameY="-3" frameWidth="369" frameHeight="566"/>
+	<SubTexture name="mordecaihah0002" x="1312" y="10" width="362" height="566" frameX="0" frameY="0" frameWidth="369" frameHeight="566"/>
+	<SubTexture name="mordecaihah0003" x="1312" y="10" width="362" height="566" frameX="0" frameY="0" frameWidth="369" frameHeight="566"/>
+	<SubTexture name="mordecaiidle0000" x="1684" y="10" width="454" height="748"/>
+	<SubTexture name="mordecaiidle0001" x="1684" y="10" width="454" height="748"/>
+	<SubTexture name="mordecaiidle0002" x="2148" y="10" width="454" height="748"/>
+	<SubTexture name="mordecaiidle0003" x="2148" y="10" width="454" height="748"/>
+	<SubTexture name="mordecaiidle0004" x="2612" y="10" width="454" height="748"/>
+	<SubTexture name="mordecaiidle0005" x="2612" y="10" width="454" height="748"/>
+	<SubTexture name="mordecaiidle0006" x="3076" y="10" width="454" height="748"/>
+	<SubTexture name="mordecaiidle0007" x="3076" y="10" width="454" height="748"/>
+	<SubTexture name="mordecaiidle0008" x="3540" y="10" width="454" height="748"/>
+	<SubTexture name="mordecaiidle0009" x="3540" y="10" width="454" height="748"/>
+	<SubTexture name="mordecaiidle0010" x="10" y="768" width="454" height="748"/>
+	<SubTexture name="mordecaiidle0011" x="10" y="768" width="454" height="748"/>
+	<SubTexture name="mordecaileft0000" x="474" y="768" width="454" height="748"/>
+	<SubTexture name="mordecaileft0001" x="474" y="768" width="454" height="748"/>
+	<SubTexture name="mordecaileft0002" x="938" y="768" width="454" height="748"/>
+	<SubTexture name="mordecaileft0003" x="938" y="768" width="454" height="748"/>
+	<SubTexture name="mordecairight0000" x="1402" y="768" width="454" height="748"/>
+	<SubTexture name="mordecairight0001" x="1402" y="768" width="454" height="748"/>
+	<SubTexture name="mordecairight0002" x="1866" y="768" width="454" height="748"/>
+	<SubTexture name="mordecairight0003" x="1866" y="768" width="454" height="748"/>
+	<SubTexture name="mordecaiup0000" x="2330" y="768" width="454" height="748"/>
+	<SubTexture name="mordecaiup0001" x="2330" y="768" width="454" height="748"/>
+	<SubTexture name="mordecaiup0002" x="2794" y="768" width="454" height="748"/>
+	<SubTexture name="mordecaiup0003" x="2794" y="768" width="454" height="748"/>
+</TextureAtlas>

@@ -1,0 +1,83 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				-8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "mordecaiLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				8
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "mordecaiUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "mordecaiIDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "mordecaiRIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				5,
+				-12
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "mordecaiDOWN",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/protest/mordo johnny",
+	"position": [
+		0,
+		260
+	],
+	"healthbar_colors2": [
+		216,
+		85,
+		142
+	],
+	"healthicon": "mom",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		-550,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

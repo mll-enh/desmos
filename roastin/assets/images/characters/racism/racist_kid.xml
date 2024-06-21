@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="racist kid.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="10" y="10" width="417" height="701" frameX="-18" frameY="-27" frameWidth="435" frameHeight="728"/>
+	<SubTexture name="down0001" x="10" y="10" width="417" height="701" frameX="-18" frameY="-27" frameWidth="435" frameHeight="728"/>
+	<SubTexture name="down0002" x="437" y="10" width="433" height="728" frameX="0" frameY="0" frameWidth="435" frameHeight="728"/>
+	<SubTexture name="down0003" x="437" y="10" width="433" height="728" frameX="0" frameY="0" frameWidth="435" frameHeight="728"/>
+	<SubTexture name="idle0000" x="880" y="10" width="454" height="724" frameX="0" frameY="-2" frameWidth="454" frameHeight="727"/>
+	<SubTexture name="idle0001" x="880" y="10" width="454" height="724" frameX="0" frameY="-2" frameWidth="454" frameHeight="727"/>
+	<SubTexture name="idle0002" x="1344" y="10" width="444" height="723" frameX="-4" frameY="-3" frameWidth="454" frameHeight="727"/>
+	<SubTexture name="idle0003" x="1344" y="10" width="444" height="723" frameX="-4" frameY="-3" frameWidth="454" frameHeight="727"/>
+	<SubTexture name="idle0004" x="1798" y="10" width="411" height="721" frameX="-20" frameY="-5" frameWidth="454" frameHeight="727"/>
+	<SubTexture name="idle0005" x="1798" y="10" width="411" height="721" frameX="-20" frameY="-5" frameWidth="454" frameHeight="727"/>
+	<SubTexture name="idle0006" x="2219" y="10" width="406" height="726" frameX="-17" frameY="-1" frameWidth="454" frameHeight="727"/>
+	<SubTexture name="idle0007" x="2219" y="10" width="406" height="726" frameX="-17" frameY="-1" frameWidth="454" frameHeight="727"/>
+	<SubTexture name="idle0008" x="10" y="748" width="404" height="726" frameX="-16" frameY="-1" frameWidth="454" frameHeight="727"/>
+	<SubTexture name="idle0009" x="10" y="748" width="404" height="726" frameX="-16" frameY="-1" frameWidth="454" frameHeight="727"/>
+	<SubTexture name="idle0010" x="424" y="748" width="404" height="727" frameX="-15" frameY="0" frameWidth="454" frameHeight="727"/>
+	<SubTexture name="idle0011" x="424" y="748" width="404" height="727" frameX="-15" frameY="0" frameWidth="454" frameHeight="727"/>
+	<SubTexture name="left0000" x="838" y="748" width="420" height="735" frameX="0" frameY="0" frameWidth="430" frameHeight="735"/>
+	<SubTexture name="left0001" x="838" y="748" width="420" height="735" frameX="0" frameY="0" frameWidth="430" frameHeight="735"/>
+	<SubTexture name="left0002" x="1268" y="748" width="404" height="724" frameX="-26" frameY="-11" frameWidth="430" frameHeight="735"/>
+	<SubTexture name="left0003" x="1268" y="748" width="404" height="724" frameX="-26" frameY="-11" frameWidth="430" frameHeight="735"/>
+	<SubTexture name="right0000" x="1682" y="748" width="421" height="735" frameX="-13" frameY="0" frameWidth="434" frameHeight="735"/>
+	<SubTexture name="right0001" x="1682" y="748" width="421" height="735" frameX="-13" frameY="0" frameWidth="434" frameHeight="735"/>
+	<SubTexture name="right0002" x="2113" y="748" width="416" height="724" frameX="0" frameY="-11" frameWidth="434" frameHeight="735"/>
+	<SubTexture name="right0003" x="2113" y="748" width="416" height="724" frameX="0" frameY="-11" frameWidth="434" frameHeight="735"/>
+	<SubTexture name="up0000" x="10" y="1493" width="523" height="803"/>
+	<SubTexture name="up0001" x="10" y="1493" width="523" height="803"/>
+	<SubTexture name="up0002" x="543" y="1493" width="512" height="779" frameX="-9" frameY="-24" frameWidth="523" frameHeight="803"/>
+	<SubTexture name="up0003" x="543" y="1493" width="512" height="779" frameX="-9" frameY="-24" frameWidth="523" frameHeight="803"/>
+	<SubTexture name="you cant get married0000" x="1065" y="1493" width="438" height="739" frameX="-9" frameY="0" frameWidth="447" frameHeight="739"/>
+	<SubTexture name="you cant get married0001" x="1065" y="1493" width="438" height="739" frameX="-9" frameY="0" frameWidth="447" frameHeight="739"/>
+	<SubTexture name="you cant get married0002" x="1513" y="1493" width="429" height="729" frameX="0" frameY="-10" frameWidth="447" frameHeight="739"/>
+	<SubTexture name="you cant get married0003" x="1513" y="1493" width="429" height="729" frameX="0" frameY="-10" frameWidth="447" frameHeight="739"/>
+	<SubTexture name="you cant get married0004" x="1952" y="1493" width="416" height="724" frameX="-1" frameY="-15" frameWidth="447" frameHeight="739"/>
+	<SubTexture name="you cant get married0005" x="1952" y="1493" width="416" height="724" frameX="-1" frameY="-15" frameWidth="447" frameHeight="739"/>
+	<SubTexture name="you cant get married0006" x="2378" y="1493" width="416" height="724" frameX="-1" frameY="-15" frameWidth="447" frameHeight="739"/>
+	<SubTexture name="you cant get married0007" x="10" y="2306" width="416" height="724" frameX="-1" frameY="-15" frameWidth="447" frameHeight="739"/>
+	<SubTexture name="you cant get married0008" x="436" y="2306" width="416" height="724" frameX="-1" frameY="-15" frameWidth="447" frameHeight="739"/>
+	<SubTexture name="you cant get married0009" x="436" y="2306" width="416" height="724" frameX="-1" frameY="-15" frameWidth="447" frameHeight="739"/>
+	<SubTexture name="you cant get married0010" x="862" y="2306" width="416" height="724" frameX="-1" frameY="-15" frameWidth="447" frameHeight="739"/>
+	<SubTexture name="you cant get married0011" x="10" y="2306" width="416" height="724" frameX="-1" frameY="-15" frameWidth="447" frameHeight="739"/>
+	<SubTexture name="you cant get married0012" x="1288" y="2306" width="416" height="724" frameX="-1" frameY="-15" frameWidth="447" frameHeight="739"/>
+	<SubTexture name="you cant get married0013" x="10" y="2306" width="416" height="724" frameX="-1" frameY="-15" frameWidth="447" frameHeight="739"/>
+	<SubTexture name="you cant get married0014" x="1714" y="2306" width="416" height="724" frameX="-1" frameY="-15" frameWidth="447" frameHeight="739"/>
+	<SubTexture name="you cant get married0015" x="1714" y="2306" width="416" height="724" frameX="-1" frameY="-15" frameWidth="447" frameHeight="739"/>
+	<SubTexture name="you cant get married0016" x="2140" y="2306" width="416" height="724" frameX="-1" frameY="-15" frameWidth="447" frameHeight="739"/>
+	<SubTexture name="you cant get married0017" x="2566" y="2306" width="416" height="724" frameX="-1" frameY="-15" frameWidth="447" frameHeight="739"/>
+	<SubTexture name="you cant get married0018" x="10" y="3040" width="416" height="724" frameX="-1" frameY="-15" frameWidth="447" frameHeight="739"/>
+	<SubTexture name="you cant get married0019" x="436" y="3040" width="416" height="724" frameX="-1" frameY="-15" frameWidth="447" frameHeight="739"/>
+	<SubTexture name="you cant get married0020" x="862" y="3040" width="416" height="724" frameX="-1" frameY="-15" frameWidth="447" frameHeight="739"/>
+	<SubTexture name="you cant get married0021" x="862" y="3040" width="416" height="724" frameX="-1" frameY="-15" frameWidth="447" frameHeight="739"/>
+	<SubTexture name="you cant get married0022" x="1288" y="3040" width="416" height="724" frameX="-1" frameY="-15" frameWidth="447" frameHeight="739"/>
+	<SubTexture name="you cant get married0023" x="1288" y="3040" width="416" height="724" frameX="-1" frameY="-15" frameWidth="447" frameHeight="739"/>
+	<SubTexture name="you cant get married0024" x="1714" y="3040" width="416" height="724" frameX="-1" frameY="-15" frameWidth="447" frameHeight="739"/>
+	<SubTexture name="you cant get married0025" x="2140" y="3040" width="416" height="724" frameX="-1" frameY="-15" frameWidth="447" frameHeight="739"/>
+	<SubTexture name="you cant get married0026" x="2140" y="3040" width="416" height="724" frameX="-1" frameY="-15" frameWidth="447" frameHeight="739"/>
+	<SubTexture name="you cant get married0027" x="2113" y="748" width="416" height="724" frameX="-1" frameY="-15" frameWidth="434" frameHeight="735"/>
+	<SubTexture name="you cant get married0028" x="2113" y="748" width="416" height="724" frameX="-1" frameY="-15" frameWidth="434" frameHeight="735"/>
+	<SubTexture name="you cant get married0029" x="2113" y="748" width="416" height="724" frameX="-1" frameY="-15" frameWidth="434" frameHeight="735"/>
+	<SubTexture name="you cant get married0030" x="2113" y="748" width="416" height="724" frameX="-1" frameY="-15" frameWidth="434" frameHeight="735"/>
+	<SubTexture name="you cant get married0031" x="2113" y="748" width="416" height="724" frameX="-1" frameY="-15" frameWidth="434" frameHeight="735"/>
+	<SubTexture name="you cant get married0032" x="2113" y="748" width="416" height="724" frameX="-1" frameY="-15" frameWidth="434" frameHeight="735"/>
+	<SubTexture name="you cant get married0033" x="2113" y="748" width="416" height="724" frameX="-1" frameY="-15" frameWidth="434" frameHeight="735"/>
+	<SubTexture name="you cant get married0034" x="2113" y="748" width="416" height="724" frameX="-1" frameY="-15" frameWidth="434" frameHeight="735"/>
+	<SubTexture name="you cant get married0035" x="2113" y="748" width="416" height="724" frameX="-1" frameY="-15" frameWidth="434" frameHeight="735"/>
+	<SubTexture name="you cant get married0036" x="2113" y="748" width="416" height="724" frameX="-1" frameY="-15" frameWidth="434" frameHeight="735"/>
+	<SubTexture name="you cant get married0037" x="2113" y="748" width="416" height="724" frameX="-1" frameY="-15" frameWidth="434" frameHeight="735"/>
+	<SubTexture name="you cant get married0038" x="2113" y="748" width="416" height="724" frameX="-1" frameY="-15" frameWidth="434" frameHeight="735"/>
+	<SubTexture name="you cant get married0039" x="2113" y="748" width="416" height="724" frameX="-1" frameY="-15" frameWidth="434" frameHeight="735"/>
+</TextureAtlas>

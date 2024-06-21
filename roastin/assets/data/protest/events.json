@@ -1,0 +1,176 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "johnatan",
+		"player1": "steven johnny",
+		"player2": "finn johnny",
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"11",
+						""
+					],
+					[
+						"protest intro",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				10105.2631578947,
+				[
+					[
+						"protest intro",
+						"1",
+						"",
+						""
+					]
+				]
+			],
+			[
+				20210.5263157895,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						"",
+						""
+					],
+					[
+						"HudDisappear",
+						"False",
+						"1"
+					],
+					[
+						"Set Cam Zoom",
+						"0.9",
+						"1"
+					]
+				]
+			],
+			[
+				110546.052631579,
+				[
+					[
+						"john",
+						"6",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116210.526315789,
+				[
+					[
+						"john",
+						"3",
+						"",
+						""
+					]
+				]
+			],
+			[
+				121263.157894737,
+				[
+					[
+						"john",
+						"5",
+						"",
+						""
+					]
+				]
+			],
+			[
+				131368.421052632,
+				[
+					[
+						"john",
+						"1",
+						"",
+						""
+					]
+				]
+			],
+			[
+				133894.736842105,
+				[
+					[
+						"john",
+						"2",
+						"",
+						""
+					]
+				]
+			],
+			[
+				140269.736842105,
+				[
+					[
+						"john",
+						"4",
+						"",
+						""
+					]
+				]
+			],
+			[
+				141473.684210526,
+				[
+					[
+						"epik lines",
+						"",
+						"",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"",
+						null
+					],
+					[
+						"Add Camera Zoom",
+						"0.25",
+						"0.05"
+					]
+				]
+			],
+			[
+				151578.947368421,
+				[
+					[
+						"john",
+						"7",
+						"",
+						null
+					]
+				]
+			],
+			[
+				161684.210526316,
+				[
+					[
+						"john",
+						"6",
+						"",
+						null
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "misc/JOHNNYNOTE_splashes",
+		"validScore": false,
+		"gfVersion": "gumball johnny",
+		"bpm": 190,
+		"arrowSkin": "misc/JOHNNYNOTE_assets",
+		"needsVoices": true,
+		"song": "Protest"
+	}
+}

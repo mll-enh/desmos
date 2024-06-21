@@ -1,0 +1,83 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				39,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				45,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				41,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				34,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				34,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/starlight/mordecry",
+	"position": [
+		190,
+		290
+	],
+	"healthbar_colors2": [
+		82,
+		127,
+		182
+	],
+	"healthicon": "mordecry",
+	"flip_x": true,
+	"healthbar_colors": [
+		82,
+		127,
+		255
+	],
+	"camera_position": [
+		630,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

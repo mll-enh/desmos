@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boombox dudes.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="boombox0000" x="0" y="0" width="697" height="440" frameX="0" frameY="-6" frameWidth="698" frameHeight="446"/>
+	<SubTexture name="boombox0001" x="0" y="0" width="697" height="440" frameX="0" frameY="-6" frameWidth="698" frameHeight="446"/>
+	<SubTexture name="boombox0002" x="707" y="0" width="697" height="439" frameX="-1" frameY="-7" frameWidth="698" frameHeight="446"/>
+	<SubTexture name="boombox0003" x="707" y="0" width="697" height="439" frameX="-1" frameY="-7" frameWidth="698" frameHeight="446"/>
+	<SubTexture name="boombox0004" x="1414" y="0" width="695" height="442" frameX="-1" frameY="-4" frameWidth="698" frameHeight="446"/>
+	<SubTexture name="boombox0005" x="1414" y="0" width="695" height="442" frameX="-1" frameY="-4" frameWidth="698" frameHeight="446"/>
+	<SubTexture name="boombox0006" x="2119" y="0" width="694" height="444" frameX="-2" frameY="-2" frameWidth="698" frameHeight="446"/>
+	<SubTexture name="boombox0007" x="2119" y="0" width="694" height="444" frameX="-2" frameY="-2" frameWidth="698" frameHeight="446"/>
+	<SubTexture name="boombox0008" x="2823" y="0" width="693" height="445" frameX="-3" frameY="-1" frameWidth="698" frameHeight="446"/>
+	<SubTexture name="boombox0009" x="2823" y="0" width="693" height="445" frameX="-3" frameY="-1" frameWidth="698" frameHeight="446"/>
+	<SubTexture name="boombox0010" x="3526" y="0" width="693" height="446" frameX="-3" frameY="0" frameWidth="698" frameHeight="446"/>
+	<SubTexture name="boombox0011" x="3526" y="0" width="693" height="446" frameX="-3" frameY="0" frameWidth="698" frameHeight="446"/>
+</TextureAtlas>

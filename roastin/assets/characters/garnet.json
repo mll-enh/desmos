@@ -1,0 +1,171 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				296,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				13,
+				-131
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				5,
+				245
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-239,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-236,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "MISSright"
+		},
+		{
+			"offsets": [
+				13,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "MISSdown"
+		},
+		{
+			"offsets": [
+				296,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "MISSleft"
+		},
+		{
+			"offsets": [
+				5,
+				244
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MISSup"
+		},
+		{
+			"offsets": [
+				-3,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "deathLoop"
+		},
+		{
+			"offsets": [
+				7,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "dies"
+		},
+		{
+			"offsets": [
+				-2,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "deathConfrim"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				78,
+				28
+			],
+			"anim": "talk",
+			"fps": 24,
+			"name": "talk",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/racism/garnet",
+	"position": [
+		120,
+		-130
+	],
+	"healthbar_colors2": [
+		250,
+		61,
+		121
+	],
+	"healthicon": "garnet",
+	"flip_x": true,
+	"healthbar_colors": [
+		250,
+		61,
+		121
+	],
+	"camera_position": [
+		160,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

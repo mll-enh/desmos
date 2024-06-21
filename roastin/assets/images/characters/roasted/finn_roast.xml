@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="finn roast.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="finndown0000" x="10" y="10" width="551" height="507"/>
+	<SubTexture name="finndown0001" x="10" y="10" width="551" height="507"/>
+	<SubTexture name="finndown0002" x="571" y="10" width="551" height="507"/>
+	<SubTexture name="finndown0003" x="571" y="10" width="551" height="507"/>
+	<SubTexture name="finnhah0000" x="1132" y="10" width="332" height="435" frameX="0" frameY="-3" frameWidth="342" frameHeight="438"/>
+	<SubTexture name="finnhah0001" x="1132" y="10" width="332" height="435" frameX="0" frameY="-3" frameWidth="342" frameHeight="438"/>
+	<SubTexture name="finnhah0002" x="1474" y="10" width="333" height="438" frameX="-9" frameY="0" frameWidth="342" frameHeight="438"/>
+	<SubTexture name="finnhah0003" x="1474" y="10" width="333" height="438" frameX="-9" frameY="0" frameWidth="342" frameHeight="438"/>
+	<SubTexture name="finnidle0000" x="1817" y="10" width="551" height="507"/>
+	<SubTexture name="finnidle0001" x="1817" y="10" width="551" height="507"/>
+	<SubTexture name="finnidle0002" x="2378" y="10" width="551" height="507"/>
+	<SubTexture name="finnidle0003" x="2378" y="10" width="551" height="507"/>
+	<SubTexture name="finnidle0004" x="2939" y="10" width="551" height="507"/>
+	<SubTexture name="finnidle0005" x="2939" y="10" width="551" height="507"/>
+	<SubTexture name="finnidle0006" x="3500" y="10" width="551" height="507"/>
+	<SubTexture name="finnidle0007" x="3500" y="10" width="551" height="507"/>
+	<SubTexture name="finnidle0008" x="10" y="527" width="551" height="507"/>
+	<SubTexture name="finnidle0009" x="10" y="527" width="551" height="507"/>
+	<SubTexture name="finnidle0010" x="571" y="527" width="551" height="507"/>
+	<SubTexture name="finnidle0011" x="571" y="527" width="551" height="507"/>
+	<SubTexture name="finnleft0000" x="1132" y="527" width="551" height="507" frameX="0" frameY="0" frameWidth="651" frameHeight="507"/>
+	<SubTexture name="finnleft0001" x="1132" y="527" width="551" height="507" frameX="0" frameY="0" frameWidth="651" frameHeight="507"/>
+	<SubTexture name="finnleft0002" x="1693" y="527" width="651" height="507"/>
+	<SubTexture name="finnleft0003" x="1693" y="527" width="651" height="507"/>
+	<SubTexture name="finnright0000" x="2354" y="527" width="551" height="507"/>
+	<SubTexture name="finnright0001" x="2354" y="527" width="551" height="507"/>
+	<SubTexture name="finnright0002" x="2915" y="527" width="551" height="507"/>
+	<SubTexture name="finnright0003" x="2915" y="527" width="551" height="507"/>
+	<SubTexture name="finnup0000" x="3476" y="527" width="551" height="507"/>
+	<SubTexture name="finnup0001" x="3476" y="527" width="551" height="507"/>
+	<SubTexture name="finnup0002" x="10" y="1044" width="551" height="507"/>
+	<SubTexture name="finnup0003" x="10" y="1044" width="551" height="507"/>
+</TextureAtlas>

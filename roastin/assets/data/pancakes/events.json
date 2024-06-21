@@ -1,0 +1,61 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "pancakes",
+		"player1": "pb_pancakes",
+		"player2": "jake_pancakes",
+		"events": [
+			[
+				41069.5187165775,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						"",
+						""
+					]
+				]
+			],
+			[
+				51336.8983957219,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1.11",
+						""
+					]
+				]
+			],
+			[
+				71871.6577540107,
+				[
+					[
+						"Change Scroll Speed",
+						"0.9",
+						"",
+						null
+					],
+					[
+						"Set Cam Zoom",
+						"0.87",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 187,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Bacon Pancakes"
+	}
+}

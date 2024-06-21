@@ -1,0 +1,94 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				9,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				9,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				22,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				12,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				7,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-133,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dialog",
+			"indices": [],
+			"name": "dialog"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/moc/Fern_roast",
+	"position": [
+		-210,
+		135
+	],
+	"healthbar_colors2": [
+		105,
+		156,
+		48
+	],
+	"healthicon": "fern",
+	"flip_x": false,
+	"healthbar_colors": [
+		105,
+		156,
+		48
+	],
+	"camera_position": [
+		160,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "gumballIDLE"
+		},
+		{
+			"offsets": [
+				-22,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "gumballRIGHT"
+		},
+		{
+			"offsets": [
+				21,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "gumballLEFT"
+		},
+		{
+			"offsets": [
+				-10,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "gumballDOWN"
+		},
+		{
+			"offsets": [
+				24,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "gumballUP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/protest/gumball johnny",
+	"position": [
+		20,
+		340
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		60,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1.55
+}

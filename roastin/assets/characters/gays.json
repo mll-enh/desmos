@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/racism/cool_kids",
+	"position": [
+		160,
+		0
+	],
+	"healthbar_colors2": [
+		0,
+		200,
+		255
+	],
+	"healthicon": "girl",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		200,
+		255
+	],
+	"camera_position": [
+		-110,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 0.65
+}

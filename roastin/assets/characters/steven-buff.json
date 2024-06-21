@@ -1,0 +1,138 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				6
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				37,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left0"
+		},
+		{
+			"offsets": [
+				38,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down0"
+		},
+		{
+			"offsets": [
+				38,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up0"
+		},
+		{
+			"offsets": [
+				37,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right0"
+		},
+		{
+			"offsets": [
+				37,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "miss right"
+		},
+		{
+			"offsets": [
+				36,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "miss up"
+		},
+		{
+			"offsets": [
+				38,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "miss left"
+		},
+		{
+			"offsets": [
+				37,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "miss down"
+		},
+		{
+			"offsets": [
+				-40,
+				-200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "showtime",
+			"indices": [],
+			"name": "shows about to start"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/snapback/buff_pink_steven_roasted",
+	"position": [
+		0,
+		-530
+	],
+	"healthbar_colors2": [
+		255,
+		163,
+		241
+	],
+	"healthicon": "steven_buff",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		163,
+		221
+	],
+	"camera_position": [
+		50,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

@@ -1,0 +1,83 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-17
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				-11
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				-7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				-19
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/snapback/finn_song_2",
+	"position": [
+		30,
+		-60
+	],
+	"healthbar_colors2": [
+		75,
+		117,
+		189
+	],
+	"healthicon": "mordoandfinn_battle",
+	"flip_x": false,
+	"healthbar_colors": [
+		201,
+		201,
+		201
+	],
+	"camera_position": [
+		-120,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

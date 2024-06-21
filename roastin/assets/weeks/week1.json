@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["roasted", "mordoandfinn", [165, 0, 77]],
+		["snapback", "mordoandfinn", [165, 0, 77]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-40,
+				-40
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/snapback/connie_scared",
+	"position": [
+		170,
+		50
+	],
+	"healthbar_colors2": [
+		0,
+		200,
+		255
+	],
+	"healthicon": "girl",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		200,
+		255
+	],
+	"camera_position": [
+		-140,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

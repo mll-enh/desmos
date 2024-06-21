@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="The Orange.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="573" height="533"/>
+	<SubTexture name="down0001" x="0" y="0" width="573" height="533"/>
+	<SubTexture name="down0002" x="583" y="0" width="573" height="533"/>
+	<SubTexture name="down0003" x="583" y="0" width="573" height="533"/>
+	<SubTexture name="hah, im an orange0000" x="1166" y="0" width="461" height="449" frameX="-12" frameY="-18" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0001" x="1166" y="0" width="461" height="449" frameX="-12" frameY="-18" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0002" x="1637" y="0" width="460" height="457" frameX="-10" frameY="-9" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0003" x="1637" y="0" width="460" height="457" frameX="-10" frameY="-9" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0004" x="2107" y="0" width="460" height="460" frameX="-7" frameY="-6" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0005" x="2107" y="0" width="460" height="460" frameX="-7" frameY="-6" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0006" x="2577" y="0" width="460" height="460" frameX="-7" frameY="-6" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0007" x="2577" y="0" width="460" height="460" frameX="-7" frameY="-6" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0008" x="2577" y="0" width="460" height="460" frameX="-7" frameY="-6" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0009" x="2577" y="0" width="460" height="460" frameX="-7" frameY="-6" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0010" x="2577" y="0" width="460" height="460" frameX="-7" frameY="-6" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0011" x="3047" y="0" width="450" height="456" frameX="-14" frameY="-16" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0012" x="3507" y="0" width="450" height="456" frameX="-14" frameY="-16" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0013" x="3967" y="0" width="450" height="456" frameX="-14" frameY="-16" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0014" x="4427" y="0" width="450" height="456" frameX="-14" frameY="-16" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0015" x="4887" y="0" width="450" height="456" frameX="-14" frameY="-16" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0016" x="5347" y="0" width="450" height="456" frameX="-14" frameY="-16" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0017" x="5807" y="0" width="450" height="456" frameX="-14" frameY="-16" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0018" x="6267" y="0" width="450" height="456" frameX="-14" frameY="-16" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0019" x="6727" y="0" width="450" height="456" frameX="-14" frameY="-16" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0020" x="7187" y="0" width="450" height="456" frameX="-14" frameY="-16" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0021" x="7187" y="0" width="450" height="456" frameX="-14" frameY="-16" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0022" x="7647" y="0" width="450" height="456" frameX="-14" frameY="-16" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0023" x="7647" y="0" width="450" height="456" frameX="-14" frameY="-16" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0024" x="0" y="543" width="450" height="456" frameX="-14" frameY="-16" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0025" x="460" y="543" width="450" height="456" frameX="-14" frameY="-16" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0026" x="460" y="543" width="450" height="456" frameX="-14" frameY="-16" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0027" x="920" y="543" width="450" height="439" frameX="-14" frameY="-33" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0028" x="1380" y="543" width="450" height="449" frameX="-14" frameY="-23" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0029" x="1840" y="543" width="460" height="467" frameX="0" frameY="0" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0030" x="1840" y="543" width="460" height="467" frameX="0" frameY="0" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0031" x="2310" y="543" width="460" height="460" frameX="-7" frameY="-6" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0032" x="2310" y="543" width="460" height="460" frameX="-7" frameY="-6" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0033" x="1840" y="543" width="460" height="467" frameX="0" frameY="0" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0034" x="1840" y="543" width="460" height="467" frameX="0" frameY="0" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0035" x="2310" y="543" width="460" height="460" frameX="-7" frameY="-6" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0036" x="2310" y="543" width="460" height="460" frameX="-7" frameY="-6" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0037" x="1840" y="543" width="460" height="467" frameX="0" frameY="0" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0038" x="1840" y="543" width="460" height="467" frameX="0" frameY="0" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0039" x="2310" y="543" width="460" height="460" frameX="-7" frameY="-6" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0040" x="2310" y="543" width="460" height="460" frameX="-7" frameY="-6" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0041" x="1840" y="543" width="460" height="467" frameX="0" frameY="0" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0042" x="1840" y="543" width="460" height="467" frameX="0" frameY="0" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0043" x="2310" y="543" width="460" height="460" frameX="-7" frameY="-6" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0044" x="2310" y="543" width="460" height="460" frameX="-7" frameY="-6" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0045" x="1840" y="543" width="460" height="467" frameX="0" frameY="0" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0046" x="1840" y="543" width="460" height="467" frameX="0" frameY="0" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0047" x="2310" y="543" width="460" height="460" frameX="-7" frameY="-6" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0048" x="2310" y="543" width="460" height="460" frameX="-7" frameY="-6" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0049" x="1840" y="543" width="460" height="467" frameX="0" frameY="0" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0050" x="1840" y="543" width="460" height="467" frameX="0" frameY="0" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0051" x="2310" y="543" width="460" height="460" frameX="-7" frameY="-6" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0052" x="2310" y="543" width="460" height="460" frameX="-7" frameY="-6" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0053" x="2310" y="543" width="460" height="460" frameX="-7" frameY="-6" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0054" x="2310" y="543" width="460" height="460" frameX="-7" frameY="-6" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0055" x="2310" y="543" width="460" height="460" frameX="-7" frameY="-6" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0056" x="2310" y="543" width="460" height="460" frameX="-7" frameY="-6" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hah, im an orange0057" x="2310" y="543" width="460" height="460" frameX="-7" frameY="-6" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="hehehe0000" x="2780" y="543" width="461" height="452" frameX="-9" frameY="-6" frameWidth="470" frameHeight="458"/>
+	<SubTexture name="hehehe0001" x="2780" y="543" width="461" height="452" frameX="-9" frameY="-6" frameWidth="470" frameHeight="458"/>
+	<SubTexture name="hehehe0002" x="3251" y="543" width="461" height="457" frameX="-4" frameY="0" frameWidth="470" frameHeight="458"/>
+	<SubTexture name="hehehe0003" x="3251" y="543" width="461" height="457" frameX="-4" frameY="0" frameWidth="470" frameHeight="458"/>
+	<SubTexture name="hehehe0004" x="3722" y="543" width="460" height="457" frameX="0" frameY="0" frameWidth="470" frameHeight="458"/>
+	<SubTexture name="hehehe0005" x="3722" y="543" width="460" height="457" frameX="0" frameY="0" frameWidth="470" frameHeight="458"/>
+	<SubTexture name="idle0000" x="4192" y="543" width="573" height="533"/>
+	<SubTexture name="idle0001" x="4192" y="543" width="573" height="533"/>
+	<SubTexture name="idle0002" x="4775" y="543" width="573" height="533"/>
+	<SubTexture name="idle0003" x="4775" y="543" width="573" height="533"/>
+	<SubTexture name="idle0004" x="5358" y="543" width="573" height="533"/>
+	<SubTexture name="idle0005" x="5358" y="543" width="573" height="533"/>
+	<SubTexture name="idle0006" x="5941" y="543" width="573" height="533"/>
+	<SubTexture name="idle0007" x="5941" y="543" width="573" height="533"/>
+	<SubTexture name="idle0008" x="6524" y="543" width="573" height="533"/>
+	<SubTexture name="idle0009" x="6524" y="543" width="573" height="533"/>
+	<SubTexture name="idle0010" x="7107" y="543" width="573" height="533"/>
+	<SubTexture name="idle0011" x="7107" y="543" width="573" height="533"/>
+	<SubTexture name="left0000" x="0" y="1086" width="573" height="533"/>
+	<SubTexture name="left0001" x="0" y="1086" width="573" height="533"/>
+	<SubTexture name="left0002" x="583" y="1086" width="573" height="533"/>
+	<SubTexture name="left0003" x="583" y="1086" width="573" height="533"/>
+	<SubTexture name="more giggles0000" x="1166" y="1086" width="466" height="465"/>
+	<SubTexture name="more giggles0001" x="1642" y="1086" width="466" height="465"/>
+	<SubTexture name="more giggles0002" x="2118" y="1086" width="461" height="461" frameX="-2" frameY="-4" frameWidth="466" frameHeight="465"/>
+	<SubTexture name="more giggles0003" x="2589" y="1086" width="461" height="461" frameX="-2" frameY="-4" frameWidth="466" frameHeight="465"/>
+	<SubTexture name="more giggles0004" x="3060" y="1086" width="461" height="460" frameX="-2" frameY="-5" frameWidth="466" frameHeight="465"/>
+	<SubTexture name="more giggles0005" x="3531" y="1086" width="461" height="460" frameX="-2" frameY="-5" frameWidth="466" frameHeight="465"/>
+	<SubTexture name="orange is dragged away0000" x="4002" y="1086" width="935" height="715" frameX="0" frameY="-1999" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0001" x="4947" y="1086" width="928" height="695" frameX="-3" frameY="-2015" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0002" x="5885" y="1086" width="918" height="612" frameX="-7" frameY="-2086" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0003" x="6813" y="1086" width="918" height="612" frameX="-7" frameY="-2086" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0004" x="0" y="1811" width="906" height="546" frameX="-19" frameY="-2150" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0005" x="916" y="1811" width="911" height="565" frameX="-14" frameY="-2131" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0006" x="1837" y="1811" width="910" height="563" frameX="-14" frameY="-2131" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0007" x="2757" y="1811" width="913" height="576" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0008" x="2757" y="1811" width="913" height="576" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0009" x="2757" y="1811" width="913" height="576" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0010" x="2757" y="1811" width="913" height="576" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0011" x="2757" y="1811" width="913" height="576" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0012" x="2757" y="1811" width="913" height="576" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0013" x="2757" y="1811" width="913" height="576" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0014" x="2757" y="1811" width="913" height="576" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0015" x="2757" y="1811" width="913" height="576" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0016" x="3680" y="1811" width="913" height="576" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0017" x="4603" y="1811" width="913" height="576" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0018" x="5526" y="1811" width="956" height="595" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0019" x="6492" y="1811" width="956" height="595" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0020" x="0" y="2416" width="929" height="582" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0021" x="939" y="2416" width="929" height="582" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0022" x="1878" y="2416" width="916" height="574" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0023" x="2804" y="2416" width="916" height="574" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0024" x="3730" y="2416" width="913" height="576" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0025" x="3730" y="2416" width="913" height="576" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0026" x="3730" y="2416" width="913" height="576" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0027" x="3730" y="2416" width="913" height="576" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0028" x="3730" y="2416" width="913" height="576" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0029" x="3730" y="2416" width="913" height="576" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0030" x="3730" y="2416" width="913" height="576" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0031" x="3730" y="2416" width="913" height="576" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0032" x="3730" y="2416" width="913" height="576" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0033" x="3730" y="2416" width="913" height="576" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0034" x="3730" y="2416" width="913" height="576" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0035" x="3730" y="2416" width="913" height="576" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0036" x="3730" y="2416" width="913" height="576" frameX="-11" frameY="-2118" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0037" x="4653" y="2416" width="913" height="586" frameX="-11" frameY="-2104" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0038" x="5576" y="2416" width="913" height="586" frameX="-11" frameY="-2104" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0039" x="6499" y="2416" width="906" height="764" frameX="-18" frameY="-1912" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0040" x="0" y="3190" width="906" height="764" frameX="-18" frameY="-1912" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0041" x="916" y="3190" width="906" height="1182" frameX="-18" frameY="-1080" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0042" x="1832" y="3190" width="906" height="1182" frameX="-18" frameY="-1080" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0043" x="2748" y="3190" width="905" height="946" frameX="-19" frameY="-922" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0044" x="2748" y="3190" width="905" height="946" frameX="-19" frameY="-922" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0045" x="3663" y="3190" width="913" height="730" frameX="-11" frameY="0" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0046" x="3663" y="3190" width="913" height="730" frameX="-11" frameY="0" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0047" x="3663" y="3190" width="913" height="730" frameX="-11" frameY="0" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0048" x="3663" y="3190" width="913" height="730" frameX="-11" frameY="0" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0049" x="3663" y="3190" width="913" height="730" frameX="-11" frameY="0" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0050" x="3663" y="3190" width="913" height="730" frameX="-11" frameY="0" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0051" x="3663" y="3190" width="913" height="730" frameX="-11" frameY="0" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0052" x="3663" y="3190" width="913" height="730" frameX="-11" frameY="0" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0053" x="3663" y="3190" width="913" height="730" frameX="-11" frameY="0" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0054" x="3663" y="3190" width="913" height="730" frameX="-11" frameY="0" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0055" x="3663" y="3190" width="913" height="730" frameX="-11" frameY="0" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0056" x="3663" y="3190" width="913" height="730" frameX="-11" frameY="0" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0057" x="3663" y="3190" width="913" height="730" frameX="-11" frameY="0" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0058" x="3663" y="3190" width="913" height="730" frameX="-11" frameY="0" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0059" x="3663" y="3190" width="913" height="730" frameX="-11" frameY="0" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0060" x="3663" y="3190" width="913" height="730" frameX="-11" frameY="0" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0061" x="3663" y="3190" width="913" height="730" frameX="-11" frameY="0" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0062" x="3663" y="3190" width="913" height="730" frameX="-11" frameY="0" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0063" x="3663" y="3190" width="913" height="730" frameX="-11" frameY="0" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0064" x="3663" y="3190" width="913" height="730" frameX="-11" frameY="0" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0065" x="3663" y="3190" width="913" height="730" frameX="-11" frameY="0" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0066" x="3663" y="3190" width="913" height="730" frameX="-11" frameY="0" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="orange is dragged away0067" x="3663" y="3190" width="913" height="730" frameX="-11" frameY="0" frameWidth="967" frameHeight="2714"/>
+	<SubTexture name="right0000" x="4586" y="3190" width="573" height="533"/>
+	<SubTexture name="right0001" x="4586" y="3190" width="573" height="533"/>
+	<SubTexture name="right0002" x="5169" y="3190" width="573" height="533"/>
+	<SubTexture name="right0003" x="5169" y="3190" width="573" height="533"/>
+	<SubTexture name="theyll never take me alive0000" x="5752" y="3190" width="462" height="458" frameX="0" frameY="-20" frameWidth="462" frameHeight="478"/>
+	<SubTexture name="theyll never take me alive0001" x="6224" y="3190" width="462" height="458" frameX="0" frameY="-20" frameWidth="462" frameHeight="478"/>
+	<SubTexture name="theyll never take me alive0002" x="6696" y="3190" width="462" height="471" frameX="0" frameY="-7" frameWidth="462" frameHeight="478"/>
+	<SubTexture name="theyll never take me alive0003" x="7168" y="3190" width="462" height="471" frameX="0" frameY="-7" frameWidth="462" frameHeight="478"/>
+	<SubTexture name="theyll never take me alive0004" x="7640" y="3190" width="462" height="476" frameX="0" frameY="-2" frameWidth="462" frameHeight="478"/>
+	<SubTexture name="theyll never take me alive0005" x="0" y="4382" width="462" height="476" frameX="0" frameY="-2" frameWidth="462" frameHeight="478"/>
+	<SubTexture name="theyll never take me alive0006" x="472" y="4382" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0007" x="944" y="4382" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0008" x="1416" y="4382" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0009" x="1888" y="4382" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0010" x="2360" y="4382" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0011" x="2832" y="4382" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0012" x="3304" y="4382" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0013" x="3776" y="4382" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0014" x="4248" y="4382" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0015" x="4720" y="4382" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0016" x="5192" y="4382" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0017" x="5664" y="4382" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0018" x="5192" y="4382" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0019" x="6136" y="4382" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0020" x="6608" y="4382" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0021" x="7080" y="4382" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0022" x="7552" y="4382" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0023" x="0" y="4870" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0024" x="472" y="4870" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0025" x="944" y="4870" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0026" x="1416" y="4870" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0027" x="1888" y="4870" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0028" x="472" y="4870" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0029" x="944" y="4870" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0030" x="1416" y="4870" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0031" x="1888" y="4870" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0032" x="472" y="4870" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0033" x="2360" y="4870" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0034" x="2832" y="4870" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0035" x="3304" y="4870" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0036" x="5192" y="4382" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0037" x="3776" y="4870" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0038" x="4248" y="4870" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0039" x="4720" y="4870" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0040" x="5192" y="4870" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0041" x="4720" y="4870" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0042" x="4248" y="4870" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0043" x="3776" y="4870" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0044" x="4248" y="4870" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0045" x="3776" y="4870" width="462" height="478"/>
+	<SubTexture name="theyll never take me alive0046" x="4248" y="4870" width="462" height="478"/>
+	<SubTexture name="up0000" x="5664" y="4870" width="573" height="533"/>
+	<SubTexture name="up0001" x="5664" y="4870" width="573" height="533"/>
+	<SubTexture name="up0002" x="6247" y="4870" width="573" height="533"/>
+	<SubTexture name="up0003" x="6247" y="4870" width="573" height="533"/>
+</TextureAtlas>

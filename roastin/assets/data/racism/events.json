@@ -1,0 +1,83 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "racism",
+		"player1": "garnet",
+		"player2": "racist_kid",
+		"events": [
+			[
+				11250,
+				[
+					[
+						"HudDisappear",
+						"False",
+						"0.0001",
+						""
+					],
+					[
+						"Racism Shader Thing",
+						"",
+						""
+					]
+				]
+			],
+			[
+				82546.875,
+				[
+					[
+						"Camera Follow Pos",
+						"450",
+						"380",
+						""
+					],
+					[
+						"Play Animation",
+						"marry",
+						"Dad"
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						"",
+						null
+					]
+				]
+			],
+			[
+				200671.875,
+				[
+					[
+						"Set Property",
+						"vocals.volume",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				201000,
+				[
+					[
+						"Play Animation",
+						"talk",
+						"BF",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gays",
+		"bpm": 80,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Racism"
+	}
+}

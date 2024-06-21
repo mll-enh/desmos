@@ -1,0 +1,97 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "cn_city",
+		"player1": "steven-new",
+		"player2": "finn",
+		"events": [
+			[
+				146400,
+				[
+					[
+						"Play Animation",
+						"leave_me_alone",
+						"BF",
+						""
+					]
+				]
+			],
+			[
+				147865,
+				[
+					[
+						"Roasted Timer Thing",
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				149510,
+				[
+					[
+						"Change Character",
+						"BF",
+						"pink_steven",
+						""
+					]
+				]
+			],
+			[
+				178800,
+				[
+					[
+						"Play Animation",
+						"hah",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				178950,
+				[
+					[
+						"Play Animation",
+						"hah",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				179081.25,
+				[
+					[
+						"Play Animation",
+						"hah",
+						"dad",
+						""
+					]
+				],
+				null,
+				"Mordo Sing"
+			],
+			[
+				179212.5,
+				[
+					[
+						"Play Animation",
+						"hah",
+						"dad",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "connie",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Roasted"
+	}
+}

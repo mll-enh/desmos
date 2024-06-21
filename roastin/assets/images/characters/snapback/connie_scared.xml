@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="connie scared.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="265" height="542" frameX="0" frameY="0" frameWidth="266" frameHeight="542"/>
+	<SubTexture name="idle0001" x="0" y="0" width="265" height="542" frameX="0" frameY="0" frameWidth="266" frameHeight="542"/>
+	<SubTexture name="idle0002" x="275" y="0" width="266" height="542"/>
+	<SubTexture name="idle0003" x="275" y="0" width="266" height="542"/>
+	<SubTexture name="idle0004" x="551" y="0" width="264" height="542" frameX="-1" frameY="0" frameWidth="266" frameHeight="542"/>
+	<SubTexture name="idle0005" x="551" y="0" width="264" height="542" frameX="-1" frameY="0" frameWidth="266" frameHeight="542"/>
+	<SubTexture name="idle0006" x="825" y="0" width="265" height="542" frameX="0" frameY="0" frameWidth="266" frameHeight="542"/>
+	<SubTexture name="idle0007" x="825" y="0" width="265" height="542" frameX="0" frameY="0" frameWidth="266" frameHeight="542"/>
+</TextureAtlas>

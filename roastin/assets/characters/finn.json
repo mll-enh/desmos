@@ -1,0 +1,94 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "finnidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				-18
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "finnleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "finndown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-12
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "finnup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-21
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "finnright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-70
+			],
+			"anim": "hah",
+			"fps": 24,
+			"name": "finnhah",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/roasted/finn_roast",
+	"position": [
+		30,
+		140
+	],
+	"healthbar_colors2": [
+		130,
+		174,
+		255
+	],
+	"healthicon": "mordoandfinn",
+	"flip_x": false,
+	"healthbar_colors": [
+		201,
+		201,
+		201
+	],
+	"camera_position": [
+		-80,
+		-130
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

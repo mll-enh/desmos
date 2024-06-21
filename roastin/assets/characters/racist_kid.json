@@ -1,0 +1,94 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-13
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				46
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				1
+			],
+			"anim": "marry",
+			"fps": 24,
+			"name": "you cant get married",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/racism/racist_kid",
+	"position": [
+		10,
+		50
+	],
+	"healthbar_colors2": [
+		86,
+		156,
+		255
+	],
+	"healthicon": "racist-kid",
+	"flip_x": false,
+	"healthbar_colors": [
+		86,
+		156,
+		255
+	],
+	"camera_position": [
+		170,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.75
+}

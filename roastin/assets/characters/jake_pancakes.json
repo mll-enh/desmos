@@ -1,0 +1,83 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-2,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-2,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-2,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-2,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pancakes/Jake_pancakes",
+	"position": [
+		-340,
+		150
+	],
+	"healthbar_colors2": [
+		255,
+		204,
+		0
+	],
+	"healthicon": "jake",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		204,
+		0
+	],
+	"camera_position": [
+		290,
+		-160
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

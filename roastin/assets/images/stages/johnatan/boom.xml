@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="boom.png">
+        <SubTexture name="le kaboom0000" x="0" y="0" width="146" height="204" frameX="0" frameY="0" frameWidth="146" frameHeight="204" />
+        <SubTexture name="le kaboom0001" x="146" y="0" width="146" height="204" frameX="0" frameY="0" frameWidth="146" frameHeight="204" />
+        <SubTexture name="le kaboom0002" x="292" y="0" width="146" height="204" frameX="0" frameY="0" frameWidth="146" frameHeight="204" />
+        <SubTexture name="le kaboom0003" x="438" y="0" width="146" height="204" frameX="0" frameY="0" frameWidth="146" frameHeight="204" />
+        <SubTexture name="le kaboom0004" x="0" y="204" width="146" height="204" frameX="0" frameY="0" frameWidth="146" frameHeight="204" />
+        <SubTexture name="le kaboom0005" x="146" y="204" width="146" height="204" frameX="0" frameY="0" frameWidth="146" frameHeight="204" />
+        <SubTexture name="le kaboom0006" x="292" y="204" width="146" height="204" frameX="0" frameY="0" frameWidth="146" frameHeight="204" />
+        <SubTexture name="le kaboom0007" x="438" y="204" width="146" height="204" frameX="0" frameY="0" frameWidth="146" frameHeight="204" />
+        <SubTexture name="le kaboom0008" x="0" y="408" width="146" height="204" frameX="0" frameY="0" frameWidth="146" frameHeight="204" />
+        <SubTexture name="le kaboom0009" x="146" y="408" width="146" height="204" frameX="0" frameY="0" frameWidth="146" frameHeight="204" />
+        <SubTexture name="le kaboom0010" x="292" y="408" width="146" height="204" frameX="0" frameY="0" frameWidth="146" frameHeight="204" />
+        <SubTexture name="le kaboom0011" x="438" y="408" width="146" height="204" frameX="0" frameY="0" frameWidth="146" frameHeight="204" />
+        <SubTexture name="le kaboom0012" x="0" y="612" width="146" height="204" frameX="0" frameY="0" frameWidth="146" frameHeight="204" />
+        <SubTexture name="le kaboom0013" x="146" y="612" width="146" height="204" frameX="0" frameY="0" frameWidth="146" frameHeight="204" />
+        <SubTexture name="le kaboom0014" x="292" y="612" width="146" height="204" frameX="0" frameY="0" frameWidth="146" frameHeight="204" />
+        <SubTexture name="le kaboom0015" x="438" y="612" width="146" height="204" frameX="0" frameY="0" frameWidth="146" frameHeight="204" />
+        <SubTexture name="le kaboom0016" x="0" y="816" width="146" height="204" frameX="0" frameY="0" frameWidth="146" frameHeight="204" />
+</TextureAtlas>

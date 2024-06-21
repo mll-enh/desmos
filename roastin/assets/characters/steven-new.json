@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				7
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "miss right",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				6
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "miss down",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				6
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "miss up",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				6
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "miss left",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				6
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "stevenidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "stevenleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "stevendown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "stevenup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "stevenright",
+			"indices": []
+		},
+		{
+			"offsets": [
+				468,
+				565
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "leave_me_alone",
+			"loop": false,
+			"name": "leave him alone"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/roasted/Steven_Roast",
+	"position": [
+		190,
+		220
+	],
+	"healthbar_colors2": [
+		255,
+		96,
+		209
+	],
+	"healthicon": "steven",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		96,
+		209
+	],
+	"camera_position": [
+		750,
+		-750
+	],
+	"sing_duration": 4,
+	"scale": 1.35
+}

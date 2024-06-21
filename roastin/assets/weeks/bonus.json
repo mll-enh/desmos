@@ -1,0 +1,27 @@
+{
+	"songs": [
+		["pancakes", "jake", [165, 0, 77]],
+		["protest", "johnhate", [165, 0, 77]],
+		["nuisance", "orange", [165, 0, 77]],
+		["my-own-creation", "fern", [165, 0, 77]],
+		["racism", "racist-kid", [165, 0, 77]],
+		["starlight", "twilight", [165, 0, 77]],
+		["flan", "flan", [165, 0, 77]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

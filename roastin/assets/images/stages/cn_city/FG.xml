@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FG.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="foreground0000" x="0" y="0" width="2175" height="689"/>
+	<SubTexture name="foreground0001" x="2185" y="0" width="2175" height="689"/>
+	<SubTexture name="foreground0002" x="0" y="699" width="2175" height="689"/>
+	<SubTexture name="foreground0003" x="2185" y="699" width="2175" height="689"/>
+	<SubTexture name="foreground0004" x="0" y="1398" width="2175" height="689"/>
+	<SubTexture name="foreground0005" x="2185" y="1398" width="2175" height="689"/>
+</TextureAtlas>

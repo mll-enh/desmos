@@ -1,0 +1,5 @@
+
+Uncaught Error: [file_contents,assets/characters/bf.json]
+Please report this error to the GitHub page: https://github.com/JustXale/fnf-grafex
+
+> Crash Handler written by: sqirra-rng
