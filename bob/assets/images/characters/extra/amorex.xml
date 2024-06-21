@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="amor-ex.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Amor Sing Note DOWN0000" x="10" y="10" width="448" height="775" frameX="0" frameY="-10" frameWidth="448" frameHeight="785"/>
+	<SubTexture name="Amor Sing Note DOWN0001" x="10" y="10" width="448" height="775" frameX="0" frameY="-10" frameWidth="448" frameHeight="785"/>
+	<SubTexture name="Amor Sing Note DOWN0002" x="468" y="10" width="444" height="778" frameX="0" frameY="-7" frameWidth="448" frameHeight="785"/>
+	<SubTexture name="Amor Sing Note DOWN0003" x="468" y="10" width="444" height="778" frameX="0" frameY="-7" frameWidth="448" frameHeight="785"/>
+	<SubTexture name="Amor Sing Note DOWN0004" x="922" y="10" width="422" height="784" frameX="-1" frameY="-1" frameWidth="448" frameHeight="785"/>
+	<SubTexture name="Amor Sing Note DOWN0005" x="922" y="10" width="422" height="784" frameX="-1" frameY="-1" frameWidth="448" frameHeight="785"/>
+	<SubTexture name="Amor Sing Note DOWN0006" x="1354" y="10" width="423" height="785" frameX="0" frameY="0" frameWidth="448" frameHeight="785"/>
+	<SubTexture name="Amor Sing Note DOWN0007" x="1354" y="10" width="423" height="785" frameX="0" frameY="0" frameWidth="448" frameHeight="785"/>
+	<SubTexture name="Amor Sing Note DOWN0008" x="1354" y="10" width="423" height="785" frameX="0" frameY="0" frameWidth="448" frameHeight="785"/>
+	<SubTexture name="Amor Sing Note DOWN0009" x="1354" y="10" width="423" height="785" frameX="0" frameY="0" frameWidth="448" frameHeight="785"/>
+	<SubTexture name="Amor Sing Note DOWN0010" x="1354" y="10" width="423" height="785" frameX="0" frameY="0" frameWidth="448" frameHeight="785"/>
+	<SubTexture name="Amor Sing Note DOWN0011" x="1354" y="10" width="423" height="785" frameX="0" frameY="0" frameWidth="448" frameHeight="785"/>
+	<SubTexture name="Amor Sing Note DOWN0012" x="1354" y="10" width="423" height="785" frameX="0" frameY="0" frameWidth="448" frameHeight="785"/>
+	<SubTexture name="Amor Sing Note DOWN0013" x="1354" y="10" width="423" height="785" frameX="0" frameY="0" frameWidth="448" frameHeight="785"/>
+	<SubTexture name="Amor Sing Note DOWN0014" x="10" y="10" width="448" height="775" frameX="0" frameY="-10" frameWidth="448" frameHeight="785"/>
+	<SubTexture name="Amor Sing Note DOWN0015" x="10" y="10" width="448" height="775" frameX="0" frameY="-10" frameWidth="448" frameHeight="785"/>
+	<SubTexture name="Amor Sing Note LEFT0000" x="1787" y="10" width="661" height="818"/>
+	<SubTexture name="Amor Sing Note LEFT0001" x="1787" y="10" width="661" height="818"/>
+	<SubTexture name="Amor Sing Note LEFT0002" x="2458" y="10" width="651" height="815" frameX="-10" frameY="-3" frameWidth="661" frameHeight="818"/>
+	<SubTexture name="Amor Sing Note LEFT0003" x="2458" y="10" width="651" height="815" frameX="-10" frameY="-3" frameWidth="661" frameHeight="818"/>
+	<SubTexture name="Amor Sing Note LEFT0004" x="3119" y="10" width="615" height="798" frameX="-46" frameY="-20" frameWidth="661" frameHeight="818"/>
+	<SubTexture name="Amor Sing Note LEFT0005" x="3119" y="10" width="615" height="798" frameX="-46" frameY="-20" frameWidth="661" frameHeight="818"/>
+	<SubTexture name="Amor Sing Note LEFT0006" x="3744" y="10" width="613" height="796" frameX="-48" frameY="-22" frameWidth="661" frameHeight="818"/>
+	<SubTexture name="Amor Sing Note LEFT0007" x="3744" y="10" width="613" height="796" frameX="-48" frameY="-22" frameWidth="661" frameHeight="818"/>
+	<SubTexture name="Amor Sing Note LEFT0008" x="3744" y="10" width="613" height="796" frameX="-48" frameY="-22" frameWidth="661" frameHeight="818"/>
+	<SubTexture name="Amor Sing Note LEFT0009" x="3744" y="10" width="613" height="796" frameX="-48" frameY="-22" frameWidth="661" frameHeight="818"/>
+	<SubTexture name="Amor Sing Note LEFT0010" x="3744" y="10" width="613" height="796" frameX="-48" frameY="-22" frameWidth="661" frameHeight="818"/>
+	<SubTexture name="Amor Sing Note LEFT0011" x="3744" y="10" width="613" height="796" frameX="-48" frameY="-22" frameWidth="661" frameHeight="818"/>
+	<SubTexture name="Amor Sing Note LEFT0012" x="3744" y="10" width="613" height="796" frameX="-48" frameY="-22" frameWidth="661" frameHeight="818"/>
+	<SubTexture name="Amor Sing Note LEFT0013" x="3744" y="10" width="613" height="796" frameX="-48" frameY="-22" frameWidth="661" frameHeight="818"/>
+	<SubTexture name="Amor Sing Note LEFT0014" x="1787" y="10" width="661" height="818"/>
+	<SubTexture name="Amor Sing Note LEFT0015" x="1787" y="10" width="661" height="818"/>
+	<SubTexture name="Amor Sing Note LEFT0016" x="2458" y="10" width="651" height="815" frameX="-10" frameY="-3" frameWidth="661" frameHeight="818"/>
+	<SubTexture name="Amor Sing Note LEFT0017" x="2458" y="10" width="651" height="815" frameX="-10" frameY="-3" frameWidth="661" frameHeight="818"/>
+	<SubTexture name="Amor Sing Note LEFT0018" x="3119" y="10" width="615" height="798" frameX="-46" frameY="-20" frameWidth="661" frameHeight="818"/>
+	<SubTexture name="Amor Sing Note RIGHT0000" x="4367" y="10" width="517" height="803" frameX="0" frameY="-1" frameWidth="517" frameHeight="804"/>
+	<SubTexture name="Amor Sing Note RIGHT0001" x="4367" y="10" width="517" height="803" frameX="0" frameY="-1" frameWidth="517" frameHeight="804"/>
+	<SubTexture name="Amor Sing Note RIGHT0002" x="4894" y="10" width="515" height="804" frameX="0" frameY="0" frameWidth="517" frameHeight="804"/>
+	<SubTexture name="Amor Sing Note RIGHT0003" x="4894" y="10" width="515" height="804" frameX="0" frameY="0" frameWidth="517" frameHeight="804"/>
+	<SubTexture name="Amor Sing Note RIGHT0004" x="5419" y="10" width="506" height="798" frameX="0" frameY="-6" frameWidth="517" frameHeight="804"/>
+	<SubTexture name="Amor Sing Note RIGHT0005" x="5419" y="10" width="506" height="798" frameX="0" frameY="-6" frameWidth="517" frameHeight="804"/>
+	<SubTexture name="Amor Sing Note RIGHT0006" x="5935" y="10" width="504" height="797" frameX="0" frameY="-7" frameWidth="517" frameHeight="804"/>
+	<SubTexture name="Amor Sing Note RIGHT0007" x="5935" y="10" width="504" height="797" frameX="0" frameY="-7" frameWidth="517" frameHeight="804"/>
+	<SubTexture name="Amor Sing Note RIGHT0008" x="5935" y="10" width="504" height="797" frameX="0" frameY="-7" frameWidth="517" frameHeight="804"/>
+	<SubTexture name="Amor Sing Note RIGHT0009" x="5935" y="10" width="504" height="797" frameX="0" frameY="-7" frameWidth="517" frameHeight="804"/>
+	<SubTexture name="Amor Sing Note RIGHT0010" x="5935" y="10" width="504" height="797" frameX="0" frameY="-7" frameWidth="517" frameHeight="804"/>
+	<SubTexture name="Amor Sing Note RIGHT0011" x="5935" y="10" width="504" height="797" frameX="0" frameY="-7" frameWidth="517" frameHeight="804"/>
+	<SubTexture name="Amor Sing Note RIGHT0012" x="5935" y="10" width="504" height="797" frameX="0" frameY="-7" frameWidth="517" frameHeight="804"/>
+	<SubTexture name="Amor Sing Note RIGHT0013" x="5935" y="10" width="504" height="797" frameX="0" frameY="-7" frameWidth="517" frameHeight="804"/>
+	<SubTexture name="Amor Sing Note RIGHT0014" x="4367" y="10" width="517" height="803" frameX="0" frameY="-1" frameWidth="517" frameHeight="804"/>
+	<SubTexture name="Amor Sing Note RIGHT0015" x="4367" y="10" width="517" height="803" frameX="0" frameY="-1" frameWidth="517" frameHeight="804"/>
+	<SubTexture name="Amor Sing Note UP0000" x="6449" y="10" width="564" height="880"/>
+	<SubTexture name="Amor Sing Note UP0001" x="6449" y="10" width="564" height="880"/>
+	<SubTexture name="Amor Sing Note UP0002" x="7023" y="10" width="558" height="874" frameX="-6" frameY="-6" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0003" x="7023" y="10" width="558" height="874" frameX="-6" frameY="-6" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0004" x="7591" y="10" width="551" height="844" frameX="-13" frameY="-36" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0005" x="7591" y="10" width="551" height="844" frameX="-13" frameY="-36" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0006" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0007" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0008" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0009" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0010" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0011" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0012" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0013" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0014" x="6449" y="10" width="564" height="880"/>
+	<SubTexture name="Amor Sing Note UP0015" x="6449" y="10" width="564" height="880"/>
+	<SubTexture name="Amor Sing Note UP0016" x="7023" y="10" width="558" height="874" frameX="-6" frameY="-6" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0017" x="7023" y="10" width="558" height="874" frameX="-6" frameY="-6" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0018" x="7591" y="10" width="551" height="844" frameX="-13" frameY="-36" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0019" x="7591" y="10" width="551" height="844" frameX="-13" frameY="-36" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0020" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0021" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0022" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0023" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0024" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0025" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0026" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0027" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0028" x="6449" y="10" width="564" height="880"/>
+	<SubTexture name="Amor Sing Note UP0029" x="6449" y="10" width="564" height="880"/>
+	<SubTexture name="Amor Sing Note UP0030" x="7023" y="10" width="558" height="874" frameX="-6" frameY="-6" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0031" x="7023" y="10" width="558" height="874" frameX="-6" frameY="-6" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0032" x="7591" y="10" width="551" height="844" frameX="-13" frameY="-36" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0033" x="7591" y="10" width="551" height="844" frameX="-13" frameY="-36" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0034" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0035" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0036" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0037" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0038" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0039" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0040" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0041" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0042" x="6449" y="10" width="564" height="880"/>
+	<SubTexture name="Amor Sing Note UP0043" x="6449" y="10" width="564" height="880"/>
+	<SubTexture name="Amor Sing Note UP0044" x="7023" y="10" width="558" height="874" frameX="-6" frameY="-6" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0045" x="7023" y="10" width="558" height="874" frameX="-6" frameY="-6" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0046" x="7591" y="10" width="551" height="844" frameX="-13" frameY="-36" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0047" x="7591" y="10" width="551" height="844" frameX="-13" frameY="-36" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0048" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0049" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0050" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0051" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0052" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0053" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0054" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0055" x="10" y="900" width="551" height="839" frameX="-13" frameY="-41" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0056" x="6449" y="10" width="564" height="880"/>
+	<SubTexture name="Amor Sing Note UP0057" x="6449" y="10" width="564" height="880"/>
+	<SubTexture name="Amor Sing Note UP0058" x="7023" y="10" width="558" height="874" frameX="-6" frameY="-6" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor Sing Note UP0059" x="7023" y="10" width="558" height="874" frameX="-6" frameY="-6" frameWidth="564" frameHeight="880"/>
+	<SubTexture name="Amor drop0000" x="571" y="900" width="451" height="829" frameX="-187" frameY="-108" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0001" x="1032" y="900" width="451" height="829" frameX="-187" frameY="-108" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0002" x="1493" y="900" width="451" height="829" frameX="-187" frameY="-108" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0003" x="1954" y="900" width="452" height="830" frameX="-187" frameY="-108" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0004" x="2416" y="900" width="452" height="832" frameX="-187" frameY="-108" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0005" x="2878" y="900" width="453" height="835" frameX="-187" frameY="-109" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0006" x="3341" y="900" width="455" height="841" frameX="-187" frameY="-111" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0007" x="3806" y="900" width="456" height="842" frameX="-187" frameY="-112" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0008" x="4272" y="900" width="458" height="843" frameX="-187" frameY="-112" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0009" x="4740" y="900" width="459" height="842" frameX="-187" frameY="-113" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0010" x="5209" y="900" width="459" height="842" frameX="-187" frameY="-113" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0011" x="5209" y="900" width="459" height="842" frameX="-186" frameY="-113" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0012" x="5678" y="900" width="456" height="826" frameX="-183" frameY="-94" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0013" x="6144" y="900" width="508" height="906" frameX="-136" frameY="0" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0014" x="6662" y="900" width="796" height="866" frameX="0" frameY="-54" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0015" x="10" y="1816" width="766" height="846" frameX="-2" frameY="-88" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0016" x="786" y="1816" width="732" height="845" frameX="-10" frameY="-90" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0017" x="1528" y="1816" width="732" height="851" frameX="-11" frameY="-84" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0018" x="2270" y="1816" width="730" height="851" frameX="-13" frameY="-84" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0019" x="3010" y="1816" width="730" height="851" frameX="-14" frameY="-84" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0020" x="3750" y="1816" width="728" height="850" frameX="-16" frameY="-85" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0021" x="4488" y="1816" width="727" height="850" frameX="-17" frameY="-85" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0022" x="5225" y="1816" width="726" height="850" frameX="-18" frameY="-85" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0023" x="5961" y="1816" width="726" height="849" frameX="-19" frameY="-86" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0024" x="6697" y="1816" width="725" height="849" frameX="-20" frameY="-86" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0025" x="7432" y="1816" width="725" height="849" frameX="-20" frameY="-86" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0026" x="10" y="2677" width="724" height="849" frameX="-21" frameY="-86" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0027" x="744" y="2677" width="724" height="849" frameX="-21" frameY="-86" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0028" x="1478" y="2677" width="724" height="849" frameX="-21" frameY="-86" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor drop0029" x="1478" y="2677" width="724" height="849" frameX="-21" frameY="-86" frameWidth="796" frameHeight="955"/>
+	<SubTexture name="Amor idle dance0000" x="2212" y="2677" width="439" height="800" frameX="-6" frameY="0" frameWidth="450" frameHeight="800"/>
+	<SubTexture name="Amor idle dance0001" x="2212" y="2677" width="439" height="800" frameX="-6" frameY="0" frameWidth="450" frameHeight="800"/>
+	<SubTexture name="Amor idle dance0002" x="2661" y="2677" width="441" height="796" frameX="-5" frameY="-4" frameWidth="450" frameHeight="800"/>
+	<SubTexture name="Amor idle dance0003" x="2661" y="2677" width="441" height="796" frameX="-5" frameY="-4" frameWidth="450" frameHeight="800"/>
+	<SubTexture name="Amor idle dance0004" x="3112" y="2677" width="450" height="796" frameX="0" frameY="-4" frameWidth="450" frameHeight="800"/>
+	<SubTexture name="Amor idle dance0005" x="3112" y="2677" width="450" height="796" frameX="0" frameY="-4" frameWidth="450" frameHeight="800"/>
+	<SubTexture name="Amor idle dance0006" x="3572" y="2677" width="443" height="799" frameX="-4" frameY="-1" frameWidth="450" frameHeight="800"/>
+	<SubTexture name="Amor idle dance0007" x="3572" y="2677" width="443" height="799" frameX="-4" frameY="-1" frameWidth="450" frameHeight="800"/>
+	<SubTexture name="Amor idle dance0008" x="4025" y="2677" width="439" height="799" frameX="-6" frameY="-1" frameWidth="450" frameHeight="800"/>
+	<SubTexture name="Amor idle dance0009" x="4025" y="2677" width="439" height="799" frameX="-6" frameY="-1" frameWidth="450" frameHeight="800"/>
+	<SubTexture name="Amor idle dance0010" x="4474" y="2677" width="439" height="798" frameX="-6" frameY="-2" frameWidth="450" frameHeight="800"/>
+	<SubTexture name="Amor idle dance0011" x="4474" y="2677" width="439" height="798" frameX="-6" frameY="-2" frameWidth="450" frameHeight="800"/>
+	<SubTexture name="Amor idle dance0012" x="4923" y="2677" width="439" height="798" frameX="-6" frameY="-2" frameWidth="450" frameHeight="800"/>
+</TextureAtlas>
