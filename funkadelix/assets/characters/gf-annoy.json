@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "idle",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "idle",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			]
+		},
+		{
+			"offsets": [
+				-21,
+				-9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "l"
+		},
+		{
+			"offsets": [
+				4,
+				-45
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "d"
+		},
+		{
+			"offsets": [
+				-18,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "u"
+		},
+		{
+			"offsets": [
+				-23,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "r"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/girlfriend/girlfriendannoy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-170,
+		70
+	],
+	"sing_duration": 5,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

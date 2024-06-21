@@ -1,0 +1,741 @@
+{
+	"song": {
+		"events": [
+			[
+				2823.52941176471,
+				[
+					[
+						"Lyrics",
+						"There's that spooky little spark that's in the air",
+						"skid"
+					]
+				]
+			],
+			[
+				4058.82352941176,
+				[
+					[
+						"Camera Zoom Hold",
+						"0.53",
+						""
+					]
+				]
+			],
+			[
+				4588.23529411765,
+				[
+					[
+						"Camera Zoom Hold",
+						"0.35",
+						""
+					]
+				]
+			],
+			[
+				5647.05882352941,
+				[
+					[
+						"Lyrics",
+						"Goblins, ghouls n' witches",
+						"skid"
+					]
+				]
+			],
+			[
+				7058.82352941176,
+				[
+					[
+						"Lyrics",
+						"They'll be sure to scare",
+						"skid"
+					]
+				]
+			],
+			[
+				8470.58823529412,
+				[
+					[
+						"Clear Lyrics",
+						"skid",
+						""
+					],
+					[
+						"Lyrics",
+						"Demon lurkin' in the dark, she raisin' hair",
+						"bf"
+					]
+				]
+			],
+			[
+				9705.88235294117,
+				[
+					[
+						"Camera Zoom Hold",
+						"0.53",
+						""
+					]
+				]
+			],
+			[
+				10235.2941176471,
+				[
+					[
+						"Camera Zoom Hold",
+						"0.35",
+						""
+					]
+				]
+			],
+			[
+				11294.1176470588,
+				[
+					[
+						"Lyrics",
+						"Goosebumps, read ya like a book",
+						"bf"
+					]
+				]
+			],
+			[
+				13058.8235294118,
+				[
+					[
+						"Lyrics",
+						"You'd best beware",
+						"bf"
+					]
+				]
+			],
+			[
+				14117.6470588235,
+				[
+					[
+						"Clear Lyrics",
+						"bf",
+						""
+					],
+					[
+						"Lyrics",
+						"Two of the spookiest kids 'round town",
+						"pump"
+					]
+				]
+			],
+			[
+				16235.2941176471,
+				[
+					[
+						"Add Camera Zoom",
+						"0.0225",
+						"0.0425"
+					],
+					[
+						"Lyrics",
+						"On a mission",
+						"pump"
+					]
+				]
+			],
+			[
+				16588.2352941176,
+				[
+					[
+						"Add Camera Zoom",
+						"0.0225",
+						"0.0425"
+					]
+				]
+			],
+			[
+				16941.1764705882,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"-0.075"
+					],
+					[
+						"Camera Flash",
+						"hud",
+						"1.0"
+					]
+				]
+			],
+			[
+				16941.1764705882,
+				[
+					[
+						"Lyrics",
+						"Call it a sugar rush",
+						"pump"
+					]
+				]
+			],
+			[
+				18176.4705882353,
+				[
+					[
+						"Lyrics",
+						"Forget 'bout our nutrition",
+						"pump"
+					]
+				]
+			],
+			[
+				19764.7058823529,
+				[
+					[
+						"Clear Lyrics",
+						"pump",
+						""
+					],
+					[
+						"Lyrics",
+						"Feelin' a shiver up your spine",
+						"bf"
+					]
+				]
+			],
+			[
+				21000,
+				[
+					[
+						"Camera Zoom Hold",
+						"0.53",
+						""
+					]
+				]
+			],
+			[
+				21529.4117647059,
+				[
+					[
+						"Camera Zoom Hold",
+						"0.35",
+						""
+					],
+					[
+						"Lyrics",
+						"Sumn' rise suspicion",
+						"bf"
+					]
+				]
+			],
+			[
+				22588.2352941176,
+				[
+					[
+						"Lyrics",
+						"Right in the corner of your eye",
+						"bf"
+					]
+				]
+			],
+			[
+				24352.9411764706,
+				[
+					[
+						"Lyrics",
+						"See an apparition",
+						"bf"
+					]
+				]
+			],
+			[
+				25411.7647058824,
+				[
+					[
+						"South Note Float",
+						"",
+						""
+					],
+					[
+						"Clear Lyrics",
+						"bf",
+						""
+					],
+					[
+						"Lyrics",
+						"Yea, we a couple o' smarties",
+						"pump"
+					]
+				]
+			],
+			[
+				26823.5294117647,
+				[
+					[
+						"Lyrics",
+						"And no, we're not talkin' nerds",
+						"pump"
+					]
+				]
+			],
+			[
+				28235.2941176471,
+				[
+					[
+						"Lyrics",
+						"Time for the payday",
+						"pump"
+					]
+				]
+			],
+			[
+				29117.6470588235,
+				[
+					[
+						"Lyrics",
+						"We stay snickerin' at your loss of words",
+						"pump"
+					]
+				]
+			],
+			[
+				30882.3529411765,
+				[
+					[
+						"Clear Lyrics",
+						"pump",
+						""
+					],
+					[
+						"Lyrics",
+						"A monsta gon' take out ya heart",
+						"bf"
+					]
+				]
+			],
+			[
+				32294.1176470588,
+				[
+					[
+						"Lyrics",
+						"He gon' make sure yo' screams ain't heard",
+						"bf"
+					]
+				]
+			],
+			[
+				33705.8823529412,
+				[
+					[
+						"Lyrics",
+						"Yo' mama scream \"MAY-DAY!\"",
+						"bf"
+					]
+				]
+			],
+			[
+				34764.7058823529,
+				[
+					[
+						"Lyrics",
+						"When she find two kiddies cut up in thirds!",
+						"bf"
+					]
+				]
+			],
+			[
+				36529.4117647059,
+				[
+					[
+						"Clear Lyrics",
+						"bf",
+						""
+					],
+					[
+						"Lyrics",
+						"You act like an airhead",
+						"skid"
+					]
+				]
+			],
+			[
+				37588.2352941176,
+				[
+					[
+						"Lyrics",
+						"Your butterfingers won't do you no good",
+						"skid"
+					]
+				]
+			],
+			[
+				39529.4117647059,
+				[
+					[
+						"Lyrics",
+						"We're on a tootsie roll",
+						"skid"
+					]
+				]
+			],
+			[
+				40411.7647058823,
+				[
+					[
+						"Lyrics",
+						"Take one from the bowl",
+						"skid"
+					]
+				]
+			],
+			[
+				41117.6470588235,
+				[
+					[
+						"Lyrics",
+						"So are we understood?",
+						"skid"
+					]
+				]
+			],
+			[
+				42176.4705882353,
+				[
+					[
+						"Clear Lyrics",
+						"skid",
+						""
+					],
+					[
+						"Lyrics",
+						"Surprised that you ain't fled",
+						"bf"
+					]
+				]
+			],
+			[
+				43235.294117647,
+				[
+					[
+						"Lyrics",
+						"Yo' little fingers end up in a stew",
+						"bf"
+					]
+				]
+			],
+			[
+				45176.4705882353,
+				[
+					[
+						"Lyrics",
+						"Do him a favor",
+						"bf"
+					]
+				]
+			],
+			[
+				46058.8235294117,
+				[
+					[
+						"Lyrics",
+						"Oh, won't you flavor his delicious brew?",
+						"bf"
+					]
+				]
+			],
+			[
+				47294.1176470588,
+				[
+					[
+						"Second Lyric Line",
+						"(Can you feel it?)",
+						"pump"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"South Note Float",
+						"",
+						""
+					],
+					[
+						"Clear Lyrics",
+						"bf",
+						""
+					],
+					[
+						"Clear Lyrics",
+						"pump",
+						""
+					],
+					[
+						"Lyrics",
+						"There's that spooky little spark",
+						"pump"
+					]
+				]
+			],
+			[
+				49235.294117647,
+				[
+					[
+						"Camera Zoom Hold",
+						"0.53",
+						""
+					]
+				]
+			],
+			[
+				49764.7058823529,
+				[
+					[
+						"Camera Zoom Hold",
+						"0.35",
+						""
+					],
+					[
+						"Lyrics",
+						"That's everywhere",
+						"pump"
+					]
+				]
+			],
+			[
+				50823.5294117647,
+				[
+					[
+						"Lyrics",
+						"Goblins, ghouls, n' witches",
+						"pump"
+					]
+				]
+			],
+			[
+				52235.294117647,
+				[
+					[
+						"Lyrics",
+						"They'll be sure to scare",
+						"pump"
+					]
+				]
+			],
+			[
+				52941.1764705882,
+				[
+					[
+						"Second Lyric Line",
+						"(Watch out for the)",
+						"bf"
+					]
+				]
+			],
+			[
+				53647.0588235294,
+				[
+					[
+						"Clear Lyrics",
+						"bf",
+						""
+					],
+					[
+						"Clear Lyrics",
+						"pump",
+						""
+					],
+					[
+						"Lyrics",
+						"Demon lurkin' in the dark",
+						"bf"
+					]
+				]
+			],
+			[
+				54882.3529411764,
+				[
+					[
+						"Camera Zoom Hold",
+						"0.53",
+						""
+					]
+				]
+			],
+			[
+				55411.7647058823,
+				[
+					[
+						"Camera Zoom Hold",
+						"0.35",
+						""
+					],
+					[
+						"Lyrics",
+						"She raisin' hair",
+						"bf"
+					]
+				]
+			],
+			[
+				56470.5882352941,
+				[
+					[
+						"Lyrics",
+						"Goosebumps, read ya like a book",
+						"bf"
+					]
+				]
+			],
+			[
+				58235.294117647,
+				[
+					[
+						"Lyrics",
+						"You'd best beware",
+						"bf"
+					]
+				]
+			],
+			[
+				59294.1176470588,
+				[
+					[
+						"Clear Lyrics",
+						"bf",
+						""
+					],
+					[
+						"Lyrics",
+						"Two of the spookiest kids 'round town",
+						"skid"
+					]
+				]
+			],
+			[
+				61235.294117647,
+				[
+					[
+						"Lyrics",
+						"We're on a mission",
+						"skid"
+					]
+				]
+			],
+			[
+				61411.7647058824,
+				[
+					[
+						"Add Camera Zoom",
+						"0.0225",
+						"0.0425"
+					]
+				]
+			],
+			[
+				61764.7058823529,
+				[
+					[
+						"Add Camera Zoom",
+						"0.0225",
+						"0.0425"
+					]
+				]
+			],
+			[
+				62117.6470588235,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"-0.075"
+					],
+					[
+						"Camera Flash",
+						"hud",
+						"1.0"
+					],
+					[
+						"Lyrics",
+						"Call it a sugar rush",
+						"skid"
+					]
+				]
+			],
+			[
+				63352.9411764705,
+				[
+					[
+						"Lyrics",
+						"Forgettin' all about nutrition",
+						"skid"
+					]
+				]
+			],
+			[
+				64941.1764705882,
+				[
+					[
+						"Clear Lyrics",
+						"skid",
+						""
+					],
+					[
+						"Lyrics",
+						"Feelin' a shiver up your spine",
+						"bf"
+					]
+				]
+			],
+			[
+				66176.4705882352,
+				[
+					[
+						"Camera Zoom Hold",
+						"0.53",
+						""
+					]
+				]
+			],
+			[
+				66705.8823529411,
+				[
+					[
+						"Camera Zoom Hold",
+						"0.35",
+						""
+					],
+					[
+						"Lyrics",
+						"Sumn' rise suspicion",
+						"bf"
+					]
+				]
+			],
+			[
+				67764.7058823529,
+				[
+					[
+						"Lyrics",
+						"Right in the corner of your eye",
+						"bf"
+					]
+				]
+			],
+			[
+				69176.4705882352,
+				[
+					[
+						"Lyrics",
+						"You see an apparition",
+						"bf"
+					]
+				]
+			],
+			[
+				70764.7058823529,
+				[
+					[
+						"Clear first",
+						"bf",
+						"bf"
+					]
+				]
+			]
+		]
+	}
+}

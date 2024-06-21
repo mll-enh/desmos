@@ -1,0 +1,776 @@
+{
+	"song": {
+		"events": [
+			[
+				9600,
+				[
+					[
+						"Lyrics",
+						"Left, right!",
+						"gf"
+					]
+				]
+			],
+			[
+				14400,
+				[
+					[
+						"Clear first",
+						"gf",
+						""
+					],
+					[
+						"Lyrics",
+						"Left, right!",
+						"bf"
+					]
+				]
+			],
+			[
+				18000,
+				[
+					[
+						"Second Lyric Line",
+						"(That's how ya do it!)",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"cheer",
+						"dad"
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Clear first",
+						"bf",
+						""
+					],
+					[
+						"Clear Lyrics",
+						"gf",
+						""
+					],
+					[
+						"Lyrics",
+						"Up, down!",
+						"gf"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Clear first",
+						"gf",
+						""
+					],
+					[
+						"Lyrics",
+						"Up, down!",
+						"bf"
+					]
+				]
+			],
+			[
+				27600,
+				[
+					[
+						"Second Lyric Line",
+						"(That's how ya do it!)",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"cheer",
+						"dad"
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Clear Lyrics",
+						"gf",
+						""
+					],
+					[
+						"Clear first",
+						"bf",
+						""
+					],
+					[
+						"Lyrics",
+						"Left, up, down, right!",
+						"gf"
+					]
+				]
+			],
+			[
+				33600,
+				[
+					[
+						"Clear Lyrics",
+						"gf",
+						""
+					],
+					[
+						"Lyrics",
+						"Left, up, down, right!",
+						"bf"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Clear Lyrics",
+						"bf",
+						""
+					],
+					[
+						"Lyrics",
+						"Down, down, up!",
+						"gf"
+					]
+				]
+			],
+			[
+				40800,
+				[
+					[
+						"Clear first",
+						"gf",
+						""
+					],
+					[
+						"Lyrics",
+						"Down, down, right!",
+						"gf"
+					]
+				]
+			],
+			[
+				43200,
+				[
+					[
+						"Clear first",
+						"gf",
+						""
+					],
+					[
+						"Lyrics",
+						"Down, down, up!",
+						"bf"
+					]
+				]
+			],
+			[
+				45600,
+				[
+					[
+						"Clear first",
+						"bf",
+						""
+					],
+					[
+						"Lyrics",
+						"Down, down, right!",
+						"bf"
+					]
+				]
+			],
+			[
+				47100,
+				[
+					[
+						"Second Lyric Line",
+						"(Freestyle!)",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"freestyle",
+						"dad"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Clear Lyrics",
+						"gf",
+						""
+					],
+					[
+						"Clear first",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				48150,
+				[
+					[
+						"Lyrics",
+						"To beat'cha dad I gotta",
+						"bf"
+					]
+				]
+			],
+			[
+				49350,
+				[
+					[
+						"Clear first",
+						"bf",
+						""
+					],
+					[
+						"Lyrics",
+						"Rap to the rhythm, betta-",
+						"bf"
+					]
+				]
+			],
+			[
+				50550,
+				[
+					[
+						"Lyrics",
+						"Follow the tempo, baby",
+						"bf"
+					]
+				]
+			],
+			[
+				51750,
+				[
+					[
+						"Lyrics",
+						"Can't risk a miss or blunda",
+						"bf"
+					]
+				]
+			],
+			[
+				52950,
+				[
+					[
+						"Clear first",
+						"bf",
+						""
+					],
+					[
+						"Lyrics",
+						"To beat my dad you gotta",
+						"gf"
+					]
+				]
+			],
+			[
+				54150,
+				[
+					[
+						"Lyrics",
+						"Rap to the rhythm betta!",
+						"gf"
+					]
+				]
+			],
+			[
+				55350,
+				[
+					[
+						"Lyrics",
+						"Follow the tempo, baby",
+						"gf"
+					]
+				]
+			],
+			[
+				56550,
+				[
+					[
+						"Lyrics",
+						"Can't risk a miss or blunda!",
+						"gf"
+					]
+				]
+			],
+			[
+				57750,
+				[
+					[
+						"Clear Lyrics",
+						"gf",
+						""
+					],
+					[
+						"Lyrics",
+						"This for my baby girl,",
+						"bf"
+					]
+				]
+			],
+			[
+				58950,
+				[
+					[
+						"Lyrics",
+						"You make my mind go swirl",
+						"bf"
+					]
+				]
+			],
+			[
+				60150,
+				[
+					[
+						"Lyrics",
+						"Transcendin' time n' space",
+						"bf"
+					]
+				]
+			],
+			[
+				61350,
+				[
+					[
+						"Lyrics",
+						"You diamonds, I'm yo pearl",
+						"bf"
+					]
+				]
+			],
+			[
+				62550,
+				[
+					[
+						"Clear Lyrics",
+						"bf",
+						""
+					],
+					[
+						"Lyrics",
+						"This for our life togetha'",
+						"gf"
+					]
+				]
+			],
+			[
+				63750,
+				[
+					[
+						"Lyrics",
+						"Just you n' me fo'eva'!",
+						"gf"
+					]
+				]
+			],
+			[
+				64950,
+				[
+					[
+						"Lyrics",
+						"Daddy's infuriatin'...",
+						"gf"
+					]
+				]
+			],
+			[
+				66150,
+				[
+					[
+						"Lyrics",
+						"Gotta be such a bumma!",
+						"gf"
+					]
+				]
+			],
+			[
+				67800,
+				[
+					[
+						"Lyrics",
+						"Boy, I'm glad to finally make you mine",
+						"gf"
+					]
+				]
+			],
+			[
+				70200,
+				[
+					[
+						"Lyrics",
+						"Yea, your eyes are my sunlight, oh",
+						"gf"
+					]
+				]
+			],
+			[
+				72600,
+				[
+					[
+						"Lyrics",
+						"Hold me tight, make me feel so right",
+						"gf"
+					]
+				]
+			],
+			[
+				75000,
+				[
+					[
+						"Lyrics",
+						"Soarin' high, our love is takin' flight",
+						"gf"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Clear Lyrics",
+						"gf",
+						""
+					],
+					[
+						"Lyrics",
+						"Ooo, my girl, my love is everlastin'",
+						"bf"
+					]
+				]
+			],
+			[
+				81900,
+				[
+					[
+						"Lyrics",
+						"After that fight, yea, let's go all night!",
+						"bf"
+					]
+				]
+			],
+			[
+				84300,
+				[
+					[
+						"Clear Lyrics",
+						"bf",
+						""
+					],
+					[
+						"Lyrics",
+						"My love, you got this, bet that on my life!",
+						"gf"
+					]
+				]
+			],
+			[
+				86550,
+				[
+					[
+						"Clear Lyrics",
+						"gf",
+						""
+					],
+					[
+						"Lyrics",
+						"To beat'cha dad I gotta",
+						"bf"
+					]
+				]
+			],
+			[
+				87000,
+				[
+					[
+						"Second Lyric Line",
+						"Left, right!",
+						"gf"
+					]
+				]
+			],
+			[
+				87750,
+				[
+					[
+						"Lyrics",
+						"Rap to the rhythm betta-",
+						"bf"
+					]
+				]
+			],
+			[
+				88950,
+				[
+					[
+						"Lyrics",
+						"Follow the tempo, baby",
+						"bf"
+					]
+				]
+			],
+			[
+				90150,
+				[
+					[
+						"Lyrics",
+						"Can't risk a miss or blunda",
+						"bf"
+					]
+				]
+			],
+			[
+				91350,
+				[
+					[
+						"Clear Lyrics",
+						"bf",
+						""
+					],
+					[
+						"Clear Lyrics",
+						"gf",
+						""
+					],
+					[
+						"Lyrics",
+						"To beat my dad you gotta",
+						"gf"
+					]
+				]
+			],
+			[
+				91800,
+				[
+					[
+						"Second Lyric Line",
+						"Left, right!",
+						"bf"
+					]
+				]
+			],
+			[
+				92550,
+				[
+					[
+						"Lyrics",
+						"Rap to the rhythm betta!",
+						"gf"
+					]
+				]
+			],
+			[
+				93750,
+				[
+					[
+						"Lyrics",
+						"Follow the tempo, baby",
+						"gf"
+					]
+				]
+			],
+			[
+				94950,
+				[
+					[
+						"Lyrics",
+						"Can't risk a miss or blunda!",
+						"gf"
+					]
+				]
+			],
+			[
+				96150,
+				[
+					[
+						"Clear Lyrics",
+						"gf",
+						""
+					],
+					[
+						"Clear Lyrics",
+						"bf",
+						""
+					],
+					[
+						"Lyrics",
+						"This for my baby girl,",
+						"bf"
+					]
+				]
+			],
+			[
+				96600,
+				[
+					[
+						"Second Lyric Line",
+						"Up, down!",
+						"gf"
+					]
+				]
+			],
+			[
+				97350,
+				[
+					[
+						"Lyrics",
+						"You make my mind go swirl",
+						"bf"
+					]
+				]
+			],
+			[
+				98550,
+				[
+					[
+						"Lyrics",
+						"Transcendin' time n' space",
+						"bf"
+					]
+				]
+			],
+			[
+				99750,
+				[
+					[
+						"Lyrics",
+						"You diamonds, I'm yo pearl",
+						"bf"
+					]
+				]
+			],
+			[
+				100950,
+				[
+					[
+						"Clear Lyrics",
+						"bf",
+						""
+					],
+					[
+						"Clear Lyrics",
+						"gf",
+						""
+					],
+					[
+						"Lyrics",
+						"This for our life togetha'",
+						"gf"
+					]
+				]
+			],
+			[
+				101400,
+				[
+					[
+						"Second Lyric Line",
+						"Up, down!",
+						"bf"
+					]
+				]
+			],
+			[
+				102150,
+				[
+					[
+						"Lyrics",
+						"Just you n' me fo'eva'!",
+						"gf"
+					]
+				]
+			],
+			[
+				103350,
+				[
+					[
+						"Lyrics",
+						"Daddy's infuriatin'...",
+						"gf"
+					]
+				]
+			],
+			[
+				104550,
+				[
+					[
+						"Lyrics",
+						"Gotta be such a bumma!",
+						"gf"
+					]
+				]
+			],
+			[
+				105750,
+				[
+					[
+						"Clear first",
+						"bf",
+						""
+					],
+					[
+						"Clear Lyrics",
+						"gf",
+						""
+					],
+					[
+						"Boyfriend Speak Tutorial",
+						"",
+						""
+					]
+				]
+			],
+			[
+				105900,
+				[
+					[
+						"Lyrics",
+						"Babygirl, if I had a nickel... ",
+						"bf"
+					]
+				]
+			],
+			[
+				107850,
+				[
+					[
+						"Lyrics",
+						"...everytime I thought of you...",
+						"bf"
+					]
+				]
+			],
+			[
+				109500,
+				[
+					[
+						"Lyrics",
+						"I'd have one, cuz you never leave my mind.",
+						"bf"
+					]
+				]
+			],
+			[
+				112350,
+				[
+					[
+						"Lyrics",
+						"Now I'mma face yo' dad, and make you mine!",
+						"bf"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="difficulty.png" width="362" height="393">
+	<SubTexture name="easy0000" x="3" y="253" width="211" height="137" frameX="-0" frameY="-0" frameWidth="211" frameHeight="137"/>
+	<SubTexture name="easy arrow0000" x="273" y="3" width="86" height="123" frameX="-0" frameY="-0" frameWidth="86" frameHeight="123"/>
+	<SubTexture name="hard0000" x="3" y="3" width="267" height="132" frameX="-0" frameY="-0" frameWidth="267" frameHeight="132"/>
+	<SubTexture name="hard arrow0000" x="273" y="129" width="86" height="123" frameX="-0" frameY="-0" frameWidth="86" frameHeight="123"/>
+	<SubTexture name="normal0000" x="3" y="138" width="263" height="112" frameX="-0" frameY="-0" frameWidth="263" frameHeight="112"/>
+	<SubTexture name="normal arrow0000" x="217" y="255" width="86" height="123" frameX="-0" frameY="-0" frameWidth="86" frameHeight="123"/>
+</TextureAtlas>

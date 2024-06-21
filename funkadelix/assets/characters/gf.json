@@ -1,0 +1,201 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-9,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cheer",
+			"indices": [],
+			"name": "cheer"
+		},
+		{
+			"offsets": [
+				-21,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				4,
+				-45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-18,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-23,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-3,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sad",
+			"indices": [],
+			"name": "crying"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				8,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "freestyle",
+			"indices": [],
+			"name": "freestyle"
+		},
+		{
+			"offsets": [
+				-23,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "l-alt"
+		},
+		{
+			"offsets": [
+				3,
+				-44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "d-alt"
+		},
+		{
+			"offsets": [
+				-18,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "u-alt"
+		},
+		{
+			"offsets": [
+				-23,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "r-alt"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/girlfriend/girlfriend",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-170,
+		70
+	],
+	"sing_duration": 5,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

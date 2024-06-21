@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["themesong", "bf", [148, 22, 83], "175"],
+			["leaked", "bf", [148, 22, 83], "175"]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "w3",
+
+	"storyName": "freeplay",
+	"difficulties": "Normal",
+	"weekBefore": "week2",
+	"weekName": "Week 3",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

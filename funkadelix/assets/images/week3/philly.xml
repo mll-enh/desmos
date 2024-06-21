@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="philly.png" width="2506" height="4786">
+	<SubTexture name="beams" x="3" y="4245" width="2468" height="538" frameX="-16" frameY="-585" frameWidth="2500" frameHeight="1800"/>
+	<SubTexture name="buildings" x="3" y="1806" width="2500" height="1268" frameX="-0" frameY="-102" frameWidth="2500" frameHeight="1800"/>
+	<SubTexture name="roof" x="3" y="3077" width="2500" height="1165" frameX="-0" frameY="-635" frameWidth="2500" frameHeight="1800"/>
+	<SubTexture name="sky" x="3" y="3" width="2500" height="1800" frameX="-0" frameY="-0" frameWidth="2500" frameHeight="1800"/>
+</TextureAtlas>

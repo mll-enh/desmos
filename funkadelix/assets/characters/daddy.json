@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				-28
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				-124
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				-84
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				26,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "dad-miss"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/daddydearest/daddyd",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		10,
+		50
+	],
+	"sing_duration": 5,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,1216 @@
+{
+	"song": {
+		"events": [
+			[
+				6400,
+				[
+					[
+						"Lyrics",
+						"Spooky month's here, time to give a big cheer",
+						"skid"
+					]
+				]
+			],
+			[
+				9200,
+				[
+					[
+						"Lyrics",
+						"A-HA!",
+						"skid"
+					]
+				]
+			],
+			[
+				9600,
+				[
+					[
+						"Lyrics",
+						"Spooky month's here, time to turn up the fear",
+						"bf"
+					]
+				]
+			],
+			[
+				12400,
+				[
+					[
+						"Lyrics",
+						"BA-HA!",
+						"bf"
+					]
+				]
+			],
+			[
+				12800,
+				[
+					[
+						"Lyrics",
+						"Now it is time to trick or treat",
+						"pump"
+					]
+				]
+			],
+			[
+				14400,
+				[
+					[
+						"Lyrics",
+						"Lotsa new candy to eat, YEA!",
+						"pump"
+					]
+				]
+			],
+			[
+				16000,
+				[
+					[
+						"Lyrics",
+						"Now that it's time to trick or treat",
+						"bf"
+					]
+				]
+			],
+			[
+				17600,
+				[
+					[
+						"Lyrics",
+						"MONSTERS ARE HUNTIN' TO EAT'CHA!",
+						"bf"
+					],
+					[
+						"Zoom Camera",
+						"0.1",
+						"2.5"
+					]
+				]
+			],
+			[
+				18800,
+				[
+					[
+						"Second Lyric Line",
+						"Lurking out tonight",
+						"skid"
+					]
+				]
+			],
+			[
+				19600,
+				[
+					[
+						"Zoom Camera",
+						"0",
+						"2.5"
+					],
+					[
+						"Clear Lyrics",
+						"bf",
+						""
+					],
+					[
+						"Clear Lyrics",
+						"skid",
+						""
+					],
+					[
+						"Lyrics",
+						"Lurking out tonight",
+						"skid"
+					],
+					[
+						"Second Lyric Line",
+						"(BOO! BOO! BOO! BOO!)",
+						"pump"
+					]
+				]
+			],
+			[
+				20800,
+				[
+					[
+						"Lyrics",
+						"Feel the fright!",
+						"skid"
+					],
+					[
+						"Clear Lyrics",
+						"pump",
+						""
+					]
+				]
+			],
+			[
+				21200,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO!)",
+						"pump"
+					]
+				]
+			],
+			[
+				21800,
+				[
+					[
+						"Clear Lyrics",
+						"pump",
+						""
+					],
+					[
+						"Lyrics",
+						"Cuz it's a candy heist",
+						"skid"
+					]
+				]
+			],
+			[
+				22800,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO! BOO! BOO!)",
+						"pump"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Clear Lyrics",
+						"pump",
+						""
+					],
+					[
+						"Lyrics",
+						"Take a bite!",
+						"skid"
+					]
+				]
+			],
+			[
+				24400,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO!)",
+						"pump"
+					]
+				]
+			],
+			[
+				25200,
+				[
+					[
+						"Second Lyric Line",
+						"A-HA!",
+						"skid"
+					],
+					[
+						"Lyrics",
+						"Who turned out the light",
+						"bf"
+					]
+				]
+			],
+			[
+				26000,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO! BOO! BOO!)",
+						"bf"
+					]
+				]
+			],
+			[
+				27200,
+				[
+					[
+						"Second Lyric Line",
+						"",
+						"bf"
+					],
+					[
+						"Lyrics",
+						"Feel the fright",
+						"bf"
+					]
+				]
+			],
+			[
+				27600,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO!)",
+						"bf"
+					]
+				]
+			],
+			[
+				28400,
+				[
+					[
+						"Second Lyric Line",
+						"",
+						"bf"
+					],
+					[
+						"Lyrics",
+						"Macabre delight",
+						"bf"
+					]
+				]
+			],
+			[
+				29200,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO! BOO! BOO!)",
+						"bf"
+					]
+				]
+			],
+			[
+				30400,
+				[
+					[
+						"Lyrics",
+						"In the night!",
+						"bf"
+					],
+					[
+						"Second Lyric Line",
+						"",
+						"bf"
+					]
+				]
+			],
+			[
+				30800,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO!)",
+						"bf"
+					]
+				]
+			],
+			[
+				31600,
+				[
+					[
+						"Second Lyric Line",
+						"We said Spooky month's here, time to give a big cheer",
+						"pump"
+					],
+					[
+						"Lyrics",
+						"BA-HA!",
+						"bf"
+					]
+				]
+			],
+			[
+				32000,
+				[
+					[
+						"Lyrics",
+						"We said Spooky month's here, time to give a big cheer",
+						"pump"
+					],
+					[
+						"Second Lyric Line",
+						"",
+						"pump"
+					]
+				]
+			],
+			[
+				34800,
+				[
+					[
+						"Lyrics",
+						"A-HA!",
+						"pump"
+					]
+				]
+			],
+			[
+				35200,
+				[
+					[
+						"Lyrics",
+						"Spooky month's here, time to turn up the fear",
+						"bf"
+					]
+				]
+			],
+			[
+				38000,
+				[
+					[
+						"Lyrics",
+						"BA-HA!",
+						"bf"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Lyrics",
+						"PLAY SCARY GAMES and HORROR FLICKS",
+						"skid"
+					]
+				]
+			],
+			[
+				40000,
+				[
+					[
+						"Lyrics",
+						"COSTUMES CHANGE LIKE MAGIC, YEA!",
+						"skid"
+					]
+				]
+			],
+			[
+				41600,
+				[
+					[
+						"Lyrics",
+						"SPELLS, RITUALS, AND EVIL TRICKS",
+						"bf"
+					]
+				]
+			],
+			[
+				43200,
+				[
+					[
+						"Lyrics",
+						"JUST WANNA CAUSE SOME HAVOC, YEA!",
+						"bf"
+					]
+				]
+			],
+			[
+				44400,
+				[
+					[
+						"Second Lyric Line",
+						"Lurking out tonight",
+						"pump"
+					]
+				]
+			],
+			[
+				45200,
+				[
+					[
+						"Lyrics",
+						"Lurking out tonight",
+						"pump"
+					],
+					[
+						"Second Lyric Line",
+						"(BOO! BOO! BOO! BOO!)",
+						"skid"
+					]
+				]
+			],
+			[
+				46400,
+				[
+					[
+						"Clear Lyrics",
+						"skid",
+						""
+					],
+					[
+						"Lyrics",
+						"Feel the fright",
+						"pump"
+					]
+				]
+			],
+			[
+				46800,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO!)",
+						"skid"
+					]
+				]
+			],
+			[
+				47400,
+				[
+					[
+						"Lyrics",
+						"Cuz it's a candy heist",
+						"pump"
+					],
+					[
+						"Clear Lyrics",
+						"skid",
+						""
+					]
+				]
+			],
+			[
+				48400,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO! BOO! BOO!)",
+						"skid"
+					]
+				]
+			],
+			[
+				49600,
+				[
+					[
+						"Clear Lyrics",
+						"skid",
+						""
+					],
+					[
+						"Lyrics",
+						"Take a bite!",
+						"pump"
+					]
+				]
+			],
+			[
+				50000,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO!)",
+						"skid"
+					]
+				]
+			],
+			[
+				50800,
+				[
+					[
+						"Clear Lyrics",
+						"skid",
+						""
+					],
+					[
+						"Lyrics",
+						"Who turned out the light",
+						"bf"
+					]
+				]
+			],
+			[
+				51600,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO! BOO! BOO!)",
+						"bf"
+					]
+				]
+			],
+			[
+				52800,
+				[
+					[
+						"Second Lyric Line",
+						"",
+						"bf"
+					],
+					[
+						"Lyrics",
+						"Feel the fright",
+						"bf"
+					]
+				]
+			],
+			[
+				53200,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO!)",
+						"bf"
+					]
+				]
+			],
+			[
+				54000,
+				[
+					[
+						"Second Lyric Line",
+						"",
+						"bf"
+					],
+					[
+						"Lyrics",
+						"Macabre delight",
+						"bf"
+					]
+				]
+			],
+			[
+				54800,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO! BOO! BOO!)",
+						"bf"
+					]
+				]
+			],
+			[
+				56000,
+				[
+					[
+						"Lyrics",
+						"In the night!",
+						"bf"
+					],
+					[
+						"Second Lyric Line",
+						"",
+						"bf"
+					]
+				]
+			],
+			[
+				56400,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO!)",
+						"bf"
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Zoom Camera",
+						"-0.05",
+						"6"
+					],
+					[
+						"Clear Lyrics",
+						"bf",
+						""
+					],
+					[
+						"Lyrics",
+						"Look to the stars",
+						"pump"
+					],
+					[
+						"South Note Float",
+						"",
+						""
+					],
+					[
+						"Second Lyric Line",
+						"",
+						"bf"
+					],
+					[
+						"Camera Target",
+						"center-lock",
+						"6"
+					]
+				]
+			],
+			[
+				59200,
+				[
+					[
+						"Lyrics",
+						"High up you'll see far",
+						"pump"
+					]
+				]
+			],
+			[
+				60800,
+				[
+					[
+						"Lyrics",
+						"They're just so entrancin'",
+						"pump"
+					]
+				]
+			],
+			[
+				62400,
+				[
+					[
+						"Lyrics",
+						"As we're spooky dancin'",
+						"pump"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Lyrics",
+						"Just so bizzare",
+						"bf"
+					]
+				]
+			],
+			[
+				65600,
+				[
+					[
+						"Lyrics",
+						"But you won't get far",
+						"bf"
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"Lyrics",
+						"Evils we're encanting",
+						"bf"
+					]
+				]
+			],
+			[
+				68800,
+				[
+					[
+						"Lyrics",
+						"Fear the wicked chanting",
+						"bf"
+					],
+					[
+						"Second Lyric Line",
+						"(Wo~ah)",
+						"skid"
+					]
+				]
+			],
+			[
+				70400,
+				[
+					[
+						"Clear Lyrics",
+						"skid",
+						""
+					],
+					[
+						"Lyrics",
+						"Candies and spooks for all",
+						"skid"
+					]
+				]
+			],
+			[
+				71800,
+				[
+					[
+						"Lyrics",
+						"It is the best time in Fall!",
+						"skid"
+					]
+				]
+			],
+			[
+				73600,
+				[
+					[
+						"Lyrics",
+						"Though we may both be small",
+						"skid"
+					]
+				]
+			],
+			[
+				75000,
+				[
+					[
+						"Lyrics",
+						"We'll win in this spooky brawl!",
+						"skid"
+					]
+				]
+			],
+			[
+				76600,
+				[
+					[
+						"Lyrics",
+						"You both try to fight it off",
+						"bf"
+					]
+				]
+			],
+			[
+				78200,
+				[
+					[
+						"Lyrics",
+						"You can't seem to fight it off",
+						"bf"
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"Lyrics",
+						"Seeming a little soft",
+						"bf"
+					]
+				]
+			],
+			[
+				81400,
+				[
+					[
+						"Lyrics",
+						"But now you must bear the cost",
+						"bf"
+					]
+				]
+			],
+			[
+				83200,
+				[
+					[
+						"Clear first",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				84800,
+				[
+					[
+						"South Note Float",
+						"",
+						""
+					],
+					[
+						"Camera Target",
+						"dad",
+						"1.5"
+					],
+					[
+						"Zoom Camera",
+						"0.05",
+						"1.5"
+					],
+					[
+						"Lyrics",
+						"Spooky month's here, time to give a big cheer",
+						"pump"
+					]
+				]
+			],
+			[
+				87600,
+				[
+					[
+						"Lyrics",
+						"A-HA!",
+						"pump"
+					]
+				]
+			],
+			[
+				88000,
+				[
+					[
+						"Lyrics",
+						"Spooky month's here, time to turn up the fear",
+						"bf"
+					]
+				]
+			],
+			[
+				90800,
+				[
+					[
+						"Lyrics",
+						"BA-HA!",
+						"bf"
+					]
+				]
+			],
+			[
+				91200,
+				[
+					[
+						"Lyrics",
+						"Now it is time to trick or treat",
+						"skid"
+					]
+				]
+			],
+			[
+				92800,
+				[
+					[
+						"Lyrics",
+						"Lotsa new candy to eat, YEA!",
+						"skid"
+					]
+				]
+			],
+			[
+				94400,
+				[
+					[
+						"Lyrics",
+						"Now that it's time to trick or treat",
+						"bf"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Lyrics",
+						"MONSTERS ARE HUNTIN' TO EAT'CHA!",
+						"bf"
+					]
+				]
+			],
+			[
+				97200,
+				[
+					[
+						"Second Lyric Line",
+						"Lurking out tonight",
+						"pump"
+					]
+				]
+			],
+			[
+				98000,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO! BOO! BOO!)",
+						"bf"
+					]
+				]
+			],
+			[
+				99200,
+				[
+					[
+						"Second Lyric Line",
+						"",
+						"bf"
+					],
+					[
+						"Lyrics",
+						"Feel the fright",
+						"skid"
+					]
+				]
+			],
+			[
+				99600,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO!)",
+						"bf"
+					]
+				]
+			],
+			[
+				100200,
+				[
+					[
+						"Lyrics",
+						"Cuz it's a candy heist",
+						"pump"
+					],
+					[
+						"Second Lyric Line",
+						"",
+						"bf"
+					]
+				]
+			],
+			[
+				101200,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO! BOO! BOO!)",
+						"bf"
+					]
+				]
+			],
+			[
+				102400,
+				[
+					[
+						"Second Lyric Line",
+						"",
+						"bf"
+					],
+					[
+						"Lyrics",
+						"Take a bite!",
+						"skid"
+					]
+				]
+			],
+			[
+				102800,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO!)",
+						"bf"
+					]
+				]
+			],
+			[
+				103600,
+				[
+					[
+						"Lyrics",
+						"Who turned out the light",
+						"bf"
+					],
+					[
+						"Second Lyric Line",
+						"A-HA!",
+						"skid"
+					]
+				]
+			],
+			[
+				104000,
+				[
+					[
+						"Second Lyric Line",
+						"",
+						"skid"
+					]
+				]
+			],
+			[
+				104400,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO! BOO! BOO!)",
+						"pump"
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Second Lyric Line",
+						"",
+						"pump"
+					],
+					[
+						"Lyrics",
+						"Feel the fright",
+						"bf"
+					]
+				]
+			],
+			[
+				106000,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO!)",
+						"pump"
+					]
+				]
+			],
+			[
+				106800,
+				[
+					[
+						"Lyrics",
+						"Macabre delight",
+						"bf"
+					],
+					[
+						"Second Lyric Line",
+						"",
+						"skid"
+					]
+				]
+			],
+			[
+				107600,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO! BOO! BOO!)",
+						"skid"
+					]
+				]
+			],
+			[
+				108800,
+				[
+					[
+						"Second Lyric Line",
+						"",
+						"pump"
+					],
+					[
+						"Lyrics",
+						"In the night!",
+						"bf"
+					]
+				]
+			],
+			[
+				109200,
+				[
+					[
+						"Second Lyric Line",
+						"(BOO! BOO!)",
+						"skid"
+					]
+				]
+			],
+			[
+				110400,
+				[
+					[
+						"Second Lyric Line",
+						"",
+						"pump"
+					],
+					[
+						"Lyrics",
+						"Spooky month's here, time to give a big cheer",
+						"skid"
+					]
+				]
+			],
+			[
+				113200,
+				[
+					[
+						"Lyrics",
+						"A-HA!",
+						"skid"
+					]
+				]
+			],
+			[
+				113600,
+				[
+					[
+						"Lyrics",
+						"Spooky month's here, time to turn up the fear",
+						"bf"
+					]
+				]
+			],
+			[
+				116400,
+				[
+					[
+						"Lyrics",
+						"BA-HA!",
+						"bf"
+					]
+				]
+			],
+			[
+				116800,
+				[
+					[
+						"Lyrics",
+						"Every night on Halloween",
+						"pump"
+					]
+				]
+			],
+			[
+				118400,
+				[
+					[
+						"Lyrics",
+						"This is our favorite routine",
+						"skid"
+					]
+				]
+			],
+			[
+				119600,
+				[
+					[
+						"Lyrics",
+						"YEA!",
+						""
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Lyrics",
+						"Every night on Halloween",
+						"bf"
+					]
+				]
+			],
+			[
+				121600,
+				[
+					[
+						"Lyrics",
+						"This is our favorite routine, YEA!",
+						"bf"
+					]
+				]
+			],
+			[
+				123200,
+				[
+					[
+						"Fade Lyrics",
+						"2",
+						""
+					]
+				]
+			]
+		]
+	}
+}

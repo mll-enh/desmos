@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Spookeez", "spooky", [34, 51, 68], "150"],
+		["South", "spooky", [34, 51, 68], "170"]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "w2",
+
+	"storyName": "Spooky Month",
+	"weekBefore": "week1",
+	"weekName": "Week 2",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

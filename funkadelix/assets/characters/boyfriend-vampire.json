@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				-109
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				81
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				-16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				115,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "leftMISS"
+		},
+		{
+			"offsets": [
+				48,
+				-109
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "downMISS"
+		},
+		{
+			"offsets": [
+				-39,
+				81
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "upMISS"
+		},
+		{
+			"offsets": [
+				-49,
+				-16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "rightMISS"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/boyfriend/vampire_boyfriend",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		300,
+		110
+	],
+	"sing_duration": 5,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

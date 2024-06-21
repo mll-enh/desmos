@@ -1,0 +1,1236 @@
+{
+	"song": {
+		"events": [
+			[
+				1542.85714285714,
+				[
+					[
+						"Lyrics",
+						"I'm the hunta'",
+						"pico"
+					]
+				]
+			],
+			[
+				2914.28571428571,
+				[
+					[
+						"Lyrics",
+						"Bring the thunda",
+						"pico"
+					]
+				]
+			],
+			[
+				4285.71428571429,
+				[
+					[
+						"Lyrics",
+						"A big gunna",
+						"pico"
+					]
+				]
+			],
+			[
+				5314.28571428571,
+				[
+					[
+						"Lyrics",
+						"A shooter put you unda!",
+						"pico"
+					]
+				]
+			],
+			[
+				7028.57142857143,
+				[
+					[
+						"Lyrics",
+						"I get money",
+						"bf"
+					]
+				]
+			],
+			[
+				8400,
+				[
+					[
+						"Lyrics",
+						"Ain't no funny",
+						"bf"
+					]
+				]
+			],
+			[
+				9771.42857142857,
+				[
+					[
+						"Lyrics",
+						"You a dummy",
+						"bf"
+					]
+				]
+			],
+			[
+				10971.4285714286,
+				[
+					[
+						"Chromatic Shader Tween",
+						"1.0",
+						"1.03"
+					],
+					[
+						"Lyrics",
+						"Tryna become me!",
+						"bf"
+					]
+				]
+			],
+			[
+				12000,
+				[
+					[
+						"Add Glitch Shader",
+						"",
+						""
+					],
+					[
+						"Set Camera Zoom",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				12342.8571428571,
+				[
+					[
+						"Remove Glitch Shader",
+						"",
+						""
+					],
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				12514.2857142857,
+				[
+					[
+						"Lyrics",
+						"I'm the s***",
+						"pico"
+					]
+				]
+			],
+			[
+				12857.1428571429,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				13371.4285714286,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					],
+					[
+						"Lyrics",
+						"You try me? Get hit!",
+						"pico"
+					]
+				]
+			],
+			[
+				13714.2857142857,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				14228.5714285714,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				14742.8571428571,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					],
+					[
+						"Lyrics",
+						"I'm pullin out my blicky",
+						"pico"
+					]
+				]
+			],
+			[
+				15085.7142857143,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				15600,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				16114.2857142857,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					],
+					[
+						"Lyrics",
+						"S***'s about to get lit",
+						"pico"
+					]
+				]
+			],
+			[
+				16457.1428571429,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				16971.4285714286,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				17485.7142857143,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					],
+					[
+						"Lyrics",
+						"C'mon.",
+						"pico"
+					]
+				]
+			],
+			[
+				17828.5714285714,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				18000,
+				[
+					[
+						"Lyrics",
+						"Got you stressed",
+						"bf"
+					]
+				]
+			],
+			[
+				18342.8571428571,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				18857.1428571429,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					],
+					[
+						"Lyrics",
+						"With flow and finesse",
+						"bf"
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				19714.2857142857,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				20228.5714285714,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					],
+					[
+						"Lyrics",
+						"Give my fat d*** a rest",
+						"bf"
+					]
+				]
+			],
+			[
+				20571.4285714286,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				21085.7142857143,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				21428.5714285714,
+				[
+					[
+						"Lyrics",
+						"I'll put that booty to the test",
+						"bf"
+					]
+				]
+			],
+			[
+				21600,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				21942.8571428571,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				22457.1428571429,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				22971.4285714286,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					],
+					[
+						"Lyrics",
+						"C'mon!",
+						"bf"
+					]
+				]
+			],
+			[
+				23314.2857142857,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				23314.2857142857,
+				[
+					[
+						"Lyrics",
+						"You and your ho",
+						"pico"
+					]
+				]
+			],
+			[
+				23828.5714285714,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				24342.8571428571,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					],
+					[
+						"Lyrics",
+						"Disturbin' my flow",
+						"pico"
+					]
+				]
+			],
+			[
+				24685.7142857143,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				25200,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				25714.2857142857,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					],
+					[
+						"Lyrics",
+						"Yo body hit the floor",
+						"pico"
+					]
+				]
+			],
+			[
+				26057.1428571429,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				26571.4285714286,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				26914.2857142857,
+				[
+					[
+						"Lyrics",
+						"And I collect her dad's dough",
+						"pico"
+					]
+				]
+			],
+			[
+				27085.7142857143,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				27428.5714285714,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				27942.8571428571,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				28457.1428571429,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					],
+					[
+						"Lyrics",
+						"Y'know?",
+						"pico"
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Lyrics",
+						"Cuh, with this girth",
+						"bf"
+					]
+				]
+			],
+			[
+				29314.2857142857,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				29828.5714285714,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					],
+					[
+						"Lyrics",
+						"I know what I'm worth",
+						"bf"
+					]
+				]
+			],
+			[
+				30171.4285714286,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				30685.7142857143,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				31200,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					],
+					[
+						"Lyrics",
+						"Been that way since my birth",
+						"bf"
+					]
+				]
+			],
+			[
+				31542.8571428571,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				32057.1428571428,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				32400,
+				[
+					[
+						"Lyrics",
+						"And I'm still walkin' the earth",
+						"bf"
+					]
+				]
+			],
+			[
+				32571.4285714286,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				32914.2857142857,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				33428.5714285714,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					]
+				]
+			],
+			[
+				33942.8571428571,
+				[
+					[
+						"Chromatic Shader Bop",
+						"",
+						""
+					],
+					[
+						"Lyrics",
+						"Y'know!",
+						"bf"
+					]
+				]
+			],
+			[
+				34285.7142857143,
+				[
+					[
+						"Lyrics",
+						"Bullet in yo head",
+						"pico"
+					]
+				]
+			],
+			[
+				35142.8571428571,
+				[
+					[
+						"Lyrics",
+						"I put a bullet in yo head",
+						"pico"
+					]
+				]
+			],
+			[
+				36514.2857142857,
+				[
+					[
+						"Lyrics",
+						"I'm boutta fill yo ass with lead",
+						"pico"
+					]
+				]
+			],
+			[
+				37885.7142857143,
+				[
+					[
+						"Lyrics",
+						"And they pronounce yo body dead",
+						"pico"
+					]
+				]
+			],
+			[
+				39257.1428571429,
+				[
+					[
+						"Lyrics",
+						"I'm singin'",
+						"pico"
+					]
+				]
+			],
+			[
+				39771.4285714286,
+				[
+					[
+						"Lyrics",
+						"Bounty on my head",
+						"bf"
+					]
+				]
+			],
+			[
+				40628.5714285714,
+				[
+					[
+						"Lyrics",
+						"I got a bounty on my head",
+						"bf"
+					]
+				]
+			],
+			[
+				42000,
+				[
+					[
+						"Lyrics",
+						"B****, I did not hear what you said",
+						"bf"
+					]
+				]
+			],
+			[
+				43371.4285714286,
+				[
+					[
+						"Lyrics",
+						"I'm with my girl up in the bed",
+						"bf"
+					]
+				]
+			],
+			[
+				44742.8571428572,
+				[
+					[
+						"Lyrics",
+						"She screamin'!",
+						"bf"
+					]
+				]
+			],
+			[
+				45257.1428571429,
+				[
+					[
+						"Lyrics",
+						"This late Philly night",
+						"pico"
+					]
+				]
+			],
+			[
+				46114.2857142857,
+				[
+					[
+						"Lyrics",
+						"I'm thinkin' s*** is Philly nice",
+						"pico"
+					]
+				]
+			],
+			[
+				47485.7142857143,
+				[
+					[
+						"Lyrics",
+						"My aim about to get precise",
+						"pico"
+					]
+				]
+			],
+			[
+				48857.1428571429,
+				[
+					[
+						"Lyrics",
+						"My boy about to pay the price",
+						"pico"
+					]
+				]
+			],
+			[
+				50228.5714285714,
+				[
+					[
+						"Lyrics",
+						"I'm singin'",
+						"pico"
+					]
+				]
+			],
+			[
+				50742.8571428572,
+				[
+					[
+						"Lyrics",
+						"This late Philly night",
+						"bf"
+					]
+				]
+			],
+			[
+				51600,
+				[
+					[
+						"Lyrics",
+						"I'm thinkin' s*** is Philly nice",
+						"bf"
+					]
+				]
+			],
+			[
+				52971.4285714286,
+				[
+					[
+						"Lyrics",
+						"So if you wanna roll the dice",
+						"bf"
+					]
+				]
+			],
+			[
+				54342.8571428572,
+				[
+					[
+						"Lyrics",
+						"Just go ahead, I'm cold as ice",
+						"bf"
+					]
+				]
+			],
+			[
+				55714.2857142857,
+				[
+					[
+						"Lyrics",
+						"I'm singin'",
+						"bf"
+					]
+				]
+			],
+			[
+				56228.5714285714,
+				[
+					[
+						"Lyrics",
+						"B****, I'm not the one",
+						"pico"
+					]
+				]
+			],
+			[
+				57085.7142857143,
+				[
+					[
+						"Lyrics",
+						"You f*** with me, you better run",
+						"pico"
+					]
+				]
+			],
+			[
+				58628.5714285714,
+				[
+					[
+						"Lyrics",
+						"Cuz the last one, he was done",
+						"pico"
+					]
+				]
+			],
+			[
+				59828.5714285714,
+				[
+					[
+						"Lyrics",
+						"He met the barrel of my gun",
+						"pico"
+					]
+				]
+			],
+			[
+				61371.4285714286,
+				[
+					[
+						"Lyrics",
+						"Listen well",
+						"pico"
+					]
+				]
+			],
+			[
+				61714.2857142857,
+				[
+					[
+						"Lyrics",
+						"B****, I f*** with demons",
+						"bf"
+					]
+				]
+			],
+			[
+				62914.2857142857,
+				[
+					[
+						"Lyrics",
+						"I tame that b**** with semen",
+						"bf"
+					]
+				]
+			],
+			[
+				64114.2857142857,
+				[
+					[
+						"GF Philly Nice Reaction",
+						"",
+						""
+					]
+				]
+			],
+			[
+				64285.7142857143,
+				[
+					[
+						"Lyrics",
+						"I'm leavin' shawty creamin'",
+						"bf"
+					]
+				]
+			],
+			[
+				65657.1428571429,
+				[
+					[
+						"Lyrics",
+						"So b****, I'm gunna win",
+						"bf"
+					]
+				]
+			],
+			[
+				66857.1428571429,
+				[
+					[
+						"Lyrics",
+						"Try again!",
+						"bf"
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"Lyrics",
+						"Tired of the tricks.",
+						"pico"
+					]
+				]
+			],
+			[
+				68228.5714285714,
+				[
+					[
+						"Lyrics",
+						"Tired of hearin' bout your d***.",
+						"pico"
+					]
+				]
+			],
+			[
+				69600,
+				[
+					[
+						"Lyrics",
+						"Actin' like a f***in' prick",
+						"pico"
+					]
+				]
+			],
+			[
+				70971.4285714286,
+				[
+					[
+						"Lyrics",
+						"Pull the trigger, end you quick",
+						"pico"
+					]
+				]
+			],
+			[
+				72171.4285714286,
+				[
+					[
+						"Lyrics",
+						"You make me sick!",
+						"pico"
+					]
+				]
+			],
+			[
+				72685.7142857143,
+				[
+					[
+						"Lyrics",
+						"Y'all already know",
+						"bf"
+					]
+				]
+			],
+			[
+				73714.2857142857,
+				[
+					[
+						"Lyrics",
+						"Who boutta blow this place fo sho",
+						"bf"
+					]
+				]
+			],
+			[
+				74914.2857142857,
+				[
+					[
+						"Lyrics",
+						"Like you was blowin' on my pole",
+						"bf"
+					]
+				]
+			],
+			[
+				76457.1428571428,
+				[
+					[
+						"Lyrics",
+						"Got you lookin' like a",
+						"bf"
+					]
+				]
+			],
+			[
+				77485.7142857143,
+				[
+					[
+						"Lyrics",
+						"Ho-o-o-o~",
+						"bf"
+					]
+				]
+			],
+			[
+				78171.4285714285,
+				[
+					[
+						"Lyrics",
+						"This late Philly night",
+						"pico"
+					]
+				]
+			],
+			[
+				79028.5714285714,
+				[
+					[
+						"Lyrics",
+						"I'm thinkin' s*** is Philly nice",
+						"pico"
+					]
+				]
+			],
+			[
+				80400,
+				[
+					[
+						"Lyrics",
+						"My aim about to get precise",
+						"pico"
+					]
+				]
+			],
+			[
+				81771.4285714285,
+				[
+					[
+						"Lyrics",
+						"My boy about to pay the price",
+						"pico"
+					]
+				]
+			],
+			[
+				83142.8571428571,
+				[
+					[
+						"Lyrics",
+						"I'm singin'",
+						"pico"
+					]
+				]
+			],
+			[
+				83657.1428571428,
+				[
+					[
+						"Lyrics",
+						"This late Philly night",
+						"bf"
+					]
+				]
+			],
+			[
+				84514.2857142857,
+				[
+					[
+						"Lyrics",
+						"I'm thinkin' s*** is Philly nice",
+						"bf"
+					]
+				]
+			],
+			[
+				85885.7142857142,
+				[
+					[
+						"Lyrics",
+						"So if you wanna roll the dice",
+						"bf"
+					]
+				]
+			],
+			[
+				87257.1428571428,
+				[
+					[
+						"Lyrics",
+						"Just go ahead, I'm cold as ice",
+						"bf"
+					]
+				]
+			],
+			[
+				88628.5714285713,
+				[
+					[
+						"Lyrics",
+						"I'm singin' now!",
+						"bf"
+					]
+				]
+			]
+		]
+	}
+}
