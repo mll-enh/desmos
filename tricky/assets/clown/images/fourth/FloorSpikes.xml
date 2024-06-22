@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FloorSpikes.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Floor Spikes0000" x="2.5" y="2.5" width="421.5" height="42" frameX="-92.5" frameY="-329.5" frameWidth="614.5" frameHeight="379"/>
+	<SubTexture name="Floor Spikes0001" x="429" y="2.5" width="608" height="376" frameX="-3" frameY="-2.5" frameWidth="614.5" frameHeight="379"/>
+	<SubTexture name="Floor Spikes0002" x="1042" y="2.5" width="614.5" height="378" frameX="0" frameY="0" frameWidth="614.5" frameHeight="379"/>
+	<SubTexture name="Floor Spikes0003" x="2.5" y="385.5" width="592.5" height="360.5" frameX="-9" frameY="-18.5" frameWidth="614.5" frameHeight="379"/>
+	<SubTexture name="Floor Spikes0004" x="600" y="385.5" width="514" height="219.5" frameX="-47.5" frameY="-151" frameWidth="614.5" frameHeight="379"/>
+	<SubTexture name="Floor Spikes0005" x="1119" y="385.5" width="421.5" height="42" frameX="-92.5" frameY="-329.5" frameWidth="614.5" frameHeight="379"/>
+</TextureAtlas>

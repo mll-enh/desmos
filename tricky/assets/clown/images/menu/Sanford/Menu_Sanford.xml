@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Sanford.png">
+<!-- Created with Kades Custom Converter -->
+<SubTexture name="Sanford0000" x="0" y="0" width="383" height="296" frameX="-13.5" frameY="-4.5" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0001" x="388" y="0" width="388" height="294" frameX="-11" frameY="-6" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0002" x="781" y="0" width="397.5" height="295.5" frameX="-9.5" frameY="-5.5" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0003" x="1183.5" y="0" width="410.5" height="298.5" frameX="-5.5" frameY="-3.5" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0004" x="1599" y="0" width="417" height="300.5" frameX="-3" frameY="-2" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0005" x="2021" y="0" width="422.5" height="302.5" frameX="-1" frameY="-1" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0006" x="2448.5" y="0" width="424" height="303.5" frameX="-0.5" frameY="0" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0007" x="2877.5" y="0" width="425" height="303.5" frameX="0" frameY="0" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0008" x="2877.5" y="0" width="425" height="303.5" frameX="0" frameY="0" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0009" x="3307.5" y="0" width="424.5" height="303.5" frameX="-0.5" frameY="0" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0010" x="0" y="308.5" width="423" height="303" frameX="-1" frameY="-0.5" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0011" x="428" y="308.5" width="421" height="301.5" frameX="-2" frameY="-1.5" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0012" x="854" y="308.5" width="418.5" height="300" frameX="-3" frameY="-2.5" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0013" x="1277.5" y="308.5" width="414" height="298.5" frameX="-5" frameY="-3.5" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0014" x="1696.5" y="308.5" width="409" height="296" frameX="-7.5" frameY="-5.5" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0015" x="2110.5" y="308.5" width="402.5" height="294.5" frameX="-10" frameY="-6.5" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0016" x="2518" y="308.5" width="387" height="290.5" frameX="-16.5" frameY="-10" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0017" x="2910" y="308.5" width="380" height="289.5" frameX="-19.5" frameY="-11" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0018" x="3295" y="308.5" width="363.5" height="286.5" frameX="-26" frameY="-14" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0019" x="3663.5" y="308.5" width="354.5" height="285.5" frameX="-30" frameY="-16.5" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0020" x="0" y="616.5" width="327.5" height="282.5" frameX="-41" frameY="-21.5" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0021" x="332.5" y="616.5" width="311" height="282" frameX="-50.5" frameY="-23" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0022" x="648.5" y="616.5" width="272" height="282.5" frameX="-73" frameY="-24" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0023" x="925.5" y="616.5" width="250.5" height="284" frameX="-85" frameY="-25" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0024" x="1181" y="616.5" width="232" height="284" frameX="-95" frameY="-25" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0025" x="1418" y="616.5" width="226" height="287" frameX="-99.5" frameY="-24" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0026" x="1649" y="616.5" width="227" height="287.5" frameX="-100.5" frameY="-24" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0027" x="1881" y="616.5" width="228" height="287.5" frameX="-101" frameY="-24" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0028" x="1881" y="616.5" width="228" height="287.5" frameX="-101" frameY="-24" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0029" x="2114" y="616.5" width="228.5" height="287" frameX="-101" frameY="-24" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0030" x="2347.5" y="616.5" width="228.5" height="287" frameX="-100.5" frameY="-24" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0031" x="2581" y="616.5" width="229.5" height="286" frameX="-99.5" frameY="-25" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0032" x="2815.5" y="616.5" width="230.5" height="285.5" frameX="-97.5" frameY="-25" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0033" x="3051" y="616.5" width="235" height="284" frameX="-91" frameY="-25" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0034" x="3291" y="616.5" width="244.5" height="285" frameX="-82" frameY="-23.5" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0035" x="3540.5" y="616.5" width="254" height="284.5" frameX="-76" frameY="-23.5" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0036" x="3799.5" y="616.5" width="275" height="287.5" frameX="-60.5" frameY="-19" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0037" x="0" y="909" width="288" height="287.5" frameX="-54" frameY="-18" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0038" x="293" y="909" width="303.5" height="290" frameX="-48.5" frameY="-14" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0039" x="601.5" y="909" width="339" height="294.5" frameX="-31.5" frameY="-7.5" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0040" x="945.5" y="909" width="353.5" height="296.5" frameX="-24" frameY="-6" frameWidth="425" frameHeight="311.5"/>
+<SubTexture name="Sanford0041" x="1304" y="909" width="367" height="298" frameX="-18.5" frameY="-4.5" frameWidth="425" frameHeight="311.5"/>
+</TextureAtlas>

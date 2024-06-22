@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Up.png">
+<!-- Created with Kades Custom Converter -->
+<SubTexture name="Proper Up0000" x="0" y="0" width="1104.5" height="1299.5" frameX="-30.5" frameY="0" frameWidth="1135" frameHeight="1299.5"/>
+<SubTexture name="Proper Up0001" x="1117" y="0" width="1126" height="1268.5" frameX="-1.5" frameY="-18" frameWidth="1135" frameHeight="1299.5"/>
+<SubTexture name="Proper Up0002" x="2255.5" y="0" width="1085" height="1252" frameX="-30" frameY="-26.5" frameWidth="1135" frameHeight="1299.5"/>
+<SubTexture name="Proper Up0003" x="0" y="1312" width="1096.5" height="1208.5" frameX="-18.5" frameY="-70" frameWidth="1135" frameHeight="1299.5"/>
+<SubTexture name="Proper Up0004" x="1109" y="1312" width="1115" height="1260" frameX="0" frameY="-18.5" frameWidth="1135" frameHeight="1299.5"/>
+<SubTexture name="Proper Up0005" x="2236.5" y="1312" width="1101.5" height="1244.5" frameX="-13.5" frameY="-34" frameWidth="1135" frameHeight="1299.5"/>
+</TextureAtlas>

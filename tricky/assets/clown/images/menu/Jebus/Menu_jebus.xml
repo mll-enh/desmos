@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_jebus.png">
+<!-- Created with Kades Custom Converter -->
+<SubTexture name="Jebus0000" x="0" y="0" width="214" height="358.5" frameX="0" frameY="-5.5" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0001" x="219" y="0" width="214" height="358.5" frameX="0" frameY="-5" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0002" x="219" y="0" width="214" height="358.5" frameX="0" frameY="-5" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0003" x="438" y="0" width="214" height="358.5" frameX="0" frameY="-4.5" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0004" x="438" y="0" width="214" height="358.5" frameX="0" frameY="-4.5" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0005" x="657" y="0" width="214" height="358.5" frameX="0" frameY="-4" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0006" x="657" y="0" width="214" height="358.5" frameX="0" frameY="-4" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0007" x="876" y="0" width="214" height="358.5" frameX="0" frameY="-3.5" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0008" x="876" y="0" width="214" height="358.5" frameX="0" frameY="-3.5" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0009" x="1095" y="0" width="214" height="358.5" frameX="0" frameY="-3" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0010" x="1095" y="0" width="214" height="358.5" frameX="0" frameY="-3" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0011" x="1314" y="0" width="214" height="358.5" frameX="0" frameY="-2.5" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0012" x="1533" y="0" width="214" height="358.5" frameX="0" frameY="-2.5" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0013" x="1752" y="0" width="214.5" height="358.5" frameX="0" frameY="-2.5" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0014" x="0" y="363.5" width="214.5" height="358.5" frameX="0" frameY="-2" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0015" x="219.5" y="363.5" width="214.5" height="358.5" frameX="0" frameY="-1.5" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0016" x="439" y="363.5" width="214.5" height="358.5" frameX="0" frameY="-1.5" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0017" x="658.5" y="363.5" width="215" height="358.5" frameX="0" frameY="-1" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0018" x="878.5" y="363.5" width="215" height="358.5" frameX="0" frameY="-1" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0019" x="1098.5" y="363.5" width="215.5" height="358.5" frameX="0" frameY="-0.5" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0020" x="1319" y="363.5" width="215.5" height="358.5" frameX="0" frameY="-0.5" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0021" x="1539.5" y="363.5" width="215.5" height="358.5" frameX="0" frameY="0" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0022" x="1760" y="363.5" width="215" height="358.5" frameX="0" frameY="0" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0023" x="1760" y="363.5" width="215" height="358.5" frameX="0" frameY="0" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0024" x="0" y="727" width="215" height="358.5" frameX="0" frameY="0" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0025" x="0" y="727" width="215" height="358.5" frameX="0" frameY="0" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0026" x="220" y="727" width="215" height="358.5" frameX="0" frameY="0" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0027" x="220" y="727" width="215" height="358.5" frameX="0" frameY="0" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0028" x="440" y="727" width="214.5" height="358.5" frameX="0" frameY="-0.5" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0029" x="659.5" y="727" width="214.5" height="358.5" frameX="0" frameY="-0.5" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0030" x="879" y="727" width="214.5" height="358.5" frameX="0" frameY="-1" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0031" x="1098.5" y="727" width="214" height="358.5" frameX="0" frameY="-1" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0032" x="1317.5" y="727" width="214" height="358.5" frameX="0" frameY="-1.5" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0033" x="1536.5" y="727" width="214" height="358.5" frameX="0" frameY="-2" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0034" x="1755.5" y="727" width="214" height="358.5" frameX="0" frameY="-2.5" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0035" x="0" y="1090.5" width="214" height="358.5" frameX="0" frameY="-2.5" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0036" x="219" y="1090.5" width="214" height="358.5" frameX="0" frameY="-2.5" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0037" x="438" y="1090.5" width="214" height="358.5" frameX="0" frameY="-3" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0038" x="657" y="1090.5" width="214" height="358.5" frameX="0" frameY="-3.5" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0039" x="657" y="1090.5" width="214" height="358.5" frameX="0" frameY="-3.5" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0040" x="876" y="1090.5" width="214" height="358.5" frameX="0" frameY="-4" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0041" x="876" y="1090.5" width="214" height="358.5" frameX="0" frameY="-4" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0042" x="1095" y="1090.5" width="214" height="358.5" frameX="0" frameY="-4.5" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0043" x="1095" y="1090.5" width="214" height="358.5" frameX="0" frameY="-4.5" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0044" x="1314" y="1090.5" width="214" height="358.5" frameX="0" frameY="-5" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0045" x="1533" y="1090.5" width="214" height="358.5" frameX="0" frameY="-5" frameWidth="215.5" frameHeight="364"/>
+<SubTexture name="Jebus0046" x="1752" y="1090.5" width="214" height="358.5" frameX="0" frameY="-5.5" frameWidth="215.5" frameHeight="364"/>
+</TextureAtlas>

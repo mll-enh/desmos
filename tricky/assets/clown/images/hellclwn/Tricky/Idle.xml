@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Idle.png">
+<!-- Created with Kades Custom Converter -->
+<SubTexture name="Phase 3 Tricky Idle0001" x="0.5" y="0.5" width="974.5" height="1357" frameX="0" frameY="0" frameWidth="974.5" frameHeight="1357"/>
+<SubTexture name="Phase 3 Tricky Idle0002" x="976" y="0.5" width="974.5" height="1357" frameX="0" frameY="0" frameWidth="974.5" frameHeight="1357"/>
+<SubTexture name="Phase 3 Tricky Idle0003" x="1951.5" y="0.5" width="974.5" height="1357" frameX="0" frameY="0" frameWidth="974.5" frameHeight="1357"/>
+<SubTexture name="Phase 3 Tricky Idle0004" x="2927" y="0.5" width="974.5" height="1357" frameX="0" frameY="0" frameWidth="974.5" frameHeight="1357"/>
+<SubTexture name="Phase 3 Tricky Idle0005" x="3902.5" y="0.5" width="974.5" height="1357" frameX="0" frameY="0" frameWidth="974.5" frameHeight="1357"/>
+<SubTexture name="Phase 3 Tricky Idle0006" x="0.5" y="1358.5" width="974.5" height="1357" frameX="0" frameY="0" frameWidth="974.5" frameHeight="1357"/>
+<SubTexture name="Phase 3 Tricky Idle0007" x="976" y="1358.5" width="974.5" height="1357" frameX="0" frameY="0" frameWidth="974.5" frameHeight="1357"/>
+<SubTexture name="Phase 3 Tricky Idle0008" x="1951.5" y="1358.5" width="974.5" height="1357" frameX="0" frameY="0" frameWidth="974.5" frameHeight="1357"/>
+<SubTexture name="Phase 3 Tricky Idle0009" x="2927" y="1358.5" width="974.5" height="1357" frameX="0" frameY="0" frameWidth="974.5" frameHeight="1357"/>
+<SubTexture name="Phase 3 Tricky Idle0010" x="3902.5" y="1358.5" width="974.5" height="1357" frameX="0" frameY="0" frameWidth="974.5" frameHeight="1357"/>
+<SubTexture name="Phase 3 Tricky Idle0011" x="0.5" y="2716.5" width="974.5" height="1357" frameX="0" frameY="0" frameWidth="974.5" frameHeight="1357"/>
+<SubTexture name="Phase 3 Tricky Idle0012" x="976" y="2716.5" width="974.5" height="1357" frameX="0" frameY="0" frameWidth="974.5" frameHeight="1357"/>
+<SubTexture name="Phase 3 Tricky Idle0013" x="1951.5" y="2716.5" width="974.5" height="1357" frameX="0" frameY="0" frameWidth="974.5" frameHeight="1357"/>
+<SubTexture name="Phase 3 Tricky Idle0014" x="2927" y="2716.5" width="974.5" height="1357" frameX="0" frameY="0" frameWidth="974.5" frameHeight="1357"/>
+<SubTexture name="Phase 3 Tricky Idle0015" x="3902.5" y="2716.5" width="974.5" height="1357" frameX="0" frameY="0" frameWidth="974.5" frameHeight="1357"/>
+<SubTexture name="Phase 3 Tricky Idle0016" x="4878" y="0.5" width="974.5" height="1357" frameX="0" frameY="0" frameWidth="974.5" frameHeight="1357"/>
+<SubTexture name="Phase 3 Tricky Idle0017" x="4878" y="1358.5" width="974.5" height="1357" frameX="0" frameY="0" frameWidth="974.5" frameHeight="1357"/>
+<SubTexture name="Phase 3 Tricky Idle0018" x="4878" y="2716.5" width="974.5" height="1357" frameX="0" frameY="0" frameWidth="974.5" frameHeight="1357"/>
+<SubTexture name="Phase 3 Tricky Idle0019" x="0.5" y="4074.5" width="974.5" height="1357" frameX="0" frameY="0" frameWidth="974.5" frameHeight="1357"/>
+<SubTexture name="Phase 3 Tricky Idle0020" x="976" y="4074.5" width="974.5" height="1357" frameX="0" frameY="0" frameWidth="974.5" frameHeight="1357"/>
+<SubTexture name="Phase 3 Tricky Idle0021" x="1951.5" y="4074.5" width="974.5" height="1357" frameX="0" frameY="0" frameWidth="974.5" frameHeight="1357"/>
+<SubTexture name="Phase 3 Tricky Idle0022" x="2927" y="4074.5" width="974.5" height="1357" frameX="0" frameY="0" frameWidth="974.5" frameHeight="1357"/>
+</TextureAtlas>

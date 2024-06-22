@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Jaws.png">
+<!-- Created with Kades Custom Converter -->
+<SubTexture name="Jaws smol0001" x="0.33333333333333" y="0.33333333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0002" x="692.66666666667" y="0.33333333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0003" x="1385" y="0.33333333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0004" x="2077.3333333333" y="0.33333333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0005" x="2769.6666666667" y="0.33333333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0006" x="0.33333333333333" y="769.33333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0007" x="692.66666666667" y="769.33333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0008" x="1385" y="769.33333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0009" x="2077.3333333333" y="769.33333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0010" x="2769.6666666667" y="769.33333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0011" x="0.33333333333333" y="1538.3333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0012" x="692.66666666667" y="1538.3333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0013" x="1385" y="1538.3333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0014" x="2077.3333333333" y="1538.3333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0015" x="2769.6666666667" y="1538.3333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0016" x="0.33333333333333" y="2307.3333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0017" x="692.66666666667" y="2307.3333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0018" x="1385" y="2307.3333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0019" x="2077.3333333333" y="2307.3333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0020" x="2769.6666666667" y="2307.3333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0021" x="0.33333333333333" y="3076.3333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0022" x="692.66666666667" y="3076.3333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0023" x="1385" y="3076.3333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0024" x="2077.3333333333" y="3076.3333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0025" x="2769.6666666667" y="3076.3333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0026" x="3462" y="0.33333333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0027" x="3462" y="769.33333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0028" x="3462" y="1538.3333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0029" x="3462" y="2307.3333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0030" x="3462" y="3076.3333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0031" x="0.33333333333333" y="3845.3333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+<SubTexture name="Jaws smol0032" x="692.66666666667" y="3845.3333333333" width="691.66666666667" height="768.33333333333" frameX="0" frameY="0" frameWidth="691.66666666667" frameHeight="768.33333333333"/>
+</TextureAtlas>

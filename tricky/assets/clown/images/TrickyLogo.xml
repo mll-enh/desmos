@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TrickyLogo.png">
+<!-- Created with Kades Custom Converter -->
+<SubTexture name="Logo0001.png" x="0.33333333333333" y="0.33333333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+<SubTexture name="Logo0002.png" x="807.33333333333" y="0.33333333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+<SubTexture name="Logo0003.png" x="1614.3333333333" y="0.33333333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+<SubTexture name="Logo0004.png" x="2421.3333333333" y="0.33333333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+<SubTexture name="Logo0005.png" x="0.33333333333333" y="463.33333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+<SubTexture name="Logo0006.png" x="807.33333333333" y="463.33333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+<SubTexture name="Logo0007.png" x="1614.3333333333" y="463.33333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+<SubTexture name="Logo0008.png" x="2421.3333333333" y="463.33333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+<SubTexture name="Logo0009.png" x="0.33333333333333" y="926.33333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+<SubTexture name="Logo0010.png" x="807.33333333333" y="926.33333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+<SubTexture name="Logo0011.png" x="1614.3333333333" y="926.33333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+<SubTexture name="Logo0012.png" x="2421.3333333333" y="926.33333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+<SubTexture name="Logo0013.png" x="0.33333333333333" y="1389.3333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+<SubTexture name="Logo0014.png" x="807.33333333333" y="1389.3333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+<SubTexture name="Logo0015.png" x="1614.3333333333" y="1389.3333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+<SubTexture name="Logo0016.png" x="2421.3333333333" y="1389.3333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+<SubTexture name="Logo0017.png" x="0.33333333333333" y="1852.3333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+<SubTexture name="Logo0018.png" x="807.33333333333" y="1852.3333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+<SubTexture name="Logo0019.png" x="1614.3333333333" y="1852.3333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+<SubTexture name="Logo0020.png" x="2421.3333333333" y="1852.3333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+<SubTexture name="Logo0021.png" x="0.33333333333333" y="2315.3333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+<SubTexture name="Logo0022.png" x="807.33333333333" y="2315.3333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+<SubTexture name="Logo0023.png" x="1614.3333333333" y="2315.3333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+<SubTexture name="Logo0024.png" x="2421.3333333333" y="2315.3333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+<SubTexture name="Logo0025.png" x="3228.3333333333" y="0.33333333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+<SubTexture name="Logo0026.png" x="3228.3333333333" y="463.33333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+<SubTexture name="Logo0027.png" x="3228.3333333333" y="926.33333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+<SubTexture name="Logo0028.png" x="3228.3333333333" y="1389.3333333333" width="806.33333333333" height="462.33333333333" frameX="0" frameY="0" frameWidth="806.33333333333" frameHeight="462.33333333333"/>
+</TextureAtlas>
