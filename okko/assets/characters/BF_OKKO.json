@@ -1,0 +1,158 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				41
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-50,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf down"
+		},
+		{
+			"offsets": [
+				-28,
+				42
+			],
+			"loop": true,
+			"fps": 25,
+			"anim": "singUPmiss",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "bf miss up"
+		},
+		{
+			"offsets": [
+				-20,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "bf miss right"
+		},
+		{
+			"offsets": [
+				75,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "bf miss left"
+		},
+		{
+			"offsets": [
+				-50,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "bf miss down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "bf idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF_OKKO",
+	"position": [
+		-70,
+		260
+	],
+	"healthicon": "icon-okkobf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		102,
+		203
+	],
+	"camera_position": [
+		-20,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

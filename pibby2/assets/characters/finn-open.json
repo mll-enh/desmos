@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Finn Idle"
+		},
+		{
+			"offsets": [
+				65,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Finn Left"
+		},
+		{
+			"offsets": [
+				30,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Finn Down"
+		},
+		{
+			"offsets": [
+				12,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Finn Up"
+		},
+		{
+			"offsets": [
+				18,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Finn Right"
+		},
+		{
+			"offsets": [
+				123,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Finn L ALT0"
+		},
+		{
+			"offsets": [
+				47,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Finn R ALT0"
+		},
+		{
+			"offsets": [
+				67,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Finn U ALT0"
+		},
+		{
+			"offsets": [
+				71,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Finn D ALT0"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				57,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Finn GlitchIdle0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CAWM_Opening_Finn",
+	"position": [
+		150,
+		50
+	],
+	"healthicon": "finn",
+	"flip_x": false,
+	"healthbar_colors": [
+		168,
+		160,
+		179
+	],
+	"camera_position": [
+		-130,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,57 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"difficulties": "Normal",
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Mindless",
+			"finn",
+			[
+				82,
+				165,
+				235
+			],
+			85
+		],
+		[
+			"Blessed by Swords",
+			"finn",
+			[
+				82,
+				165,
+				235
+			],
+			90
+		],
+		[
+			"Brotherly Love",
+			"jake",
+			[
+				82,
+				165,
+				235
+			],
+			80
+		],
+		[
+			"Suffering Siblings",
+			"finn",
+			[
+				82,
+				165,
+				235
+			],
+			95
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "finn"
+}

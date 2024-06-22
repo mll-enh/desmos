@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Dendy.png">
+<SubTexture name="Dendy down0000" x="592" y="1044" width="298" height="297" frameX="-64" frameY="-145" frameWidth="500" frameHeight="500" />
+<SubTexture name="Dendy down0001" x="295" y="1044" width="297" height="298" frameX="-64" frameY="-144" frameWidth="500" frameHeight="500" />
+<SubTexture name="Dendy down0002" x="0" y="1044" width="295" height="299" frameX="-64" frameY="-143" frameWidth="500" frameHeight="500" />
+<SubTexture name="Dendy left0000" x="1274" y="0" width="291" height="312" frameX="-110" frameY="-131" frameWidth="500" frameHeight="500" />
+<SubTexture name="Dendy left0001" x="1274" y="312" width="290" height="312" frameX="-111" frameY="-131" frameWidth="500" frameHeight="500" />
+<SubTexture name="Dendy left0002" x="1274" y="624" width="287" height="312" frameX="-114" frameY="-131" frameWidth="500" frameHeight="500" />
+<SubTexture name="Dendy idle0000" x="764" y="351" width="213" height="320" frameX="-158" frameY="-122" frameWidth="500" frameHeight="500" />
+<SubTexture name="Dendy idle0001" x="642" y="724" width="217" height="317" frameX="-159" frameY="-125" frameWidth="500" frameHeight="500" />
+<SubTexture name="Dendy idle0002" x="1059" y="0" width="215" height="317" frameX="-160" frameY="-125" frameWidth="500" frameHeight="500" />
+<SubTexture name="Dendy idle0003" x="427" y="724" width="215" height="318" frameX="-159" frameY="-124" frameWidth="500" frameHeight="500" />
+<SubTexture name="Dendy idle0004" x="214" y="724" width="213" height="319" frameX="-159" frameY="-123" frameWidth="500" frameHeight="500" />
+<SubTexture name="Dendy idle0005" x="0" y="724" width="214" height="320" frameX="-158" frameY="-122" frameWidth="500" frameHeight="500" />
+<SubTexture name="Dendy right0000" x="0" y="373" width="298" height="351" frameX="-99" frameY="-92" frameWidth="500" frameHeight="500" />
+<SubTexture name="Dendy right0001" x="298" y="373" width="297" height="351" frameX="-99" frameY="-92" frameWidth="500" frameHeight="500" />
+<SubTexture name="Dendy right0002" x="764" y="0" width="295" height="351" frameX="-99" frameY="-92" frameWidth="500" frameHeight="500" />
+<SubTexture name="Dendy up0000" x="0" y="0" width="256" height="373" frameX="-148" frameY="-70" frameWidth="500" frameHeight="500" />
+<SubTexture name="Dendy up0001" x="256" y="0" width="255" height="373" frameX="-149" frameY="-70" frameWidth="500" frameHeight="500" />
+<SubTexture name="Dendy up0002" x="511" y="0" width="253" height="373" frameX="-151" frameY="-70" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

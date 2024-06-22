@@ -1,0 +1,40 @@
+{
+	"storyName": "LET'S START THE SHOW",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Pow",
+			"ko",
+			[
+				217,
+				43,
+				45
+			]
+		],
+		[
+			"Handy Dandy",
+			"dendy",
+			[
+				55,
+				161,
+				147
+			]
+		]
+	],
+	"weekName": "!"
+}

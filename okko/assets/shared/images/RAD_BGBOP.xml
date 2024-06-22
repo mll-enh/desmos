@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RAD BGBOP.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rad bop0000" x="7" y="7" width="400" height="745" pivotX="-1" pivotY="0" frameX="0" frameY="-17" frameWidth="400" frameHeight="762"/>
+	<SubTexture name="rad bop0001" x="7" y="7" width="400" height="745" frameX="0" frameY="-17" frameWidth="400" frameHeight="762"/>
+	<SubTexture name="rad bop0002" x="414" y="7" width="396" height="753" frameX="-4" frameY="-9" frameWidth="400" frameHeight="762"/>
+	<SubTexture name="rad bop0003" x="414" y="7" width="396" height="753" frameX="-4" frameY="-9" frameWidth="400" frameHeight="762"/>
+	<SubTexture name="rad bop0004" x="817" y="7" width="392" height="759" frameX="-8" frameY="-3" frameWidth="400" frameHeight="762"/>
+	<SubTexture name="rad bop0005" x="817" y="7" width="392" height="759" frameX="-8" frameY="-3" frameWidth="400" frameHeight="762"/>
+	<SubTexture name="rad bop0006" x="1216" y="7" width="392" height="762" frameX="-8" frameY="0" frameWidth="400" frameHeight="762"/>
+	<SubTexture name="rad bop0007" x="1216" y="7" width="392" height="762" frameX="-8" frameY="0" frameWidth="400" frameHeight="762"/>
+	<SubTexture name="rad bop0008" x="1216" y="7" width="392" height="762" frameX="-8" frameY="0" frameWidth="400" frameHeight="762"/>
+	<SubTexture name="rad bop0009" x="1216" y="7" width="392" height="762" frameX="-8" frameY="0" frameWidth="400" frameHeight="762"/>
+	<SubTexture name="rad bop0010" x="1216" y="7" width="392" height="762" frameX="-8" frameY="0" frameWidth="400" frameHeight="762"/>
+	<SubTexture name="rad bop0011" x="1216" y="7" width="392" height="762" frameX="-8" frameY="0" frameWidth="400" frameHeight="762"/>
+	<SubTexture name="rad bop0012" x="1216" y="7" width="392" height="762" frameX="-8" frameY="0" frameWidth="400" frameHeight="762"/>
+	<SubTexture name="rad bop0013" x="1216" y="7" width="392" height="762" frameX="-8" frameY="0" frameWidth="400" frameHeight="762"/>
+</TextureAtlas>

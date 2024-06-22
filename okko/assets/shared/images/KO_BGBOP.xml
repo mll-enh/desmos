@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="KO BGBOP.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ko bop0000" x="7" y="7" width="300" height="372" pivotX="-1" pivotY="-1" frameX="0" frameY="-12" frameWidth="300" frameHeight="384"/>
+	<SubTexture name="ko bop0001" x="7" y="7" width="300" height="372" frameX="0" frameY="-12" frameWidth="300" frameHeight="384"/>
+	<SubTexture name="ko bop0002" x="314" y="7" width="300" height="377" frameX="0" frameY="-7" frameWidth="300" frameHeight="384"/>
+	<SubTexture name="ko bop0003" x="314" y="7" width="300" height="377" frameX="0" frameY="-7" frameWidth="300" frameHeight="384"/>
+	<SubTexture name="ko bop0004" x="621" y="7" width="300" height="380" frameX="0" frameY="-4" frameWidth="300" frameHeight="384"/>
+	<SubTexture name="ko bop0005" x="621" y="7" width="300" height="380" frameX="0" frameY="-4" frameWidth="300" frameHeight="384"/>
+	<SubTexture name="ko bop0006" x="7" y="394" width="299" height="384" frameX="0" frameY="0" frameWidth="300" frameHeight="384"/>
+	<SubTexture name="ko bop0007" x="7" y="394" width="299" height="384" frameX="0" frameY="0" frameWidth="300" frameHeight="384"/>
+	<SubTexture name="ko bop0008" x="7" y="394" width="299" height="384" frameX="0" frameY="0" frameWidth="300" frameHeight="384"/>
+	<SubTexture name="ko bop0009" x="7" y="394" width="299" height="384" frameX="0" frameY="0" frameWidth="300" frameHeight="384"/>
+	<SubTexture name="ko bop0010" x="7" y="394" width="299" height="384" frameX="0" frameY="0" frameWidth="300" frameHeight="384"/>
+	<SubTexture name="ko bop0011" x="7" y="394" width="299" height="384" frameX="0" frameY="0" frameWidth="300" frameHeight="384"/>
+	<SubTexture name="ko bop0012" x="7" y="394" width="299" height="384" frameX="0" frameY="0" frameWidth="300" frameHeight="384"/>
+	<SubTexture name="ko bop0013" x="7" y="394" width="299" height="384" frameX="0" frameY="0" frameWidth="300" frameHeight="384"/>
+</TextureAtlas>

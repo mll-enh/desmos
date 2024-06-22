@@ -1,0 +1,114 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "",
+			"indices": [],
+			"name": ""
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				55,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-21,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				39,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				33,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				0,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Transition",
+			"indices": [],
+			"name": "Yourmom"
+		},
+		{
+			"offsets": [
+				0,
+				4
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 24,
+			"anim": "still",
+			"loop": true,
+			"name": "Yourmom"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cumball",
+	"position": [
+		-50,
+		150
+	],
+	"healthicon": "gumball_fake",
+	"flip_x": false,
+	"healthbar_colors": [
+		82,
+		165,
+		235
+	],
+	"camera_position": [
+		-80,
+		-100
+	],
+	"sing_duration": 3,
+	"scale": 1.2
+}

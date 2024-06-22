@@ -1,0 +1,101 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "Dendy left",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "Dendy up",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "Dendy right",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "Dendy down",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				3,
+				4,
+				4,
+				5,
+				5,
+				6
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Dendy idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dendy",
+	"position": [
+		0,
+		270
+	],
+	"healthicon": "dendy",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		161,
+		147
+	],
+	"camera_position": [
+		0,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}
