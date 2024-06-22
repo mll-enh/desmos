@@ -1,0 +1,32 @@
+{
+	"storyName": "...",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "unknown",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week10",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"nice",
+			"nyan",
+			[
+				215,
+				155,
+				95
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "nice",
+	"hiddenUntilUnlocked": false
+}

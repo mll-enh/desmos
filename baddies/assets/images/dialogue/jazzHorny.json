@@ -1,0 +1,63 @@
+{
+	"position": [
+		-160,
+		-230
+	],
+	"dialogue_pos": "left",
+	"scale": 0.649999999999999,
+	"image": "jazzHorny",
+	"animations": [
+		{
+			"loop_name": "HORNY",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "HORNY0005",
+			"anim": "shy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "MOUTH ACTION",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "MOUTH ACTION0005",
+			"anim": "mouth",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "OOF",
+			"idle_offsets": [
+				-20,
+				-20
+			],
+			"idle_name": "OOF0005",
+			"anim": "uhoh",
+			"loop_offsets": [
+				-20,
+				-20
+			]
+		},
+		{
+			"loop_name": "hornyNormal",
+			"idle_offsets": [
+				-10,
+				-20
+			],
+			"idle_name": "hornyNormal0005",
+			"anim": "talk",
+			"loop_offsets": [
+				-10,
+				-20
+			]
+		}
+	]
+}

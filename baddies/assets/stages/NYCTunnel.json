@@ -1,0 +1,10 @@
+{
+	"directory": "newyork",
+	"defaultZoom": 1,
+	"isPixelStage": false,
+
+	"boyfriend": [1470, -100],
+	"girlfriend": [200, -230],
+	"opponent": [500, -100]
+
+}

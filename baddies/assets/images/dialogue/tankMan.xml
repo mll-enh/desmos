@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tankMan.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry0000" x="10" y="10" width="939" height="997" frameX="0" frameY="-4" frameWidth="939" frameHeight="1006"/>
+	<SubTexture name="angry0001" x="10" y="10" width="939" height="997" frameX="0" frameY="-4" frameWidth="939" frameHeight="1006"/>
+	<SubTexture name="angry0002" x="959" y="10" width="933" height="1001" frameX="-3" frameY="-3" frameWidth="939" frameHeight="1006"/>
+	<SubTexture name="angry0003" x="959" y="10" width="933" height="1001" frameX="-3" frameY="-3" frameWidth="939" frameHeight="1006"/>
+	<SubTexture name="angry0004" x="1902" y="10" width="929" height="1005" frameX="-6" frameY="-1" frameWidth="939" frameHeight="1006"/>
+	<SubTexture name="angry0005" x="1902" y="10" width="929" height="1005" frameX="-6" frameY="-1" frameWidth="939" frameHeight="1006"/>
+	<SubTexture name="angry0006" x="2841" y="10" width="929" height="1006" frameX="-6" frameY="0" frameWidth="939" frameHeight="1006"/>
+	<SubTexture name="normal0000" x="10" y="1026" width="939" height="997" frameX="0" frameY="-4" frameWidth="939" frameHeight="1006"/>
+	<SubTexture name="normal0001" x="10" y="1026" width="939" height="997" frameX="0" frameY="-4" frameWidth="939" frameHeight="1006"/>
+	<SubTexture name="normal0002" x="959" y="1026" width="933" height="1001" frameX="-3" frameY="-3" frameWidth="939" frameHeight="1006"/>
+	<SubTexture name="normal0003" x="959" y="1026" width="933" height="1001" frameX="-3" frameY="-3" frameWidth="939" frameHeight="1006"/>
+	<SubTexture name="normal0004" x="1902" y="1026" width="929" height="1005" frameX="-6" frameY="-1" frameWidth="939" frameHeight="1006"/>
+	<SubTexture name="normal0005" x="1902" y="1026" width="929" height="1005" frameX="-6" frameY="-1" frameWidth="939" frameHeight="1006"/>
+	<SubTexture name="normal0006" x="2841" y="1026" width="929" height="1006" frameX="-6" frameY="0" frameWidth="939" frameHeight="1006"/>
+	<SubTexture name="normal0007" x="2841" y="1026" width="929" height="1006" frameX="-6" frameY="0" frameWidth="939" frameHeight="1006"/>
+	<SubTexture name="whatever0000" x="10" y="2042" width="967" height="992" frameX="0" frameY="-2" frameWidth="967" frameHeight="1000"/>
+	<SubTexture name="whatever0001" x="10" y="2042" width="967" height="992" frameX="0" frameY="-2" frameWidth="967" frameHeight="1000"/>
+	<SubTexture name="whatever0002" x="987" y="2042" width="957" height="996" frameX="-7" frameY="-2" frameWidth="967" frameHeight="1000"/>
+	<SubTexture name="whatever0003" x="987" y="2042" width="957" height="996" frameX="-7" frameY="-2" frameWidth="967" frameHeight="1000"/>
+	<SubTexture name="whatever0004" x="1954" y="2042" width="952" height="1000" frameX="-10" frameY="0" frameWidth="967" frameHeight="1000"/>
+	<SubTexture name="whatever0005" x="1954" y="2042" width="952" height="1000" frameX="-10" frameY="0" frameWidth="967" frameHeight="1000"/>
+	<SubTexture name="whatever0006" x="2916" y="2042" width="952" height="1000" frameX="-10" frameY="0" frameWidth="967" frameHeight="1000"/>
+</TextureAtlas>

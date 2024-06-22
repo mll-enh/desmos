@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jasmineShooting.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jasmineCombat0000" x="10" y="10" width="1985" height="654" frameX="-18" frameY="-59" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0001" x="2005" y="10" width="1985" height="654" frameX="-18" frameY="-59" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0002" x="4000" y="10" width="1979" height="654" frameX="-21" frameY="-61" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0003" x="5989" y="10" width="1979" height="715" frameX="-21" frameY="0" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0004" x="10" y="735" width="1983" height="715" frameX="-21" frameY="0" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0005" x="2003" y="735" width="1983" height="713" frameX="-21" frameY="-2" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0006" x="3996" y="735" width="1985" height="713" frameX="-21" frameY="-2" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0007" x="5991" y="735" width="2005" height="660" frameX="-21" frameY="-55" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0008" x="10" y="1460" width="2005" height="660" frameX="-21" frameY="-55" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0009" x="2025" y="1460" width="2008" height="660" frameX="-21" frameY="-55" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0010" x="4043" y="1460" width="1989" height="673" frameX="-40" frameY="-41" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0011" x="6042" y="1460" width="1989" height="685" frameX="-40" frameY="-29" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0012" x="10" y="2155" width="1986" height="669" frameX="-40" frameY="-45" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0013" x="2006" y="2155" width="1979" height="667" frameX="-47" frameY="-45" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0014" x="3995" y="2155" width="1982" height="668" frameX="-47" frameY="-44" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0015" x="5987" y="2155" width="1984" height="670" frameX="-45" frameY="-41" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0016" x="10" y="2835" width="1984" height="670" frameX="-45" frameY="-41" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0017" x="2004" y="2835" width="1920" height="672" frameX="-47" frameY="-39" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0018" x="2004" y="2835" width="1920" height="672" frameX="-47" frameY="-39" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0019" x="3934" y="2835" width="1958" height="665" frameX="0" frameY="-39" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0020" x="5902" y="2835" width="1960" height="665" frameX="0" frameY="-39" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0021" x="10" y="3517" width="1953" height="667" frameX="-7" frameY="-39" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0022" x="1973" y="3517" width="1976" height="651" frameX="-7" frameY="-55" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0023" x="3959" y="3517" width="1965" height="658" frameX="-18" frameY="-55" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0024" x="5934" y="3517" width="1985" height="657" frameX="-18" frameY="-56" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0025" x="10" y="4194" width="1982" height="659" frameX="-21" frameY="-56" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0026" x="2002" y="4194" width="1979" height="659" frameX="-21" frameY="-56" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0027" x="3991" y="4194" width="1979" height="660" frameX="-21" frameY="-55" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0028" x="5980" y="4194" width="1983" height="660" frameX="-21" frameY="-55" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0029" x="10" y="4864" width="1983" height="660" frameX="-21" frameY="-55" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0030" x="2003" y="4864" width="1985" height="660" frameX="-21" frameY="-55" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0031" x="3998" y="4864" width="1985" height="660" frameX="-21" frameY="-55" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0032" x="5993" y="4864" width="2005" height="670" frameX="-21" frameY="-45" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0033" x="10" y="5544" width="1986" height="669" frameX="-40" frameY="-45" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0034" x="2006" y="5544" width="1989" height="670" frameX="-40" frameY="-44" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0035" x="4005" y="5544" width="1989" height="673" frameX="-40" frameY="-41" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0036" x="6004" y="5544" width="1982" height="671" frameX="-47" frameY="-41" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0037" x="10" y="6227" width="1927" height="675" frameX="-40" frameY="-39" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0038" x="10" y="6227" width="1927" height="675" frameX="-40" frameY="-39" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0039" x="10" y="2155" width="1986" height="669" frameX="-40" frameY="-45" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0040" x="2006" y="2155" width="1979" height="667" frameX="-47" frameY="-45" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0041" x="3995" y="2155" width="1982" height="668" frameX="-47" frameY="-44" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0042" x="5987" y="2155" width="1984" height="670" frameX="-45" frameY="-41" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0043" x="10" y="2835" width="1984" height="670" frameX="-45" frameY="-41" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0044" x="2004" y="2835" width="1920" height="672" frameX="-47" frameY="-39" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0045" x="1947" y="6227" width="1920" height="656" frameX="-47" frameY="-55" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0046" x="3877" y="6227" width="1918" height="659" frameX="-40" frameY="-55" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0047" x="5805" y="6227" width="1920" height="658" frameX="-40" frameY="-56" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0048" x="10" y="6912" width="1920" height="658" frameX="-40" frameY="-56" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0049" x="1940" y="6912" width="1936" height="657" frameX="-47" frameY="-55" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0050" x="3886" y="6912" width="1936" height="657" frameX="-47" frameY="-55" frameWidth="2029" frameHeight="715"/>
+	<SubTexture name="jasmineCombat0051" x="5832" y="6912" width="1958" height="655" frameX="-45" frameY="-56" frameWidth="2029" frameHeight="715"/>
+</TextureAtlas>

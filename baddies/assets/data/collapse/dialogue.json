@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bftalk",
+			"boxState": "normal",
+			"expression": "ehh",
+			"text": "Beo bop?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lia",
+			"boxState": "normal",
+			"expression": "shadow",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lia",
+			"boxState": "normal",
+			"expression": "hello",
+			"text": "Hi BF, it's meeee! Liaaaa. Remember me? It's been sooo longgg!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfTalk",
+			"boxState": "normal",
+			"expression": "bro",
+			"text": "Buck."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfTalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boppp??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tankman",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Okay, who the hell interrupted my damn yoga session..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tankman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh holy shit, haha, it's you. Nice threads, kid. "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Bftalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bo."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tankman",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Alright, now explain to me why the hell I'm here and not shooting you in the goddamn face right now."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nuh uh, that'll be my job, hun. Looks like killing Stephanie caused a little time rift to form. How can I not take up the offer to kill ya?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tankman",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "Ain't no way she just called me 'hun' like that unironically. Wait, who the hell..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "piconova",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I have no idea how we got here, but it ain't good. "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tankman",
+			"boxState": "normal",
+			"expression": "ehh",
+			"text": "School shooter and Don Juan, perfect."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Lia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ENOUGH! Dialogue gone on for way too long now, I just wanna kill ya for good this time. Luckily I brought my girls with me too."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "piconova",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You focus on her, cinnamon skin and I will blast these mfs."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Tankman",
+			"boxState": "normal",
+			"expression": "ehh",
+			"text": "Don't mind me, I'll let ya'll idiots kill each other. If a bullet touches this perfect skin, i'm tearing a rift in your assholes."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tankman",
+			"boxState": "normal",
+			"expression": "ehh",
+			"text": "Alright, get started. I'm tryna listen to some sick tunes."
+		}
+	]
+}

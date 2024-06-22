@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="myWayOrTheHighway.png">
+	
+	
+	<SubTexture name="newGround0000" x="5" y="5" width="1589" height="841" />
+	<SubTexture name="newGround0001" x="1599" y="5" width="1589" height="841" />
+	<SubTexture name="newGround0002" x="5" y="5" width="1589" height="841" />
+	<SubTexture name="newGround0003" x="5" y="851" width="1589" height="841" />
+	<SubTexture name="newGround0004" x="1599" y="851" width="1589" height="841" />
+	<SubTexture name="newGround0005" x="5" y="5" width="1589" height="841" />
+	<SubTexture name="newGround0006" x="1599" y="5" width="1589" height="841" />
+	<SubTexture name="newGround0007" x="5" y="5" width="1589" height="841" />
+	<SubTexture name="newGround0008" x="5" y="851" width="1589" height="841" />
+	<SubTexture name="newGround0009" x="1599" y="851" width="1589" height="841" />
+	<SubTexture name="newGround0010" x="5" y="5" width="1589" height="841" />
+	<SubTexture name="newGround0011" x="1599" y="5" width="1589" height="841" />
+	<SubTexture name="newGround0012" x="5" y="5" width="1589" height="841" />
+	<SubTexture name="newGround0013" x="5" y="851" width="1589" height="841" />
+	<SubTexture name="newGround0014" x="1599" y="851" width="1589" height="841" />
+	<SubTexture name="newGround0015" x="5" y="5" width="1589" height="841" />
+	<SubTexture name="newGround0016" x="1599" y="5" width="1589" height="841" />
+	<SubTexture name="newGround0017" x="5" y="5" width="1589" height="841" />
+	<SubTexture name="newGround0018" x="5" y="851" width="1589" height="841" />
+	<SubTexture name="newGround0019" x="1599" y="851" width="1589" height="841" />
+	<SubTexture name="newGround0020" x="5" y="5" width="1589" height="841" />
+	<SubTexture name="newGround0021" x="1599" y="5" width="1589" height="841" />
+	<SubTexture name="newGround0022" x="5" y="5" width="1589" height="841" />
+	<SubTexture name="newGround0023" x="5" y="851" width="1589" height="841" />
+	<SubTexture name="newGround0024" x="1599" y="851" width="1589" height="841" />
+	<SubTexture name="newGround0025" x="5" y="5" width="1589" height="841" />
+	<SubTexture name="newGround0026" x="1599" y="5" width="1589" height="841" />
+	<SubTexture name="newGround0027" x="5" y="5" width="1589" height="841" />
+	<SubTexture name="newGround0028" x="5" y="851" width="1589" height="841" />
+</TextureAtlas>

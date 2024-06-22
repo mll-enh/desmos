@@ -1,0 +1,76 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 0.8,
+	"image": "crazySteph",
+	"animations": [
+		{
+			"idle_offsets": [
+				-94,
+				259
+			],
+			"loop_offsets": [
+				-94,
+				259
+			],
+			"anim": "talk",
+			"idle_name": "crazyNormal0005",
+			"loop_name": "crazyNormal"
+		},
+		{
+			"idle_offsets": [
+				-5,
+				271
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				-7,
+				270
+			],
+			"idle_name": "crazyGuh0005",
+			"loop_name": "crazyGuh"
+		},
+		{
+			"loop_offsets": [
+				-93,
+				260
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				-92,
+				260
+			],
+			"loop_name": "crazyAnnoyed",
+			"idle_name": "crazyAnnoyed0005"
+		},
+		{
+			"loop_name": "crazyAss",
+			"idle_offsets": [
+				-40,
+				270
+			],
+			"idle_name": "crazyAss0005",
+			"anim": "awshit",
+			"loop_offsets": [
+				-40,
+				270
+			]
+		},
+		{
+			"loop_name": "crazyCry",
+			"idle_offsets": [
+				-60,
+				270
+			],
+			"idle_name": "crazyCry0005",
+			"anim": "shecry",
+			"loop_offsets": [
+				-60,
+				270
+			]
+		}
+	]
+}

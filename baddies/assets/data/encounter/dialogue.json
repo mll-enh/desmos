@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "OMG! I finally found you! After searching for soooo long, I finally found you!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stephTalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfTalk"
+		},
+		{
+			"expression": "talk",
+			"text": "I'm sorry I'm just so excited to see you...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stephTalk"
+		},
+		{
+			"expression": "excited",
+			"text": "Mmm you got me feeling some type of way...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stephTalk"
+		},
+		{
+			"expression": "talk",
+			"text": "I mean, my name is Stephanie! I'm like... your biggest fan!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stephTalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Bop???",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfTalk"
+		},
+		{
+			"expression": "talk",
+			"text": "I know, I know, you may be asking, why are we still talking and not rapping like you do all the time? Well...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stephTalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Let's change that! Let's sing one song!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stephTalk"
+		},
+		{
+			"expression": "excited",
+			"text": "OH I'm soo fucking excited...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stephTalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Beo bop.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfTalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Ohhh comee onnnn,  just one song? Pleaseeeeeeeeeeeeeeeeeeeeeee?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stephTalk"
+		},
+		{
+			"expression": "talk",
+			"text": "ok.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfTalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Yay! Let's go!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stephTalk"
+		}
+	]
+}

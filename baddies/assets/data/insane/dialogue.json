@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"expression": "bro",
+			"text": "Bro what the fuck was that?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfTalk"
+		},
+		{
+			"expression": "shy",
+			"text": "Sorry, the way you spoke, the thrill, the RUSH!!! I couldn't help myself, hehe!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stephTalk"
+		},
+		{
+			"expression": "talk",
+			"text": " oh aight",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfTalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Okay I'll be honest. After that song I just have to do one more, you're just too cute!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stephTalk"
+		},
+		{
+			"expression": "excited",
+			"text": "I can just slurp and gobble you right up...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stephTalk"
+		},
+		{
+			"expression": "shy",
+			"text": "I mean uhh...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stephTalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Let's sing one morrrree and that's it, no more from little old Stephanie!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stephTalk"
+		},
+		{
+			"expression": "sus",
+			"text": "Okay I know this bitch ain't just say what I thought she said...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gfTalk"
+		},
+		{
+			"expression": "pissed",
+			"text": "SHUT THE FUCK UP!!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "stephTalk"
+		},
+		{
+			"expression": "shy",
+			"text": "I mean...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stephTalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Comeeee oooonn, one more!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stephTalk"
+		},
+		{
+			"expression": "talk",
+			"text": "BF, I think you gotta spit some of those philosophical bars at her to make her go away",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gfTalk"
+		},
+		{
+			"expression": "annoyed",
+			"text": "You're like dead annoying...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stephTalk"
+		},
+		{
+			"expression": "annoyed",
+			"text": "Please...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stephTalk"
+		},
+		{
+			"expression": "annoyed",
+			"text": "Take this ratio + you fell off stupid monkey ass hoe",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stephTalk"
+		},
+		{
+			"expression": "ratio",
+			"text": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gfTalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Beo bop...skeedeedly do, skimp peedly bimbo bop skap!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfTalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, your words are so fucking dumb yet so hot. Let's go!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "stephTalk"
+		}
+	]
+}

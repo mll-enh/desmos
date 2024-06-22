@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				100,
+				158
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Crazy Up"
+		},
+		{
+			"offsets": [
+				221,
+				242
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Crazy Left"
+		},
+		{
+			"offsets": [
+				-50,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Crazy Down"
+		},
+		{
+			"offsets": [
+				-72,
+				72
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Crazy Right"
+		},
+		{
+			"offsets": [
+				-5,
+				70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Crazy Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/crazy",
+	"position": [
+		20,
+		30
+	],
+	"healthicon": "starbucksold",
+	"flip_x": false,
+	"healthbar_colors": [
+		152,
+		1,
+		101
+	],
+	"camera_position": [
+		50,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

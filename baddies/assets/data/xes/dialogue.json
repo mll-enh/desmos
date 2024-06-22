@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"expression": "shy",
+			"text": "You like my outfit, baby? I bought this at Limited 22 when we was at the mall.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jazzBed"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh shit, haha. Jasmine's sorry for making a mess on your lips, its been a while since we kissed.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jazzbed"
+		},
+		{
+			"expression": "spit",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "novabed"
+		},
+		{
+			"expression": "shy",
+			"text": "Oh man, you're making Jasmine feel butterflies down there... lemme just.. take these off-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jazzbed"
+		},
+		{
+			"expression": "normal",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "novabed"
+		},
+		{
+			"expression": "talk",
+			"text": "Ay Dios mio, papi... I don't wanna sing no mo. I wanna sing on your d-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jazzbed"
+		},
+		{
+			"expression": "normal",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "novabed"
+		},
+		{
+			"expression": "shy",
+			"text": "Jeez fine, papi. I'll sing one more stupid ass song with you. Jasmine ain't holding back...",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "jazzbed"
+		},
+		{
+			"expression": "condom",
+			"text": "Then we can finally use this afterwards..mmm",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jazzbed"
+		}
+	]
+}

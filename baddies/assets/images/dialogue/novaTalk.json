@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-170,
+		-230
+	],
+	"scale": 0.649999999999999,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				0
+			],
+			"loop_name": "NOVA",
+			"idle_name": "NOVA"
+		}
+	],
+	"image": "novaTalk"
+}

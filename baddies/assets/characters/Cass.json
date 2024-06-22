@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				39,
+				398
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "newJump",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jumpUp",
+	"position": [
+		-60,
+		320
+	],
+	"healthicon": "novabike2",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		176,
+		255
+	],
+	"camera_position": [
+		790,
+		-798
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

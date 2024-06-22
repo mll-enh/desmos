@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-15,
+				161
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"offsets": [
+				9,
+				124
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-29,
+				187
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				10,
+				113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-48,
+				123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-24,
+				137
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "papi"
+		},
+		{
+			"offsets": [
+				-15,
+				146
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "hot chip"
+		},
+		{
+			"offsets": [
+				-26,
+				257
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "horn",
+			"indices": [],
+			"name": "horny"
+		},
+		{
+			"offsets": [
+				-25,
+				161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "papi",
+			"indices": [],
+			"name": "dontStop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jazz",
+	"position": [
+		20,
+		400
+	],
+	"healthicon": "jasmine",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		155,
+		255
+	],
+	"camera_position": [
+		80,
+		-140
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

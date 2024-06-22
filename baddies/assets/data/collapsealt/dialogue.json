@@ -1,0 +1,137 @@
+{
+	"dialogue": [
+		{
+			"expression": "normal",
+			"text": "...?",
+			"boxState": "normal",
+			"portrait": "novaalt",
+			"speed": 0.05
+		},
+		{
+			"expression": "shadow",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "lia",
+			"speed": 0.05
+		},
+		{
+			"expression": "hello",
+			"text": "Hi BF, it's meeee- wait a min...",
+			"boxState": "normal",
+			"portrait": "lia",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "You're not BF...OHHHHHH I know who you are. You're that 'new kid on the block'. Nova, or whatever...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lia"
+		},
+		{
+			"expression": "normal",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "novaalt",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "You don't talk, you don't have feelings, you mess with any girl you see... you're just an asshole...",
+			"boxState": "normal",
+			"portrait": "lia",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "You know, I kinda like that...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lia"
+		},
+		{
+			"expression": "mad",
+			"text": "Okay, who the hell interrupted my damn GF RP ASMR videos...",
+			"boxState": "normal",
+			"portrait": "tankman",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, I haven't seen you here before, cinnamon skin. Nice threads, kid.",
+			"boxState": "normal",
+			"portrait": "tankman",
+			"speed": 0.05
+		},
+		{
+			"expression": "normal",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "novaalt",
+			"speed": 0.05
+		},
+		{
+			"expression": "ehh",
+			"text": "What are you, like a some kind of fuckboy? I bet you do TikToks in your room and bite your lip don't ya? Don't lie to me.",
+			"boxState": "normal",
+			"portrait": "tankman",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "UGHH.. anyways... when you killed Stephanie, a little rift formed. Originally, I jumped in to finally kill BF but you're here... ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lia"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "novaalt"
+		},
+		{
+			"expression": "talk",
+			"text": "I guess despite your looks, I'm still gonna have to kill you. It's a shame, we could've had lovely kids...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lia"
+		},
+		{
+			"expression": "mad",
+			"text": "Bro... cinnamon skin, you gotta knock this bitch out. When a girl mentions kids, you know she off the perc.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tankman"
+		},
+		{
+			"expression": "talk",
+			"text": "Hey maybe afterwards we can get a few drinks. Maybe cry together and hold each others balls, it'll be fun.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tankman"
+		},
+		{
+			"expression": "talk",
+			"text": "SHUT UP PLEASE... that's it, after i'm done with you, i'm hunting down BF and shutting this whole thing down for good.",
+			"boxState": "normal",
+			"portrait": "lia",
+			"speed": 0.05
+		},
+		{
+			"expression": "ehh",
+			"text": "Alright quit your yapping, get started. I'm tryna listen to some sick tunes.",
+			"boxState": "normal",
+			"portrait": "tankman",
+			"speed": 0.05
+		}
+	]
+}

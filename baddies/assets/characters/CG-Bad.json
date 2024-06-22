@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-37,
+				139
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-38,
+				147
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-70,
+				197
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				64,
+				140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-48,
+				98
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				310,
+				320
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "glitchLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				129,
+				266
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "glitchUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				150
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "glitchDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				20
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "glitchIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CG_Bad",
+	"position": [
+		30,
+		350
+	],
+	"healthicon": "cg",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		95,
+		215
+	],
+	"camera_position": [
+		150,
+		-260
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

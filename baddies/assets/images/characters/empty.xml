@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="empty.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="emptySpeaker0000" x="10" y="10" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="emptySpeaker0001" x="719" y="10" width="703" height="352"/>
+	<SubTexture name="emptySpeaker0002" x="10" y="10" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="emptySpeaker0003" x="10" y="372" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="emptySpeaker0004" x="10" y="372" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="emptySpeaker0005" x="10" y="372" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="emptySpeaker0006" x="10" y="372" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="emptySpeaker0007" x="10" y="372" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="emptySpeaker0008" x="10" y="372" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="emptySpeaker0009" x="10" y="372" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="emptySpeaker0010" x="10" y="372" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="emptySpeaker0011" x="10" y="372" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="emptySpeaker0012" x="10" y="372" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="emptySpeaker0013" x="10" y="372" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="emptySpeaker0014" x="10" y="372" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="emptySpeaker0015" x="10" y="372" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="emptySpeaker0016" x="719" y="10" width="703" height="352"/>
+	<SubTexture name="emptySpeaker0017" x="719" y="10" width="703" height="352"/>
+	<SubTexture name="emptySpeaker0018" x="10" y="10" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="emptySpeaker0019" x="10" y="372" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="emptySpeaker0020" x="10" y="372" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="emptySpeaker0021" x="10" y="372" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="emptySpeaker0022" x="10" y="372" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="emptySpeaker0023" x="10" y="372" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="emptySpeaker0024" x="10" y="372" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="emptySpeaker0025" x="10" y="372" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="emptySpeaker0026" x="10" y="372" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="emptySpeaker0027" x="10" y="372" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="emptySpeaker0028" x="10" y="372" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+	<SubTexture name="emptySpeaker0029" x="10" y="372" width="699" height="352" frameX="-2" frameY="0" frameWidth="703" frameHeight="352"/>
+</TextureAtlas>

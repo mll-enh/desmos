@@ -1,0 +1,10 @@
+{
+	"directory": "cyber",
+	"defaultZoom": 0.9,
+	"isPixelStage": false,
+
+	"boyfriend": [970, 100],
+	"girlfriend": [400, 170],
+	"opponent": [100, 180]
+
+}

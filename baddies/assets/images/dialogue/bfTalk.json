@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		50
+	],
+	"scale": 0.8,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				159,
+				198
+			],
+			"idle_offsets": [
+				159,
+				198
+			],
+			"loop_name": "bfNormal",
+			"idle_name": "bfNormal0005"
+		},
+		{
+			"loop_name": "bfWhat",
+			"idle_offsets": [
+				150,
+				210
+			],
+			"idle_name": "bfWhat0005",
+			"anim": "bro",
+			"loop_offsets": [
+				150,
+				210
+			]
+		}
+	],
+	"image": "bfTalk"
+}

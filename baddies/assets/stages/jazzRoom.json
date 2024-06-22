@@ -1,0 +1,10 @@
+{
+	"directory": "jazz",
+	"defaultZoom": 0.8,
+	"isPixelStage": false,
+
+	"boyfriend": [670, 100],
+	"girlfriend": [0, -130],
+	"opponent": [100, 100]
+
+}

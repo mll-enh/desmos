@@ -1,0 +1,32 @@
+{
+	"storyName": "...",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "unknown",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week7",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"collapse",
+			"lia",
+			[
+				215,
+				155,
+				95
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "She's Back",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 0.75,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				210
+			],
+			"idle_offsets": [
+				-1,
+				208
+			],
+			"loop_name": "stephNormal",
+			"idle_name": "stephNormal0005"
+		},
+		{
+			"loop_offsets": [
+				45,
+				220
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				44,
+				222
+			],
+			"loop_name": "stephHorn",
+			"idle_name": "stephHorn0005"
+		},
+		{
+			"loop_offsets": [
+				-10,
+				220
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				-10,
+				220
+			],
+			"loop_name": "stephANGRY",
+			"idle_name": "stephANGRY0005"
+		},
+		{
+			"loop_name": "stephShy",
+			"idle_offsets": [
+				0,
+				230
+			],
+			"idle_name": "stephShy0005",
+			"anim": "shy",
+			"loop_offsets": [
+				0,
+				230
+			]
+		},
+		{
+			"loop_name": "stephAnnoyed",
+			"idle_offsets": [
+				0,
+				220
+			],
+			"idle_name": "stephAnnoyed0005",
+			"anim": "annoyed",
+			"loop_offsets": [
+				0,
+				220
+			]
+		}
+	],
+	"image": "stephTalk"
+}

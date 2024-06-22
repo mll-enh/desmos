@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="daPopos.png">
+	
+	
+	<SubTexture name="helicopters0000" x="5" y="5" width="972" height="495" />
+	<SubTexture name="helicopters0001" x="982" y="5" width="972" height="495" />
+	<SubTexture name="helicopters0002" x="1959" y="5" width="972" height="495" />
+	<SubTexture name="helicopters0003" x="2936" y="5" width="972" height="495" />
+	<SubTexture name="helicopters0004" x="5" y="505" width="972" height="495" />
+	<SubTexture name="helicopters0005" x="982" y="505" width="972" height="495" />
+	<SubTexture name="helicopters0006" x="1959" y="505" width="972" height="495" />
+	<SubTexture name="helicopters0007" x="2936" y="505" width="972" height="495" />
+	<SubTexture name="helicopters0008" x="5" y="1005" width="972" height="495" />
+	<SubTexture name="helicopters0009" x="982" y="1005" width="972" height="495" />
+	<SubTexture name="helicopters0010" x="1959" y="1005" width="972" height="495" />
+	<SubTexture name="helicopters0011" x="2936" y="1005" width="972" height="495" />
+	<SubTexture name="helicopters0012" x="5" y="1505" width="972" height="495" />
+	<SubTexture name="helicopters0013" x="5" y="5" width="972" height="495" />
+</TextureAtlas>

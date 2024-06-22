@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="camera.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="camera0000" x="10" y="10" width="1340" height="753"/>
+	<SubTexture name="camera0001" x="10" y="10" width="1340" height="753"/>
+	<SubTexture name="camera0002" x="10" y="10" width="1340" height="753"/>
+	<SubTexture name="camera0003" x="10" y="10" width="1340" height="753"/>
+	<SubTexture name="camera0004" x="10" y="773" width="1340" height="753"/>
+	<SubTexture name="camera0005" x="10" y="773" width="1340" height="753"/>
+	<SubTexture name="camera0006" x="10" y="773" width="1340" height="753"/>
+	<SubTexture name="camera0007" x="10" y="773" width="1340" height="753"/>
+	<SubTexture name="camera0008" x="10" y="773" width="1340" height="753"/>
+	<SubTexture name="camera0009" x="10" y="10" width="1340" height="753"/>
+	<SubTexture name="camera0010" x="10" y="10" width="1340" height="753"/>
+	<SubTexture name="camera0011" x="10" y="10" width="1340" height="753"/>
+	<SubTexture name="camera0012" x="10" y="10" width="1340" height="753"/>
+	<SubTexture name="camera0013" x="10" y="10" width="1340" height="753"/>
+</TextureAtlas>

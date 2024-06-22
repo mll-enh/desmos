@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-20,
+				88
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Nova Up"
+		},
+		{
+			"offsets": [
+				30,
+				52
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Nova Left"
+		},
+		{
+			"offsets": [
+				10,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Nova Down"
+		},
+		{
+			"offsets": [
+				-32,
+				72
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Nova Right"
+		},
+		{
+			"offsets": [
+				30,
+				100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Left Miss"
+		},
+		{
+			"offsets": [
+				8,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Down Miss"
+		},
+		{
+			"offsets": [
+				-19,
+				107
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Up Miss"
+		},
+		{
+			"offsets": [
+				-29,
+				122
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Right Miss"
+		},
+		{
+			"offsets": [
+				-11,
+				76
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "tf",
+			"loop": false,
+			"name": "UHH"
+		},
+		{
+			"offsets": [
+				-5,
+				70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Ryan Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nova",
+	"position": [
+		20,
+		350
+	],
+	"healthicon": "novaold",
+	"flip_x": true,
+	"healthbar_colors": [
+		102,
+		206,
+		204
+	],
+	"camera_position": [
+		90,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

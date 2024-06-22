@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "So what you been up to, baby?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jazzHorny"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "novaTalk"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh thanks for asking, i've been pretty loco. I was partying with my girls the other night and I got my nails done right...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jazzHorny"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "novaTalk"
+		},
+		{
+			"expression": "talk",
+			"text": "You're such a good listener papi. That's what i like about you.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jazzHorny"
+		},
+		{
+			"expression": "talk",
+			"text": "You're so different from all the other guys Jasmine dated before, they so nasty... not you tho... you're different, baby.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jazzHorny"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "novaTalk"
+		},
+		{
+			"expression": "shy",
+			"text": "Stooppp, you're too cuteee. Alright, less test this lil mic out okay? Jasmine jus spent 60 dollars on this shit",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "jazzHorny"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jazzHorny",
+			"boxState": "normal",
+			"expression": "shy",
+			"text": "Jasmine gonna go slow on you first, then ima pick up the pace... keep up with me, papi."
+		}
+	]
+}

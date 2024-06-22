@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfTalk.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bfNormal0000" x="10" y="10" width="720" height="875" frameX="-3" frameY="0" frameWidth="723" frameHeight="875"/>
+	<SubTexture name="bfNormal0001" x="10" y="10" width="720" height="875" frameX="-3" frameY="0" frameWidth="723" frameHeight="875"/>
+	<SubTexture name="bfNormal0002" x="740" y="10" width="715" height="871" frameX="-1" frameY="-4" frameWidth="723" frameHeight="875"/>
+	<SubTexture name="bfNormal0003" x="740" y="10" width="715" height="871" frameX="-1" frameY="-4" frameWidth="723" frameHeight="875"/>
+	<SubTexture name="bfNormal0004" x="1465" y="10" width="711" height="868" frameX="0" frameY="-7" frameWidth="723" frameHeight="875"/>
+	<SubTexture name="bfNormal0005" x="1465" y="10" width="711" height="868" frameX="0" frameY="-7" frameWidth="723" frameHeight="875"/>
+	<SubTexture name="bfWhat0000" x="2186" y="10" width="756" height="894" frameX="-3" frameY="0" frameWidth="759" frameHeight="894"/>
+	<SubTexture name="bfWhat0001" x="2186" y="10" width="756" height="894" frameX="-3" frameY="0" frameWidth="759" frameHeight="894"/>
+	<SubTexture name="bfWhat0002" x="2952" y="10" width="752" height="893" frameX="-2" frameY="-1" frameWidth="759" frameHeight="894"/>
+	<SubTexture name="bfWhat0003" x="2952" y="10" width="752" height="893" frameX="-2" frameY="-1" frameWidth="759" frameHeight="894"/>
+	<SubTexture name="bfWhat0004" x="10" y="914" width="750" height="893" frameX="0" frameY="-1" frameWidth="759" frameHeight="894"/>
+	<SubTexture name="bfWhat0005" x="10" y="914" width="750" height="893" frameX="0" frameY="-1" frameWidth="759" frameHeight="894"/>
+</TextureAtlas>

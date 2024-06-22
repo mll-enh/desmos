@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-160,
+		-230
+	],
+	"scale": 0.649999999999999,
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "shy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "jazzBedShy",
+			"idle_name": "jazzBedShy0006"
+		},
+		{
+			"loop_offsets": [
+				-10,
+				-20
+			],
+			"anim": "talk",
+			"idle_offsets": [
+				-10,
+				-20
+			],
+			"loop_name": "jazzBed0",
+			"idle_name": "jazzBed0006"
+		},
+		{
+			"loop_name": "jazzCondom0",
+			"idle_offsets": [
+				-80,
+				-10
+			],
+			"idle_name": "jazzCondom0006",
+			"anim": "condom",
+			"loop_offsets": [
+				-80,
+				-10
+			]
+		}
+	],
+	"image": "jazzBed"
+}
