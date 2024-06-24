@@ -20,7 +20,7 @@
 :bf:b10: !!!
 :bf:b4: Who-
 :bf:b11: !!! 
-:bf:b4: You’re... We’re...
+:bf:b4: Youâ€™re... Weâ€™re...
 :bf:b3: What do you want...?
 :ogbf:default: Skdoo bep!
 :bf:b19: A sing off?

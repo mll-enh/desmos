@@ -12,20 +12,20 @@
 :effect:fadeIn:0.4
 :effect:enterStageLeft:0.8
 :dad:default: Sport!
-:dad:default: We’ve been looking for you.
+:dad:default: Weâ€™ve been looking for you.
 
 :effect:fadeIn:0.4
 :effect:enterStageRight:0.8
 :bf:b6: ...
 
-:dad:d5: Hm. I see you’re running around with that street rat again.
+:dad:d5: Hm. I see youâ€™re running around with that street rat again.
 :pico:p4: ...nice to see you too.
-:bf:b11: I-I’m sorry, dad, I can explain-!
+:bf:b11: I-Iâ€™m sorry, dad, I can explain-!
 :dad:d2: So.
-:dad:d3: You think you’re all grown up now?
+:dad:d3: You think youâ€™re all grown up now?
 :bf:b16: ...
-:dad:d3: If you’re such an adult, 
+:dad:d3: If youâ€™re such an adult, 
 :dad:d3: Then you should have no problem beating me in a rap battle!
 :bf:b4: Huh?!
-:dad:d3: C’mon, sport!
+:dad:d3: Câ€™mon, sport!
 :dad:d4: Show me what you got!

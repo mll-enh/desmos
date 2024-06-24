@@ -4,7 +4,7 @@
 :effect:enterStageLeft:0.8
 :mom:m10: ARRGH
 :mom:m10: You selfish little brat!
-:mom:m10: I’m gonna make you regret ever thinking you had a choice in all this!
+:mom:m10: Iâ€™m gonna make you regret ever thinking you had a choice in all this!
 
 :effect:fadeIn:0.4
 :effect:enterStageLeft:0.8

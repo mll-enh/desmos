@@ -17,18 +17,18 @@
 :effect:enterStageRight:0.8
 :bf:default: Do you think he saw us...?
 
-:pico:p4: I don’t think so.
-:pico:p4: This is the third time this week we’ve almost been caught.
+:pico:p4: I donâ€™t think so.
+:pico:p4: This is the third time this week weâ€™ve almost been caught.
 :bf:b3: I-I know...
-:pico:p4: With them plastering your face all over town, it’s inevitable that someone will eventually find us.
+:pico:p4: With them plastering your face all over town, itâ€™s inevitable that someone will eventually find us.
 :bf:b6: ...
 :pico:p4: We both know how they settle things.
 :pico:p6: We need to prepare for it.
-:bf:b23: I told you running away wasn’t a good idea!
-:bf:b23: I can’t do this. What if-
+:bf:b23: I told you running away wasnâ€™t a good idea!
+:bf:b23: I canâ€™t do this. What if-
 :pico:p4: BF...
 :bf:b23: When he-
 :pico:p8: Baby Blue... You worry too much.
-:pico:p8: I’ve got your back every step of the way.
+:pico:p8: Iâ€™ve got your back every step of the way.
 :pico:p8: How about we do a practice round?
 :pico:p4: Repeat after me.

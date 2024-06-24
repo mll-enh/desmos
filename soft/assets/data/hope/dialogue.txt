@@ -7,12 +7,12 @@
 :bfxmas:bx5: !
 :dadxmas:dx6: You know...
 :dadxmas:dx6: If you just did as you were told,
-:dadxmas:dx6: You wouldn’t need to wear that damn sweatshirt all the time.
-:dadxmas:dx6: You’d have nothing to hide.
+:dadxmas:dx6: You wouldnâ€™t need to wear that damn sweatshirt all the time.
+:dadxmas:dx6: Youâ€™d have nothing to hide.
 :dadxmas:dx6: You could actually call yourself a man.
 :bfxmas:bx6: ...
 :momxmas:default: Now be a good son and listen to your parents this instant!
-:bfxmas:bx14: DON’T CALL ME YOUR SON!
+:bfxmas:bx14: DONâ€™T CALL ME YOUR SON!
 :doubles:dois2: !
 :bfxmas:bx14: You tried to make me a mindless slave!
 :bfxmas:bx14: Just like GF's parents did to her!

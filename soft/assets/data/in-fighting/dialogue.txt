@@ -6,7 +6,7 @@
 
 :effect:fadeIn:0.4
 :effect:enterStageRight:0.8
-:bf:b21: Hey! You’re pretty good at this!
+:bf:b21: Hey! Youâ€™re pretty good at this!
 :bf:b16: Really good at this.
 :bf:b16: ...
 :bf:b3: Is... is this what you do for a living?

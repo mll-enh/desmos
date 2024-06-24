@@ -1,6 +1,6 @@
 :bf:b26: ...
 :pico:p11: ...
-:bf:b2: How was that…?
+:bf:b2: How was thatâ€¦?
 :pico:p1: You did great!
 :pico:p10: I knew you could do it.
 :bf:b7: Really?

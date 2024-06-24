@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <TextureAtlas imagePath="FNF_main_menu_assets.png">
 	<!-- Created with Adobe Animate version 21.0.0.35450 -->
 	<!-- http://www.adobe.com/products/animate.html -->
@@ -50,4 +50,6 @@
 	<SubTexture name="options white0000" x="1034" y="1118" width="606" height="155" frameX="-2" frameY="-1" frameWidth="610" frameHeight="163"/>
 	<SubTexture name="options white0001" x="0" y="1303" width="607" height="158" frameX="-3" frameY="-1" frameWidth="610" frameHeight="163"/>
 	<SubTexture name="options white0002" x="637" y="1303" width="610" height="163"/>
+	<SubTexture name="more mods basic0001" x="14" y="1538" width="610" height="120"/>
+	<SubTexture name="more mods white0001" x="14" y="1693" width="610" height="120"/>
 </TextureAtlas>
