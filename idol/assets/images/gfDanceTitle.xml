@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfDanceTitle.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfdancedrip0000" x="0" y="0" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0001" x="820" y="0" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0002" x="1640" y="0" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0003" x="2460" y="0" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0004" x="0" y="651" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0005" x="820" y="651" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0006" x="1640" y="651" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0007" x="2460" y="651" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0008" x="2460" y="651" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0009" x="2460" y="651" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0010" x="0" y="1302" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0011" x="0" y="1302" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0012" x="0" y="1302" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0013" x="820" y="1302" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0014" x="820" y="1302" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0015" x="1640" y="1302" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0016" x="2460" y="1302" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0017" x="0" y="1953" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0018" x="820" y="1953" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0019" x="1640" y="1953" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0020" x="2460" y="1953" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0021" x="0" y="2604" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0022" x="820" y="2604" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0023" x="1640" y="2604" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0024" x="1640" y="2604" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0025" x="2460" y="2604" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0026" x="2460" y="2604" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0027" x="2460" y="2604" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0028" x="0" y="3255" width="820" height="651"/>
+	<SubTexture name="gfdancedrip0029" x="0" y="3255" width="820" height="651"/>
+</TextureAtlas>

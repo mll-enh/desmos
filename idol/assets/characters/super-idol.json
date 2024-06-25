@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				5,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "super idol left"
+		},
+		{
+			"offsets": [
+				-36,
+				-74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "super idol down"
+		},
+		{
+			"offsets": [
+				-37,
+				98
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "super idle up"
+		},
+		{
+			"offsets": [
+				-40,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "super idol idle right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "super idol idle0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/super_idol_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "super-idol",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		100,
+		-35
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

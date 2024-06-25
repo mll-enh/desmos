@@ -1,0 +1,30 @@
+{
+	"storyName": "105 C",
+	"hideFreeplay": false,
+	"weekBackground": "idol",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"super-idol",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Super-Idol",
+			"super-idol",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Super Idol"
+}

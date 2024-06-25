@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FNF_main_menu_assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="freeplay basic0000" x="5" y="5" width="625" height="151"/>
+	<SubTexture name="freeplay basic0001" x="5" y="5" width="625" height="151"/>
+	<SubTexture name="freeplay basic0002" x="5" y="5" width="625" height="151"/>
+	<SubTexture name="freeplay basic0003" x="635" y="5" width="625" height="151"/>
+	<SubTexture name="freeplay basic0004" x="635" y="5" width="625" height="151"/>
+	<SubTexture name="freeplay basic0005" x="635" y="5" width="625" height="151"/>
+	<SubTexture name="freeplay basic0006" x="1265" y="5" width="625" height="151"/>
+	<SubTexture name="freeplay basic0007" x="1265" y="5" width="625" height="151"/>
+	<SubTexture name="freeplay basic0008" x="1265" y="5" width="625" height="151"/>
+	<SubTexture name="freeplay white0000" x="5" y="161" width="715" height="154"/>
+	<SubTexture name="freeplay white0001" x="725" y="161" width="715" height="154"/>
+	<SubTexture name="freeplay white0002" x="5" y="320" width="715" height="154"/>
+	<SubTexture name="options basic0000" x="725" y="320" width="595" height="157"/>
+	<SubTexture name="options basic0001" x="725" y="320" width="595" height="157"/>
+	<SubTexture name="options basic0002" x="725" y="320" width="595" height="157"/>
+	<SubTexture name="options basic0003" x="1325" y="320" width="595" height="157"/>
+	<SubTexture name="options basic0004" x="1325" y="320" width="595" height="157"/>
+	<SubTexture name="options basic0005" x="1325" y="320" width="595" height="157"/>
+	<SubTexture name="options basic0006" x="5" y="482" width="595" height="157"/>
+	<SubTexture name="options basic0007" x="5" y="482" width="595" height="157"/>
+	<SubTexture name="options basic0008" x="5" y="482" width="595" height="157"/>
+	<SubTexture name="options white0000" x="605" y="482" width="715" height="160"/>
+	<SubTexture name="options white0001" x="1325" y="482" width="715" height="160"/>
+	<SubTexture name="options white0002" x="5" y="647" width="715" height="160"/>
+	<SubTexture name="story mode basic0000" x="725" y="647" width="802" height="186"/>
+	<SubTexture name="story mode basic0001" x="725" y="647" width="802" height="186"/>
+	<SubTexture name="story mode basic0002" x="725" y="647" width="802" height="186"/>
+	<SubTexture name="story mode basic0003" x="5" y="838" width="802" height="186"/>
+	<SubTexture name="story mode basic0004" x="5" y="838" width="802" height="186"/>
+	<SubTexture name="story mode basic0005" x="5" y="838" width="802" height="186"/>
+	<SubTexture name="story mode basic0006" x="812" y="838" width="802" height="186"/>
+	<SubTexture name="story mode basic0007" x="812" y="838" width="802" height="186"/>
+	<SubTexture name="story mode basic0008" x="812" y="838" width="802" height="186"/>
+	<SubTexture name="story mode white0000" x="5" y="1029" width="943" height="195"/>
+	<SubTexture name="story mode white0001" x="953" y="1029" width="943" height="195"/>
+	<SubTexture name="story mode white0002" x="5" y="1229" width="943" height="195"/>
+</TextureAtlas>

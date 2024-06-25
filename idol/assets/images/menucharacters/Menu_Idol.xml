@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Idol.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SUPER IDOL BLACK0000" x="0" y="0" width="386" height="729"/>
+	<SubTexture name="SUPER IDOL BLACK0001" x="0" y="0" width="386" height="729"/>
+	<SubTexture name="SUPER IDOL BLACK0002" x="386" y="0" width="386" height="729"/>
+	<SubTexture name="SUPER IDOL BLACK0003" x="386" y="0" width="386" height="729"/>
+	<SubTexture name="SUPER IDOL BLACK0004" x="772" y="0" width="386" height="729"/>
+	<SubTexture name="SUPER IDOL BLACK0005" x="772" y="0" width="386" height="729"/>
+	<SubTexture name="SUPER IDOL BLACK0006" x="1158" y="0" width="386" height="729"/>
+	<SubTexture name="SUPER IDOL BLACK0007" x="1158" y="0" width="386" height="729"/>
+	<SubTexture name="SUPER IDOL BLACK0008" x="1158" y="0" width="386" height="729"/>
+	<SubTexture name="SUPER IDOL BLACK0009" x="1158" y="0" width="386" height="729"/>
+	<SubTexture name="SUPER IDOL BLACK0010" x="1158" y="0" width="386" height="729"/>
+	<SubTexture name="SUPER IDOL BLACK0011" x="1158" y="0" width="386" height="729"/>
+	<SubTexture name="SUPER IDOL BLACK0012" x="1158" y="0" width="386" height="729"/>
+	<SubTexture name="SUPER IDOL BLACK0013" x="1158" y="0" width="386" height="729"/>
+</TextureAtlas>

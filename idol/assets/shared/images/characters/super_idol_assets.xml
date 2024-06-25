@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="super_idol_assets.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="super idle up0000" x="0" y="0" width="313" height="827"/>
+	<SubTexture name="super idle up0001" x="0" y="0" width="313" height="827"/>
+	<SubTexture name="super idle up0002" x="313" y="0" width="313" height="827"/>
+	<SubTexture name="super idle up0003" x="313" y="0" width="313" height="827"/>
+	<SubTexture name="super idle up0004" x="626" y="0" width="313" height="827"/>
+	<SubTexture name="super idle up0005" x="626" y="0" width="313" height="827"/>
+	<SubTexture name="super idle up0006" x="626" y="0" width="313" height="827"/>
+	<SubTexture name="super idle up0007" x="626" y="0" width="313" height="827"/>
+	<SubTexture name="super idol down0000" x="939" y="0" width="360" height="655"/>
+	<SubTexture name="super idol down0001" x="939" y="0" width="360" height="655"/>
+	<SubTexture name="super idol down0002" x="1299" y="0" width="360" height="655"/>
+	<SubTexture name="super idol down0003" x="1299" y="0" width="360" height="655"/>
+	<SubTexture name="super idol down0004" x="1659" y="0" width="360" height="655"/>
+	<SubTexture name="super idol down0005" x="1659" y="0" width="360" height="655"/>
+	<SubTexture name="super idol down0006" x="1659" y="0" width="360" height="655"/>
+	<SubTexture name="super idol down0007" x="1659" y="0" width="360" height="655"/>
+	<SubTexture name="super idol idle0000" x="2019" y="0" width="387" height="728"/>
+	<SubTexture name="super idol idle0001" x="2019" y="0" width="387" height="728"/>
+	<SubTexture name="super idol idle0002" x="2406" y="0" width="387" height="728"/>
+	<SubTexture name="super idol idle0003" x="2406" y="0" width="387" height="728"/>
+	<SubTexture name="super idol idle0004" x="2793" y="0" width="387" height="728"/>
+	<SubTexture name="super idol idle0005" x="2793" y="0" width="387" height="728"/>
+	<SubTexture name="super idol idle0006" x="3180" y="0" width="387" height="728"/>
+	<SubTexture name="super idol idle0007" x="3180" y="0" width="387" height="728"/>
+	<SubTexture name="super idol idle0008" x="3567" y="0" width="387" height="728"/>
+	<SubTexture name="super idol idle0009" x="3567" y="0" width="387" height="728"/>
+	<SubTexture name="super idol idle0010" x="3567" y="0" width="387" height="728"/>
+	<SubTexture name="super idol idle0011" x="3567" y="0" width="387" height="728"/>
+	<SubTexture name="super idol idle0012" x="3567" y="0" width="387" height="728"/>
+	<SubTexture name="super idol idle0013" x="3567" y="0" width="387" height="728"/>
+	<SubTexture name="super idol idle right0000" x="0" y="827" width="440" height="705"/>
+	<SubTexture name="super idol idle right0001" x="0" y="827" width="440" height="705"/>
+	<SubTexture name="super idol idle right0002" x="440" y="827" width="440" height="705"/>
+	<SubTexture name="super idol idle right0003" x="440" y="827" width="440" height="705"/>
+	<SubTexture name="super idol idle right0004" x="880" y="827" width="440" height="705"/>
+	<SubTexture name="super idol idle right0005" x="880" y="827" width="440" height="705"/>
+	<SubTexture name="super idol idle right0006" x="880" y="827" width="440" height="705"/>
+	<SubTexture name="super idol idle right0007" x="880" y="827" width="440" height="705"/>
+	<SubTexture name="super idol left0000" x="1320" y="827" width="351" height="690"/>
+	<SubTexture name="super idol left0001" x="1320" y="827" width="351" height="690"/>
+	<SubTexture name="super idol left0002" x="1671" y="827" width="351" height="690"/>
+	<SubTexture name="super idol left0003" x="1671" y="827" width="351" height="690"/>
+	<SubTexture name="super idol left0004" x="2022" y="827" width="351" height="690"/>
+	<SubTexture name="super idol left0005" x="2022" y="827" width="351" height="690"/>
+	<SubTexture name="super idol left0006" x="2022" y="827" width="351" height="690"/>
+	<SubTexture name="super idol left0007" x="2022" y="827" width="351" height="690"/>
+</TextureAtlas>

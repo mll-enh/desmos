@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="the_artist_people.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="my buttox0000" x="0" y="0" width="522" height="525"/>
+	<SubTexture name="my buttox0001" x="0" y="0" width="522" height="525"/>
+	<SubTexture name="my buttox0002" x="522" y="0" width="522" height="525"/>
+	<SubTexture name="my buttox0003" x="522" y="0" width="522" height="525"/>
+	<SubTexture name="my buttox0004" x="1044" y="0" width="522" height="525"/>
+	<SubTexture name="my buttox0005" x="1044" y="0" width="522" height="525"/>
+	<SubTexture name="my buttox0006" x="0" y="525" width="522" height="525"/>
+	<SubTexture name="my buttox0007" x="0" y="525" width="522" height="525"/>
+	<SubTexture name="my buttox0008" x="522" y="525" width="522" height="525"/>
+	<SubTexture name="my buttox0009" x="522" y="525" width="522" height="525"/>
+	<SubTexture name="my buttox0010" x="522" y="525" width="522" height="525"/>
+	<SubTexture name="my buttox0011" x="522" y="525" width="522" height="525"/>
+	<SubTexture name="my buttox0012" x="522" y="525" width="522" height="525"/>
+	<SubTexture name="my buttox0013" x="522" y="525" width="522" height="525"/>
+</TextureAtlas>
