@@ -1,0 +1,159 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    cursor: url('ArrowCursor.png'), auto;
+    background-image: linear-gradient(45deg, #ff00cc, #3333ff, #66ff33, #ff9933);
+    background-size: 400% 400%;
+    animation: gradientAnimation 15s ease infinite;
+}
+
+@keyframes gradientAnimation {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+.container {
+    width: 80%;
+    margin: 50px auto;
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    font-size: 3em;
+    margin-bottom: 20px;
+    text-shadow: 0 0 20px rgba(0, 0, 0, 0.5), 0 0 40px rgba(0, 0, 255, 0.5);
+}
+
+nav {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #007BFF;
+    font-weight: bold;
+    font-size: 1.2em;
+    position: relative;
+}
+
+nav a:hover {
+    text-decoration: underline;
+    color: #0056b3;
+}
+
+nav a::before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    bottom: -5px;
+    left: 0;
+    background-color: #007BFF;
+    visibility: hidden;
+    transform: scaleX(0);
+    transition: all 0.3s ease-in-out;
+}
+
+nav a:hover::before {
+    visibility: visible;
+    transform: scaleX(1);
+}
+
+.content {
+    text-align: center;
+}
+
+.content p {
+    font-size: 1.2em;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+.grid-item {
+    background: #007BFF;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    transition: transform 0.3s, background 0.3s, box-shadow 0.3s;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    position: relative;
+    z-index: 1;
+}
+
+.grid-item:hover {
+    transform: translateY(-8px) rotate(2deg);
+    background: #0056b3;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3);
+}
+
+.grid-item a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    display: block;
+    transition: color 0.3s;
+}
+
+.grid-item a:hover {
+    color: #ffdd00;
+}
+
+.grid-item.new-item::before {
+    content: '🆕'; /* Replace with your preferred icon */
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 1.5em;
+    color: #ffdd00;
+}
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+    color: #777;
+    transition: transform 0.3s, background-color 0.3s;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+footer:hover {
+    transform: scale(1.05);
+    background-color: #0056b3;
+    color: white;
+}
+
+@keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+}
+
+head > link[rel='shortcut icon'] {
+    animation: pulse 2s ease-in-out infinite;
+}
