@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Chat System</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f3f3f3;
+        }
+
+        .chat-container {
+            max-width: 600px;
+            margin: 50px auto;
+            background: white;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .chat-header {
+            background-color: #007bff;
+            color: white;
+            padding: 15px;
+            text-align: center;
+            font-size: 20px;
+        }
+
+        .chat-messages {
+            flex-grow: 1;
+            padding: 10px;
+            overflow-y: auto;
+            height: 400px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .message {
+            margin-bottom: 10px;
+        }
+
+        .message span {
+            display: block;
+        }
+
+        .message .username {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .message .text {
+            background-color: #f1f1f1;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        .chat-input {
+            display: flex;
+            padding: 10px;
+            background-color: #f9f9f9;
+        }
+
+        .chat-input input {
+            flex-grow: 1;
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            outline: none;
+        }
+
+        .chat-input button {
+            margin-left: 10px;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .chat-input button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">Chat System</div>
+
+        <div class="chat-messages" id="chatMessages">
+            <!-- Messages will appear here -->
+        </div>
+
+        <div class="chat-input">
+            <input type="text" id="chatInput" placeholder="Type your message...">
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+
+    <script>
+        const chatMessages = document.getElementById('chatMessages');
+
+        function sendMessage() {
+            const input = document.getElementById('chatInput');
+            const messageText = input.value.trim();
+
+            if (messageText === '') return;
+
+            // Create message element
+            const message = document.createElement('div');
+            message.classList.add('message');
+            message.innerHTML = `
+                <span class="username">You:</span>
+                <span class="text">${messageText}</span>
+            `;
+
+            // Add message to chat container
+            chatMessages.appendChild(message);
+
+            // Scroll to the bottom
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+
+            // Clear input field
+            input.value = '';
+        }
+    </script>
+</body>
+</html>
