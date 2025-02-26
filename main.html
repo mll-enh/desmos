@@ -120,6 +120,28 @@
             z-index: 1;
         }
 
+        .grid-item-broken {
+            background: #00ccff;
+            color: white;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            transition: transform 0.3s, background 0.3s, box-shadow 0.3s;
+            box-shadow: 0 4px 8px rgba(0, 62, 255, 0.27);
+            position: relative;
+            z-index: 1;
+        }
+        .grid-item-exclusive {
+            background: #00ccff;
+            color: white;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            transition: transform 0.3s, background 0.3s, box-shadow 0.3s;
+            box-shadow: 0 4px 8px rgba(0, 62, 255, 0.27);
+            position: relative;
+            z-index: 1;
+        }
         .grid-item:hover {
             transform: translateY(-8px);
             background: #0056b3;
@@ -127,6 +149,16 @@
         }
         
         .grid-item-new:hover {
+            transform: translateY(-8px);
+            background: #00c8ff82;
+            box-shadow: 0 12px 24px rgba(0, 62, 255, 0.27);
+        }
+            .grid-item-broken:hover {
+            transform: translateY(-8px);
+            background: #00c8ff82;
+            box-shadow: 0 12px 24px rgba(0, 62, 255, 0.27);
+        }
+             .grid-item-exclusive:hover {
             transform: translateY(-8px);
             background: #00c8ff82;
             box-shadow: 0 12px 24px rgba(0, 62, 255, 0.27);
