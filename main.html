@@ -5,7 +5,7 @@
     <link rel="shortcut icon" type="image/png" href="./favicon.png">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Funkin' Page</title>
-    <style>
+        <style>
            .grid-item.new-item::before {
             content: '🆕'; /* Replace with your preferred icon marcco */
             position: absolute;
@@ -208,6 +208,16 @@
         head > link[rel='shortcut icon'] {
             animation: pulse 2s ease-in-out infinite;
         }
+           #searchBar {
+            padding: 10px;
+            width: 80%;
+            border-radius: 10px;
+            border: 1px solid #ccc;
+            margin-bottom: 20px;
+            display: block;
+            margin: 0 auto 20px;
+        }
+
     </style>
 </head>
 <body>
@@ -218,9 +228,17 @@
             </ul>
         </nav>
         <div class="content">
-            <p>We Got 9 Mods Out NOWWWWWW -Jalen</p> <p> <iframe src="https://chicken.diesmos.com/imgslide/" style="border:0px #ffffff none;" name="Mod Of The Day" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="200px" width="200px" allowfullscreen></iframe></p>
-            </div> 
-        <p> mod ranking system list:
+            <p>We Got 9 Mods Out NOWWWWWW and cooking with new site features-Jalen</p> <p> <iframe src="https://chicken.diesmos.com/imgslide/" style="border:0px #ffffff none;" name="Mod Of The Day" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="200px" width="200px" allowfullscreen></iframe></p>
+    </style>
+</head>
+<body>
+<div class="container">
+    <nav>
+        <input type="text" id="searchBar" onkeyup="searchMods()" placeholder="Search for Mods...">
+        <ul>
+        </ul>
+    </nav>
+    <p> mod ranking system list:
                  🙂 : Easy
                  😦 : Normal
                  😖 : Hard 
@@ -429,7 +447,23 @@
            <div class="grid-item"><a href="http://chicken.diesmos.com/clashopti/">Cartoon Clash Optimized</a></div>
            <div class="grid-item"><a href="http://chicken.diesmos.com/billyopti/">Silly Billy Optimized</a></div>
            </div>
-           <footer>
+<script>
+function searchMods() {
+    const input = document.getElementById('searchBar').value.toLowerCase();
+    const gridItems = document.querySelectorAll('.grid-item, .grid-item-new');
+
+    gridItems.forEach(item => {
+        const text = item.textContent.toLowerCase();
+        if (text.includes(input)) {
+            item.style.display = '';
+        } else {
+            item.style.display = 'none';
+        }
+    });
+}
+</script>
+
+<footer>
            <div class="content">
            <p><a> *note to users* - when you use this website you accept that we do not own the mods and we are not responable for your school chromebook being taken
             by your school because you abused this. use at your own risk and stay safe and we wont ever redirect you or give you ads one of a kind website if u ask me but yeah stay safe</a></p> 
@@ -438,8 +472,7 @@
           <p><a> Jalen and Marcco 2025 [ Normady Highschool ] (Rhythm Gaming Excellence) </a></p>
       </div>
 <script async data-id="101478226" src="//static.getclicky.com/js"></script> 
-        </footer>
-    </div>
+</footer>
+
 </body>
 </html>
-
