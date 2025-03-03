@@ -1,6 +1,102 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<style>
+    .ranking-list {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: 15px;
+        padding: 20px;
+        list-style: none;
+        text-align: center;
+    }
+
+    .ranking-item {
+        background: rgba(0, 0, 0, 0.8);
+        color: white;
+        padding: 10px;
+        border-radius: 8px;
+        font-size: 1.2em;
+        position: relative;
+        cursor: pointer;
+        transition: transform 0.2s, background 0.3s;
+    }
+
+    .ranking-item:hover {
+        transform: scale(1.1);
+        background: rgba(0, 0, 0, 0.9);
+    }
+
+    .tooltip {
+        visibility: hidden;
+        background: rgba(0, 0, 0, 0.9);
+        color: white;
+        text-align: center;
+        padding: 5px;
+        border-radius: 5px;
+        position: absolute;
+        bottom: 100%;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 180px;
+        font-size: 0.9em;
+        opacity: 0;
+        transition: opacity 0.3s;
+    }
+
+    .ranking-item:hover .tooltip {
+        visibility: visible;
+        opacity: 1;
+    }
+
+    .easter-egg {
+        display: none;
+        text-align: center;
+        padding: 20px;
+        margin-top: 20px;
+        background: rgba(0, 255, 127, 0.8);
+        border-radius: 10px;
+        animation: blink 1s infinite alternate;
+    }
+
+    @keyframes blink {
+        from { opacity: 0.7; }
+        to { opacity: 1; }
+    }
+</style>
+
+<ul class="ranking-list">
+   <li class="ranking-item" onclick="unlockEasterEgg()">🙂<span class="tooltip">Easy</span></li>
+    <li class="ranking-item">😦<span class="tooltip">Normal</span></li>
+    <li class="ranking-item">😖<span class="tooltip">Hard</span></li>
+    <li class="ranking-item">😠<span class="tooltip">Challenging</span></li>
+    <li class="ranking-item">😡<span class="tooltip">Near Impossible</span></li>
+    <li class="ranking-item">😈<span class="tooltip">Impossible</span></li>
+    <li class="ranking-item">👆<span class="tooltip">Modcharts</span></li>
+    <li class="ranking-item">🆕 <span class="tooltip">New</span></li>
+    <li class="ranking-item">👾 <span class="tooltip">Broken</span></li>
+    <li class="ranking-item">👑 <span class="tooltip">All-Time Hits</span></li>
+    <li class="ranking-item">🔥 <span class="tooltip">Popular</span></li>
+    <li class="ranking-item">🤯<span class="tooltip">Spam</span></li>
+    <li class="ranking-item">☠️ <span class="tooltip">Crashing and Lagging (on ChromeOS)</span></li>
+    <li class="ranking-item">💪<span class="tooltip">Mechanics</span></li>
+    <li class="ranking-item">🤩 <span class="tooltip">Based on other media</span></li>
+    <li class="ranking-item">🤣 <span class="tooltip">Joke Mod</span></li>
+</ul>
+<div id="easterEgg" class="easter-egg">Congrats Thank you for waisteing your time clicking on me YOU GET NONETHING!</div>
+
+<script>
+    let clickCount = 0;
+
+    function unlockEasterEgg() {
+        clickCount++;
+        if (clickCount === 50) {
+            document.getElementById("easterEgg").style.display = "block";
+        }
+    }
+</script>
+
+
     <meta charset="UTF-8">
     <link rel="shortcut icon" type="image/png" href="./favicon.png">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -228,35 +324,17 @@
             </ul>
         </nav>
         <div class="content">
-            <p>We Got 9 Mods Out NOWWWWWW and cooking with new site features-Jalen</p> <p> <iframe src="https://chicken.diesmos.com/imgslide/" style="border:0px #ffffff none;" name="Mod Of The Day" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="200px" width="200px" allowfullscreen></iframe></p>
+            <p>new site features again -Jalen</p> <p> <iframe src="https://chicken.diesmos.com/imgslide/" style="border:0px #ffffff none;" name="Mod Of The Day" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="200px" width="200px" allowfullscreen></iframe></p>
     </style>
 </head>
 <body>
 <div class="container">
     <nav>
-        <input type="text" id="searchBar" onkeyup="searchMods()" placeholder="Search for Mods...">
+        <input type="text" id="searchBar" onkeyup="searchMods()" placeholder="Search for Stuff...">
         <ul>
         </ul>
     </nav>
-    <p> mod ranking system list:
-                 🙂 : Easy
-                 😦 : Normal
-                 😖 : Hard 
-                 😠 : Challenging 
-                 😡 : Near Impossible
-                 😈 : 'Impossible' 
-                 👆 : Modcharts
-                 🆕 : New
-                 👾 : Broken
-                 👑 : All-Time Hits
-                 🔥 : Popular
-                 🤯 : Spam
-                 ☠️ : Crashing and Lagging (on ChromeOS)
-                 💪 : Mechanics 
-                 🤩 : Based on other media
-                 🤣 : Joke Mod
-             </p>
-        </div>
+           </div>
         <div class="grid-container">
             <div class="grid-item"><a href="https://reading.diesmos.com/0.5.0/">Friday Night Funkin' 🔥😖☠️ </a></div>
             <div class="grid-item"><a href="https://reading.diesmos.com/gfmode/">Friday Night Funkin' Girlfriend Mode 😖</a></div>
@@ -435,7 +513,8 @@
             <div class="grid-item"><a href="http://chicken.diesmos.com/krusty/">Krusty Karoling 🙂</a></div>
             <div class="grid-item"><a href="/funknaga/">Funk! Miss Nagatoro 😦</a></div>
             <div class="grid-item"><a href="/pibby2">Pibby Apocalypse ☠️😖</a></div>
-            <div class="grid-item"><a href="http://scientific.diesmos.com/invadion/">Corruption Invasion ☠️🤯😡👆</a></div>
+           
+ <div class="grid-item"><a href="http://scientific.diesmos.com/invadion/">Corruption Invasion ☠️🤯😡👆</a> </div>
            </div>
            </nav>
            <div class="content">
