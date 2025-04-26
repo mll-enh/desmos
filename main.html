@@ -6,253 +6,315 @@
     <link rel="shortcut icon" type="image/png" href="./favicon.png">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Funkin' Page</title>
-    <style>        
-        body {
-            font-family: 'Poppins', sans-serif;
-            background-color: #f0f0f0;
-            margin: 0;
-            padding: 0;
-            cursor: url('ArrowCursor.png'), auto;
-            background-image: linear-gradient(45deg, #ff00cc, #3333ff, #66ff33, #ff9933);
-            background-size: 400% 400%;
-            animation: gradientAnimation 15s ease infinite;
-        }
+   <style>      
+.favorite-icon {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    font-size: 2em;
+    color: #ff4d4d;
+    transition: transform 0.2s ease-in-out;
+}
+.favorites-section {
+    padding: 30px 20px;
+    background: #222;
+    border-radius: 10px;
+    margin-top: 40px;
+}
 
-        @keyframes gradientAnimation {
-            0% {
-                background-position: 0% 50%;
-            }
-            50% {
-                background-position: 100% 50%;
-            }
-            100% {
-                background-position: 0% 50%;
-            }
-        }
+.favorites-section h2 {tl
+    color: #ffcc00; 
+    font-size: 2.5em;
+    text-align: center;
+}
 
-        .container {
-            width: 80%;
-            margin: 50px auto;
-            background: rgba(255, 255, 255, 0.8);
-            padding: 20px;
-            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-            border-radius: 10px;
-        }
+#favorites-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
 
-        h1 {
-            text-align: center;
-            color: #333;
-            font-size: 3.5em;
-            margin-bottom: 20px;
-            text-shadow: 0 0 20px rgba(0, 0, 0, 0.5), 0 0 40px rgba(0, 0, 255, 0.5);
-        }
+.favorite-icon.favorited {
+    color: #ffcc00; 
+    transform: scale(1.2); 
+}
+  
+    body {
+        font-family: 'Poppins', sans-serif;
+        background-color: #121212;
+        margin: 0;
+        padding: 0;
+        cursor: url('ArrowCursor.png'), auto;
+        background-image: linear-gradient(45deg, #333, #333, #444, #555);
+        background-size: 400% 400%;
+        animation: gradientAnimation 15s ease infinite;
+        color: #fff; 
+    }
 
-        nav {
-            text-align: center;
-            margin-bottom: 20px;
+    @keyframes gradientAnimation {
+        0% {
+            background-position: 0% 50%;
         }
+        50% {
+            background-position: 100% 50%;
+        }
+        100% {
+            background-position: 0% 50%;
+        }
+    }
 
-        nav ul {
-            list-style-type: none;
-            padding: 0;
-        }
+    .container {
+        width: 80%;
+        margin: 50px auto;
+        background: rgba(0, 0, 0, 0.8); 
+        padding: 20px;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+        border-radius: 10px;
+    }
+    
+    .favorite-icon {
+        font-size: 1.5em;
+        cursor: pointer;
+        color: #bbb; 
+        transition: color 0.3s;
+        position: absolute;
+        top: 10px;
+        right: 10px;
+    }
 
-        nav li {
-            display: inline;
-            margin: 0 10px;
-        }
+    .favorite-icon.favorited {
+        color: #ffcc00;
+    }
+    h1 {
+        text-align: center;
+        color: #fff;
+        font-size: 3.5em;
+        margin-bottom: 20px;
+        text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    }
+.favorite-icon {
+    font-size: 1.5em;
+    cursor: pointer;
+    color: #bbb; 
+    transition: color 0.3s;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
 
-        nav a {
-            text-decoration: none;
-            color: #007BFF;
-            font-weight: bold;
-            font-size: 1.2em;
-        }
+.favorite-icon.favorited {
+    color: #ffcc00; 
+}
+    nav {
+        text-align: center;
+        margin-bottom: 20px;
+    }
 
-        nav a:hover {
-            text-decoration: underline;
-            color: #0056b3;
-        }
+    nav ul {
+        list-style-type: none;
+        padding: 0;
+    }
 
-        .content {
-            text-align: center;
-        }
+    nav li {
+        display: inline;
+        margin: 0 10px;
+    }
 
-        .content p {
-            font-size: 1.2em;
-        }
+    nav a {
+        text-decoration: none;
+        color: #ccc; 
+        font-weight: bold;
+        font-size: 1.2em;
+    }
 
-        .grid-container {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-            gap: 20px;
-            padding: 20px;
-        }
+    nav a:hover {
+        text-decoration: underline;
+        color: #fff;
+    }
 
-        .grid-item {
-            background: #007BFF;
-            color: white;
-            padding: 20px;
-            border-radius: 10px;
-            text-align: center;
-            transition: transform 0.3s, background 0.3s, box-shadow 0.3s;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            position: relative;
-            z-index: 1;
-        }
+    .content {
+        text-align: center;
+    }
 
-        .grid-item-new {
-            background: #00ccff;
-            color: white;
-            padding: 20px;
-            border-radius: 10px;
-            text-align: center;
-            transition: transform 0.3s, background 0.3s, box-shadow 0.3s;
-            box-shadow: 0 4px 8px rgba(0, 62, 255, 0.27);
-            position: relative;
-            z-index: 1;
-        }
+    .content p {
+        font-size: 1.2em;
+    }
 
-        .grid-item:hover {
-            transform: translateY(-8px); 
-            background: #0056b3;
-            box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3);
-        }
+    .grid-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        gap: 20px;
+        padding: 20px;
+    }
 
-        .grid-item-new:hover {
-            transform: translateY(-8px); 
-            background: #00c8ff82;
-            box-shadow: 0 12px 24px rgba(0, 62, 255, 0.27);
-        }
+    .grid-item {
+        background: #333; 
+        color: white;
+        padding: 20px;
+        border-radius: 10px;
+        text-align: center;
+        transition: transform 0.3s, background 0.3s, box-shadow 0.3s;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        position: relative;
+        z-index: 1;
+    }
 
-        .grid-item a {
-            color: white;
-            text-decoration: none;
-            font-weight: bold;
-        }
+    .grid-item-new {
+        background: #444; 
+        color: white;
+        padding: 20px;
+        border-radius: 10px;
+        text-align: center;
+        transition: transform 0.3s, background 0.3s, box-shadow 0.3s;
+        box-shadow: 0 4px 8px rgba(0, 62, 255, 0.27);
+        position: relative;
+        z-index: 1;
+    }
 
-        .grid-item-new a {
-            color: white;
-            text-decoration: none;
-            font-weight: bold;
-        }
+    .grid-item:hover {
+        transform: translateY(-8px);
+        background: #555; 
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.5);
+    }
 
-        .video-preview {
-            display: none;
-            position: absolute;
-            top: -180px; 
-            left: 50%;
-            transform: translateX(-50%);
-            width: 100%;
-            height: 180px;
-            background: black;
-            border-radius: 8px;
-            overflow: hidden;
-            z-index: 10; 
-            opacity: 0;
-            transition: opacity 0.5s ease-in-out;
-        }
+    .grid-item-new:hover {
+        transform: translateY(-8px); 
+        background: #666; 
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3);
+    }
 
-        .ranking-list {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-            gap: 15px;
-            padding: 20px;
-            list-style: none;
-            text-align: center;
-        }
+    .grid-item a {
+        color: white;
+        text-decoration: none;
+        font-weight: bold;
+    }
 
-        .ranking-item {
-            background: rgba(0, 0, 0, 0.8);
-            color: white;
-            padding: 10px;
-            border-radius: 8px;
-            font-size: 1.2em;
-            position: relative;
-            cursor: pointer;
-            transition: transform 0.2s, background 0.3s;
-        }
+    .grid-item-new a {
+        color: white;
+        text-decoration: none;
+        font-weight: bold;
+    }
 
-        .ranking-item:hover {
-            transform: scale(1.1);
-            background: rgba(0, 0, 0, 0.9);
-        }
+    .video-preview {
+        display: none;
+        position: absolute;
+        top: -180px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 100%;
+        height: 180px;
+        background: black;
+        border-radius: 8px;
+        overflow: hidden;
+        z-index: 10;
+        opacity: 0;
+        transition: opacity 0.5s ease-in-out;
+    }
 
-        .tooltip {
-            visibility: hidden;
-            background: rgba(0, 0, 0, 0.9);
-            color: white;
-            text-align: center;
-            padding: 5px;
-            border-radius: 5px;
-            position: absolute;
-            bottom: 100%;
-            left: 50%;
-            transform: translateX(-50%);
-            width: 180px;
-            font-size: 0.9em;
-            opacity: 0;
-            transition: opacity 0.3s;
-        }
+    .ranking-list {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: 15px;
+        padding: 20px;
+        list-style: none;
+        text-align: center;
+    }
 
-        .ranking-item:hover .tooltip {
-            visibility: visible;
-            opacity: 1;
-        }
+    .ranking-item {
+        background: rgba(0, 0, 0, 0.8);
+        color: white;
+        padding: 10px;
+        border-radius: 8px;
+        font-size: 1.2em;
+        position: relative;
+        cursor: pointer;
+        transition: transform 0.2s, background 0.3s;
+    }
 
-        .easter-egg {
-            display: none;
-            text-align: center;
-            padding: 20px;
-            margin-top: 20px;
-            background: rgba(0, 255, 127, 0.8);
-            border-radius: 10px;
-            animation: blink 1s infinite alternate;
-        }
+    .ranking-item:hover {
+        transform: scale(1.1);
+        background: rgba(0, 0, 0, 0.9);
+    }
 
-        @keyframes blink {
-            from { opacity: 0.7; }
-            to { opacity: 1; }
-        }
+    .tooltip {
+        visibility: hidden;
+        background: rgba(0, 0, 0, 0.9);
+        color: white;
+        text-align: center;
+        padding: 5px;
+        border-radius: 5px;
+        position: absolute;
+        bottom: 100%;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 180px;
+        font-size: 0.9em;
+        opacity: 0;
+        transition: opacity 0.3s;
+    }
 
-        .grid-item:hover .video-preview {
-            display: block;
-            opacity: 1;
-        }
+    .ranking-item:hover .tooltip {
+        visibility: visible;
+        opacity: 1;
+    }
 
-        video {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-        }
+    .easter-egg {
+        display: none;
+        text-align: center;
+        padding: 20px;
+        margin-top: 20px;
+        background: rgba(0, 255, 127, 0.8);
+        border-radius: 10px;
+        animation: blink 1s infinite alternate;
+    }
 
-        footer {
-            text-align: center;
-            margin-top: 30px;
-            color: #777;
-            transition: transform 0.3s, background-color 0.3s;
-            padding: 10px;
-            border-radius: 10px;
-        }
+    @keyframes blink {
+        from { opacity: 0.7; }
+        to { opacity: 1; }
+    }
 
-        footer:hover {
-            transform: scale(1.05);
-            background-color: #0056b3;
-            color: white;
-        }
+    .grid-item:hover .video-preview {
+        display: block;
+        opacity: 1;
+    }
 
-        #searchBar {
-            padding: 10px;
-            width: 80%;
-            border-radius: 10px;
-            border: 1px solid #ccc;
-            margin-bottom: 20px;
-            display: block;
-            margin: 0 auto 20px;
-        }
-    </style>
+    video {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    footer {
+        text-align: center;
+        margin-top: 30px;
+        color: #bbb; 
+        transition: transform 0.3s, background-color 0.3s;
+        padding: 10px;
+        border-radius: 10px;
+    }
+
+    footer:hover {
+        transform: scale(1.05);
+        background-color: #333; 
+        color: #fff;
+    }
+
+    #searchBar {
+        padding: 10px;
+        width: 80%;
+        border-radius: 10px;
+        border: 1px solid #ccc;
+        margin-bottom: 20px;
+        display: block;
+        margin: 0 auto 20px;
+    }
+</style>
 </head>
 <body>
+
+</div>
     <ul class="ranking-list">
         <li class="ranking-item" onclick="unlockEasterEgg()">🙂<span class="tooltip">Easy</span></li>
         <li class="ranking-item">😦<span class="tooltip">Normal</span></li>
@@ -556,6 +618,12 @@
            <div class="grid-item"><a href="http://chicken.diesmos.com/mariopti/">Friday Night Funkin': Mario Madness v2 Optimized</a></div>
     </div>
 
+<div class="favorites-section">
+    <h2>Favorites</h2>
+    <div id="favorites-container" class="grid-container">
+
+    </div>
+</div>
     <footer>
         <p>Jalen and Marcco 2025 [ Normady Highschool ] (Rhythm Gaming Excellence) </p>
         <p>When you use this website you aggree that we are not responsable for any school related issues (like bad grades and so on) or your computer being taken by your school
@@ -567,21 +635,20 @@
     </footer>
 
     <script>
-        function showPreview(element, videoUrl) {
-            var preview = element.querySelector('.video-preview');
-            preview.style.display = 'block';
-            preview.querySelector('video').src = videoUrl;
-        }
+function showPreview(element, videoUrl) {
+    var preview = element.querySelector('.video-preview');
+    preview.style.display = 'block';
+    preview.querySelector('video').src = videoUrl;
+}
 
-        function hidePreview(element) {
-            var preview = element.querySelector('.video-preview');
-            preview.style.display = 'none';
-        }
+function hidePreview(element) {
+    var preview = element.querySelector('.video-preview');
+    preview.style.display = 'none';
+}
 
 function searchMods() {
     const input = document.getElementById('searchBar').value.toLowerCase();
     const gridItems = document.querySelectorAll('.grid-item, .grid-item-new');
-
     gridItems.forEach(item => {
         const text = item.textContent.toLowerCase();
         if (text.includes(input)) {
@@ -591,6 +658,49 @@ function searchMods() {
         }
     });
 }
+
+function toggleFavorite(icon, itemId) {
+    icon.classList.toggle('favorited');
+    let favoriteItems = JSON.parse(localStorage.getItem('favorites')) || [];
+    if (icon.classList.contains('favorited')) {
+        favoriteItems.push(itemId);
+    } else {
+        favoriteItems = favoriteItems.filter(id => id !== itemId);
+    }
+    localStorage.setItem('favorites', JSON.stringify(favoriteItems));
+}
+
+function updateFavoritesSection() {
+    const favoritesContainer = document.getElementById('favorites-container');
+    favoritesContainer.innerHTML = '';
+    const favoriteItems = JSON.parse(localStorage.getItem('favorites')) || [];
+    const allItems = document.querySelectorAll('.grid-item, .grid-item-new');
+    allItems.forEach(item => {
+        const itemId = item.querySelector('a').href;
+        if (favoriteItems.includes(itemId)) {
+            const favoriteItemClone = item.cloneNode(true);
+            favoritesContainer.appendChild(favoriteItemClone);
+        }
+    });
+}
+
+window.onload = function () {
+    const gridItems = document.querySelectorAll('.grid-item, .grid-item-new');
+    const favoriteItems = JSON.parse(localStorage.getItem('favorites')) || [];
+    gridItems.forEach(item => {
+        const itemId = item.querySelector('a').href;
+        const favoriteIcon = document.createElement('div');
+        favoriteIcon.classList.add('favorite-icon');
+        favoriteIcon.innerHTML = '❤️';
+        favoriteIcon.setAttribute('onclick', `toggleFavorite(this, '${itemId}')`);
+        item.appendChild(favoriteIcon);
+        if (favoriteItems.includes(itemId)) {
+            favoriteIcon.classList.add('favorited');
+        }
+    });
+    updateFavoritesSection();
+};
+
 </script>
 </body>
 </html>
